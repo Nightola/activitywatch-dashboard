@@ -5,6 +5,213 @@
       "type": "window",
       "events": [
         {
+          "id": 1264,
+          "timestamp": "2025-11-30T14:20:02.879000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1263,
+          "timestamp": "2025-11-30T14:20:01.875000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 1262,
+          "timestamp": "2025-11-30T14:19:58.812000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 1261,
+          "timestamp": "2025-11-30T14:19:52.790000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1260,
+          "timestamp": "2025-11-30T14:19:51.785000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 1259,
+          "timestamp": "2025-11-30T14:19:49.775000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1258,
+          "timestamp": "2025-11-30T14:19:48.770000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 1257,
+          "timestamp": "2025-11-30T14:19:43.753000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1256,
+          "timestamp": "2025-11-30T14:19:42.747000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 1255,
+          "timestamp": "2025-11-30T14:19:32.712000+00:00",
+          "duration": 9.032,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1254,
+          "timestamp": "2025-11-30T14:19:30.704000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 1253,
+          "timestamp": "2025-11-30T14:19:29.699000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 1252,
+          "timestamp": "2025-11-30T14:19:19.660000+00:00",
+          "duration": 9.036,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 1250,
+          "timestamp": "2025-11-30T14:19:15.645000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 1249,
+          "timestamp": "2025-11-30T14:19:04.603000+00:00",
+          "duration": 10.035,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1248,
+          "timestamp": "2025-11-30T14:18:56.575000+00:00",
+          "duration": 7.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 1247,
+          "timestamp": "2025-11-30T14:18:38.506000+00:00",
+          "duration": 17.065,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 1246,
+          "timestamp": "2025-11-30T14:18:33.487000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "activitywatch-dashboard/index.html at main · Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 1245,
+          "timestamp": "2025-11-30T14:18:24.454000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 1243,
+          "timestamp": "2025-11-30T14:18:21.442000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Editing 睡似了吗 | Bear Blog - Cent Browser"
+          }
+        },
+        {
+          "id": 1241,
+          "timestamp": "2025-11-30T14:17:59.358000+00:00",
+          "duration": 21.081,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1240,
+          "timestamp": "2025-11-30T14:17:56.342000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 1238,
+          "timestamp": "2025-11-30T14:17:05.153000+00:00",
+          "duration": 50.184,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
           "id": 1237,
           "timestamp": "2025-11-30T14:17:04.146000+00:00",
           "duration": 0.0,
@@ -6288,67 +6495,22 @@
         },
         {
           "id": 444,
-          "timestamp": "2025-11-30T10:20:07.686000+00:00",
-          "duration": 3.013,
+          "timestamp": "2025-11-30T10:20:10.475000+00:00",
+          "duration": 0.224,
           "data": {
             "app": "chrome.exe",
             "title": ""
-          }
-        },
-        {
-          "id": 443,
-          "timestamp": "2025-11-30T10:20:00.661000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Git - Install for Windows - Cent Browser"
-          }
-        },
-        {
-          "id": 442,
-          "timestamp": "2025-11-30T10:19:56.635000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Git - Cent Browser"
-          }
-        },
-        {
-          "id": 441,
-          "timestamp": "2025-11-30T10:19:52.620000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 440,
-          "timestamp": "2025-11-30T10:19:51.615000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "我的活动监控面板 - Cent Browser"
-          }
-        },
-        {
-          "id": 434,
-          "timestamp": "2025-11-30T10:17:08.526000+00:00",
-          "duration": 162.085,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DeepSeek - 探索未至之境 - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-11-30T22:17:10.573507",
+    "export_time": "2025-11-30T22:20:12.525550",
     "time_range": {
-      "start": "2025-11-30T10:17:08.526347",
-      "end": "2025-11-30T22:17:08.526347"
+      "start": "2025-11-30T10:20:10.475080",
+      "end": "2025-11-30T22:20:10.475080"
     },
-    "total_events": 704
+    "total_events": 722
   }
 }
