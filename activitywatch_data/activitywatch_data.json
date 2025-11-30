@@ -1,0 +1,2522 @@
+{
+  "buckets": {
+    "aw-watcher-window_unknown": {
+      "id": "aw-watcher-window_unknown",
+      "type": "unknown",
+      "events": [
+        {
+          "id": 333,
+          "timestamp": "2025-11-30T09:51:00.565000+00:00",
+          "duration": 279.869,
+          "data": {
+            "status": "not-afk"
+          }
+        },
+        {
+          "id": 327,
+          "timestamp": "2025-11-30T09:44:55.595000+00:00",
+          "duration": 364.969,
+          "data": {
+            "status": "afk"
+          }
+        },
+        {
+          "id": 328,
+          "timestamp": "2025-11-30T09:44:55.595000+00:00",
+          "duration": 229.939,
+          "data": {
+            "status": "afk"
+          }
+        },
+        {
+          "id": 3,
+          "timestamp": "2025-11-30T09:04:14.435000+00:00",
+          "duration": 2441.174,
+          "data": {
+            "status": "not-afk"
+          }
+        },
+        {
+          "id": 349,
+          "timestamp": "2025-11-30T09:55:33.115000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 347,
+          "timestamp": "2025-11-30T09:55:17.058000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 346,
+          "timestamp": "2025-11-30T09:55:15.049000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 345,
+          "timestamp": "2025-11-30T09:55:13.041000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 344,
+          "timestamp": "2025-11-30T09:55:10.029000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 343,
+          "timestamp": "2025-11-30T09:55:08.020000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 342,
+          "timestamp": "2025-11-30T09:55:06.010000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 341,
+          "timestamp": "2025-11-30T09:55:04.002000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 337,
+          "timestamp": "2025-11-30T09:51:30.201000+00:00",
+          "duration": 166.623,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 331,
+          "timestamp": "2025-11-30T09:50:59.072000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 330,
+          "timestamp": "2025-11-30T09:50:58.066000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 324,
+          "timestamp": "2025-11-30T09:44:55.718000+00:00",
+          "duration": 361.344,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 323,
+          "timestamp": "2025-11-30T09:44:53.710000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "python.exe",
+            "title": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_25.0.240.0_x64__3847v3x7pw1km\\python.exe"
+          }
+        },
+        {
+          "id": 322,
+          "timestamp": "2025-11-30T09:44:52.706000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 320,
+          "timestamp": "2025-11-30T09:44:47.687000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 319,
+          "timestamp": "2025-11-30T09:44:46.682000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\check_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 318,
+          "timestamp": "2025-11-30T09:44:45.677000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\页面测试\\check_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 317,
+          "timestamp": "2025-11-30T09:44:43.668000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\check_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 316,
+          "timestamp": "2025-11-30T09:44:40.658000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 315,
+          "timestamp": "2025-11-30T09:44:31.624000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 314,
+          "timestamp": "2025-11-30T09:44:28.612000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 287,
+          "timestamp": "2025-11-30T09:40:10.629000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 274,
+          "timestamp": "2025-11-30T09:39:30.456000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 273,
+          "timestamp": "2025-11-30T09:39:27.445000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 247,
+          "timestamp": "2025-11-30T09:38:19.179000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 245,
+          "timestamp": "2025-11-30T09:37:38.025000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 244,
+          "timestamp": "2025-11-30T09:37:37.020000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "进度"
+          }
+        },
+        {
+          "id": 243,
+          "timestamp": "2025-11-30T09:37:33.005000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 242,
+          "timestamp": "2025-11-30T09:37:26.982000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 241,
+          "timestamp": "2025-11-30T09:37:25.975000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 240,
+          "timestamp": "2025-11-30T09:37:23.967000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 238,
+          "timestamp": "2025-11-30T09:37:20.954000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\script.js - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 237,
+          "timestamp": "2025-11-30T09:37:19.948000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\页面测试\\script.js - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 236,
+          "timestamp": "2025-11-30T09:37:18.943000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\script.js - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 234,
+          "timestamp": "2025-11-30T09:37:09.911000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\script.js - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 233,
+          "timestamp": "2025-11-30T09:36:59.872000+00:00",
+          "duration": 9.035,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 232,
+          "timestamp": "2025-11-30T09:36:42.809000+00:00",
+          "duration": 16.06,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 231,
+          "timestamp": "2025-11-30T09:36:40.800000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 229,
+          "timestamp": "2025-11-30T09:36:35.778000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 228,
+          "timestamp": "2025-11-30T09:36:34.773000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\index.html - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 227,
+          "timestamp": "2025-11-30T09:36:33.769000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\页面测试\\index.html - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 226,
+          "timestamp": "2025-11-30T09:36:31.761000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\页面测试\\index.html - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 225,
+          "timestamp": "2025-11-30T09:36:29.754000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 223,
+          "timestamp": "2025-11-30T09:36:25.737000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 222,
+          "timestamp": "2025-11-30T09:36:13.690000+00:00",
+          "duration": 11.042,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 221,
+          "timestamp": "2025-11-30T09:36:01.645000+00:00",
+          "duration": 11.042,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 219,
+          "timestamp": "2025-11-30T09:35:56.625000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "页面测试"
+          }
+        },
+        {
+          "id": 217,
+          "timestamp": "2025-11-30T09:35:43.577000+00:00",
+          "duration": 9.034,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 216,
+          "timestamp": "2025-11-30T09:35:41.568000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 214,
+          "timestamp": "2025-11-30T09:33:54.153000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 212,
+          "timestamp": "2025-11-30T09:33:46.122000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\update_data.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 211,
+          "timestamp": "2025-11-30T09:33:45.117000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\activitywatch_data\\update_data.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 210,
+          "timestamp": "2025-11-30T09:33:43.105000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\update_data.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 208,
+          "timestamp": "2025-11-30T09:33:39.087000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\update_data.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 207,
+          "timestamp": "2025-11-30T09:33:35.071000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 206,
+          "timestamp": "2025-11-30T09:33:15.999000+00:00",
+          "duration": 18.069,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 205,
+          "timestamp": "2025-11-30T09:33:13.991000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 203,
+          "timestamp": "2025-11-30T09:33:06.962000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 202,
+          "timestamp": "2025-11-30T09:32:45.883000+00:00",
+          "duration": 20.075,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 201,
+          "timestamp": "2025-11-30T09:32:44.879000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 199,
+          "timestamp": "2025-11-30T09:32:38.805000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 197,
+          "timestamp": "2025-11-30T09:32:26.760000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "python.exe",
+            "title": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_25.0.240.0_x64__3847v3x7pw1km\\python.exe"
+          }
+        },
+        {
+          "id": 195,
+          "timestamp": "2025-11-30T09:32:12.699000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "python.exe",
+            "title": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_25.0.240.0_x64__3847v3x7pw1km\\python.exe"
+          }
+        },
+        {
+          "id": 194,
+          "timestamp": "2025-11-30T09:32:08.684000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 192,
+          "timestamp": "2025-11-30T09:32:02.659000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 190,
+          "timestamp": "2025-11-30T09:31:41.580000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 189,
+          "timestamp": "2025-11-30T09:31:31.543000+00:00",
+          "duration": 9.034,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe - python  -m pip install requests"
+          }
+        },
+        {
+          "id": 188,
+          "timestamp": "2025-11-30T09:30:45.370000+00:00",
+          "duration": 45.17,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 187,
+          "timestamp": "2025-11-30T09:30:43.360000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "运行"
+          }
+        },
+        {
+          "id": 185,
+          "timestamp": "2025-11-30T09:29:17.029000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 184,
+          "timestamp": "2025-11-30T09:29:14.017000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": "运行"
+          }
+        },
+        {
+          "id": 182,
+          "timestamp": "2025-11-30T09:28:40.889000+00:00",
+          "duration": 30.115,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
+          }
+        },
+        {
+          "id": 181,
+          "timestamp": "2025-11-30T09:28:38.879000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe"
+          }
+        },
+        {
+          "id": 180,
+          "timestamp": "2025-11-30T09:28:30.851000+00:00",
+          "duration": 7.025,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
+          }
+        },
+        {
+          "id": 177,
+          "timestamp": "2025-11-30T09:28:20.813000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 176,
+          "timestamp": "2025-11-30T09:28:18.751000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
+          }
+        },
+        {
+          "id": 175,
+          "timestamp": "2025-11-30T09:28:14.737000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 174,
+          "timestamp": "2025-11-30T09:28:13.731000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Desktop"
+          }
+        },
+        {
+          "id": 173,
+          "timestamp": "2025-11-30T09:28:12.725000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 171,
+          "timestamp": "2025-11-30T09:27:27.543000+00:00",
+          "duration": 30.12,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 170,
+          "timestamp": "2025-11-30T09:27:24.531000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": "运行"
+          }
+        },
+        {
+          "id": 168,
+          "timestamp": "2025-11-30T09:27:20.515000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 167,
+          "timestamp": "2025-11-30T09:27:18.507000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 166,
+          "timestamp": "2025-11-30T09:27:16.499000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 165,
+          "timestamp": "2025-11-30T09:27:15.495000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch_data\\get_activitywatch_data.py - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 164,
+          "timestamp": "2025-11-30T09:27:14.491000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "D:\\Luminous\\bin\\segatools.ini - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 163,
+          "timestamp": "2025-11-30T09:27:10.476000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 161,
+          "timestamp": "2025-11-30T09:27:00.436000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 160,
+          "timestamp": "2025-11-30T09:26:58.427000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 159,
+          "timestamp": "2025-11-30T09:26:55.416000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 158,
+          "timestamp": "2025-11-30T09:26:50.397000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 157,
+          "timestamp": "2025-11-30T09:26:46.384000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch_data"
+          }
+        },
+        {
+          "id": 155,
+          "timestamp": "2025-11-30T09:26:33.337000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 154,
+          "timestamp": "2025-11-30T09:26:32.332000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 152,
+          "timestamp": "2025-11-30T09:26:21.284000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 151,
+          "timestamp": "2025-11-30T09:26:20.279000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe - python  --version"
+          }
+        },
+        {
+          "id": 150,
+          "timestamp": "2025-11-30T09:26:01.206000+00:00",
+          "duration": 18.07,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 149,
+          "timestamp": "2025-11-30T09:25:59.198000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": "运行"
+          }
+        },
+        {
+          "id": 147,
+          "timestamp": "2025-11-30T09:25:50.164000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "py-manager.exe",
+            "title": "选择 C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_25.0.240.0_x64__3847v3x7pw1km\\py-manager.exe"
+          }
+        },
+        {
+          "id": 146,
+          "timestamp": "2025-11-30T09:25:18.045000+00:00",
+          "duration": 31.116,
+          "data": {
+            "app": "py-manager.exe",
+            "title": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_25.0.240.0_x64__3847v3x7pw1km\\py-manager.exe"
+          }
+        },
+        {
+          "id": 145,
+          "timestamp": "2025-11-30T09:25:04.995000+00:00",
+          "duration": 12.047,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "应用安装程序"
+          }
+        },
+        {
+          "id": 112,
+          "timestamp": "2025-11-30T09:18:36.516000+00:00",
+          "duration": 7.025,
+          "data": {
+            "app": "aw-qt.exe",
+            "title": "aw-qt"
+          }
+        },
+        {
+          "id": 111,
+          "timestamp": "2025-11-30T09:18:35.511000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 96,
+          "timestamp": "2025-11-30T09:16:59.133000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 95,
+          "timestamp": "2025-11-30T09:16:58.129000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 54,
+          "timestamp": "2025-11-30T09:10:40.713000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 6,
+          "timestamp": "2025-11-30T09:04:28.246000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "aw-qt.exe",
+            "title": "aw-qt"
+          }
+        },
+        {
+          "id": 5,
+          "timestamp": "2025-11-30T09:04:25.234000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 4,
+          "timestamp": "2025-11-30T09:04:24.230000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 2,
+          "timestamp": "2025-11-30T09:04:19.211000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 1,
+          "timestamp": "2025-11-30T09:04:15.196000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        }
+      ]
+    },
+    "aw-watcher-browser_unknown": {
+      "id": "aw-watcher-browser_unknown",
+      "type": "unknown",
+      "events": [
+        {
+          "id": 348,
+          "timestamp": "2025-11-30T09:55:18.063000+00:00",
+          "duration": 14.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 340,
+          "timestamp": "2025-11-30T09:54:17.828000+00:00",
+          "duration": 45.171,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 336,
+          "timestamp": "2025-11-30T09:51:29.196000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 334,
+          "timestamp": "2025-11-30T09:51:05.104000+00:00",
+          "duration": 23.089,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 332,
+          "timestamp": "2025-11-30T09:51:00.078000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 321,
+          "timestamp": "2025-11-30T09:44:48.691000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 312,
+          "timestamp": "2025-11-30T09:43:07.307000+00:00",
+          "duration": 80.301,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 311,
+          "timestamp": "2025-11-30T09:42:51.249000+00:00",
+          "duration": 15.055,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 310,
+          "timestamp": "2025-11-30T09:42:50.244000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Data model - Cent Browser"
+          }
+        },
+        {
+          "id": 308,
+          "timestamp": "2025-11-30T09:42:46.228000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 306,
+          "timestamp": "2025-11-30T09:42:00.054000+00:00",
+          "duration": 45.17,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 305,
+          "timestamp": "2025-11-30T09:41:57.042000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 304,
+          "timestamp": "2025-11-30T09:41:54.028000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 302,
+          "timestamp": "2025-11-30T09:41:30.941000+00:00",
+          "duration": 22.084,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 301,
+          "timestamp": "2025-11-30T09:41:23.913000+00:00",
+          "duration": 6.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 300,
+          "timestamp": "2025-11-30T09:41:18.893000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Pages - Cent Browser"
+          }
+        },
+        {
+          "id": 298,
+          "timestamp": "2025-11-30T09:41:09.853000+00:00",
+          "duration": 8.037,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 296,
+          "timestamp": "2025-11-30T09:41:08.847000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 295,
+          "timestamp": "2025-11-30T09:41:05.834000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Pages - Cent Browser"
+          }
+        },
+        {
+          "id": 294,
+          "timestamp": "2025-11-30T09:41:01.820000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 293,
+          "timestamp": "2025-11-30T09:40:46.767000+00:00",
+          "duration": 14.05,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Pages - Cent Browser"
+          }
+        },
+        {
+          "id": 291,
+          "timestamp": "2025-11-30T09:40:36.726000+00:00",
+          "duration": 9.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "General - Cent Browser"
+          }
+        },
+        {
+          "id": 290,
+          "timestamp": "2025-11-30T09:40:25.687000+00:00",
+          "duration": 10.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 289,
+          "timestamp": "2025-11-30T09:40:21.671000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Processing your files… - Cent Browser"
+          }
+        },
+        {
+          "id": 288,
+          "timestamp": "2025-11-30T09:40:12.637000+00:00",
+          "duration": 8.031,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Upload files · Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 286,
+          "timestamp": "2025-11-30T09:40:09.625000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Upload files · Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 285,
+          "timestamp": "2025-11-30T09:40:05.607000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 284,
+          "timestamp": "2025-11-30T09:40:00.588000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 283,
+          "timestamp": "2025-11-30T09:39:55.569000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 282,
+          "timestamp": "2025-11-30T09:39:39.498000+00:00",
+          "duration": 15.067,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 281,
+          "timestamp": "2025-11-30T09:39:38.492000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 280,
+          "timestamp": "2025-11-30T09:39:36.483000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 278,
+          "timestamp": "2025-11-30T09:39:31.461000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 272,
+          "timestamp": "2025-11-30T09:39:24.433000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 271,
+          "timestamp": "2025-11-30T09:39:20.416000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "New repository - Cent Browser"
+          }
+        },
+        {
+          "id": 270,
+          "timestamp": "2025-11-30T09:39:17.404000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 268,
+          "timestamp": "2025-11-30T09:39:14.391000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "New repository - Cent Browser"
+          }
+        },
+        {
+          "id": 266,
+          "timestamp": "2025-11-30T09:39:12.384000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 264,
+          "timestamp": "2025-11-30T09:39:07.362000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "New repository - Cent Browser"
+          }
+        },
+        {
+          "id": 262,
+          "timestamp": "2025-11-30T09:39:04.351000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 259,
+          "timestamp": "2025-11-30T09:39:02.341000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "New repository - Cent Browser"
+          }
+        },
+        {
+          "id": 258,
+          "timestamp": "2025-11-30T09:38:53.307000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 256,
+          "timestamp": "2025-11-30T09:38:48.288000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "New repository - Cent Browser"
+          }
+        },
+        {
+          "id": 254,
+          "timestamp": "2025-11-30T09:38:40.257000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "GitHub - Cent Browser"
+          }
+        },
+        {
+          "id": 253,
+          "timestamp": "2025-11-30T09:38:35.238000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 251,
+          "timestamp": "2025-11-30T09:38:27.210000+00:00",
+          "duration": 7.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "404 Not Found - Cent Browser"
+          }
+        },
+        {
+          "id": 249,
+          "timestamp": "2025-11-30T09:38:20.184000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 246,
+          "timestamp": "2025-11-30T09:37:40.032000+00:00",
+          "duration": 38.144,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 239,
+          "timestamp": "2025-11-30T09:37:21.958000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 235,
+          "timestamp": "2025-11-30T09:37:11.919000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 230,
+          "timestamp": "2025-11-30T09:36:39.796000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 224,
+          "timestamp": "2025-11-30T09:36:28.748000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 220,
+          "timestamp": "2025-11-30T09:35:58.634000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 218,
+          "timestamp": "2025-11-30T09:35:53.614000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 215,
+          "timestamp": "2025-11-30T09:33:57.164000+00:00",
+          "duration": 103.401,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 213,
+          "timestamp": "2025-11-30T09:33:48.130000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 209,
+          "timestamp": "2025-11-30T09:33:41.097000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 204,
+          "timestamp": "2025-11-30T09:33:08.973000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 200,
+          "timestamp": "2025-11-30T09:32:40.813000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 198,
+          "timestamp": "2025-11-30T09:32:34.790000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 196,
+          "timestamp": "2025-11-30T09:32:18.727000+00:00",
+          "duration": 7.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 193,
+          "timestamp": "2025-11-30T09:32:03.665000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 191,
+          "timestamp": "2025-11-30T09:31:45.595000+00:00",
+          "duration": 16.061,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 186,
+          "timestamp": "2025-11-30T09:29:25.060000+00:00",
+          "duration": 77.297,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 183,
+          "timestamp": "2025-11-30T09:29:12.010000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 178,
+          "timestamp": "2025-11-30T09:28:21.818000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 172,
+          "timestamp": "2025-11-30T09:27:58.669000+00:00",
+          "duration": 13.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 169,
+          "timestamp": "2025-11-30T09:27:21.520000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 162,
+          "timestamp": "2025-11-30T09:27:02.446000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 156,
+          "timestamp": "2025-11-30T09:26:41.367000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 153,
+          "timestamp": "2025-11-30T09:26:27.312000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 148,
+          "timestamp": "2025-11-30T09:25:52.172000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 144,
+          "timestamp": "2025-11-30T09:25:03.990000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 143,
+          "timestamp": "2025-11-30T09:25:02.986000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 142,
+          "timestamp": "2025-11-30T09:24:57.963000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 141,
+          "timestamp": "2025-11-30T09:24:55.955000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 140,
+          "timestamp": "2025-11-30T09:24:48.930000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download Python | Python.org - Cent Browser"
+          }
+        },
+        {
+          "id": 138,
+          "timestamp": "2025-11-30T09:24:46.922000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 137,
+          "timestamp": "2025-11-30T09:22:44.460000+00:00",
+          "duration": 121.459,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 136,
+          "timestamp": "2025-11-30T09:22:37.432000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 134,
+          "timestamp": "2025-11-30T09:22:36.426000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Open-source time tracker - Cent Browser"
+          }
+        },
+        {
+          "id": 132,
+          "timestamp": "2025-11-30T09:22:31.407000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 129,
+          "timestamp": "2025-11-30T09:22:16.342000+00:00",
+          "duration": 14.062,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 128,
+          "timestamp": "2025-11-30T09:22:15.336000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Data model - Cent Browser"
+          }
+        },
+        {
+          "id": 125,
+          "timestamp": "2025-11-30T09:21:48.236000+00:00",
+          "duration": 26.096,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 124,
+          "timestamp": "2025-11-30T09:21:47.229000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 123,
+          "timestamp": "2025-11-30T09:20:07.853000+00:00",
+          "duration": 98.373,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 121,
+          "timestamp": "2025-11-30T09:19:38.746000+00:00",
+          "duration": 28.102,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch数据导出与分析：与外部工具集成方案-CSDN博客 - Cent Browser"
+          }
+        },
+        {
+          "id": 120,
+          "timestamp": "2025-11-30T09:19:36.738000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 118,
+          "timestamp": "2025-11-30T09:19:33.724000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "404 Not Found - Cent Browser"
+          }
+        },
+        {
+          "id": 116,
+          "timestamp": "2025-11-30T09:19:05.623000+00:00",
+          "duration": 27.098,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 115,
+          "timestamp": "2025-11-30T09:19:03.613000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Data model - Cent Browser"
+          }
+        },
+        {
+          "id": 113,
+          "timestamp": "2025-11-30T09:18:44.545000+00:00",
+          "duration": 18.065,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch数据导出与分析：与外部工具集成方案-CSDN博客 - Cent Browser"
+          }
+        },
+        {
+          "id": 110,
+          "timestamp": "2025-11-30T09:18:34.503000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch数据导出与分析：与外部工具集成方案-CSDN博客 - Cent Browser"
+          }
+        },
+        {
+          "id": 109,
+          "timestamp": "2025-11-30T09:18:28.473000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "activitywatch如何导出当天的数据 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 108,
+          "timestamp": "2025-11-30T09:18:27.467000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch安装配置与使用指南-CSDN博客 - Cent Browser"
+          }
+        },
+        {
+          "id": 107,
+          "timestamp": "2025-11-30T09:18:26.462000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 103,
+          "timestamp": "2025-11-30T09:17:18.212000+00:00",
+          "duration": 67.246,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch安装配置与使用指南-CSDN博客 - Cent Browser"
+          }
+        },
+        {
+          "id": 102,
+          "timestamp": "2025-11-30T09:17:05.162000+00:00",
+          "duration": 12.046,
+          "data": {
+            "app": "chrome.exe",
+            "title": "activitywatch如何导出当天的数据 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 101,
+          "timestamp": "2025-11-30T09:17:04.157000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exporting data - Cent Browser"
+          }
+        },
+        {
+          "id": 100,
+          "timestamp": "2025-11-30T09:17:03.153000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 98,
+          "timestamp": "2025-11-30T09:17:00.138000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exporting data - Cent Browser"
+          }
+        },
+        {
+          "id": 94,
+          "timestamp": "2025-11-30T09:16:30.024000+00:00",
+          "duration": 27.102,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exporting data - Cent Browser"
+          }
+        },
+        {
+          "id": 92,
+          "timestamp": "2025-11-30T09:16:27.012000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 91,
+          "timestamp": "2025-11-30T09:16:10.952000+00:00",
+          "duration": 15.057,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exporting data - Cent Browser"
+          }
+        },
+        {
+          "id": 90,
+          "timestamp": "2025-11-30T09:16:08.942000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "activitywatch如何导出当天的数据 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 89,
+          "timestamp": "2025-11-30T09:16:07.937000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 88,
+          "timestamp": "2025-11-30T09:15:49.869000+00:00",
+          "duration": 17.063,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 87,
+          "timestamp": "2025-11-30T09:15:44.850000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 85,
+          "timestamp": "2025-11-30T09:15:35.816000+00:00",
+          "duration": 8.031,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 82,
+          "timestamp": "2025-11-30T09:15:19.755000+00:00",
+          "duration": 15.057,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Data model - Cent Browser"
+          }
+        },
+        {
+          "id": 81,
+          "timestamp": "2025-11-30T09:15:03.696000+00:00",
+          "duration": 15.056,
+          "data": {
+            "app": "chrome.exe",
+            "title": "FAQ - Cent Browser"
+          }
+        },
+        {
+          "id": 80,
+          "timestamp": "2025-11-30T09:14:45.627000+00:00",
+          "duration": 17.063,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Watchers - Cent Browser"
+          }
+        },
+        {
+          "id": 78,
+          "timestamp": "2025-11-30T09:14:16.505000+00:00",
+          "duration": 28.119,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 77,
+          "timestamp": "2025-11-30T09:14:15.500000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 75,
+          "timestamp": "2025-11-30T09:14:09.479000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 73,
+          "timestamp": "2025-11-30T09:13:47.398000+00:00",
+          "duration": 21.077,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 72,
+          "timestamp": "2025-11-30T09:13:43.382000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 70,
+          "timestamp": "2025-11-30T09:13:38.362000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 68,
+          "timestamp": "2025-11-30T09:13:36.354000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 67,
+          "timestamp": "2025-11-30T09:13:35.347000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 66,
+          "timestamp": "2025-11-30T09:13:32.334000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 65,
+          "timestamp": "2025-11-30T09:13:27.316000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 64,
+          "timestamp": "2025-11-30T09:13:17.280000+00:00",
+          "duration": 9.034,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 61,
+          "timestamp": "2025-11-30T09:12:13.048000+00:00",
+          "duration": 63.229,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 60,
+          "timestamp": "2025-11-30T09:12:07.027000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 57,
+          "timestamp": "2025-11-30T09:11:51.971000+00:00",
+          "duration": 14.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 55,
+          "timestamp": "2025-11-30T09:10:42.721000+00:00",
+          "duration": 68.246,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 53,
+          "timestamp": "2025-11-30T09:08:55.321000+00:00",
+          "duration": 104.389,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 52,
+          "timestamp": "2025-11-30T09:08:54.316000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "CyberStalk · 实时状态 - Cent Browser"
+          }
+        },
+        {
+          "id": 50,
+          "timestamp": "2025-11-30T09:08:50.300000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Editing 留言测试 | Bear Blog - Cent Browser"
+          }
+        },
+        {
+          "id": 48,
+          "timestamp": "2025-11-30T09:08:49.285000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "CyberStalk · 实时状态 - Cent Browser"
+          }
+        },
+        {
+          "id": 46,
+          "timestamp": "2025-11-30T09:08:47.277000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch/activitywatch: The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. - Cent Browser"
+          }
+        },
+        {
+          "id": 44,
+          "timestamp": "2025-11-30T09:08:46.272000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Open-source time tracker - Cent Browser"
+          }
+        },
+        {
+          "id": 41,
+          "timestamp": "2025-11-30T09:08:35.232000+00:00",
+          "duration": 10.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 40,
+          "timestamp": "2025-11-30T09:08:33.224000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Watchers - Cent Browser"
+          }
+        },
+        {
+          "id": 39,
+          "timestamp": "2025-11-30T09:08:30.212000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 38,
+          "timestamp": "2025-11-30T09:08:28.204000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "扩展程序"
+          }
+        },
+        {
+          "id": 37,
+          "timestamp": "2025-11-30T09:08:24.189000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Watchers - Cent Browser"
+          }
+        },
+        {
+          "id": 36,
+          "timestamp": "2025-11-30T09:08:22.179000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch/aw-watcher-web: Browser watcher for ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 35,
+          "timestamp": "2025-11-30T09:08:19.166000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch Web Watcher | Chrome扩展 - Crx搜搜 - Cent Browser"
+          }
+        },
+        {
+          "id": 34,
+          "timestamp": "2025-11-30T09:08:16.154000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Open-source time tracker - Cent Browser"
+          }
+        },
+        {
+          "id": 28,
+          "timestamp": "2025-11-30T09:08:15.150000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch Web Watcher | Chrome扩展 - Crx搜搜 - Cent Browser"
+          }
+        },
+        {
+          "id": 27,
+          "timestamp": "2025-11-30T09:08:14.144000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "“ActivityWatch Web Watcher”已添加到 Cent Browser"
+          }
+        },
+        {
+          "id": 25,
+          "timestamp": "2025-11-30T09:08:12.135000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 24,
+          "timestamp": "2025-11-30T09:08:01.090000+00:00",
+          "duration": 10.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch Web Watcher | Chrome扩展 - Crx搜搜 - Cent Browser"
+          }
+        },
+        {
+          "id": 23,
+          "timestamp": "2025-11-30T09:07:52.055000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch/aw-watcher-web: Browser watcher for ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 22,
+          "timestamp": "2025-11-30T09:07:47.035000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Release v0.5.2 · ActivityWatch/aw-watcher-web - Cent Browser"
+          }
+        },
+        {
+          "id": 21,
+          "timestamp": "2025-11-30T09:07:40.006000+00:00",
+          "duration": 6.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch/aw-watcher-web: Browser watcher for ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 20,
+          "timestamp": "2025-11-30T09:07:23.939000+00:00",
+          "duration": 15.061,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Watchers - Cent Browser"
+          }
+        },
+        {
+          "id": 19,
+          "timestamp": "2025-11-30T09:06:56.836000+00:00",
+          "duration": 26.098,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 18,
+          "timestamp": "2025-11-30T09:06:07.656000+00:00",
+          "duration": 48.176,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 17,
+          "timestamp": "2025-11-30T09:06:06.650000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "CyberStalk · 实时状态 - Cent Browser"
+          }
+        },
+        {
+          "id": 16,
+          "timestamp": "2025-11-30T09:06:04.643000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "留言测试 | ･✦ Nightola-227 FM ✦･ - Cent Browser"
+          }
+        },
+        {
+          "id": 15,
+          "timestamp": "2025-11-30T09:06:01.630000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "CyberStalk · 实时状态 - Cent Browser"
+          }
+        },
+        {
+          "id": 14,
+          "timestamp": "2025-11-30T09:05:52.597000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 13,
+          "timestamp": "2025-11-30T09:05:51.591000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Open-source time tracker - Cent Browser"
+          }
+        },
+        {
+          "id": 12,
+          "timestamp": "2025-11-30T09:05:26.490000+00:00",
+          "duration": 24.098,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 11,
+          "timestamp": "2025-11-30T09:05:08.406000+00:00",
+          "duration": 17.081,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch/activitywatch: The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. - Cent Browser"
+          }
+        },
+        {
+          "id": 10,
+          "timestamp": "2025-11-30T09:04:54.349000+00:00",
+          "duration": 13.051,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 9,
+          "timestamp": "2025-11-30T09:04:53.344000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "开源个人状态-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 8,
+          "timestamp": "2025-11-30T09:04:31.259000+00:00",
+          "duration": 21.081,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 7,
+          "timestamp": "2025-11-30T09:04:30.255000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        }
+      ]
+    }
+  },
+  "export_info": {
+    "export_time": "2025-11-30T17:55:46.831752",
+    "time_range": {
+      "start": "2025-11-29T00:00:00",
+      "end": "2025-11-30T17:55:42.800020"
+    },
+    "total_events": 278
+  }
+}

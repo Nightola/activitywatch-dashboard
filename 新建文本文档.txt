@@ -1,0 +1,98 @@
+<div class="homepage">
+  <!-- 关于我（包含头像和联系方式） -->
+  <section class="about-section">
+    <div class="about-card">
+      <div class="about-header">
+        <img src="https://pic1.imgdb.cn/item/692682c73203f7be0033c22e.jpg" alt="Nightola" class="about-avatar">
+        <div class="about-intro">
+          <h1>🌙 Nightola</h1>
+          <p class="blog-subtitle">摄影 · 绘画 · 音乐 · 生活记录</p>
+          <!-- 这里是可以自由编辑的文本区域 -->
+          <p class="intro-text">测试 - 这是一个可以自由编辑的文本区域，您可以在这里添加任何个人介绍内容。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<style>
+.homepage {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.about-section {
+  margin-bottom: 40px;
+}
+
+.about-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  border: 1px solid #f0f0f0;
+}
+
+.about-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.about-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #f0f0f0;
+}
+
+.about-intro h1 {
+  color: #2c3e50;
+  font-size: 2.5em;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+}
+
+.blog-subtitle {
+  color: #667eea;
+  font-size: 1.2em;
+  margin: 0 0 15px 0;
+  font-weight: 600;
+}
+
+.intro-text {
+  color: #555;
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .homepage {
+    padding: 0 15px;
+  }
+  
+  .about-card {
+    padding: 25px;
+  }
+  
+  .about-header {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .about-avatar {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .about-intro h1 {
+    font-size: 2em;
+  }
+}
+</style>
