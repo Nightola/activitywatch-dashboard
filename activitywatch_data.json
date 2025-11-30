@@ -5,6 +5,150 @@
       "type": "window",
       "events": [
         {
+          "id": 2391,
+          "timestamp": "2025-11-30T16:56:14.065000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 2390,
+          "timestamp": "2025-11-30T16:56:13.046000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 2389,
+          "timestamp": "2025-11-30T16:56:11.032000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 2388,
+          "timestamp": "2025-11-30T16:55:58.880000+00:00",
+          "duration": 11.143,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe - python  get_activitywatch_data.py"
+          }
+        },
+        {
+          "id": 2387,
+          "timestamp": "2025-11-30T16:55:54.847000+00:00",
+          "duration": 3.025,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 2386,
+          "timestamp": "2025-11-30T16:55:51.812000+00:00",
+          "duration": 2.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 2385,
+          "timestamp": "2025-11-30T16:55:46.772000+00:00",
+          "duration": 4.037,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 2384,
+          "timestamp": "2025-11-30T16:55:42.722000+00:00",
+          "duration": 3.05,
+          "data": {
+            "app": "explorer.exe",
+            "title": "运行"
+          }
+        },
+        {
+          "id": 2383,
+          "timestamp": "2025-11-30T16:55:41.712000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 2382,
+          "timestamp": "2025-11-30T16:55:40.712000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 2381,
+          "timestamp": "2025-11-30T16:55:39.631000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 2380,
+          "timestamp": "2025-11-30T16:55:37.621000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 2379,
+          "timestamp": "2025-11-30T16:55:34.581000+00:00",
+          "duration": 2.03,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe - update_safe.bat"
+          }
+        },
+        {
+          "id": 2378,
+          "timestamp": "2025-11-30T16:55:32.561000+00:00",
+          "duration": 1.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 管理员: C:\\Windows\\system32\\cmd.exe - update_safe.bat"
+          }
+        },
+        {
+          "id": 2377,
+          "timestamp": "2025-11-30T16:55:29.527000+00:00",
+          "duration": 2.024,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe - update_safe.bat"
+          }
+        },
+        {
+          "id": 2376,
+          "timestamp": "2025-11-30T16:55:22.462000+00:00",
+          "duration": 6.061,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 管理员: C:\\Windows\\system32\\cmd.exe - update_safe.bat"
+          }
+        },
+        {
           "id": 2375,
           "timestamp": "2025-11-30T16:55:19.441000+00:00",
           "duration": 2.015,
@@ -8859,159 +9003,15 @@
             "app": "cmd.exe",
             "title": "C:\\Windows\\system32\\cmd.exe"
           }
-        },
-        {
-          "id": 1264,
-          "timestamp": "2025-11-30T14:20:02.879000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1263,
-          "timestamp": "2025-11-30T14:20:01.875000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 1262,
-          "timestamp": "2025-11-30T14:19:58.812000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 1261,
-          "timestamp": "2025-11-30T14:19:52.790000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1260,
-          "timestamp": "2025-11-30T14:19:51.785000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "删除文件夹"
-          }
-        },
-        {
-          "id": 1259,
-          "timestamp": "2025-11-30T14:19:49.775000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1258,
-          "timestamp": "2025-11-30T14:19:48.770000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 1257,
-          "timestamp": "2025-11-30T14:19:43.753000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1256,
-          "timestamp": "2025-11-30T14:19:42.747000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "删除多个项目"
-          }
-        },
-        {
-          "id": 1255,
-          "timestamp": "2025-11-30T14:19:32.712000+00:00",
-          "duration": 9.032,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1254,
-          "timestamp": "2025-11-30T14:19:30.704000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 1253,
-          "timestamp": "2025-11-30T14:19:29.699000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 1252,
-          "timestamp": "2025-11-30T14:19:19.660000+00:00",
-          "duration": 9.036,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 1250,
-          "timestamp": "2025-11-30T14:19:15.645000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\update_fixed.bat - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 1249,
-          "timestamp": "2025-11-30T14:19:04.603000+00:00",
-          "duration": 10.035,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 1248,
-          "timestamp": "2025-11-30T14:18:56.575000+00:00",
-          "duration": 7.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-12-01T00:55:25.206942",
+    "export_time": "2025-12-01T00:56:23.155707",
     "time_range": {
-      "start": "2025-11-30T12:55:23.057115",
-      "end": "2025-12-01T00:55:23.057115"
+      "start": "2025-11-30T12:56:21.028083",
+      "end": "2025-12-01T00:56:21.028083"
     },
     "total_events": 1000
   }
