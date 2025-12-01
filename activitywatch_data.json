@@ -5,6 +5,303 @@
       "type": "window",
       "events": [
         {
+          "id": 3492,
+          "timestamp": "2025-12-01T08:00:20.669000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 3491,
+          "timestamp": "2025-12-01T08:00:18.660000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3490,
+          "timestamp": "2025-12-01T08:00:16.652000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3489,
+          "timestamp": "2025-12-01T08:00:09.624000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 3488,
+          "timestamp": "2025-12-01T08:00:05.608000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3487,
+          "timestamp": "2025-12-01T07:59:40.515000+00:00",
+          "duration": 24.089,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 3486,
+          "timestamp": "2025-12-01T07:59:28.471000+00:00",
+          "duration": 11.04,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3485,
+          "timestamp": "2025-12-01T07:59:27.467000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3484,
+          "timestamp": "2025-12-01T07:59:22.448000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3483,
+          "timestamp": "2025-12-01T07:59:20.440000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3482,
+          "timestamp": "2025-12-01T07:59:17.427000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3481,
+          "timestamp": "2025-12-01T07:59:05.380000+00:00",
+          "duration": 11.043,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 3480,
+          "timestamp": "2025-12-01T07:58:24.228000+00:00",
+          "duration": 40.146,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3479,
+          "timestamp": "2025-12-01T07:58:23.224000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3477,
+          "timestamp": "2025-12-01T07:58:21.215000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_log.txt - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3476,
+          "timestamp": "2025-12-01T07:58:16.197000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3475,
+          "timestamp": "2025-12-01T07:58:14.189000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 3474,
+          "timestamp": "2025-12-01T07:58:07.159000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 3473,
+          "timestamp": "2025-12-01T07:56:54.903000+00:00",
+          "duration": 71.253,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 3472,
+          "timestamp": "2025-12-01T07:56:41.317000+00:00",
+          "duration": 11.042,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 3471,
+          "timestamp": "2025-12-01T07:56:31.281000+00:00",
+          "duration": 9.033,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 3470,
+          "timestamp": "2025-12-01T07:56:17.225000+00:00",
+          "duration": 13.052,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 3469,
+          "timestamp": "2025-12-01T07:56:15.218000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "日期和时间信息"
+          }
+        },
+        {
+          "id": 3468,
+          "timestamp": "2025-12-01T07:56:10.199000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3467,
+          "timestamp": "2025-12-01T07:55:56.143000+00:00",
+          "duration": 13.052,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 3465,
+          "timestamp": "2025-12-01T07:55:40.085000+00:00",
+          "duration": 15.055,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 3464,
+          "timestamp": "2025-12-01T07:55:39.081000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 3463,
+          "timestamp": "2025-12-01T07:55:33.004000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 3462,
+          "timestamp": "2025-12-01T07:55:31.999000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3461,
+          "timestamp": "2025-12-01T07:55:28.985000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3460,
+          "timestamp": "2025-12-01T07:55:27.980000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad.exe",
+            "title": "无标题 - 记事本"
+          }
+        },
+        {
+          "id": 3459,
+          "timestamp": "2025-12-01T07:55:25.970000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3458,
+          "timestamp": "2025-12-01T07:55:19.950000+00:00",
+          "duration": 5.016,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
           "id": 3457,
           "timestamp": "2025-12-01T07:55:17.940000+00:00",
           "duration": 1.006,
@@ -3255,26 +3552,8 @@
         },
         {
           "id": 2983,
-          "timestamp": "2025-12-01T03:58:18.617000+00:00",
-          "duration": 3324.519,
-          "data": {
-            "app": "MuMuPlayer.exe",
-            "title": "MuMu模拟器12"
-          }
-        },
-        {
-          "id": 2982,
-          "timestamp": "2025-12-01T03:58:04.557000+00:00",
-          "duration": 13.056,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 2910,
-          "timestamp": "2025-12-01T03:55:20.709000+00:00",
-          "duration": 162.844,
+          "timestamp": "2025-12-01T04:00:24.133000+00:00",
+          "duration": 3199.003,
           "data": {
             "app": "MuMuPlayer.exe",
             "title": "MuMu模拟器12"
@@ -3284,11 +3563,11 @@
     }
   },
   "export_info": {
-    "export_time": "2025-12-01T15:55:22.743461",
+    "export_time": "2025-12-01T16:00:26.171156",
     "time_range": {
-      "start": "2025-12-01T03:55:20.709101",
-      "end": "2025-12-01T15:55:20.709101"
+      "start": "2025-12-01T04:00:24.133315",
+      "end": "2025-12-01T16:00:24.133315"
     },
-    "total_events": 364
+    "total_events": 395
   }
 }
