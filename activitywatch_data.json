@@ -5,6 +5,447 @@
       "type": "window",
       "events": [
         {
+          "id": 4282,
+          "timestamp": "2025-12-01T09:56:55.912000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 4281,
+          "timestamp": "2025-12-01T09:55:59.711000+00:00",
+          "duration": 55.198,
+          "data": {
+            "app": "mmc.exe",
+            "title": "所有正在运行任务"
+          }
+        },
+        {
+          "id": 4280,
+          "timestamp": "2025-12-01T09:55:49.677000+00:00",
+          "duration": 9.031,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 4279,
+          "timestamp": "2025-12-01T09:55:36.632000+00:00",
+          "duration": 12.041,
+          "data": {
+            "app": "mmc.exe",
+            "title": "创建任务"
+          }
+        },
+        {
+          "id": 4278,
+          "timestamp": "2025-12-01T09:55:25.590000+00:00",
+          "duration": 10.037,
+          "data": {
+            "app": "mmc.exe",
+            "title": "新建操作"
+          }
+        },
+        {
+          "id": 4277,
+          "timestamp": "2025-12-01T09:55:23.578000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "mmc.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 4276,
+          "timestamp": "2025-12-01T09:55:20.566000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "mmc.exe",
+            "title": "新建操作"
+          }
+        },
+        {
+          "id": 4275,
+          "timestamp": "2025-12-01T09:55:16.550000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "mmc.exe",
+            "title": "创建任务"
+          }
+        },
+        {
+          "id": 4274,
+          "timestamp": "2025-12-01T09:55:03.500000+00:00",
+          "duration": 12.046,
+          "data": {
+            "app": "mmc.exe",
+            "title": "新建触发器"
+          }
+        },
+        {
+          "id": 4273,
+          "timestamp": "2025-12-01T09:54:56.472000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "mmc.exe",
+            "title": "创建任务"
+          }
+        },
+        {
+          "id": 4272,
+          "timestamp": "2025-12-01T09:54:54.463000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 4271,
+          "timestamp": "2025-12-01T09:54:31.380000+00:00",
+          "duration": 22.08,
+          "data": {
+            "app": "mmc.exe",
+            "title": "创建任务"
+          }
+        },
+        {
+          "id": 4270,
+          "timestamp": "2025-12-01T09:54:29.371000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 4269,
+          "timestamp": "2025-12-01T09:54:16.323000+00:00",
+          "duration": 12.045,
+          "data": {
+            "app": "mmc.exe",
+            "title": "创建基本任务向导"
+          }
+        },
+        {
+          "id": 4267,
+          "timestamp": "2025-12-01T09:53:54.241000+00:00",
+          "duration": 21.079,
+          "data": {
+            "app": "mmc.exe",
+            "title": "任务计划程序"
+          }
+        },
+        {
+          "id": 4266,
+          "timestamp": "2025-12-01T09:53:37.174000+00:00",
+          "duration": 16.064,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4265,
+          "timestamp": "2025-12-01T09:53:26.133000+00:00",
+          "duration": 10.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我用你给的办法弄出了一个公开的可以手动一键更新到github的B - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 4264,
+          "timestamp": "2025-12-01T09:53:12.075000+00:00",
+          "duration": 13.054,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4263,
+          "timestamp": "2025-12-01T09:53:11.069000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 4262,
+          "timestamp": "2025-12-01T09:53:00.027000+00:00",
+          "duration": 10.037,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4261,
+          "timestamp": "2025-12-01T09:52:51.996000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 4259,
+          "timestamp": "2025-12-01T09:52:50.992000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4258,
+          "timestamp": "2025-12-01T09:52:46.972000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 4257,
+          "timestamp": "2025-12-01T09:52:45.967000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4256,
+          "timestamp": "2025-12-01T09:52:44.961000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 4255,
+          "timestamp": "2025-12-01T09:52:43.957000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 4254,
+          "timestamp": "2025-12-01T09:52:35.929000+00:00",
+          "duration": 7.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4253,
+          "timestamp": "2025-12-01T09:52:34.925000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4252,
+          "timestamp": "2025-12-01T09:52:29.906000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 4251,
+          "timestamp": "2025-12-01T09:52:28.902000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4250,
+          "timestamp": "2025-12-01T09:51:50.764000+00:00",
+          "duration": 37.134,
+          "data": {
+            "app": "chrome.exe",
+            "title": "我的活动监控面板 - Cent Browser"
+          }
+        },
+        {
+          "id": 4249,
+          "timestamp": "2025-12-01T09:51:41.727000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 4247,
+          "timestamp": "2025-12-01T09:51:40.722000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4246,
+          "timestamp": "2025-12-01T09:51:33.696000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 4245,
+          "timestamp": "2025-12-01T09:51:31.687000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "批处理脚本乱码问题解决方案 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 4244,
+          "timestamp": "2025-12-01T09:51:29.679000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4243,
+          "timestamp": "2025-12-01T09:51:28.674000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 4242,
+          "timestamp": "2025-12-01T09:51:20.648000+00:00",
+          "duration": 7.023,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4241,
+          "timestamp": "2025-12-01T09:51:13.621000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 4240,
+          "timestamp": "2025-12-01T09:50:09.391000+00:00",
+          "duration": 63.227,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4239,
+          "timestamp": "2025-12-01T09:50:05.373000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 4238,
+          "timestamp": "2025-12-01T09:50:00.354000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4237,
+          "timestamp": "2025-12-01T09:49:59.349000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 4236,
+          "timestamp": "2025-12-01T09:49:52.324000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4233,
+          "timestamp": "2025-12-01T09:49:51.319000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 4232,
+          "timestamp": "2025-12-01T09:49:45.296000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4231,
+          "timestamp": "2025-12-01T09:49:41.280000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 4230,
+          "timestamp": "2025-12-01T09:49:36.260000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 4229,
+          "timestamp": "2025-12-01T09:49:23.212000+00:00",
+          "duration": 12.044,
+          "data": {
+            "app": "cmd.exe",
+            "title": "Administrator:  GitHub Auto Update"
+          }
+        },
+        {
           "id": 4228,
           "timestamp": "2025-12-01T09:49:19.196000+00:00",
           "duration": 3.013,
@@ -8562,456 +9003,15 @@
             "app": "explorer.exe",
             "title": ""
           }
-        },
-        {
-          "id": 3178,
-          "timestamp": "2025-12-01T07:10:15.335000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Nightola/activitywatch-dashboard - Cent Browser"
-          }
-        },
-        {
-          "id": 3177,
-          "timestamp": "2025-12-01T07:10:10.313000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 3176,
-          "timestamp": "2025-12-01T07:10:09.307000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 3175,
-          "timestamp": "2025-12-01T07:10:08.248000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 3174,
-          "timestamp": "2025-12-01T07:10:07.243000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3173,
-          "timestamp": "2025-12-01T07:10:02.224000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3172,
-          "timestamp": "2025-12-01T07:09:58.210000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "notepad.exe",
-            "title": "simple_task.xml - 记事本"
-          }
-        },
-        {
-          "id": 3171,
-          "timestamp": "2025-12-01T07:09:48.172000+00:00",
-          "duration": 9.035,
-          "data": {
-            "app": "notepad.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 3170,
-          "timestamp": "2025-12-01T07:09:43.153000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3169,
-          "timestamp": "2025-12-01T07:09:40.142000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "notepad.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 3168,
-          "timestamp": "2025-12-01T07:09:38.134000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "notepad.exe",
-            "title": "*新建文本文档 (2).txt - 记事本"
-          }
-        },
-        {
-          "id": 3167,
-          "timestamp": "2025-12-01T07:09:37.130000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad.exe",
-            "title": "新建文本文档 (2).txt - 记事本"
-          }
-        },
-        {
-          "id": 3166,
-          "timestamp": "2025-12-01T07:09:29.099000+00:00",
-          "duration": 7.026,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3164,
-          "timestamp": "2025-12-01T07:09:27.091000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "notepad.exe",
-            "title": "新建文本文档 (2).txt - 记事本"
-          }
-        },
-        {
-          "id": 3163,
-          "timestamp": "2025-12-01T07:09:20.066000+00:00",
-          "duration": 6.022,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 3162,
-          "timestamp": "2025-12-01T07:08:23.858000+00:00",
-          "duration": 55.203,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3161,
-          "timestamp": "2025-12-01T07:08:17.836000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3160,
-          "timestamp": "2025-12-01T07:08:16.831000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Everything 的跳转列表"
-          }
-        },
-        {
-          "id": 3159,
-          "timestamp": "2025-12-01T07:08:08.802000+00:00",
-          "duration": 7.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3158,
-          "timestamp": "2025-12-01T07:08:02.781000+00:00",
-          "duration": 5.017,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3157,
-          "timestamp": "2025-12-01T07:07:54.748000+00:00",
-          "duration": 7.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3156,
-          "timestamp": "2025-12-01T07:07:52.738000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\task_with_workingdir.xml - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 3155,
-          "timestamp": "2025-12-01T07:07:51.734000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*C:\\Users\\Administrator\\Desktop\\task_with_workingdir.xml - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 3154,
-          "timestamp": "2025-12-01T07:07:50.729000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\task_with_workingdir.xml - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 3153,
-          "timestamp": "2025-12-01T07:07:49.723000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3152,
-          "timestamp": "2025-12-01T07:07:48.718000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\task_with_workingdir.xml - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 3151,
-          "timestamp": "2025-12-01T07:07:43.698000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 3150,
-          "timestamp": "2025-12-01T07:07:42.693000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "重命名"
-          }
-        },
-        {
-          "id": 3149,
-          "timestamp": "2025-12-01T07:07:32.655000+00:00",
-          "duration": 9.035,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 3146,
-          "timestamp": "2025-12-01T07:06:49.500000+00:00",
-          "duration": 42.152,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3145,
-          "timestamp": "2025-12-01T07:06:43.477000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3144,
-          "timestamp": "2025-12-01T07:06:38.461000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3143,
-          "timestamp": "2025-12-01T07:06:36.451000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3142,
-          "timestamp": "2025-12-01T07:06:35.448000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3141,
-          "timestamp": "2025-12-01T07:06:34.443000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3140,
-          "timestamp": "2025-12-01T07:06:26.414000+00:00",
-          "duration": 7.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3139,
-          "timestamp": "2025-12-01T07:06:23.403000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3138,
-          "timestamp": "2025-12-01T07:06:20.393000+00:00",
-          "duration": 2.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3137,
-          "timestamp": "2025-12-01T07:06:10.352000+00:00",
-          "duration": 9.037,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\system32\\cmd.exe"
-          }
-        },
-        {
-          "id": 3136,
-          "timestamp": "2025-12-01T07:05:56.301000+00:00",
-          "duration": 13.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3135,
-          "timestamp": "2025-12-01T07:05:25.183000+00:00",
-          "duration": 30.11,
-          "data": {
-            "app": "chrome.exe",
-            "title": "task_config.xml - Cent Browser"
-          }
-        },
-        {
-          "id": 3131,
-          "timestamp": "2025-12-01T07:02:45.598000+00:00",
-          "duration": 158.581,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3130,
-          "timestamp": "2025-12-01T07:02:43.589000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "task_config.xml - Cent Browser"
-          }
-        },
-        {
-          "id": 3129,
-          "timestamp": "2025-12-01T07:02:15.484000+00:00",
-          "duration": 27.102,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3127,
-          "timestamp": "2025-12-01T07:01:36.343000+00:00",
-          "duration": 38.138,
-          "data": {
-            "app": "chrome.exe",
-            "title": "task_config.xml - Cent Browser"
-          }
-        },
-        {
-          "id": 3126,
-          "timestamp": "2025-12-01T07:01:35.338000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3125,
-          "timestamp": "2025-12-01T07:01:33.329000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "task_config.xml - Cent Browser"
-          }
-        },
-        {
-          "id": 3122,
-          "timestamp": "2025-12-01T07:01:17.211000+00:00",
-          "duration": 15.115,
-          "data": {
-            "app": "chrome.exe",
-            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 3121,
-          "timestamp": "2025-12-01T07:01:16.166000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "task_config.xml - Cent Browser"
-          }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-12-01T17:49:28.826500",
+    "export_time": "2025-12-01T17:57:08.507865",
     "time_range": {
-      "start": "2025-12-01T05:49:26.755139",
-      "end": "2025-12-01T17:49:26.755139"
+      "start": "2025-12-01T05:57:06.436988",
+      "end": "2025-12-01T17:57:06.436988"
     },
     "total_events": 1000
   }
