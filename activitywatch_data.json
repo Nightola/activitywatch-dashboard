@@ -5,6 +5,303 @@
       "type": "window",
       "events": [
         {
+          "id": 3645,
+          "timestamp": "2025-12-01T08:24:29.410000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
+          "id": 3644,
+          "timestamp": "2025-12-01T08:24:27.403000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3643,
+          "timestamp": "2025-12-01T08:24:20.378000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_log.txt - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3642,
+          "timestamp": "2025-12-01T08:24:19.373000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\index.html - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3641,
+          "timestamp": "2025-12-01T08:24:16.361000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_safe.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3640,
+          "timestamp": "2025-12-01T08:24:06.326000+00:00",
+          "duration": 9.032,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "*C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_safe.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3639,
+          "timestamp": "2025-12-01T08:24:04.316000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_safe.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3638,
+          "timestamp": "2025-12-01T08:24:02.308000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3637,
+          "timestamp": "2025-12-01T08:23:59.297000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3636,
+          "timestamp": "2025-12-01T08:23:40.228000+00:00",
+          "duration": 18.065,
+          "data": {
+            "app": "chrome.exe",
+            "title": "你能帮我找一个github开源项目吗，那个项目完成的效果能做到心 - DeepSeek - Cent Browser"
+          }
+        },
+        {
+          "id": 3634,
+          "timestamp": "2025-12-01T08:23:29.182000+00:00",
+          "duration": 10.039,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 3633,
+          "timestamp": "2025-12-01T08:23:28.178000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3632,
+          "timestamp": "2025-12-01T08:23:26.170000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3631,
+          "timestamp": "2025-12-01T08:23:23.158000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3630,
+          "timestamp": "2025-12-01T08:23:15.128000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 3629,
+          "timestamp": "2025-12-01T08:23:12.116000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3628,
+          "timestamp": "2025-12-01T08:23:10.106000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3627,
+          "timestamp": "2025-12-01T08:23:05.087000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3626,
+          "timestamp": "2025-12-01T08:23:02.074000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3625,
+          "timestamp": "2025-12-01T08:23:01.070000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 3624,
+          "timestamp": "2025-12-01T08:23:00.065000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "记事本 的跳转列表"
+          }
+        },
+        {
+          "id": 3623,
+          "timestamp": "2025-12-01T08:22:59.059000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3622,
+          "timestamp": "2025-12-01T08:22:53.038000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3621,
+          "timestamp": "2025-12-01T08:22:52.032000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 3620,
+          "timestamp": "2025-12-01T08:22:51.027000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3618,
+          "timestamp": "2025-12-01T08:22:04.856000+00:00",
+          "duration": 45.167,
+          "data": {
+            "app": "chrome.exe",
+            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+          }
+        },
+        {
+          "id": 3617,
+          "timestamp": "2025-12-01T08:22:02.842000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Nightola/activitywatch-dashboard - Cent Browser"
+          }
+        },
+        {
+          "id": 3616,
+          "timestamp": "2025-12-01T08:22:01.836000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3615,
+          "timestamp": "2025-12-01T08:21:57.822000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "notepad++.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\update_safe.bat - Notepad++ [Administrator]"
+          }
+        },
+        {
+          "id": 3614,
+          "timestamp": "2025-12-01T08:21:53.805000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3613,
+          "timestamp": "2025-12-01T08:21:49.786000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "notepad.exe",
+            "title": "update_log.txt - 记事本"
+          }
+        },
+        {
+          "id": 3612,
+          "timestamp": "2025-12-01T08:21:47.777000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 3611,
+          "timestamp": "2025-12-01T08:21:40.752000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\system32\\cmd.exe"
+          }
+        },
+        {
           "id": 3610,
           "timestamp": "2025-12-01T08:21:37.739000+00:00",
           "duration": 2.009,
@@ -4488,8 +4785,8 @@
         },
         {
           "id": 2983,
-          "timestamp": "2025-12-01T04:21:41.330000+00:00",
-          "duration": 1921.806,
+          "timestamp": "2025-12-01T04:24:33.012000+00:00",
+          "duration": 1750.124,
           "data": {
             "app": "MuMuPlayer.exe",
             "title": "MuMu模拟器12"
@@ -4499,11 +4796,11 @@
     }
   },
   "export_info": {
-    "export_time": "2025-12-01T16:21:43.370145",
+    "export_time": "2025-12-01T16:24:35.058823",
     "time_range": {
-      "start": "2025-12-01T04:21:41.330806",
-      "end": "2025-12-01T16:21:41.330806"
+      "start": "2025-12-01T04:24:33.012300",
+      "end": "2025-12-01T16:24:33.012300"
     },
-    "total_events": 499
+    "total_events": 532
   }
 }
