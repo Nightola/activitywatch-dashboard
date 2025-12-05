@@ -5,26 +5,26 @@
       "type": "window",
       "events": [
         {
-          "id": 13852,
-          "timestamp": "2025-12-05T03:44:45.275000+00:00",
-          "duration": 915.171,
+          "id": 14931,
+          "timestamp": "2025-12-05T15:26:54.970000+00:00",
+          "duration": 1985.974,
           "data": {
-            "app": "chrome.exe",
-            "title": "我的一个朋友自杀了_哔哩哔哩_bilibili - Cent Browser"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu模拟器12"
           }
         },
         {
-          "id": 13850,
-          "timestamp": "2025-12-05T03:42:14.463000+00:00",
-          "duration": 149.805,
+          "id": 14930,
+          "timestamp": "2025-12-05T15:26:45.926000+00:00",
+          "duration": 8.039,
           "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
+            "app": "cloudmusic.exe",
+            "title": "アポフェニア - 黒うさぎ"
           }
         },
         {
-          "id": 13849,
-          "timestamp": "2025-12-05T03:42:13.457000+00:00",
+          "id": 14929,
+          "timestamp": "2025-12-05T15:26:44.917000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -32,197 +32,107 @@
           }
         },
         {
-          "id": 13848,
-          "timestamp": "2025-12-05T03:42:12.441000+00:00",
+          "id": 14928,
+          "timestamp": "2025-12-05T15:26:43.910000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 14927,
+          "timestamp": "2025-12-05T15:26:32.812000+00:00",
+          "duration": 10.092,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 14926,
+          "timestamp": "2025-12-05T15:26:17.669000+00:00",
+          "duration": 14.138,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14924,
+          "timestamp": "2025-12-05T15:26:15.652000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台正面图的搜索结果_百度图片搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14912,
+          "timestamp": "2025-12-05T15:14:03.671000+00:00",
+          "duration": 730.971,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14910,
+          "timestamp": "2025-12-05T15:12:41.814000+00:00",
+          "duration": 80.85,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14909,
+          "timestamp": "2025-12-05T15:12:40.807000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "我的一个朋友自杀了_哔哩哔哩_bilibili - Cent Browser"
+            "title": "舞萌机台正面图的搜索结果_百度图片搜索 - Cent Browser"
           }
         },
         {
-          "id": 13847,
-          "timestamp": "2025-12-05T03:42:10.415000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13846,
-          "timestamp": "2025-12-05T03:41:57.249000+00:00",
-          "duration": 12.159,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩热门 - Cent Browser"
-          }
-        },
-        {
-          "id": 13842,
-          "timestamp": "2025-12-05T03:39:33.466000+00:00",
-          "duration": 142.774,
-          "data": {
-            "app": "chrome.exe",
-            "title": "少在网上看“傻人”！_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13841,
-          "timestamp": "2025-12-05T03:39:31.441000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13840,
-          "timestamp": "2025-12-05T03:39:29.413000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩热门 - Cent Browser"
-          }
-        },
-        {
-          "id": 13837,
-          "timestamp": "2025-12-05T03:38:58.068000+00:00",
-          "duration": 30.33,
-          "data": {
-            "app": "chrome.exe",
-            "title": "b 站 热 度 年 度 总 结 ☆【年度套娃2024】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13831,
-          "timestamp": "2025-12-05T03:35:37.375000+00:00",
-          "duration": 199.686,
-          "data": {
-            "app": "chrome.exe",
-            "title": "2025 热 梗 年 度 总 结 ！！！_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13830,
-          "timestamp": "2025-12-05T03:35:34.336000+00:00",
-          "duration": 2.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13829,
-          "timestamp": "2025-12-05T03:35:32.307000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩热门 - Cent Browser"
-          }
-        },
-        {
-          "id": 13828,
-          "timestamp": "2025-12-05T03:35:30.289000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/v/popular/all?spm_id_from=333.1007.0.0 - Cent Browser"
-          }
-        },
-        {
-          "id": 13827,
-          "timestamp": "2025-12-05T03:35:26.238000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13823,
-          "timestamp": "2025-12-05T03:33:38.929000+00:00",
-          "duration": 106.3,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【gachapoid V3 demo】初吻_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13821,
-          "timestamp": "2025-12-05T03:33:37.915000+00:00",
+          "id": 14908,
+          "timestamp": "2025-12-05T15:12:39.796000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/video/BV1ax411K7rL/?spm_id_from=333.337.search-card.all.click - Cent Browser"
+            "app": "OneCommander.exe",
+            "title": "无损"
           }
         },
         {
-          "id": 13820,
-          "timestamp": "2025-12-05T03:33:35.886000+00:00",
-          "duration": 1.015,
+          "id": 14907,
+          "timestamp": "2025-12-05T15:12:36.771000+00:00",
+          "duration": 2.018,
           "data": {
             "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "title": "舞萌机台正面图的搜索结果_百度图片搜索 - Cent Browser"
           }
         },
         {
-          "id": 13814,
-          "timestamp": "2025-12-05T03:19:39.670000+00:00",
-          "duration": 835.202,
+          "id": 14906,
+          "timestamp": "2025-12-05T15:12:34.754000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "无损"
+          }
+        },
+        {
+          "id": 14905,
+          "timestamp": "2025-12-05T15:12:31.734000+00:00",
+          "duration": 2.016,
           "data": {
             "app": "chrome.exe",
-            "title": "リュウト-哔哩哔哩_bilibili - Cent Browser"
+            "title": ""
           }
         },
         {
-          "id": 13813,
-          "timestamp": "2025-12-05T03:19:38.657000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) VocaSong Bdays 🩵 ボカ曲記念日 (@vocabdays) / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13810,
-          "timestamp": "2025-12-05T03:19:08.270000+00:00",
-          "duration": 29.374,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13809,
-          "timestamp": "2025-12-05T03:19:06.231000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13808,
-          "timestamp": "2025-12-05T03:19:00.163000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13807,
-          "timestamp": "2025-12-05T03:18:58.126000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) VocaSong Bdays 🩵 ボカ曲記念日 (@vocabdays) / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13806,
-          "timestamp": "2025-12-05T03:18:57.109000+00:00",
+          "id": 14904,
+          "timestamp": "2025-12-05T15:12:30.721000+00:00",
           "duration": 0.0,
           "data": {
             "app": "unknown",
@@ -230,4094 +140,134 @@
           }
         },
         {
-          "id": 13805,
-          "timestamp": "2025-12-05T03:18:56.043000+00:00",
+          "id": 14903,
+          "timestamp": "2025-12-05T15:12:28.653000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14901,
+          "timestamp": "2025-12-05T15:12:27.643000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
+            "app": "gogh.exe",
+            "title": "gogh"
           }
         },
         {
-          "id": 13804,
-          "timestamp": "2025-12-05T03:18:33.746000+00:00",
-          "duration": 21.278,
+          "id": 14900,
+          "timestamp": "2025-12-05T15:12:22.587000+00:00",
+          "duration": 4.046,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14899,
+          "timestamp": "2025-12-05T15:12:20.568000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14895,
+          "timestamp": "2025-12-05T15:08:10.140000+00:00",
+          "duration": 249.418,
           "data": {
             "app": "chrome.exe",
-            "title": "(1) VocaSong Bdays 🩵 ボカ曲記念日 (@vocabdays) / X - Cent Browser"
+            "title": "舞萌机台正面图的搜索结果_百度图片搜索 - Cent Browser"
           }
         },
         {
-          "id": 13803,
-          "timestamp": "2025-12-05T03:18:27.648000+00:00",
-          "duration": 5.083,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13799,
-          "timestamp": "2025-12-05T03:17:38.995000+00:00",
-          "duration": 47.637,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) VocaSong Bdays 🩵 ボカ曲記念日 (@vocabdays) / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13798,
-          "timestamp": "2025-12-05T03:17:19.792000+00:00",
-          "duration": 18.192,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13797,
-          "timestamp": "2025-12-05T03:17:02.557000+00:00",
-          "duration": 16.221,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) むﾄ (@temnem_sui) / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13796,
-          "timestamp": "2025-12-05T03:16:49.389000+00:00",
-          "duration": 12.152,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13793,
-          "timestamp": "2025-12-05T03:16:46.349000+00:00",
-          "duration": 2.026,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) X 上的 雨良 Amala：“ポケミクに曲を書かせてください 自分、ゲンガーいけます” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13792,
-          "timestamp": "2025-12-05T03:16:29.101000+00:00",
-          "duration": 16.242,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13791,
-          "timestamp": "2025-12-05T03:16:24.022000+00:00",
-          "duration": 4.062,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) X 上的 やすたんげ@オリ曲配信中：“テトSV2、ノート数が増えるほど音質が劣化するバグがあるみたいで作業滞ってるんですけどこれ僕だけですか（一応不具合報告済み）” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13790,
-          "timestamp": "2025-12-05T03:16:06.812000+00:00",
-          "duration": 16.194,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13789,
-          "timestamp": "2025-12-05T03:16:04.781000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) X 上的 ilyleft：“すごい奇遇ですね！私も一億回目の視聴者なんですよ！ https://t.co/pFydQiHa98” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13788,
-          "timestamp": "2025-12-05T03:16:00.748000+00:00",
-          "duration": 3.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) X 上的 おぜう：“@blinkvelocity 一瞬で反映ってこともないしタイムラグあるのかもな” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13787,
-          "timestamp": "2025-12-05T03:15:52.636000+00:00",
-          "duration": 7.095,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) X 上的 ilyleft：“すごい奇遇ですね！私も一億回目の視聴者なんですよ！ https://t.co/pFydQiHa98” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13786,
-          "timestamp": "2025-12-05T03:15:44.509000+00:00",
-          "duration": 7.115,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13784,
-          "timestamp": "2025-12-05T03:15:15.151000+00:00",
-          "duration": 28.353,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 蝶々P/一之瀬ユウ (@papiyon_cyoucyo) / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13783,
-          "timestamp": "2025-12-05T03:14:32.595000+00:00",
-          "duration": 41.539,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13782,
-          "timestamp": "2025-12-05T03:14:30.563000+00:00",
+          "id": 14894,
+          "timestamp": "2025-12-05T15:08:08.102000+00:00",
           "duration": 1.019,
           "data": {
             "app": "chrome.exe",
-            "title": "(1) X 上的 煮ル果実：“【NEWS】 毎年恒例の遊園地でのワンマンライブ『HOUSE PARK 2026』を今年も開園します🎡 場所：浅草花やしき『浅草花劇場』 日にち：2月11日(水 祝) 昼・夕 二部制ライブ(全編バンド編成、DJ TIMEも予定🍍) 第一部は 8周年特別セトリ 第二部は 全楽曲投票を行いランキング形式で発表 https://t.co/v5DCgb50Zt” / X - Cent Browser"
+            "title": "Exit Tunes Presents Vocaloconnection Feat.Hatsune Miku | HMV&BOOKS online : Online Shopping & Information Site - QWCE-236 [English Site] - Cent Browser"
           }
         },
         {
-          "id": 13779,
-          "timestamp": "2025-12-05T03:13:56.170000+00:00",
-          "duration": 33.382,
+          "id": 14892,
+          "timestamp": "2025-12-05T15:07:59.020000+00:00",
+          "duration": 8.077,
           "data": {
             "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
+            "title": "舞萌机台 - Google 搜索 - Cent Browser"
           }
         },
         {
-          "id": 13778,
-          "timestamp": "2025-12-05T03:12:47.278000+00:00",
-          "duration": 67.881,
+          "id": 14889,
+          "timestamp": "2025-12-05T15:05:25.517000+00:00",
+          "duration": 152.497,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 13777,
-          "timestamp": "2025-12-05T03:12:44.243000+00:00",
-          "duration": 2.031,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "p_main_db 属性"
-          }
-        },
-        {
-          "id": 13776,
-          "timestamp": "2025-12-05T03:12:38.156000+00:00",
-          "duration": 5.076,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 13775,
-          "timestamp": "2025-12-05T03:12:36.130000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "p_main_db"
-          }
-        },
-        {
-          "id": 13774,
-          "timestamp": "2025-12-05T03:12:09.782000+00:00",
-          "duration": 25.336,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13773,
-          "timestamp": "2025-12-05T03:12:03.709000+00:00",
-          "duration": 5.063,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13772,
-          "timestamp": "2025-12-05T03:12:02.704000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13765,
-          "timestamp": "2025-12-05T03:07:09.049000+00:00",
-          "duration": 292.642,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13762,
-          "timestamp": "2025-12-05T03:06:06.283000+00:00",
-          "duration": 61.751,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13761,
-          "timestamp": "2025-12-05T03:06:01.214000+00:00",
-          "duration": 4.051,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13760,
-          "timestamp": "2025-12-05T03:05:52.086000+00:00",
-          "duration": 8.113,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13759,
-          "timestamp": "2025-12-05T03:05:47.004000+00:00",
-          "duration": 4.065,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13758,
-          "timestamp": "2025-12-05T03:05:45.990000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13757,
-          "timestamp": "2025-12-05T03:05:18.733000+00:00",
-          "duration": 26.242,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13755,
-          "timestamp": "2025-12-05T03:04:58.465000+00:00",
-          "duration": 19.264,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13754,
-          "timestamp": "2025-12-05T03:04:48.334000+00:00",
-          "duration": 9.114,
-          "data": {
-            "app": "chrome.exe",
-            "title": "File:Missile对生日恰好在1月1日的解释.png - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13751,
-          "timestamp": "2025-12-05T03:03:51.652000+00:00",
-          "duration": 55.666,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13750,
-          "timestamp": "2025-12-05T03:03:04.054000+00:00",
-          "duration": 46.581,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13749,
-          "timestamp": "2025-12-05T03:03:01.014000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13748,
-          "timestamp": "2025-12-05T03:02:49.884000+00:00",
-          "duration": 10.115,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13746,
-          "timestamp": "2025-12-05T03:02:47.858000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13745,
-          "timestamp": "2025-12-05T03:02:46.843000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13744,
-          "timestamp": "2025-12-05T03:02:45.834000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13743,
-          "timestamp": "2025-12-05T03:02:44.820000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - VY1 - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13738,
-          "timestamp": "2025-12-05T02:56:01.198000+00:00",
-          "duration": 402.609,
-          "data": {
-            "app": "chrome.exe",
-            "title": "足立レイ - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13736,
-          "timestamp": "2025-12-05T02:55:36.867000+00:00",
-          "duration": 23.315,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY2 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13717,
-          "timestamp": "2025-12-05T02:31:27.570000+00:00",
-          "duration": 1448.287,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - VY1 - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13716,
-          "timestamp": "2025-12-05T02:31:22.510000+00:00",
-          "duration": 4.046,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 编辑歌姬信息 - Cent Browser"
-          }
-        },
-        {
-          "id": 13715,
-          "timestamp": "2025-12-05T02:31:17.472000+00:00",
-          "duration": 4.024,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13714,
-          "timestamp": "2025-12-05T02:31:15.440000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - VY2 - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13713,
-          "timestamp": "2025-12-05T02:31:11.378000+00:00",
-          "duration": 3.046,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 编辑歌姬信息 - Cent Browser"
-          }
-        },
-        {
-          "id": 13712,
-          "timestamp": "2025-12-05T02:31:10.364000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13711,
-          "timestamp": "2025-12-05T02:31:06.306000+00:00",
-          "duration": 3.045,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY2 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13710,
-          "timestamp": "2025-12-05T02:30:48.120000+00:00",
-          "duration": 17.183,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13709,
-          "timestamp": "2025-12-05T02:30:00.469000+00:00",
-          "duration": 46.643,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13708,
-          "timestamp": "2025-12-05T02:29:55.403000+00:00",
-          "duration": 4.051,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY2 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13707,
-          "timestamp": "2025-12-05T02:29:32.096000+00:00",
-          "duration": 22.297,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13706,
-          "timestamp": "2025-12-05T02:29:27.043000+00:00",
-          "duration": 4.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY2 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13705,
-          "timestamp": "2025-12-05T02:29:20.969000+00:00",
-          "duration": 5.056,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13703,
-          "timestamp": "2025-12-05T02:29:12.878000+00:00",
-          "duration": 7.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY2 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13702,
-          "timestamp": "2025-12-05T02:29:09.838000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY1 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13701,
-          "timestamp": "2025-12-05T02:29:07.817000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13700,
-          "timestamp": "2025-12-05T02:28:29.331000+00:00",
-          "duration": 37.471,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13699,
-          "timestamp": "2025-12-05T02:28:13.130000+00:00",
-          "duration": 15.187,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY1 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13698,
-          "timestamp": "2025-12-05T02:28:06.033000+00:00",
-          "duration": 6.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13697,
-          "timestamp": "2025-12-05T02:28:00.970000+00:00",
-          "duration": 4.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY1 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13696,
-          "timestamp": "2025-12-05T02:27:54.902000+00:00",
-          "duration": 5.062,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13694,
-          "timestamp": "2025-12-05T02:27:39.729000+00:00",
-          "duration": 14.159,
-          "data": {
-            "app": "chrome.exe",
-            "title": "VY1 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13693,
-          "timestamp": "2025-12-05T02:27:32.629000+00:00",
-          "duration": 6.084,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13692,
-          "timestamp": "2025-12-05T02:27:27.579000+00:00",
-          "duration": 4.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13691,
-          "timestamp": "2025-12-05T02:26:55.173000+00:00",
-          "duration": 31.391,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13690,
-          "timestamp": "2025-12-05T02:26:46.043000+00:00",
-          "duration": 8.115,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13688,
-          "timestamp": "2025-12-05T02:26:40.971000+00:00",
-          "duration": 4.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13687,
-          "timestamp": "2025-12-05T02:26:34.889000+00:00",
-          "duration": 5.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13686,
-          "timestamp": "2025-12-05T02:26:29.810000+00:00",
-          "duration": 4.061,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13685,
-          "timestamp": "2025-12-05T02:26:22.715000+00:00",
-          "duration": 6.078,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13684,
-          "timestamp": "2025-12-05T02:26:16.623000+00:00",
-          "duration": 5.075,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13683,
-          "timestamp": "2025-12-05T02:26:12.568000+00:00",
-          "duration": 3.038,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13682,
-          "timestamp": "2025-12-05T02:26:07.507000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13681,
-          "timestamp": "2025-12-05T02:26:02.448000+00:00",
-          "duration": 4.052,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13680,
-          "timestamp": "2025-12-05T02:25:39.139000+00:00",
-          "duration": 22.294,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13679,
-          "timestamp": "2025-12-05T02:25:18.892000+00:00",
-          "duration": 19.234,
-          "data": {
-            "app": "chrome.exe",
-            "title": "猫村伊吕波 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13677,
-          "timestamp": "2025-12-05T02:24:34.364000+00:00",
-          "duration": 43.512,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13676,
-          "timestamp": "2025-12-05T02:24:30.322000+00:00",
-          "duration": 3.038,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13675,
-          "timestamp": "2025-12-05T02:24:27.281000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13674,
-          "timestamp": "2025-12-05T02:24:25.269000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "File:SV MIKI.png - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13673,
-          "timestamp": "2025-12-05T02:24:17.162000+00:00",
-          "duration": 7.097,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13670,
-          "timestamp": "2025-12-05T02:23:50.778000+00:00",
-          "duration": 25.367,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13669,
-          "timestamp": "2025-12-05T02:23:47.729000+00:00",
-          "duration": 2.036,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13668,
-          "timestamp": "2025-12-05T02:23:35.598000+00:00",
-          "duration": 11.127,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13667,
-          "timestamp": "2025-12-05T02:23:13.314000+00:00",
-          "duration": 21.268,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13666,
-          "timestamp": "2025-12-05T02:23:05.199000+00:00",
-          "duration": 7.101,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13665,
-          "timestamp": "2025-12-05T02:23:04.187000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13663,
-          "timestamp": "2025-12-05T02:20:17.299000+00:00",
-          "duration": 165.872,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13661,
-          "timestamp": "2025-12-05T02:20:14.249000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13660,
-          "timestamp": "2025-12-05T02:20:02.092000+00:00",
-          "duration": 11.143,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13659,
-          "timestamp": "2025-12-05T02:19:51.969000+00:00",
-          "duration": 9.111,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13658,
-          "timestamp": "2025-12-05T02:19:41.847000+00:00",
-          "duration": 9.111,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SF-A2开发代号miki - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13657,
-          "timestamp": "2025-12-05T02:19:32.742000+00:00",
-          "duration": 8.097,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13656,
-          "timestamp": "2025-12-05T02:19:30.710000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13655,
-          "timestamp": "2025-12-05T02:19:17.552000+00:00",
-          "duration": 12.139,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13652,
-          "timestamp": "2025-12-05T02:19:14.512000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13651,
-          "timestamp": "2025-12-05T02:19:10.450000+00:00",
-          "duration": 3.046,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13650,
-          "timestamp": "2025-12-05T02:19:06.396000+00:00",
-          "duration": 3.042,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13649,
-          "timestamp": "2025-12-05T02:19:03.360000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13648,
-          "timestamp": "2025-12-05T02:18:53.219000+00:00",
-          "duration": 9.125,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13647,
-          "timestamp": "2025-12-05T02:18:49.161000+00:00",
-          "duration": 3.042,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13646,
-          "timestamp": "2025-12-05T02:18:20.819000+00:00",
-          "duration": 27.338,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13645,
-          "timestamp": "2025-12-05T02:18:17.778000+00:00",
-          "duration": 2.038,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13644,
-          "timestamp": "2025-12-05T02:17:58.487000+00:00",
-          "duration": 18.278,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13643,
-          "timestamp": "2025-12-05T02:17:47.342000+00:00",
-          "duration": 10.139,
-          "data": {
-            "app": "chrome.exe",
-            "title": "冰山清辉 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13641,
-          "timestamp": "2025-12-05T02:17:44.291000+00:00",
-          "duration": 2.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13640,
-          "timestamp": "2025-12-05T02:17:18.976000+00:00",
-          "duration": 24.297,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13639,
-          "timestamp": "2025-12-05T02:17:10.883000+00:00",
-          "duration": 7.078,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13638,
-          "timestamp": "2025-12-05T02:16:54.701000+00:00",
-          "duration": 15.164,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13636,
-          "timestamp": "2025-12-05T02:15:59.051000+00:00",
-          "duration": 54.643,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13635,
-          "timestamp": "2025-12-05T02:15:58.037000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13634,
-          "timestamp": "2025-12-05T02:15:44.856000+00:00",
-          "duration": 12.163,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌爱雪 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13633,
-          "timestamp": "2025-12-05T02:15:40.802000+00:00",
-          "duration": 3.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13632,
-          "timestamp": "2025-12-05T02:15:27.652000+00:00",
-          "duration": 12.132,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13630,
-          "timestamp": "2025-12-05T02:15:03.386000+00:00",
-          "duration": 23.249,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13629,
-          "timestamp": "2025-12-05T02:14:42.162000+00:00",
-          "duration": 20.218,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13628,
-          "timestamp": "2025-12-05T02:14:38.107000+00:00",
-          "duration": 3.045,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13626,
-          "timestamp": "2025-12-05T02:14:36.085000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL最初声库的发行日期是 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 13625,
-          "timestamp": "2025-12-05T02:14:26.977000+00:00",
-          "duration": 8.092,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13623,
-          "timestamp": "2025-12-05T02:14:23.943000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13621,
-          "timestamp": "2025-12-05T02:14:19.899000+00:00",
-          "duration": 3.031,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL最初声库的发行日期是 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 13620,
-          "timestamp": "2025-12-05T02:14:18.887000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13619,
-          "timestamp": "2025-12-05T02:14:17.880000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13618,
-          "timestamp": "2025-12-05T02:14:16.865000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13617,
-          "timestamp": "2025-12-05T02:14:04.712000+00:00",
-          "duration": 11.14,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL最初声库的发行日期是 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 13616,
-          "timestamp": "2025-12-05T02:13:56.615000+00:00",
-          "duration": 7.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 13615,
-          "timestamp": "2025-12-05T02:13:50.536000+00:00",
-          "duration": 5.066,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL最初声库的发行日期是 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 13614,
-          "timestamp": "2025-12-05T02:13:40.417000+00:00",
-          "duration": 9.102,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13612,
-          "timestamp": "2025-12-05T02:12:22.464000+00:00",
-          "duration": 76.94,
-          "data": {
             "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+            "title": "舞萌机台正面图 - Google 搜索 - Cent Browser"
           }
         },
         {
-          "id": 13611,
-          "timestamp": "2025-12-05T02:12:17.396000+00:00",
-          "duration": 4.05,
+          "id": 14888,
+          "timestamp": "2025-12-05T15:05:22.482000+00:00",
+          "duration": 2.018,
           "data": {
             "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
+            "title": "百度图片搜索 - Cent Browser"
           }
         },
         {
-          "id": 13610,
-          "timestamp": "2025-12-05T02:12:14.351000+00:00",
+          "id": 14886,
+          "timestamp": "2025-12-05T15:05:19.442000+00:00",
           "duration": 2.033,
           "data": {
             "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+            "title": "舞萌机台正面图_百度搜索 - Cent Browser"
           }
         },
         {
-          "id": 13609,
-          "timestamp": "2025-12-05T02:12:09.282000+00:00",
-          "duration": 4.051,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13607,
-          "timestamp": "2025-12-05T02:11:39.951000+00:00",
-          "duration": 28.321,
-          "data": {
-            "app": "chrome.exe",
-            "title": "BIG AL - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13606,
-          "timestamp": "2025-12-05T02:11:33.858000+00:00",
-          "duration": 5.076,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13605,
-          "timestamp": "2025-12-05T02:11:23.753000+00:00",
-          "duration": 9.091,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13604,
-          "timestamp": "2025-12-05T02:11:16.674000+00:00",
-          "duration": 6.061,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13603,
-          "timestamp": "2025-12-05T02:11:10.598000+00:00",
-          "duration": 5.071,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13601,
-          "timestamp": "2025-12-05T02:10:23.036000+00:00",
-          "duration": 46.547,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13600,
-          "timestamp": "2025-12-05T02:10:15.964000+00:00",
-          "duration": 6.055,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13599,
-          "timestamp": "2025-12-05T02:10:03.815000+00:00",
-          "duration": 11.139,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13598,
-          "timestamp": "2025-12-05T02:10:02.796000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "贴靠助手"
-          }
-        },
-        {
-          "id": 13597,
-          "timestamp": "2025-12-05T02:09:58.749000+00:00",
-          "duration": 3.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13596,
-          "timestamp": "2025-12-05T02:09:56.717000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13590,
-          "timestamp": "2025-12-05T02:09:54.685000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13585,
-          "timestamp": "2025-12-05T02:09:49.615000+00:00",
-          "duration": 4.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13583,
-          "timestamp": "2025-12-05T02:09:43.537000+00:00",
-          "duration": 5.065,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13581,
-          "timestamp": "2025-12-05T02:09:40.496000+00:00",
-          "duration": 2.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13579,
-          "timestamp": "2025-12-05T02:09:08.107000+00:00",
-          "duration": 31.375,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13578,
-          "timestamp": "2025-12-05T02:09:05.061000+00:00",
-          "duration": 2.029,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【リュウト】ボク、リュウトです【オリジナル曲】（Gachapoid-我是Ryuto）_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13576,
-          "timestamp": "2025-12-05T02:09:00.014000+00:00",
-          "duration": 4.039,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Sweet Ann - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13574,
-          "timestamp": "2025-12-05T02:08:51.923000+00:00",
-          "duration": 7.076,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Lily(VOCALOID) - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13572,
-          "timestamp": "2025-12-05T02:08:09.492000+00:00",
-          "duration": 41.413,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gachapoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13571,
-          "timestamp": "2025-12-05T02:08:07.464000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13569,
-          "timestamp": "2025-12-05T02:08:00.385000+00:00",
-          "duration": 6.064,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13568,
-          "timestamp": "2025-12-05T02:07:59.367000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13565,
-          "timestamp": "2025-12-05T02:07:41.151000+00:00",
-          "duration": 17.198,
-          "data": {
-            "app": "chrome.exe",
-            "title": "リュウト-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13564,
-          "timestamp": "2025-12-05T02:07:31.029000+00:00",
-          "duration": 9.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【リュウト】ボク、リュウトです【オリジナル曲】（Gachapoid-我是Ryuto）_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13562,
-          "timestamp": "2025-12-05T02:07:22.921000+00:00",
-          "duration": 7.095,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 13561,
-          "timestamp": "2025-12-05T02:07:21.901000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13560,
-          "timestamp": "2025-12-05T02:07:17.855000+00:00",
-          "duration": 3.036,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 13559,
-          "timestamp": "2025-12-05T02:07:15.834000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13558,
-          "timestamp": "2025-12-05T02:07:05.726000+00:00",
-          "duration": 9.103,
-          "data": {
-            "app": "chrome.exe",
-            "title": "リュウト-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13557,
-          "timestamp": "2025-12-05T02:07:03.705000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13556,
-          "timestamp": "2025-12-05T02:06:55.591000+00:00",
-          "duration": 7.109,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 13555,
-          "timestamp": "2025-12-05T02:06:49.533000+00:00",
-          "duration": 5.051,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13553,
-          "timestamp": "2025-12-05T02:06:22.222000+00:00",
-          "duration": 26.302,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gachapoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13552,
-          "timestamp": "2025-12-05T02:06:21.209000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "uBlock₀ — 控制面板 - Cent Browser"
-          }
-        },
-        {
-          "id": 13550,
-          "timestamp": "2025-12-05T02:06:20.188000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13548,
-          "timestamp": "2025-12-05T02:06:19.181000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13545,
-          "timestamp": "2025-12-05T02:05:50.895000+00:00",
-          "duration": 27.271,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13544,
-          "timestamp": "2025-12-05T02:05:49.880000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13542,
-          "timestamp": "2025-12-05T02:05:43.812000+00:00",
-          "duration": 5.063,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gachapoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13540,
-          "timestamp": "2025-12-05T02:05:38.759000+00:00",
-          "duration": 4.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13538,
-          "timestamp": "2025-12-05T02:05:31.676000+00:00",
-          "duration": 6.07,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13536,
-          "timestamp": "2025-12-05T02:05:30.658000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13534,
-          "timestamp": "2025-12-05T02:05:21.572000+00:00",
-          "duration": 8.083,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gachapoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13532,
-          "timestamp": "2025-12-05T02:05:17.527000+00:00",
-          "duration": 3.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13530,
-          "timestamp": "2025-12-05T02:05:14.489000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序 - Cent Browser"
-          }
-        },
-        {
-          "id": 13528,
-          "timestamp": "2025-12-05T02:05:06.389000+00:00",
-          "duration": 7.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13526,
-          "timestamp": "2025-12-05T02:05:03.343000+00:00",
-          "duration": 2.029,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13525,
-          "timestamp": "2025-12-05T02:04:58.306000+00:00",
-          "duration": 4.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13524,
-          "timestamp": "2025-12-05T02:04:55.281000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13522,
-          "timestamp": "2025-12-05T02:04:54.269000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13517,
-          "timestamp": "2025-12-05T02:04:28.994000+00:00",
-          "duration": 24.27,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gachapoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13512,
-          "timestamp": "2025-12-05T02:00:19.806000+00:00",
-          "duration": 248.172,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Lily(VOCALOID) - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13510,
-          "timestamp": "2025-12-05T02:00:01.614000+00:00",
-          "duration": 17.176,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13509,
-          "timestamp": "2025-12-05T01:59:53.529000+00:00",
-          "duration": 7.07,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Lily(VOCALOID) - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13507,
-          "timestamp": "2025-12-05T01:59:43.395000+00:00",
-          "duration": 9.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13504,
-          "timestamp": "2025-12-05T01:59:42.375000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13503,
-          "timestamp": "2025-12-05T01:59:29.217000+00:00",
-          "duration": 12.142,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加P主 - Cent Browser"
-          }
-        },
-        {
-          "id": 13502,
-          "timestamp": "2025-12-05T01:58:52.748000+00:00",
-          "duration": 35.466,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13500,
-          "timestamp": "2025-12-05T01:58:27.412000+00:00",
-          "duration": 24.328,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Lily(VOCALOID) - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13499,
-          "timestamp": "2025-12-05T01:57:53.952000+00:00",
-          "duration": 32.448,
-          "data": {
-            "app": "chrome.exe",
-            "title": "KAITO - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13498,
-          "timestamp": "2025-12-05T01:57:49.906000+00:00",
-          "duration": 3.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13495,
-          "timestamp": "2025-12-05T01:57:46.859000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13493,
-          "timestamp": "2025-12-05T01:57:44.831000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "uBlock₀ — 控制面板 - Cent Browser"
-          }
-        },
-        {
-          "id": 13491,
-          "timestamp": "2025-12-05T01:57:39.759000+00:00",
-          "duration": 4.056,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13489,
-          "timestamp": "2025-12-05T01:57:37.730000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13488,
-          "timestamp": "2025-12-05T01:57:31.672000+00:00",
-          "duration": 5.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13487,
-          "timestamp": "2025-12-05T01:57:29.645000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13486,
-          "timestamp": "2025-12-05T01:57:28.630000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13485,
-          "timestamp": "2025-12-05T01:57:25.587000+00:00",
-          "duration": 2.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "uBlock₀ — 控制面板 - Cent Browser"
-          }
-        },
-        {
-          "id": 13483,
-          "timestamp": "2025-12-05T01:57:19.519000+00:00",
-          "duration": 5.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13482,
-          "timestamp": "2025-12-05T01:57:16.476000+00:00",
-          "duration": 2.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13481,
-          "timestamp": "2025-12-05T01:57:15.468000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13479,
-          "timestamp": "2025-12-05T01:56:55.242000+00:00",
-          "duration": 19.211,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序 - Cent Browser"
-          }
-        },
-        {
-          "id": 13478,
-          "timestamp": "2025-12-05T01:56:50.177000+00:00",
-          "duration": 4.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13476,
-          "timestamp": "2025-12-05T01:56:48.145000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13475,
-          "timestamp": "2025-12-05T01:56:38.035000+00:00",
-          "duration": 9.102,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13473,
-          "timestamp": "2025-12-05T01:56:29.933000+00:00",
-          "duration": 7.096,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序 - Cent Browser"
-          }
-        },
-        {
-          "id": 13472,
-          "timestamp": "2025-12-05T01:56:17.810000+00:00",
-          "duration": 11.118,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13471,
-          "timestamp": "2025-12-05T01:56:13.761000+00:00",
-          "duration": 3.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "KAITO - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13470,
-          "timestamp": "2025-12-05T01:56:12.756000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13468,
-          "timestamp": "2025-12-05T01:56:10.738000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13466,
-          "timestamp": "2025-12-05T01:56:09.726000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13464,
-          "timestamp": "2025-12-05T01:56:02.632000+00:00",
-          "duration": 6.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13463,
-          "timestamp": "2025-12-05T01:55:54.519000+00:00",
-          "duration": 7.1,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13462,
-          "timestamp": "2025-12-05T01:55:36.327000+00:00",
-          "duration": 17.187,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13461,
-          "timestamp": "2025-12-05T01:55:35.318000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "KAITO - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13458,
-          "timestamp": "2025-12-05T01:55:24.162000+00:00",
-          "duration": 10.141,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13457,
-          "timestamp": "2025-12-05T01:55:18.097000+00:00",
-          "duration": 5.05,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13454,
-          "timestamp": "2025-12-05T01:54:45.742000+00:00",
-          "duration": 31.332,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13453,
-          "timestamp": "2025-12-05T01:54:36.638000+00:00",
-          "duration": 8.091,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13451,
-          "timestamp": "2025-12-05T01:54:35.628000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13448,
-          "timestamp": "2025-12-05T01:54:23.473000+00:00",
-          "duration": 11.138,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13447,
-          "timestamp": "2025-12-05T01:54:21.450000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13445,
-          "timestamp": "2025-12-05T01:54:19.423000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13443,
-          "timestamp": "2025-12-05T01:54:13.338000+00:00",
-          "duration": 5.067,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13441,
-          "timestamp": "2025-12-05T01:54:11.322000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13439,
-          "timestamp": "2025-12-05T01:54:01.193000+00:00",
-          "duration": 9.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13437,
-          "timestamp": "2025-12-05T01:53:59.158000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13435,
-          "timestamp": "2025-12-05T01:53:58.139000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13432,
-          "timestamp": "2025-12-05T01:53:46.009000+00:00",
-          "duration": 11.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ誕生祭2024｜株式会社インターネット - Cent Browser"
-          }
-        },
-        {
-          "id": 13431,
-          "timestamp": "2025-12-05T01:53:34.863000+00:00",
-          "duration": 10.138,
-          "data": {
-            "app": "chrome.exe",
-            "title": "神威がくぽ诞生祭 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 13430,
-          "timestamp": "2025-12-05T01:53:33.848000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13429,
-          "timestamp": "2025-12-05T01:53:20.674000+00:00",
-          "duration": 12.168,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13427,
-          "timestamp": "2025-12-05T01:52:23.942000+00:00",
-          "duration": 55.72,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13426,
-          "timestamp": "2025-12-05T01:52:19.889000+00:00",
-          "duration": 3.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 添加歌姬 - Cent Browser"
-          }
-        },
-        {
-          "id": 13424,
-          "timestamp": "2025-12-05T01:52:17.861000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13422,
-          "timestamp": "2025-12-05T01:52:03.698000+00:00",
-          "duration": 13.153,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gackpoid - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13421,
-          "timestamp": "2025-12-05T01:51:31.297000+00:00",
-          "duration": 31.392,
-          "data": {
-            "app": "chrome.exe",
-            "title": "KAITO - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13420,
-          "timestamp": "2025-12-05T01:51:30.286000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13417,
-          "timestamp": "2025-12-05T01:51:18.164000+00:00",
-          "duration": 11.106,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13416,
-          "timestamp": "2025-12-05T01:51:00.946000+00:00",
-          "duration": 16.203,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13415,
-          "timestamp": "2025-12-05T01:50:45.776000+00:00",
-          "duration": 14.162,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 歌姬信息库 - Cent Browser"
-          }
-        },
-        {
-          "id": 13413,
-          "timestamp": "2025-12-05T01:49:09.681000+00:00",
-          "duration": 95.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13412,
-          "timestamp": "2025-12-05T01:49:07.672000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13411,
-          "timestamp": "2025-12-05T01:49:05.657000+00:00",
+          "id": 14885,
+          "timestamp": "2025-12-05T15:05:17.426000+00:00",
           "duration": 1.008,
           "data": {
             "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
+            "title": "image.baidu.com - Cent Browser"
           }
         },
         {
-          "id": 13410,
-          "timestamp": "2025-12-05T01:49:04.639000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "KAITO - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
-          }
-        },
-        {
-          "id": 13409,
-          "timestamp": "2025-12-05T01:49:03.634000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13407,
-          "timestamp": "2025-12-05T01:49:02.618000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13401,
-          "timestamp": "2025-12-05T01:49:00.588000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13399,
-          "timestamp": "2025-12-05T01:48:59.568000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13398,
-          "timestamp": "2025-12-05T01:48:57.538000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13397,
-          "timestamp": "2025-12-05T01:48:55.516000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13396,
-          "timestamp": "2025-12-05T01:48:41.349000+00:00",
-          "duration": 13.155,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
-          }
-        },
-        {
-          "id": 13395,
-          "timestamp": "2025-12-05T01:48:37.301000+00:00",
-          "duration": 3.037,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "p_main_db"
-          }
-        },
-        {
-          "id": 13394,
-          "timestamp": "2025-12-05T01:48:35.273000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13393,
-          "timestamp": "2025-12-05T01:48:30.229000+00:00",
-          "duration": 4.039,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13392,
-          "timestamp": "2025-12-05T01:48:29.216000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13391,
-          "timestamp": "2025-12-05T01:48:28.198000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13390,
-          "timestamp": "2025-12-05T01:48:25.155000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13388,
-          "timestamp": "2025-12-05T01:48:24.143000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13387,
-          "timestamp": "2025-12-05T01:48:23.127000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13386,
-          "timestamp": "2025-12-05T01:48:20.099000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13385,
-          "timestamp": "2025-12-05T01:48:17.068000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13384,
-          "timestamp": "2025-12-05T01:47:38.628000+00:00",
-          "duration": 37.431,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13383,
-          "timestamp": "2025-12-05T01:47:03.233000+00:00",
-          "duration": 34.382,
-          "data": {
-            "app": "MuMuPlayerUpdater.exe",
-            "title": "MuMu更新"
-          }
-        },
-        {
-          "id": 13382,
-          "timestamp": "2025-12-05T01:47:02.224000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMu-setup-V5.12.0.2340-1202225902.exe",
-            "title": "verifying installer: 76%"
-          }
-        },
-        {
-          "id": 13381,
-          "timestamp": "2025-12-05T01:45:53.529000+00:00",
-          "duration": 67.677,
-          "data": {
-            "app": "MuMuPlayerUpdater.exe",
-            "title": "MuMu更新"
-          }
-        },
-        {
-          "id": 13379,
-          "timestamp": "2025-12-05T01:45:52.516000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13378,
-          "timestamp": "2025-12-05T01:45:50.483000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "MuMuPlayerUpdater.exe",
-            "title": "MuMu更新"
-          }
-        },
-        {
-          "id": 13377,
-          "timestamp": "2025-12-05T01:45:49.470000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13376,
-          "timestamp": "2025-12-05T01:45:47.451000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "MuMuPlayerUpdater.exe",
-            "title": "MuMu更新"
-          }
-        },
-        {
-          "id": 13375,
-          "timestamp": "2025-12-05T01:45:45.416000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13374,
-          "timestamp": "2025-12-05T01:45:18.967000+00:00",
-          "duration": 25.438,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13373,
-          "timestamp": "2025-12-05T01:45:17.911000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuPlayerUpdater.exe",
-            "title": "MuMu更新"
-          }
-        },
-        {
-          "id": 13372,
-          "timestamp": "2025-12-05T01:45:15.891000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13370,
-          "timestamp": "2025-12-05T01:43:07.517000+00:00",
-          "duration": 127.36,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13369,
-          "timestamp": "2025-12-05T01:43:04.491000+00:00",
-          "duration": 2.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13368,
-          "timestamp": "2025-12-05T01:43:03.475000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13366,
-          "timestamp": "2025-12-05T01:43:02.457000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13365,
-          "timestamp": "2025-12-05T01:43:01.446000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13364,
-          "timestamp": "2025-12-05T01:43:00.429000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13362,
-          "timestamp": "2025-12-05T01:42:59.411000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13361,
-          "timestamp": "2025-12-05T01:42:56.321000+00:00",
-          "duration": 2.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13360,
-          "timestamp": "2025-12-05T01:42:55.309000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13359,
-          "timestamp": "2025-12-05T01:42:54.221000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13358,
-          "timestamp": "2025-12-05T01:42:51.177000+00:00",
-          "duration": 2.029,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13357,
-          "timestamp": "2025-12-05T01:42:48.136000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13355,
-          "timestamp": "2025-12-05T01:42:38.036000+00:00",
-          "duration": 9.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13354,
-          "timestamp": "2025-12-05T01:42:36.012000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13353,
-          "timestamp": "2025-12-05T01:42:29.945000+00:00",
-          "duration": 5.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13352,
-          "timestamp": "2025-12-05T01:42:27.935000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13350,
-          "timestamp": "2025-12-05T01:42:25.906000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13348,
-          "timestamp": "2025-12-05T01:41:56.626000+00:00",
-          "duration": 28.268,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13347,
-          "timestamp": "2025-12-05T01:41:54.599000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13346,
-          "timestamp": "2025-12-05T01:41:47.515000+00:00",
-          "duration": 6.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13344,
-          "timestamp": "2025-12-05T01:41:46.506000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13342,
-          "timestamp": "2025-12-05T01:41:44.475000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13338,
-          "timestamp": "2025-12-05T01:41:15.145000+00:00",
-          "duration": 28.317,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13335,
-          "timestamp": "2025-12-05T01:41:11.082000+00:00",
-          "duration": 3.043,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13333,
-          "timestamp": "2025-12-05T01:41:03+00:00",
-          "duration": 7.079,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13331,
-          "timestamp": "2025-12-05T01:41:01.985000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13329,
-          "timestamp": "2025-12-05T01:41:00.970000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13326,
-          "timestamp": "2025-12-05T01:40:45.815000+00:00",
-          "duration": 14.142,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13325,
-          "timestamp": "2025-12-05T01:40:43.793000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13323,
-          "timestamp": "2025-12-05T01:40:42.780000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13321,
-          "timestamp": "2025-12-05T01:40:39.761000+00:00",
-          "duration": 2.013,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13320,
-          "timestamp": "2025-12-05T01:40:26.630000+00:00",
-          "duration": 12.122,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13319,
-          "timestamp": "2025-12-05T01:40:24.611000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - GUMI - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13317,
-          "timestamp": "2025-12-05T01:40:11.490000+00:00",
-          "duration": 12.116,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13316,
-          "timestamp": "2025-12-05T01:40:04.414000+00:00",
-          "duration": 6.062,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13314,
-          "timestamp": "2025-12-05T01:39:52.268000+00:00",
-          "duration": 11.132,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13313,
-          "timestamp": "2025-12-05T01:39:47.213000+00:00",
-          "duration": 4.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13312,
-          "timestamp": "2025-12-05T01:39:45.190000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13311,
-          "timestamp": "2025-12-05T01:39:44.175000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13310,
-          "timestamp": "2025-12-05T01:39:39.098000+00:00",
-          "duration": 4.06,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13308,
-          "timestamp": "2025-12-05T01:39:32.008000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13307,
-          "timestamp": "2025-12-05T01:39:31.001000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13304,
-          "timestamp": "2025-12-05T01:39:29.989000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13303,
-          "timestamp": "2025-12-05T01:39:27.964000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13302,
-          "timestamp": "2025-12-05T01:39:25.945000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13301,
-          "timestamp": "2025-12-05T01:39:24.937000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13300,
-          "timestamp": "2025-12-05T01:39:22.904000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13299,
-          "timestamp": "2025-12-05T01:39:16.829000+00:00",
-          "duration": 5.057,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
-          }
-        },
-        {
-          "id": 13298,
-          "timestamp": "2025-12-05T01:39:15.814000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13297,
-          "timestamp": "2025-12-05T01:39:14.802000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13296,
-          "timestamp": "2025-12-05T01:39:13.743000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13295,
-          "timestamp": "2025-12-05T01:39:08.691000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13294,
-          "timestamp": "2025-12-05T01:39:06.670000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13293,
-          "timestamp": "2025-12-05T01:39:04.652000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13292,
-          "timestamp": "2025-12-05T01:39:02.624000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13291,
-          "timestamp": "2025-12-05T01:38:58.570000+00:00",
-          "duration": 3.04,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13290,
-          "timestamp": "2025-12-05T01:38:57.560000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13289,
-          "timestamp": "2025-12-05T01:38:56.545000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13288,
-          "timestamp": "2025-12-05T01:38:54.472000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13287,
-          "timestamp": "2025-12-05T01:38:53.456000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13286,
-          "timestamp": "2025-12-05T01:38:50.421000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13285,
-          "timestamp": "2025-12-05T01:38:48.406000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13284,
-          "timestamp": "2025-12-05T01:37:11.221000+00:00",
-          "duration": 96.179,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13283,
-          "timestamp": "2025-12-05T01:36:56.075000+00:00",
-          "duration": 14.14,
-          "data": {
-            "app": "chrome.exe",
-            "title": "扩展程序"
-          }
-        },
-        {
-          "id": 13281,
-          "timestamp": "2025-12-05T01:34:25.407000+00:00",
-          "duration": 149.654,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13280,
-          "timestamp": "2025-12-05T01:34:23.374000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13279,
-          "timestamp": "2025-12-05T01:34:22.361000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13278,
-          "timestamp": "2025-12-05T01:34:03.137000+00:00",
-          "duration": 18.213,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13277,
-          "timestamp": "2025-12-05T01:34:02.121000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13276,
-          "timestamp": "2025-12-05T01:34:00.106000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13275,
-          "timestamp": "2025-12-05T01:33:57.068000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13274,
-          "timestamp": "2025-12-05T01:33:56.054000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13273,
-          "timestamp": "2025-12-05T01:33:54.027000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13272,
-          "timestamp": "2025-12-05T01:33:52.005000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13271,
-          "timestamp": "2025-12-05T01:33:46.936000+00:00",
-          "duration": 4.058,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
-          }
-        },
-        {
-          "id": 13270,
-          "timestamp": "2025-12-05T01:33:42.888000+00:00",
-          "duration": 3.037,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13269,
-          "timestamp": "2025-12-05T01:33:40.867000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13268,
-          "timestamp": "2025-12-05T01:33:37.825000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13267,
-          "timestamp": "2025-12-05T01:33:32.770000+00:00",
-          "duration": 4.048,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13266,
-          "timestamp": "2025-12-05T01:33:25.694000+00:00",
-          "duration": 6.072,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13264,
-          "timestamp": "2025-12-05T01:33:04.463000+00:00",
-          "duration": 20.211,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13263,
-          "timestamp": "2025-12-05T01:33:03.444000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13262,
-          "timestamp": "2025-12-05T01:33:01.413000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13261,
-          "timestamp": "2025-12-05T01:33:00.405000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13260,
-          "timestamp": "2025-12-05T01:32:55.342000+00:00",
-          "duration": 4.057,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13258,
-          "timestamp": "2025-12-05T01:32:51.290000+00:00",
-          "duration": 3.04,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13256,
-          "timestamp": "2025-12-05T01:32:47.232000+00:00",
-          "duration": 3.041,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
-          }
-        },
-        {
-          "id": 13255,
-          "timestamp": "2025-12-05T01:32:45.205000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13254,
-          "timestamp": "2025-12-05T01:32:43.159000+00:00",
-          "duration": 1.042,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13253,
-          "timestamp": "2025-12-05T01:32:38.121000+00:00",
-          "duration": 4.031,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13251,
-          "timestamp": "2025-12-05T01:32:37.091000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13250,
-          "timestamp": "2025-12-05T01:32:33.051000+00:00",
-          "duration": 3.031,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13249,
-          "timestamp": "2025-12-05T01:32:31.034000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13243,
-          "timestamp": "2025-12-05T01:28:22.138000+00:00",
-          "duration": 247.879,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13242,
-          "timestamp": "2025-12-05T01:28:09.994000+00:00",
-          "duration": 11.136,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13241,
-          "timestamp": "2025-12-05T01:28:08.975000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13240,
-          "timestamp": "2025-12-05T01:28:05.896000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13239,
-          "timestamp": "2025-12-05T01:28:04.891000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13238,
-          "timestamp": "2025-12-05T01:28:03.876000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13237,
-          "timestamp": "2025-12-05T01:28:01.848000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13236,
-          "timestamp": "2025-12-05T01:27:52.740000+00:00",
-          "duration": 8.094,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "查找"
-          }
-        },
-        {
-          "id": 13235,
-          "timestamp": "2025-12-05T01:27:50.728000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13234,
-          "timestamp": "2025-12-05T01:27:42.640000+00:00",
-          "duration": 7.085,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13233,
-          "timestamp": "2025-12-05T01:27:27.466000+00:00",
-          "duration": 14.158,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13232,
-          "timestamp": "2025-12-05T01:27:18.356000+00:00",
-          "duration": 8.095,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13231,
-          "timestamp": "2025-12-05T01:27:03.172000+00:00",
-          "duration": 14.177,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13230,
-          "timestamp": "2025-12-05T01:27:01.135000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "查找"
-          }
-        },
-        {
-          "id": 13229,
-          "timestamp": "2025-12-05T01:26:41.913000+00:00",
-          "duration": 18.214,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13228,
-          "timestamp": "2025-12-05T01:26:32.829000+00:00",
-          "duration": 8.075,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "查找"
-          }
-        },
-        {
-          "id": 13226,
-          "timestamp": "2025-12-05T01:26:29.802000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13225,
-          "timestamp": "2025-12-05T01:26:19.697000+00:00",
-          "duration": 9.087,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "查找"
-          }
-        },
-        {
-          "id": 13224,
-          "timestamp": "2025-12-05T01:26:18.684000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13223,
-          "timestamp": "2025-12-05T01:26:17.669000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13222,
-          "timestamp": "2025-12-05T01:24:21.373000+00:00",
-          "duration": 115.23,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13221,
-          "timestamp": "2025-12-05T01:24:19.353000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13218,
-          "timestamp": "2025-12-05T01:23:53.047000+00:00",
-          "duration": 25.296,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13215,
-          "timestamp": "2025-12-05T01:23:10.580000+00:00",
-          "duration": 41.462,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13214,
-          "timestamp": "2025-12-05T01:23:07.549000+00:00",
-          "duration": 2.026,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13213,
-          "timestamp": "2025-12-05T01:23:04.505000+00:00",
-          "duration": 2.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13210,
-          "timestamp": "2025-12-05T01:22:26.048000+00:00",
-          "duration": 37.448,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13209,
-          "timestamp": "2025-12-05T01:22:18.962000+00:00",
-          "duration": 6.075,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 主页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13208,
-          "timestamp": "2025-12-05T01:22:14.913000+00:00",
-          "duration": 3.036,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13207,
-          "timestamp": "2025-12-05T01:22:13.902000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13205,
-          "timestamp": "2025-12-05T01:22:11.876000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13204,
-          "timestamp": "2025-12-05T01:22:09.849000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13203,
-          "timestamp": "2025-12-05T01:22:07.822000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13202,
-          "timestamp": "2025-12-05T01:22:01.758000+00:00",
-          "duration": 5.059,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe"
-          }
-        },
-        {
-          "id": 13201,
-          "timestamp": "2025-12-05T01:22:00.743000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13200,
-          "timestamp": "2025-12-05T01:21:59.731000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "p_main_db"
-          }
-        },
-        {
-          "id": 13199,
-          "timestamp": "2025-12-05T01:21:58.716000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13198,
-          "timestamp": "2025-12-05T01:21:55.690000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "*F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13197,
-          "timestamp": "2025-12-05T01:21:52.655000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13196,
-          "timestamp": "2025-12-05T01:21:51.647000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "p_main_db"
-          }
-        },
-        {
-          "id": 13195,
-          "timestamp": "2025-12-05T01:20:39.784000+00:00",
-          "duration": 70.848,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13194,
-          "timestamp": "2025-12-05T01:20:35.744000+00:00",
-          "duration": 3.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13191,
-          "timestamp": "2025-12-05T01:20:14.490000+00:00",
-          "duration": 20.239,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13190,
-          "timestamp": "2025-12-05T01:20:13.476000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13186,
-          "timestamp": "2025-12-05T01:19:38.069000+00:00",
-          "duration": 34.393,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13185,
-          "timestamp": "2025-12-05T01:19:35.015000+00:00",
-          "duration": 2.037,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13184,
-          "timestamp": "2025-12-05T01:17:52.868000+00:00",
-          "duration": 101.134,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13183,
-          "timestamp": "2025-12-05T01:17:50.852000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 13182,
-          "timestamp": "2025-12-05T01:17:01.297000+00:00",
-          "duration": 48.548,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13181,
-          "timestamp": "2025-12-05T01:17:00.283000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13179,
-          "timestamp": "2025-12-05T01:16:59.267000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13178,
-          "timestamp": "2025-12-05T01:16:57.252000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(1) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 13177,
-          "timestamp": "2025-12-05T01:16:49.154000+00:00",
-          "duration": 7.09,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13175,
-          "timestamp": "2025-12-05T01:16:46.113000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13172,
-          "timestamp": "2025-12-05T01:16:45.097000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
-          }
-        },
-        {
-          "id": 13171,
-          "timestamp": "2025-12-05T01:16:29.952000+00:00",
-          "duration": 14.138,
-          "data": {
-            "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13170,
-          "timestamp": "2025-12-05T01:16:27.926000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DeepSeek - 探索未至之境 - Cent Browser"
-          }
-        },
-        {
-          "id": 13169,
-          "timestamp": "2025-12-05T01:16:26.911000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "我想起一个纯英文id的谷歌邮箱用来方便联络，我想以nightol - DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13168,
-          "timestamp": "2025-12-05T01:16:25.894000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DeepSeek - 探索未至之境 - Cent Browser"
-          }
-        },
-        {
-          "id": 13167,
-          "timestamp": "2025-12-05T01:16:23.864000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DeepSeek - Cent Browser"
-          }
-        },
-        {
-          "id": 13166,
-          "timestamp": "2025-12-05T01:16:19.820000+00:00",
-          "duration": 3.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13165,
-          "timestamp": "2025-12-05T01:16:18.812000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 13164,
-          "timestamp": "2025-12-05T01:16:16.786000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13163,
-          "timestamp": "2025-12-05T01:16:15.767000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13162,
-          "timestamp": "2025-12-05T01:16:11.723000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13161,
-          "timestamp": "2025-12-05T01:16:10.715000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13160,
-          "timestamp": "2025-12-05T01:15:23.209000+00:00",
-          "duration": 46.5,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13159,
-          "timestamp": "2025-12-05T01:15:20.165000+00:00",
-          "duration": 2.031,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13157,
-          "timestamp": "2025-12-05T01:15:16.112000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "notepad++.exe",
-            "title": "F:\\p_main_db\\templates\\calendar.html - Notepad++ [Administrator]"
-          }
-        },
-        {
-          "id": 13156,
-          "timestamp": "2025-12-05T01:15:15.106000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 13155,
-          "timestamp": "2025-12-05T01:15:14.035000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13154,
-          "timestamp": "2025-12-05T01:15:10.990000+00:00",
-          "duration": 2.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 13151,
-          "timestamp": "2025-12-05T01:14:20.337000+00:00",
-          "duration": 49.638,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 13150,
-          "timestamp": "2025-12-05T01:14:17.302000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13147,
-          "timestamp": "2025-12-05T01:14:06.171000+00:00",
+          "id": 14882,
+          "timestamp": "2025-12-05T15:05:06.297000+00:00",
           "duration": 10.122,
           "data": {
             "app": "chrome.exe",
-            "title": "修复事件显示与跳转问题 - DeepSeek - Cent Browser"
+            "title": "舞萌机台正面图_百度搜索 - Cent Browser"
           }
         },
         {
-          "id": 13146,
-          "timestamp": "2025-12-05T01:14:04.139000+00:00",
-          "duration": 1.014,
+          "id": 14881,
+          "timestamp": "2025-12-05T15:05:04.284000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "chrome.exe",
-            "title": "DeepSeek - 探索未至之境 - Cent Browser"
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 13145,
-          "timestamp": "2025-12-05T01:14:01.115000+00:00",
-          "duration": 2.016,
+          "id": 14880,
+          "timestamp": "2025-12-05T15:04:43.087000+00:00",
+          "duration": 20.177,
           "data": {
             "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
+            "title": "舞萌机台正面图_百度搜索 - Cent Browser"
           }
         },
         {
-          "id": 13143,
-          "timestamp": "2025-12-05T01:13:58.076000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - MEIKO - 详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 13140,
-          "timestamp": "2025-12-05T01:13:57.065000+00:00",
+          "id": 14879,
+          "timestamp": "2025-12-05T15:04:42.081000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
@@ -4325,32 +275,1004 @@
           }
         },
         {
-          "id": 13138,
-          "timestamp": "2025-12-05T01:13:43.909000+00:00",
-          "duration": 12.145,
+          "id": 14877,
+          "timestamp": "2025-12-05T15:04:41.070000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "🎵 P主与歌姬信息库 - 纪念日日历 - Cent Browser"
+            "title": "青柠起始页 - Cent Browser"
           }
         },
         {
-          "id": 13004,
-          "timestamp": "2025-12-05T00:00:05.743000+00:00",
-          "duration": 4417.155,
+          "id": 14876,
+          "timestamp": "2025-12-05T15:04:36.022000+00:00",
+          "duration": 4.043,
           "data": {
-            "app": "cmd.exe",
-            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 14874,
+          "timestamp": "2025-12-05T15:04:23.876000+00:00",
+          "duration": 11.131,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台正面图_百度搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14873,
+          "timestamp": "2025-12-05T15:04:22.870000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 14872,
+          "timestamp": "2025-12-05T15:04:17.823000+00:00",
+          "duration": 4.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 14871,
+          "timestamp": "2025-12-05T15:04:13.784000+00:00",
+          "duration": 3.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台正面图 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14869,
+          "timestamp": "2025-12-05T15:04:09.746000+00:00",
+          "duration": 3.034,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Google - Cent Browser"
+          }
+        },
+        {
+          "id": 14868,
+          "timestamp": "2025-12-05T15:03:58.634000+00:00",
+          "duration": 10.102,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台正面图 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14867,
+          "timestamp": "2025-12-05T15:03:50.563000+00:00",
+          "duration": 7.06,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14866,
+          "timestamp": "2025-12-05T15:03:38.443000+00:00",
+          "duration": 11.109,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 14864,
+          "timestamp": "2025-12-05T15:02:03.527000+00:00",
+          "duration": 93.906,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台正面图 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14863,
+          "timestamp": "2025-12-05T15:01:39.306000+00:00",
+          "duration": 23.213,
+          "data": {
+            "app": "chrome.exe",
+            "title": "舞萌机台 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14862,
+          "timestamp": "2025-12-05T15:01:29.189000+00:00",
+          "duration": 9.099,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloconnection feat 初音 ミク - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14861,
+          "timestamp": "2025-12-05T15:01:27.172000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exit Tunes Presents Vocaloconnection Feat.Hatsune Miku | HMV&BOOKS online : Online Shopping & Information Site - QWCE-236 [English Site] - Cent Browser"
+          }
+        },
+        {
+          "id": 14859,
+          "timestamp": "2025-12-05T15:01:26.160000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 14856,
+          "timestamp": "2025-12-05T14:57:01.642000+00:00",
+          "duration": 263.508,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14855,
+          "timestamp": "2025-12-05T14:56:54.582000+00:00",
+          "duration": 6.05,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14854,
+          "timestamp": "2025-12-05T14:56:53.568000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 14853,
+          "timestamp": "2025-12-05T14:56:52.508000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exit Tunes Presents Vocaloconnection Feat.Hatsune Miku | HMV&BOOKS online : Online Shopping & Information Site - QWCE-236 [English Site] - Cent Browser"
+          }
+        },
+        {
+          "id": 14852,
+          "timestamp": "2025-12-05T14:56:50.495000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 14851,
+          "timestamp": "2025-12-05T14:56:36.341000+00:00",
+          "duration": 13.15,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Exit Tunes Presents Vocaloconnection Feat.Hatsune Miku | HMV&BOOKS online : Online Shopping & Information Site - QWCE-236 [English Site] - Cent Browser"
+          }
+        },
+        {
+          "id": 14850,
+          "timestamp": "2025-12-05T14:56:33.316000+00:00",
+          "duration": 2.016,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14849,
+          "timestamp": "2025-12-05T14:56:26.242000+00:00",
+          "duration": 6.059,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 14848,
+          "timestamp": "2025-12-05T14:56:20.187000+00:00",
+          "duration": 5.037,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloconnection feat 初音 ミク - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14847,
+          "timestamp": "2025-12-05T14:56:18.159000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14845,
+          "timestamp": "2025-12-05T14:56:15.121000+00:00",
+          "duration": 2.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14842,
+          "timestamp": "2025-12-05T14:56:13.105000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14841,
+          "timestamp": "2025-12-05T14:56:12.099000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14840,
+          "timestamp": "2025-12-05T14:56:11.080000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14839,
+          "timestamp": "2025-12-05T14:56:09.070000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14838,
+          "timestamp": "2025-12-05T14:56:07.052000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14837,
+          "timestamp": "2025-12-05T14:56:06.041000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14836,
+          "timestamp": "2025-12-05T14:56:04.023000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14835,
+          "timestamp": "2025-12-05T14:56:02.001000+00:00",
+          "duration": 1.017,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14834,
+          "timestamp": "2025-12-05T14:55:45.856000+00:00",
+          "duration": 15.14,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14833,
+          "timestamp": "2025-12-05T14:55:44.846000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 14832,
+          "timestamp": "2025-12-05T14:55:43.836000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "QQ 的跳转列表"
+          }
+        },
+        {
+          "id": 14831,
+          "timestamp": "2025-12-05T14:55:38.787000+00:00",
+          "duration": 4.038,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14830,
+          "timestamp": "2025-12-05T14:55:33.742000+00:00",
+          "duration": 4.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14829,
+          "timestamp": "2025-12-05T14:55:30.719000+00:00",
+          "duration": 2.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 14827,
+          "timestamp": "2025-12-05T14:54:09.898000+00:00",
+          "duration": 79.813,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14826,
+          "timestamp": "2025-12-05T14:54:07.873000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[1/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14825,
+          "timestamp": "2025-12-05T14:54:06.862000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[2/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14824,
+          "timestamp": "2025-12-05T14:53:54.746000+00:00",
+          "duration": 11.105,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[5/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14823,
+          "timestamp": "2025-12-05T14:53:51.720000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[6/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14822,
+          "timestamp": "2025-12-05T14:53:49.706000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[7/122/122-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14820,
+          "timestamp": "2025-12-05T14:53:48.698000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[6/120/120-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14819,
+          "timestamp": "2025-12-05T14:53:46.676000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/120/120-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14818,
+          "timestamp": "2025-12-05T14:53:45.669000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[5/117/117-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14817,
+          "timestamp": "2025-12-05T14:53:43.654000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[7/117/117-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14816,
+          "timestamp": "2025-12-05T14:53:42.634000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/116/117-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14815,
+          "timestamp": "2025-12-05T14:53:41.614000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[9/115/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14814,
+          "timestamp": "2025-12-05T14:53:40.594000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[7/115/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14813,
+          "timestamp": "2025-12-05T14:53:39.585000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/115/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14812,
+          "timestamp": "2025-12-05T14:53:35.552000+00:00",
+          "duration": 3.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/111/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14811,
+          "timestamp": "2025-12-05T14:53:34.543000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[6/105/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14810,
+          "timestamp": "2025-12-05T14:53:33.531000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/89/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14809,
+          "timestamp": "2025-12-05T14:53:32.524000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/73/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14808,
+          "timestamp": "2025-12-05T14:53:31.512000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/57/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14807,
+          "timestamp": "2025-12-05T14:53:30.501000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[3/43/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14806,
+          "timestamp": "2025-12-05T14:53:29.488000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[5/32/115-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14805,
+          "timestamp": "2025-12-05T14:53:28.482000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/26/114-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14804,
+          "timestamp": "2025-12-05T14:53:27.465000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[6/18/113-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14803,
+          "timestamp": "2025-12-05T14:53:26.452000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/15/113-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14802,
+          "timestamp": "2025-12-05T14:53:25.446000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/8/111-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14801,
+          "timestamp": "2025-12-05T14:53:24.426000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[8/8/82-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14800,
+          "timestamp": "2025-12-05T14:53:23.412000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[0/0/0-retry:0/0]/EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14799,
+          "timestamp": "2025-12-05T14:53:22.402000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14798,
+          "timestamp": "2025-12-05T14:53:21.397000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14797,
+          "timestamp": "2025-12-05T14:53:19.376000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14796,
+          "timestamp": "2025-12-05T14:53:15.331000+00:00",
+          "duration": 3.039,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14795,
+          "timestamp": "2025-12-05T14:53:13.296000+00:00",
+          "duration": 1.017,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14794,
+          "timestamp": "2025-12-05T14:53:11.258000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14793,
+          "timestamp": "2025-12-05T14:53:06.222000+00:00",
+          "duration": 4.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 14792,
+          "timestamp": "2025-12-05T14:53:00.168000+00:00",
+          "duration": 5.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14791,
+          "timestamp": "2025-12-05T14:52:59.153000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloconnection feat 初音 ミク - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14789,
+          "timestamp": "2025-12-05T14:52:57.132000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EXIT TUNES PRESENTS Vocaloconnection feat. 初音ミク | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 14787,
+          "timestamp": "2025-12-05T14:52:54.090000+00:00",
+          "duration": 2.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloconnection feat 初音 ミク - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14785,
+          "timestamp": "2025-12-05T14:52:53.073000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Client Challenge - Cent Browser"
+          }
+        },
+        {
+          "id": 14783,
+          "timestamp": "2025-12-05T14:52:51.039000+00:00",
+          "duration": 1.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 14782,
+          "timestamp": "2025-12-05T14:52:45.983000+00:00",
+          "duration": 4.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloconnection feat 初音 ミク - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14781,
+          "timestamp": "2025-12-05T14:52:16.697000+00:00",
+          "duration": 28.265,
+          "data": {
+            "app": "chrome.exe",
+            "title": "nds初音未来 未来计划 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14780,
+          "timestamp": "2025-12-05T14:52:04.576000+00:00",
+          "duration": 11.114,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14779,
+          "timestamp": "2025-12-05T14:52:03.565000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14778,
+          "timestamp": "2025-12-05T14:52:02.556000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Honeyview32.exe",
+            "title": "F:  > bcb94fe8b5e42bb0f8edf1e52d05e.jpg [1/7] - Honeyview 5.51 (Portable)"
+          }
+        },
+        {
+          "id": 14777,
+          "timestamp": "2025-12-05T14:51:58.512000+00:00",
+          "duration": 3.035,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14772,
+          "timestamp": "2025-12-05T14:40:53.502000+00:00",
+          "duration": 664.001,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14771,
+          "timestamp": "2025-12-05T14:40:52.494000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14770,
+          "timestamp": "2025-12-05T14:40:51.485000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Honeyview32.exe",
+            "title": "F:  > QQ20251205-163825.png [6/7] - Honeyview 5.51 (Portable)"
+          }
+        },
+        {
+          "id": 14769,
+          "timestamp": "2025-12-05T14:40:49.467000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14768,
+          "timestamp": "2025-12-05T14:40:47.453000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "Honeyview32.exe",
+            "title": "F:  > QQ20251205-163731.png [5/7] - Honeyview 5.51 (Portable)"
+          }
+        },
+        {
+          "id": 14767,
+          "timestamp": "2025-12-05T14:40:42.394000+00:00",
+          "duration": 4.053,
+          "data": {
+            "app": "gogh.exe",
+            "title": "选择图片"
+          }
+        },
+        {
+          "id": 14762,
+          "timestamp": "2025-12-05T14:28:14.624000+00:00",
+          "duration": 746.759,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14761,
+          "timestamp": "2025-12-05T14:28:11.609000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "cloudmusic.exe",
+            "title": "アポフェニア - 黒うさぎ"
+          }
+        },
+        {
+          "id": 14760,
+          "timestamp": "2025-12-05T14:28:06.556000+00:00",
+          "duration": 4.045,
+          "data": {
+            "app": "cloudmusic.exe",
+            "title": "我还想她 - 林俊杰"
+          }
+        },
+        {
+          "id": 14759,
+          "timestamp": "2025-12-05T14:28:05.542000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 14758,
+          "timestamp": "2025-12-05T14:27:48.327000+00:00",
+          "duration": 16.154,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14757,
+          "timestamp": "2025-12-05T14:27:47.315000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14756,
+          "timestamp": "2025-12-05T14:26:36.694000+00:00",
+          "duration": 69.616,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 14755,
+          "timestamp": "2025-12-05T14:26:31.633000+00:00",
+          "duration": 4.042,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14754,
+          "timestamp": "2025-12-05T14:26:24.551000+00:00",
+          "duration": 6.071,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 14753,
+          "timestamp": "2025-12-05T14:26:21.523000+00:00",
+          "duration": 2.02,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14752,
+          "timestamp": "2025-12-05T14:26:20.512000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "nds初音未来 未来计划 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 14751,
+          "timestamp": "2025-12-05T14:26:18.495000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14749,
+          "timestamp": "2025-12-05T14:25:23.977000+00:00",
+          "duration": 53.508,
+          "data": {
+            "app": "cloudmusic.exe",
+            "title": "アポフェニア - 黒うさぎ"
+          }
+        },
+        {
+          "id": 14748,
+          "timestamp": "2025-12-05T14:25:13.890000+00:00",
+          "duration": 9.079,
+          "data": {
+            "app": "cloudmusic.exe",
+            "title": "通り雨 - れん"
+          }
+        },
+        {
+          "id": 14746,
+          "timestamp": "2025-12-05T14:25:11.855000+00:00",
+          "duration": 1.02,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 14745,
+          "timestamp": "2025-12-05T14:25:10.847000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 14744,
+          "timestamp": "2025-12-05T14:25:09.838000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 14653,
+          "timestamp": "2025-12-05T12:00:05.702000+00:00",
+          "duration": 8703.127,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-12-05T12:00:07.832226",
+    "export_time": "2025-12-06T00:00:07.726273",
     "time_range": {
-      "start": "2025-12-05T00:00:05.743850",
-      "end": "2025-12-05T12:00:05.743850"
+      "start": "2025-12-05T12:00:05.702576",
+      "end": "2025-12-06T00:00:05.702576"
     },
-    "total_events": 482
+    "total_events": 140
   }
 }
