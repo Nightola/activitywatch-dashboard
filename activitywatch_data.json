@@ -5,23 +5,3299 @@
       "type": "window",
       "events": [
         {
-          "id": 15226,
-          "timestamp": "2025-12-06T00:00:06.079000+00:00",
-          "duration": 14394.861,
+          "id": 17236,
+          "timestamp": "2025-12-06T16:00:01.431000+00:00",
+          "duration": 1.02,
           "data": {
-            "app": "cloudmusic.exe",
-            "title": "アポフェニア - 黒うさぎ"
+            "app": "cmd.exe",
+            "title": "Administrator:  GitHub Auto Update"
+          }
+        },
+        {
+          "id": 17235,
+          "timestamp": "2025-12-06T15:57:04.508000+00:00",
+          "duration": 175.907,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17234,
+          "timestamp": "2025-12-06T15:57:02.487000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17233,
+          "timestamp": "2025-12-06T15:56:50.356000+00:00",
+          "duration": 11.123,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17232,
+          "timestamp": "2025-12-06T15:56:35.179000+00:00",
+          "duration": 14.172,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17231,
+          "timestamp": "2025-12-06T15:56:32.163000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17230,
+          "timestamp": "2025-12-06T15:56:22.065000+00:00",
+          "duration": 9.089,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17229,
+          "timestamp": "2025-12-06T15:56:16.996000+00:00",
+          "duration": 4.066,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17228,
+          "timestamp": "2025-12-06T15:56:14.975000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "livehime.exe",
+            "title": "哔哩哔哩直播姬"
+          }
+        },
+        {
+          "id": 17227,
+          "timestamp": "2025-12-06T15:56:11.952000+00:00",
+          "duration": 2.017,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17226,
+          "timestamp": "2025-12-06T15:56:06.900000+00:00",
+          "duration": 4.045,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17225,
+          "timestamp": "2025-12-06T15:56:04.889000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "livehime.exe",
+            "title": "哔哩哔哩直播姬"
+          }
+        },
+        {
+          "id": 17224,
+          "timestamp": "2025-12-06T15:55:47.748000+00:00",
+          "duration": 16.133,
+          "data": {
+            "app": "livehime.exe",
+            "title": "开播信息"
+          }
+        },
+        {
+          "id": 17223,
+          "timestamp": "2025-12-06T15:55:44.702000+00:00",
+          "duration": 2.035,
+          "data": {
+            "app": "livehime.exe",
+            "title": "哔哩哔哩直播姬"
+          }
+        },
+        {
+          "id": 17222,
+          "timestamp": "2025-12-06T15:55:43.696000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "livehime.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17221,
+          "timestamp": "2025-12-06T15:55:42.680000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "livehime.exe",
+            "title": "  版本更新"
+          }
+        },
+        {
+          "id": 17220,
+          "timestamp": "2025-12-06T15:55:41.672000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17219,
+          "timestamp": "2025-12-06T15:55:38.636000+00:00",
+          "duration": 2.028,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 17218,
+          "timestamp": "2025-12-06T15:55:37.618000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17217,
+          "timestamp": "2025-12-06T15:55:35.587000+00:00",
+          "duration": 1.025,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17216,
+          "timestamp": "2025-12-06T15:55:33.560000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17215,
+          "timestamp": "2025-12-06T15:55:25.503000+00:00",
+          "duration": 7.052,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17214,
+          "timestamp": "2025-12-06T15:55:17.432000+00:00",
+          "duration": 7.058,
+          "data": {
+            "app": "obs64.exe",
+            "title": "OBS 32.0.2 - 配置文件: 未命名 - 场景: 未命名"
+          }
+        },
+        {
+          "id": 17213,
+          "timestamp": "2025-12-06T15:55:14.412000+00:00",
+          "duration": 2.016,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17212,
+          "timestamp": "2025-12-06T15:55:09.372000+00:00",
+          "duration": 4.033,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 17211,
+          "timestamp": "2025-12-06T15:55:06.338000+00:00",
+          "duration": 2.02,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17210,
+          "timestamp": "2025-12-06T15:55:04.319000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 17209,
+          "timestamp": "2025-12-06T15:55:03.299000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 17208,
+          "timestamp": "2025-12-06T15:55:02.292000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17207,
+          "timestamp": "2025-12-06T15:55:01.275000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17206,
+          "timestamp": "2025-12-06T15:55:00.258000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 17205,
+          "timestamp": "2025-12-06T15:54:59.247000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17204,
+          "timestamp": "2025-12-06T15:54:32.988000+00:00",
+          "duration": 25.247,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17203,
+          "timestamp": "2025-12-06T15:54:31.979000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17202,
+          "timestamp": "2025-12-06T15:54:29.954000+00:00",
+          "duration": 1.02,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17201,
+          "timestamp": "2025-12-06T15:54:28.944000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17200,
+          "timestamp": "2025-12-06T15:54:27.924000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17199,
+          "timestamp": "2025-12-06T15:54:26.917000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17198,
+          "timestamp": "2025-12-06T15:54:25.909000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "OneCommander 的跳转列表"
+          }
+        },
+        {
+          "id": 17197,
+          "timestamp": "2025-12-06T15:54:24.900000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "设置 的跳转列表"
+          }
+        },
+        {
+          "id": 17196,
+          "timestamp": "2025-12-06T15:54:23.880000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "文件资源管理器 的跳转列表"
+          }
+        },
+        {
+          "id": 17195,
+          "timestamp": "2025-12-06T15:54:22.871000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17194,
+          "timestamp": "2025-12-06T15:54:21.860000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Notepad++ 的跳转列表"
+          }
+        },
+        {
+          "id": 17193,
+          "timestamp": "2025-12-06T15:54:20.842000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17192,
+          "timestamp": "2025-12-06T15:54:19.832000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Everything 的跳转列表"
+          }
+        },
+        {
+          "id": 17191,
+          "timestamp": "2025-12-06T15:54:05.722000+00:00",
+          "duration": 13.1,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17190,
+          "timestamp": "2025-12-06T15:54:02.686000+00:00",
+          "duration": 2.03,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17189,
+          "timestamp": "2025-12-06T15:53:58.657000+00:00",
+          "duration": 3.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17188,
+          "timestamp": "2025-12-06T15:53:56.628000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "cmd.exe",
+            "title": "管理员: C:\\Windows\\System32\\cmd.exe - python  app.py"
+          }
+        },
+        {
+          "id": 17187,
+          "timestamp": "2025-12-06T15:53:54.614000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17185,
+          "timestamp": "2025-12-06T15:51:12.129000+00:00",
+          "duration": 161.467,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17183,
+          "timestamp": "2025-12-06T15:51:08.081000+00:00",
+          "duration": 3.041,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17182,
+          "timestamp": "2025-12-06T15:51:03.028000+00:00",
+          "duration": 4.046,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17176,
+          "timestamp": "2025-12-06T15:45:50.197000+00:00",
+          "duration": 311.825,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17175,
+          "timestamp": "2025-12-06T15:45:49.188000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17174,
+          "timestamp": "2025-12-06T15:45:39.051000+00:00",
+          "duration": 9.128,
+          "data": {
+            "app": "QQ.exe",
+            "title": "编辑QQ录屏"
+          }
+        },
+        {
+          "id": 17173,
+          "timestamp": "2025-12-06T15:45:38.045000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17172,
+          "timestamp": "2025-12-06T15:45:04.483000+00:00",
+          "duration": 32.546,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17171,
+          "timestamp": "2025-12-06T15:44:38.189000+00:00",
+          "duration": 25.278,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17170,
+          "timestamp": "2025-12-06T15:44:35.166000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17169,
+          "timestamp": "2025-12-06T15:43:47.713000+00:00",
+          "duration": 46.445,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 17168,
+          "timestamp": "2025-12-06T15:43:46.694000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17165,
+          "timestamp": "2025-12-06T15:40:30.281000+00:00",
+          "duration": 195.407,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp*"
+          }
+        },
+        {
+          "id": 17164,
+          "timestamp": "2025-12-06T15:40:21.144000+00:00",
+          "duration": 8.131,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 333.svp"
+          }
+        },
+        {
+          "id": 17162,
+          "timestamp": "2025-12-06T15:39:38.672000+00:00",
+          "duration": 41.467,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": "Synthesizer V Studio Pro - 未命名"
+          }
+        },
+        {
+          "id": 17161,
+          "timestamp": "2025-12-06T15:39:37.661000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "synthv-studio.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17160,
+          "timestamp": "2025-12-06T15:39:27.526000+00:00",
+          "duration": 9.124,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17159,
+          "timestamp": "2025-12-06T15:39:23.486000+00:00",
+          "duration": 3.031,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 17158,
+          "timestamp": "2025-12-06T15:39:22.470000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17157,
+          "timestamp": "2025-12-06T15:39:20.442000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 17149,
+          "timestamp": "2025-12-06T15:20:35.242000+00:00",
+          "duration": 1124.181,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17148,
+          "timestamp": "2025-12-06T15:20:31.211000+00:00",
+          "duration": 3.025,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17140,
+          "timestamp": "2025-12-06T15:07:56.569000+00:00",
+          "duration": 753.634,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17139,
+          "timestamp": "2025-12-06T15:07:44.482000+00:00",
+          "duration": 11.082,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17138,
+          "timestamp": "2025-12-06T15:07:23.267000+00:00",
+          "duration": 20.199,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17137,
+          "timestamp": "2025-12-06T15:07:17.214000+00:00",
+          "duration": 5.047,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17132,
+          "timestamp": "2025-12-06T14:52:28.760000+00:00",
+          "duration": 887.436,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17131,
+          "timestamp": "2025-12-06T14:52:15.598000+00:00",
+          "duration": 12.153,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17126,
+          "timestamp": "2025-12-06T14:41:41.571000+00:00",
+          "duration": 633.022,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17125,
+          "timestamp": "2025-12-06T14:41:39.533000+00:00",
+          "duration": 1.021,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17124,
+          "timestamp": "2025-12-06T14:41:38.515000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17122,
+          "timestamp": "2025-12-06T14:37:10.926000+00:00",
+          "duration": 266.568,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17121,
+          "timestamp": "2025-12-06T14:36:52.733000+00:00",
+          "duration": 17.183,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 17119,
+          "timestamp": "2025-12-06T14:35:37.951000+00:00",
+          "duration": 73.765,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17118,
+          "timestamp": "2025-12-06T14:35:31.890000+00:00",
+          "duration": 5.052,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17117,
+          "timestamp": "2025-12-06T14:35:30.880000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 17116,
+          "timestamp": "2025-12-06T14:35:29.797000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": ".vpr - Everything"
+          }
+        },
+        {
+          "id": 17115,
+          "timestamp": "2025-12-06T14:35:28.790000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17114,
+          "timestamp": "2025-12-06T14:35:19.709000+00:00",
+          "duration": 8.073,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17113,
+          "timestamp": "2025-12-06T14:35:18.690000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17112,
+          "timestamp": "2025-12-06T14:35:12.624000+00:00",
+          "duration": 5.054,
+          "data": {
+            "app": "Everything.exe",
+            "title": ".vpr - Everything"
+          }
+        },
+        {
+          "id": 17111,
+          "timestamp": "2025-12-06T14:35:03.541000+00:00",
+          "duration": 8.071,
+          "data": {
+            "app": "Everything.exe",
+            "title": "vpr - Everything"
+          }
+        },
+        {
+          "id": 17110,
+          "timestamp": "2025-12-06T14:35:02.533000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 17109,
+          "timestamp": "2025-12-06T14:35:01.525000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "主 - Everything"
+          }
+        },
+        {
+          "id": 17108,
+          "timestamp": "2025-12-06T14:34:59.501000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 17107,
+          "timestamp": "2025-12-06T14:34:37.282000+00:00",
+          "duration": 21.207,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17106,
+          "timestamp": "2025-12-06T14:34:35.268000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17105,
+          "timestamp": "2025-12-06T14:34:33.243000+00:00",
+          "duration": 1.016,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Add Track"
+          }
+        },
+        {
+          "id": 17104,
+          "timestamp": "2025-12-06T14:34:32.238000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17103,
+          "timestamp": "2025-12-06T14:33:36.813000+00:00",
+          "duration": 54.42,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17100,
+          "timestamp": "2025-12-06T14:29:30.405000+00:00",
+          "duration": 245.402,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17099,
+          "timestamp": "2025-12-06T14:29:28.390000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "ExportSMF"
+          }
+        },
+        {
+          "id": 17098,
+          "timestamp": "2025-12-06T14:29:12.243000+00:00",
+          "duration": 15.133,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17097,
+          "timestamp": "2025-12-06T14:29:10.219000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 17096,
+          "timestamp": "2025-12-06T14:29:05.147000+00:00",
+          "duration": 4.053,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17095,
+          "timestamp": "2025-12-06T14:29:02.097000+00:00",
+          "duration": 2.043,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "ExportSMF"
+          }
+        },
+        {
+          "id": 17094,
+          "timestamp": "2025-12-06T14:28:49.981000+00:00",
+          "duration": 11.11,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17093,
+          "timestamp": "2025-12-06T14:28:38.883000+00:00",
+          "duration": 10.089,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 17092,
+          "timestamp": "2025-12-06T14:26:38.614000+00:00",
+          "duration": 119.258,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17091,
+          "timestamp": "2025-12-06T14:26:33.553000+00:00",
+          "duration": 4.051,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Add Track"
+          }
+        },
+        {
+          "id": 17089,
+          "timestamp": "2025-12-06T14:26:31.526000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17088,
+          "timestamp": "2025-12-06T14:26:15.362000+00:00",
+          "duration": 15.158,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 17087,
+          "timestamp": "2025-12-06T14:26:13.327000+00:00",
+          "duration": 1.02,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17086,
+          "timestamp": "2025-12-06T14:26:12.320000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17085,
+          "timestamp": "2025-12-06T14:26:07.271000+00:00",
+          "duration": 4.031,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 17084,
+          "timestamp": "2025-12-06T14:26:06.263000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 17083,
+          "timestamp": "2025-12-06T14:26:05.243000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 17082,
+          "timestamp": "2025-12-06T14:26:03.228000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "FileStorage"
+          }
+        },
+        {
+          "id": 17081,
+          "timestamp": "2025-12-06T14:25:08.704000+00:00",
+          "duration": 53.507,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 17080,
+          "timestamp": "2025-12-06T14:25:05.677000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "windowsdesktop-runtime-8.0.10-win-x64.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17079,
+          "timestamp": "2025-12-06T14:24:59.633000+00:00",
+          "duration": 5.036,
+          "data": {
+            "app": "windowsdesktop-runtime-8.0.21-win-x64.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17078,
+          "timestamp": "2025-12-06T14:24:57.622000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 17077,
+          "timestamp": "2025-12-06T14:24:56.607000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "FileStorage"
+          }
+        },
+        {
+          "id": 17076,
+          "timestamp": "2025-12-06T14:24:54.583000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 17075,
+          "timestamp": "2025-12-06T14:24:51.560000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "FileStorage"
+          }
+        },
+        {
+          "id": 17074,
+          "timestamp": "2025-12-06T14:24:50.552000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17073,
+          "timestamp": "2025-12-06T14:24:49.546000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Un_A.exe",
+            "title": "NekoGame 解除安装 "
+          }
+        },
+        {
+          "id": 17072,
+          "timestamp": "2025-12-06T14:24:48.540000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Un_A.exe",
+            "title": "NekoGame 解除安装"
+          }
+        },
+        {
+          "id": 17071,
+          "timestamp": "2025-12-06T14:24:40.446000+00:00",
+          "duration": 7.085,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17070,
+          "timestamp": "2025-12-06T14:24:39.430000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17069,
+          "timestamp": "2025-12-06T14:24:35.385000+00:00",
+          "duration": 3.041,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17068,
+          "timestamp": "2025-12-06T14:24:34.377000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Un_A.exe",
+            "title": "lx-music-desktop 解除安装 "
+          }
+        },
+        {
+          "id": 17067,
+          "timestamp": "2025-12-06T14:24:33.361000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Un_A.exe",
+            "title": "lx-music-desktop 解除安装"
+          }
+        },
+        {
+          "id": 17066,
+          "timestamp": "2025-12-06T14:24:31.157000+00:00",
+          "duration": 1.193,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17065,
+          "timestamp": "2025-12-06T14:24:29.903000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17064,
+          "timestamp": "2025-12-06T14:24:26.882000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17063,
+          "timestamp": "2025-12-06T14:24:25.872000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17062,
+          "timestamp": "2025-12-06T14:24:22.853000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17061,
+          "timestamp": "2025-12-06T14:24:21.844000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17060,
+          "timestamp": "2025-12-06T14:24:19.829000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17059,
+          "timestamp": "2025-12-06T14:24:18.822000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17058,
+          "timestamp": "2025-12-06T14:24:09.741000+00:00",
+          "duration": 8.072,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17057,
+          "timestamp": "2025-12-06T14:24:08.721000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 17055,
+          "timestamp": "2025-12-06T14:23:53.556000+00:00",
+          "duration": 14.144,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17054,
+          "timestamp": "2025-12-06T14:23:38.415000+00:00",
+          "duration": 14.135,
+          "data": {
+            "app": "Un.exe",
+            "title": "卸载微信"
+          }
+        },
+        {
+          "id": 17053,
+          "timestamp": "2025-12-06T14:23:37.408000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17052,
+          "timestamp": "2025-12-06T14:23:36.402000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Un.exe",
+            "title": "卸载微信"
+          }
+        },
+        {
+          "id": 17051,
+          "timestamp": "2025-12-06T14:23:26.289000+00:00",
+          "duration": 9.092,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 17050,
+          "timestamp": "2025-12-06T14:23:24.268000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "FileStorage"
+          }
+        },
+        {
+          "id": 17049,
+          "timestamp": "2025-12-06T14:23:23.262000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "2025-01"
+          }
+        },
+        {
+          "id": 17048,
+          "timestamp": "2025-12-06T14:23:22.252000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "File"
+          }
+        },
+        {
+          "id": 17047,
+          "timestamp": "2025-12-06T14:23:21.243000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "FileStorage"
+          }
+        },
+        {
+          "id": 17046,
+          "timestamp": "2025-12-06T14:23:20.221000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "wxid_8yhaw7ptlp9h21"
+          }
+        },
+        {
+          "id": 17045,
+          "timestamp": "2025-12-06T14:23:18.204000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WeChat Files"
+          }
+        },
+        {
+          "id": 17044,
+          "timestamp": "2025-12-06T14:23:15.179000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Documents"
+          }
+        },
+        {
+          "id": 17043,
+          "timestamp": "2025-12-06T14:23:14.162000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Tencent Files"
+          }
+        },
+        {
+          "id": 17042,
+          "timestamp": "2025-12-06T14:23:13.156000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_qq"
+          }
+        },
+        {
+          "id": 17041,
+          "timestamp": "2025-12-06T14:23:11.138000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_data"
+          }
+        },
+        {
+          "id": 17040,
+          "timestamp": "2025-12-06T14:23:10.118000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "06"
+          }
+        },
+        {
+          "id": 17039,
+          "timestamp": "2025-12-06T14:23:09.099000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Qzone"
+          }
+        },
+        {
+          "id": 17038,
+          "timestamp": "2025-12-06T14:23:07.080000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_data"
+          }
+        },
+        {
+          "id": 17037,
+          "timestamp": "2025-12-06T14:23:06.071000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Thumb"
+          }
+        },
+        {
+          "id": 17036,
+          "timestamp": "2025-12-06T14:23:05.054000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "File"
+          }
+        },
+        {
+          "id": 17035,
+          "timestamp": "2025-12-06T14:23:04.043000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "ThumbTemp"
+          }
+        },
+        {
+          "id": 17034,
+          "timestamp": "2025-12-06T14:23:03.033000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "File"
+          }
+        },
+        {
+          "id": 17033,
+          "timestamp": "2025-12-06T14:23:02.023000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "ThumbTemp"
+          }
+        },
+        {
+          "id": 17032,
+          "timestamp": "2025-12-06T14:23:01.003000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "File"
+          }
+        },
+        {
+          "id": 17031,
+          "timestamp": "2025-12-06T14:22:57.955000+00:00",
+          "duration": 2.038,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_data"
+          }
+        },
+        {
+          "id": 17030,
+          "timestamp": "2025-12-06T14:22:56.943000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "ThumbTemp"
+          }
+        },
+        {
+          "id": 17029,
+          "timestamp": "2025-12-06T14:22:54.918000+00:00",
+          "duration": 1.02,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "2025-01"
+          }
+        },
+        {
+          "id": 17028,
+          "timestamp": "2025-12-06T14:22:53.910000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Video"
+          }
+        },
+        {
+          "id": 17027,
+          "timestamp": "2025-12-06T14:22:49.870000+00:00",
+          "duration": 3.028,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_data"
+          }
+        },
+        {
+          "id": 17026,
+          "timestamp": "2025-12-06T14:22:47.848000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_qq"
+          }
+        },
+        {
+          "id": 17025,
+          "timestamp": "2025-12-06T14:22:46.835000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_temp"
+          }
+        },
+        {
+          "id": 17024,
+          "timestamp": "2025-12-06T14:22:44.820000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_qq"
+          }
+        },
+        {
+          "id": 17023,
+          "timestamp": "2025-12-06T14:22:43.809000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 17022,
+          "timestamp": "2025-12-06T14:22:33.646000+00:00",
+          "duration": 9.094,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17020,
+          "timestamp": "2025-12-06T14:22:31.618000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_qq"
+          }
+        },
+        {
+          "id": 17019,
+          "timestamp": "2025-12-06T14:22:30.598000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "448772008"
+          }
+        },
+        {
+          "id": 17018,
+          "timestamp": "2025-12-06T14:22:28.585000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_qq"
+          }
+        },
+        {
+          "id": 17017,
+          "timestamp": "2025-12-06T14:22:27.579000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17016,
+          "timestamp": "2025-12-06T14:22:26.560000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 17015,
+          "timestamp": "2025-12-06T14:22:24.465000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "nt_data"
+          }
+        },
+        {
+          "id": 17014,
+          "timestamp": "2025-12-06T14:22:23.457000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "448772008"
+          }
+        },
+        {
+          "id": 17013,
+          "timestamp": "2025-12-06T14:22:21.440000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Tencent Files"
+          }
+        },
+        {
+          "id": 17012,
+          "timestamp": "2025-12-06T14:22:18.403000+00:00",
+          "duration": 2.03,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Documents"
+          }
+        },
+        {
+          "id": 17011,
+          "timestamp": "2025-12-06T14:22:14.357000+00:00",
+          "duration": 3.038,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Administrator"
+          }
+        },
+        {
+          "id": 17010,
+          "timestamp": "2025-12-06T14:22:13.346000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Downloads"
+          }
+        },
+        {
+          "id": 17009,
+          "timestamp": "2025-12-06T14:22:11.317000+00:00",
+          "duration": 1.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Administrator"
+          }
+        },
+        {
+          "id": 17008,
+          "timestamp": "2025-12-06T14:22:08.283000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17007,
+          "timestamp": "2025-12-06T14:22:07.276000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Administrator"
+          }
+        },
+        {
+          "id": 17006,
+          "timestamp": "2025-12-06T14:22:05.255000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Users"
+          }
+        },
+        {
+          "id": 17005,
+          "timestamp": "2025-12-06T14:22:04.247000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17004,
+          "timestamp": "2025-12-06T14:22:03.239000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 17003,
+          "timestamp": "2025-12-06T14:22:00.216000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 17002,
+          "timestamp": "2025-12-06T14:21:57.176000+00:00",
+          "duration": 2.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【中日字幕/ぴーなた】求＆影 - feat. 重音テト_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 17001,
+          "timestamp": "2025-12-06T14:21:56.161000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Users"
+          }
+        },
+        {
+          "id": 17000,
+          "timestamp": "2025-12-06T14:21:54.147000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "C:\\"
+          }
+        },
+        {
+          "id": 16999,
+          "timestamp": "2025-12-06T14:21:53.135000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "\\"
+          }
+        },
+        {
+          "id": 16998,
+          "timestamp": "2025-12-06T14:21:52.116000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "无损"
+          }
+        },
+        {
+          "id": 16997,
+          "timestamp": "2025-12-06T14:21:49.068000+00:00",
+          "duration": 2.031,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16994,
+          "timestamp": "2025-12-06T14:20:33.313000+00:00",
+          "duration": 74.751,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【建议收藏】全网最详细C 盘清理指南！！！绝对值得收藏！！！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 16993,
+          "timestamp": "2025-12-06T14:20:32.293000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16992,
+          "timestamp": "2025-12-06T14:20:26.207000+00:00",
+          "duration": 5.073,
+          "data": {
+            "app": "chrome.exe",
+            "title": "C盘清理-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 16991,
+          "timestamp": "2025-12-06T14:20:25.186000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16990,
+          "timestamp": "2025-12-06T14:20:15.076000+00:00",
+          "duration": 9.105,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 16989,
+          "timestamp": "2025-12-06T14:20:14.067000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16988,
+          "timestamp": "2025-12-06T14:20:04.982000+00:00",
+          "duration": 8.079,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID6 Updater (Editor, Voicebanks) - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16987,
+          "timestamp": "2025-12-06T14:20:03.971000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 16986,
+          "timestamp": "2025-12-06T14:19:08.408000+00:00",
+          "duration": 54.558,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16985,
+          "timestamp": "2025-12-06T14:19:05.365000+00:00",
+          "duration": 2.034,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 16984,
+          "timestamp": "2025-12-06T14:18:59.286000+00:00",
+          "duration": 5.069,
+          "data": {
+            "app": "VOCALOID6_Editor_Installer.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16983,
+          "timestamp": "2025-12-06T14:18:56.249000+00:00",
+          "duration": 2.032,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Editor_6.10.0"
+          }
+        },
+        {
+          "id": 16982,
+          "timestamp": "2025-12-06T14:18:55.229000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "\\"
+          }
+        },
+        {
+          "id": 16981,
+          "timestamp": "2025-12-06T14:18:54.218000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 16980,
+          "timestamp": "2025-12-06T14:18:48.168000+00:00",
+          "duration": 5.037,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16979,
+          "timestamp": "2025-12-06T14:18:47.148000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 16978,
+          "timestamp": "2025-12-06T14:18:46.137000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "x6n4.0.exe",
+            "title": "AntiCheatExpert"
+          }
+        },
+        {
+          "id": 16977,
+          "timestamp": "2025-12-06T14:18:36.060000+00:00",
+          "duration": 9.069,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16976,
+          "timestamp": "2025-12-06T14:18:35.053000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Uninstall.exe",
+            "title": "CC加速器 卸载程序 "
+          }
+        },
+        {
+          "id": 16974,
+          "timestamp": "2025-12-06T14:18:28.976000+00:00",
+          "duration": 5.071,
+          "data": {
+            "app": "Uninstall.exe",
+            "title": "CC加速器卸载程序"
+          }
+        },
+        {
+          "id": 16973,
+          "timestamp": "2025-12-06T14:18:19.906000+00:00",
+          "duration": 8.063,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16972,
+          "timestamp": "2025-12-06T14:18:17.886000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "SystemSettings.exe",
+            "title": "C:\\Program Files\\AntiCheatExpert\\Uninstaller.exe"
+          }
+        },
+        {
+          "id": 16971,
+          "timestamp": "2025-12-06T14:18:14.861000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16970,
+          "timestamp": "2025-12-06T14:18:13.844000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Uninstaller.exe",
+            "title": "AntiCheatExpert"
+          }
+        },
+        {
+          "id": 16969,
+          "timestamp": "2025-12-06T14:18:10.819000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16968,
+          "timestamp": "2025-12-06T14:18:08.781000+00:00",
+          "duration": 1.024,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 16967,
+          "timestamp": "2025-12-06T14:18:02.715000+00:00",
+          "duration": 5.055,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16966,
+          "timestamp": "2025-12-06T14:18:01.698000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "卸载"
+          }
+        },
+        {
+          "id": 16965,
+          "timestamp": "2025-12-06T14:17:54.611000+00:00",
+          "duration": 6.068,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 16964,
+          "timestamp": "2025-12-06T14:17:52.595000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 16963,
+          "timestamp": "2025-12-06T14:17:50.566000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 16962,
+          "timestamp": "2025-12-06T14:17:47.488000+00:00",
+          "duration": 2.07,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "\\"
+          }
+        },
+        {
+          "id": 16961,
+          "timestamp": "2025-12-06T14:17:42.342000+00:00",
+          "duration": 4.138,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "C:\\"
+          }
+        },
+        {
+          "id": 16960,
+          "timestamp": "2025-12-06T14:17:39.318000+00:00",
+          "duration": 2.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files (x86)"
+          }
+        },
+        {
+          "id": 16959,
+          "timestamp": "2025-12-06T14:17:36.275000+00:00",
+          "duration": 2.031,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "C:\\"
+          }
+        },
+        {
+          "id": 16958,
+          "timestamp": "2025-12-06T14:17:35.269000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files"
+          }
+        },
+        {
+          "id": 16957,
+          "timestamp": "2025-12-06T14:17:34.259000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Common Files"
+          }
+        },
+        {
+          "id": 16956,
+          "timestamp": "2025-12-06T14:17:30.201000+00:00",
+          "duration": 3.038,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files"
+          }
+        },
+        {
+          "id": 16955,
+          "timestamp": "2025-12-06T14:17:29.195000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 16954,
+          "timestamp": "2025-12-06T14:17:27.181000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files"
+          }
+        },
+        {
+          "id": 16953,
+          "timestamp": "2025-12-06T14:17:26.170000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "QuarkUpdater"
+          }
+        },
+        {
+          "id": 16952,
+          "timestamp": "2025-12-06T14:17:23.138000+00:00",
+          "duration": 2.026,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files"
+          }
+        },
+        {
+          "id": 16951,
+          "timestamp": "2025-12-06T14:17:21.100000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MuMuVMMVbox"
+          }
+        },
+        {
+          "id": 16950,
+          "timestamp": "2025-12-06T14:17:19.081000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Program Files"
+          }
+        },
+        {
+          "id": 16949,
+          "timestamp": "2025-12-06T14:17:14.032000+00:00",
+          "duration": 4.044,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 16947,
+          "timestamp": "2025-12-06T14:15:14.925000+00:00",
+          "duration": 118.101,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16946,
+          "timestamp": "2025-12-06T14:15:11.893000+00:00",
+          "duration": 2.025,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 16945,
+          "timestamp": "2025-12-06T14:15:05.849000+00:00",
+          "duration": 5.037,
+          "data": {
+            "app": "VOCALOID6_Editor_Installer.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16944,
+          "timestamp": "2025-12-06T14:15:04.839000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "VOCALOID6 Editor 的跳转列表"
+          }
+        },
+        {
+          "id": 16943,
+          "timestamp": "2025-12-06T14:15:03.833000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6_Editor_Installer.exe",
+            "title": "VOCALOID6 Editor - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16942,
+          "timestamp": "2025-12-06T14:15:01.803000+00:00",
+          "duration": 1.02,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Editor_6.10.0"
+          }
+        },
+        {
+          "id": 16941,
+          "timestamp": "2025-12-06T14:15:00.781000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Update_6.10.0_Win"
+          }
+        },
+        {
+          "id": 16940,
+          "timestamp": "2025-12-06T14:14:59.764000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Voicebanks_6.3.6"
+          }
+        },
+        {
+          "id": 16939,
+          "timestamp": "2025-12-06T14:14:44.598000+00:00",
+          "duration": 14.157,
+          "data": {
+            "app": "VOCALOID6_Voicebanks_Installer.exe",
+            "title": "VOCALOID6 Voicebanks - InstallShield Wizard"
+          }
+        },
+        {
+          "id": 16938,
+          "timestamp": "2025-12-06T14:14:42.583000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Voicebanks_6.3.6"
+          }
+        },
+        {
+          "id": 16937,
+          "timestamp": "2025-12-06T14:14:41.576000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Update_6.10.0_Win"
+          }
+        },
+        {
+          "id": 16936,
+          "timestamp": "2025-12-06T14:14:39.564000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "提取 VOCALOID6_Voicebanks_6.3.6.zip"
+          }
+        },
+        {
+          "id": 16935,
+          "timestamp": "2025-12-06T14:14:32.500000+00:00",
+          "duration": 6.053,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "正在等待解压 VOCALOID6_Voicebanks_6.3.6.zip"
+          }
+        },
+        {
+          "id": 16933,
+          "timestamp": "2025-12-06T14:14:30.473000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "提取 VOCALOID6_Editor_6.10.0.zip"
+          }
+        },
+        {
+          "id": 16932,
+          "timestamp": "2025-12-06T14:14:25.419000+00:00",
+          "duration": 4.047,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VOCALOID6_Update_6.10.0_Win"
+          }
+        },
+        {
+          "id": 16931,
+          "timestamp": "2025-12-06T14:14:23.395000+00:00",
+          "duration": 1.017,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "无损"
+          }
+        },
+        {
+          "id": 16930,
+          "timestamp": "2025-12-06T14:14:19.343000+00:00",
+          "duration": 3.042,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "提取 VOCALOID6_Update_6.10.0_Win.zip"
+          }
+        },
+        {
+          "id": 16929,
+          "timestamp": "2025-12-06T14:14:17.306000+00:00",
+          "duration": 1.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "无损"
+          }
+        },
+        {
+          "id": 16928,
+          "timestamp": "2025-12-06T14:14:16.286000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 16927,
+          "timestamp": "2025-12-06T14:14:15.271000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16926,
+          "timestamp": "2025-12-06T14:14:14.256000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID6 Updater (Editor, Voicebanks) - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16925,
+          "timestamp": "2025-12-06T14:13:51.963000+00:00",
+          "duration": 21.289,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 16924,
+          "timestamp": "2025-12-06T14:12:30.192000+00:00",
+          "duration": 80.761,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16923,
+          "timestamp": "2025-12-06T14:12:27.144000+00:00",
+          "duration": 2.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID6 Updater (Editor, Voicebanks) - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16922,
+          "timestamp": "2025-12-06T14:12:16.039000+00:00",
+          "duration": 10.093,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16921,
+          "timestamp": "2025-12-06T14:12:11.996000+00:00",
+          "duration": 3.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID6 Updater (Editor, Voicebanks) - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16920,
+          "timestamp": "2025-12-06T14:12:09.980000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16918,
+          "timestamp": "2025-12-06T14:12:07.945000+00:00",
+          "duration": 1.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16916,
+          "timestamp": "2025-12-06T14:12:05.908000+00:00",
+          "duration": 1.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16915,
+          "timestamp": "2025-12-06T14:12:04.889000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID Authorizer - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16913,
+          "timestamp": "2025-12-06T14:11:56.807000+00:00",
+          "duration": 7.071,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16912,
+          "timestamp": "2025-12-06T14:11:54.790000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16911,
+          "timestamp": "2025-12-06T14:11:53.768000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16909,
+          "timestamp": "2025-12-06T14:11:07.344000+00:00",
+          "duration": 45.416,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16908,
+          "timestamp": "2025-12-06T14:10:49.147000+00:00",
+          "duration": 17.191,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID Authorizer - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16907,
+          "timestamp": "2025-12-06T14:10:48.140000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16906,
+          "timestamp": "2025-12-06T14:10:30.966000+00:00",
+          "duration": 16.166,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16904,
+          "timestamp": "2025-12-06T14:10:19.865000+00:00",
+          "duration": 10.096,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALO_CHANGER_Reference_Manual_ENG.pdf - Cent Browser"
+          }
+        },
+        {
+          "id": 16903,
+          "timestamp": "2025-12-06T14:10:18.849000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "vocaloid-net.s3.ap-northeast-1.amazonaws.com/assets/pdf_files/bc/VOCALO_CHANGER_Reference_Manual_ENG.pdf - Cent Browser"
+          }
+        },
+        {
+          "id": 16902,
+          "timestamp": "2025-12-06T14:10:14.796000+00:00",
+          "duration": 3.049,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16901,
+          "timestamp": "2025-12-06T14:10:02.687000+00:00",
+          "duration": 11.1,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16900,
+          "timestamp": "2025-12-06T14:09:54.601000+00:00",
+          "duration": 7.077,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID6 Updater (Editor, Voicebanks) - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16897,
+          "timestamp": "2025-12-06T14:09:53.585000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16896,
+          "timestamp": "2025-12-06T14:09:35.394000+00:00",
+          "duration": 17.184,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Download - VOCALOID - the modern singing synthesizer - - Cent Browser"
+          }
+        },
+        {
+          "id": 16895,
+          "timestamp": "2025-12-06T14:09:33.381000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16894,
+          "timestamp": "2025-12-06T14:09:30.345000+00:00",
+          "duration": 2.03,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Check for Updates"
+          }
+        },
+        {
+          "id": 16893,
+          "timestamp": "2025-12-06T14:09:28.323000+00:00",
+          "duration": 1.018,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16892,
+          "timestamp": "2025-12-06T14:09:26.310000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 16891,
+          "timestamp": "2025-12-06T14:09:24.278000+00:00",
+          "duration": 1.021,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16890,
+          "timestamp": "2025-12-06T14:09:18.216000+00:00",
+          "duration": 5.051,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 16889,
+          "timestamp": "2025-12-06T14:09:13.178000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Add Track"
+          }
+        },
+        {
+          "id": 16888,
+          "timestamp": "2025-12-06T14:09:12.170000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 16887,
+          "timestamp": "2025-12-06T14:09:09.134000+00:00",
+          "duration": 2.019,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 16886,
+          "timestamp": "2025-12-06T14:09:07.116000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16885,
+          "timestamp": "2025-12-06T14:09:06.096000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16884,
+          "timestamp": "2025-12-06T14:08:50.918000+00:00",
+          "duration": 14.166,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 16882,
+          "timestamp": "2025-12-06T14:08:49.910000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
+          }
+        },
+        {
+          "id": 16881,
+          "timestamp": "2025-12-06T14:08:47.890000+00:00",
+          "duration": 1.013,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 16880,
+          "timestamp": "2025-12-06T14:08:45.861000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 16879,
+          "timestamp": "2025-12-06T14:08:41.819000+00:00",
+          "duration": 3.032,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 16878,
+          "timestamp": "2025-12-06T14:08:40.801000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 16874,
+          "timestamp": "2025-12-06T13:57:57.692000+00:00",
+          "duration": 642.096,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク V4X (incl. ENGLISH) - Cent Browser"
+          }
+        },
+        {
+          "id": 16873,
+          "timestamp": "2025-12-06T13:57:51.636000+00:00",
+          "duration": 5.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "LICENSE | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16872,
+          "timestamp": "2025-12-06T13:57:30.398000+00:00",
+          "duration": 20.216,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SONICWIRE | サンプルパック・ソフト音源・効果音・BGMの、世界最大級のサウンド配信ストア「SONICWIRE」。 - Cent Browser"
+          }
+        },
+        {
+          "id": 16871,
+          "timestamp": "2025-12-06T13:57:17.255000+00:00",
+          "duration": 12.133,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SIGN IN | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16869,
+          "timestamp": "2025-12-06T13:56:30.809000+00:00",
+          "duration": 45.429,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SHOPPING CART | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16868,
+          "timestamp": "2025-12-06T13:56:27.787000+00:00",
+          "duration": 2.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BOOKMARK | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16867,
+          "timestamp": "2025-12-06T13:56:19.672000+00:00",
+          "duration": 7.101,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SONICWIRE | サンプルパック・ソフト音源・効果音・BGMの、世界最大級のサウンド配信ストア「SONICWIRE」。 - Cent Browser"
+          }
+        },
+        {
+          "id": 16866,
+          "timestamp": "2025-12-06T13:56:06.553000+00:00",
+          "duration": 12.102,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク V4X (incl. ENGLISH) - Cent Browser"
+          }
+        },
+        {
+          "id": 16862,
+          "timestamp": "2025-12-06T13:54:45.778000+00:00",
+          "duration": 79.767,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来中文声库《初音未来 V4中文版》更新包正式公开！ - 哔哩哔哩 - Cent Browser"
+          }
+        },
+        {
+          "id": 16861,
+          "timestamp": "2025-12-06T13:54:39.706000+00:00",
+          "duration": 5.056,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库 封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16859,
+          "timestamp": "2025-12-06T13:53:06.800000+00:00",
+          "duration": 91.897,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 16858,
+          "timestamp": "2025-12-06T13:53:01.739000+00:00",
+          "duration": 4.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库 封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16857,
+          "timestamp": "2025-12-06T13:52:55.653000+00:00",
+          "duration": 5.076,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库包装盒封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16856,
+          "timestamp": "2025-12-06T13:52:54.645000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "google.com/search?q=初音未来声库包装盒封面&sca_esv=a44b0fd4fc216c4a&sxsrf=AE3TifPt_2Ef4hwhUnAeO18-PtKZ4vgDkQ%3A1765029150182&ei=HjU0ac_wCp3PkPIP9eW_kAU&ved=0ahUKEwjP9478jamRAxWdJ0QIHfXyD1IQ4dUDCBE&uact=5&oq=初音未来声库包装盒封面&gs_lp=Egxnd3Mtd2l6LXNlcnAiIeWInemfs-acquadpeWjsOW6k-WMheijheebkuWwgemdojIIEAAYsAMY7wUyCBAAGLADGO8FMggQABiwAxjvBTIIEAAYsAMY7wVIwgtQ1whY1whwAXgAkAEAmAGgC6ABoAuqAQM3LTG4AQPIAQD4AQGYAgGgAgSYAwCIBgGQBgSSBwExoAfjAbIHALgHAMIHAzAuMcgHAoAIAA&sclient=gws-wiz-serp - Cent Browser"
+          }
+        },
+        {
+          "id": 16855,
+          "timestamp": "2025-12-06T13:52:46.573000+00:00",
+          "duration": 7.067,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制包装盒封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16852,
+          "timestamp": "2025-12-06T13:52:42.538000+00:00",
+          "duration": 3.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ミクパック (MIKU-Pack) | Vocaloid, Miku, Anime cover photo - Cent Browser"
+          }
+        },
+        {
+          "id": 16851,
+          "timestamp": "2025-12-06T13:52:41.517000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "pinterest.com/pin/655696027001289828/ - Cent Browser"
+          }
+        },
+        {
+          "id": 16850,
+          "timestamp": "2025-12-06T13:52:30.412000+00:00",
+          "duration": 10.085,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制包装盒封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16849,
+          "timestamp": "2025-12-06T13:52:01.137000+00:00",
+          "duration": 28.267,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制包装封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16848,
+          "timestamp": "2025-12-06T13:52:00.117000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "google.com/search?sca_esv=a44b0fd4fc216c4a&sxsrf=AE3TifP78qrGNncvH5ELq1dPZrknzs7BSg:1765029114957&udm=2&fbs=AIIjpHybaGNnaZw_4TckIDK59Rtx7EmYoHRazOl26McMSIhEN76r--b_JoN4qNq4Vf6qU61IsnXkbc7ivho-yF-2zJKe3aPE3R-7-R46izTUnp0dNo_Bvqbt5Sx8kFjxsxfH11SUpGeSSae3EvQc_Smy6U7TTfEVLRPholAeJSI3m6IWMPnr7RSoceoUmv0wWH6y3HLZ2nJa7vaV89DsPkelm3CRzBcZ4g&q=初音未来声库制包装封面&sa=X&ved=2ahUKEwiV_6jrjamRAxUFke4BHVgIO98QtKgLegQIFBAB&biw=1536&bih=714&dpr=1.25 - Cent Browser"
+          }
+        },
+        {
+          "id": 16847,
+          "timestamp": "2025-12-06T13:51:55.067000+00:00",
+          "duration": 4.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制包装封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16846,
+          "timestamp": "2025-12-06T13:51:45.980000+00:00",
+          "duration": 8.08,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制品 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16845,
+          "timestamp": "2025-12-06T13:51:37.876000+00:00",
+          "duration": 7.085,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Miku的音库版本 | 社区动态 | 易次元：网易互动阅读平台 - Cent Browser"
+          }
+        },
+        {
+          "id": 16844,
+          "timestamp": "2025-12-06T13:51:34.845000+00:00",
+          "duration": 2.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "易次元：网易互动阅读平台 - Cent Browser"
+          }
+        },
+        {
+          "id": 16843,
+          "timestamp": "2025-12-06T13:51:13.678000+00:00",
+          "duration": 20.149,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制品 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16841,
+          "timestamp": "2025-12-06T13:50:41.349000+00:00",
+          "duration": 31.321,
+          "data": {
+            "app": "chrome.exe",
+            "title": "VOCALOID产品列表 - 维基百科，自由的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 16840,
+          "timestamp": "2025-12-06T13:50:34.259000+00:00",
+          "duration": 6.073,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库制品 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16839,
+          "timestamp": "2025-12-06T13:50:24.179000+00:00",
+          "duration": 9.07,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来官网 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16838,
+          "timestamp": "2025-12-06T13:50:19.141000+00:00",
+          "duration": 4.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "piapro.net - Cent Browser"
+          }
+        },
+        {
+          "id": 16836,
+          "timestamp": "2025-12-06T13:49:23.608000+00:00",
+          "duration": 54.523,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク V4X (incl. ENGLISH) - Cent Browser"
+          }
+        },
+        {
+          "id": 16835,
+          "timestamp": "2025-12-06T13:49:06.380000+00:00",
+          "duration": 16.209,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SONICWIRE | サンプルパック・ソフト音源・効果音・BGMの、世界最大級のサウンド配信ストア「SONICWIRE」。 - Cent Browser"
+          }
+        },
+        {
+          "id": 16833,
+          "timestamp": "2025-12-06T13:48:49.187000+00:00",
+          "duration": 16.174,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ソフト音源の製品一覧 | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16832,
+          "timestamp": "2025-12-06T13:48:47.160000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク NT - Cent Browser"
+          }
+        },
+        {
+          "id": 16831,
+          "timestamp": "2025-12-06T13:48:27.952000+00:00",
+          "duration": 18.192,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ソフト音源の製品一覧 | SONICWIRE - Cent Browser"
+          }
+        },
+        {
+          "id": 16829,
+          "timestamp": "2025-12-06T13:47:54.606000+00:00",
+          "duration": 32.33,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク NT - Cent Browser"
+          }
+        },
+        {
+          "id": 16828,
+          "timestamp": "2025-12-06T13:47:34.342000+00:00",
+          "duration": 19.247,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音ミク V4 CHINESE - Cent Browser"
+          }
+        },
+        {
+          "id": 16827,
+          "timestamp": "2025-12-06T13:47:28.265000+00:00",
+          "duration": 5.067,
+          "data": {
+            "app": "chrome.exe",
+            "title": "piapro.net - Cent Browser"
+          }
+        },
+        {
+          "id": 16825,
+          "timestamp": "2025-12-06T13:47:26.248000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16823,
+          "timestamp": "2025-12-06T13:47:10.082000+00:00",
+          "duration": 15.158,
+          "data": {
+            "app": "chrome.exe",
+            "title": "piapro.net - Cent Browser"
+          }
+        },
+        {
+          "id": 16822,
+          "timestamp": "2025-12-06T13:47:06.047000+00:00",
+          "duration": 3.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来官网 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16821,
+          "timestamp": "2025-12-06T13:47:05.033000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16820,
+          "timestamp": "2025-12-06T13:46:59.984000+00:00",
+          "duration": 4.031,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Hatsune Miku | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 16817,
+          "timestamp": "2025-12-06T13:46:17.500000+00:00",
+          "duration": 41.479,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来 - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 16816,
+          "timestamp": "2025-12-06T13:45:56.286000+00:00",
+          "duration": 20.206,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库购买 封面 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16814,
+          "timestamp": "2025-12-06T13:45:14.858000+00:00",
+          "duration": 40.411,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库购买 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16813,
+          "timestamp": "2025-12-06T13:45:02.735000+00:00",
+          "duration": 11.113,
+          "data": {
+            "app": "chrome.exe",
+            "title": "正版初音未来V4X音源声库VOCALOID日英双语声库日本代购游戏周边 - Cent Browser"
+          }
+        },
+        {
+          "id": 16812,
+          "timestamp": "2025-12-06T13:44:51.614000+00:00",
+          "duration": 10.105,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音未来声库购买 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16811,
+          "timestamp": "2025-12-06T13:44:50.607000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16810,
+          "timestamp": "2025-12-06T13:44:41.539000+00:00",
+          "duration": 8.064,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 16808,
+          "timestamp": "2025-12-06T13:44:16.225000+00:00",
+          "duration": 24.308,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Hatsune Miku | Vocaloid Wiki | Fandom - Cent Browser"
+          }
+        },
+        {
+          "id": 16806,
+          "timestamp": "2025-12-06T13:43:56.022000+00:00",
+          "duration": 19.183,
+          "data": {
+            "app": "chrome.exe",
+            "title": "miku - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16805,
+          "timestamp": "2025-12-06T13:43:45.947000+00:00",
+          "duration": 9.067,
+          "data": {
+            "app": "chrome.exe",
+            "title": "miku voice cover - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16804,
+          "timestamp": "2025-12-06T13:43:30.796000+00:00",
+          "duration": 14.142,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音声库产品封面图片 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16803,
+          "timestamp": "2025-12-06T13:43:16.637000+00:00",
+          "duration": 13.14,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初音声库封面图片 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 16802,
+          "timestamp": "2025-12-06T13:43:15.619000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 16801,
+          "timestamp": "2025-12-06T13:43:05.508000+00:00",
+          "duration": 9.092,
+          "data": {
+            "app": "chrome.exe",
+            "title": "青柠起始页 - Cent Browser"
+          }
+        },
+        {
+          "id": 16799,
+          "timestamp": "2025-12-06T13:43:01.473000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "搬运工作台 - Cent Browser"
+          }
+        },
+        {
+          "id": 16740,
+          "timestamp": "2025-12-06T12:00:05.776000+00:00",
+          "duration": 6174.689,
+          "data": {
+            "app": "gogh.exe",
+            "title": "gogh"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-12-06T12:00:08.122371",
+    "export_time": "2025-12-07T00:00:07.853116",
     "time_range": {
-      "start": "2025-12-06T00:00:06.079045",
-      "end": "2025-12-06T12:00:06.079045"
+      "start": "2025-12-06T12:00:05.776556",
+      "end": "2025-12-07T00:00:05.776556"
     },
-    "total_events": 1
+    "total_events": 365
   }
 }
