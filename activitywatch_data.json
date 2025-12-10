@@ -5,35 +5,71 @@
       "type": "window",
       "events": [
         {
-          "id": 23123,
-          "timestamp": "2025-12-09T16:00:02.195000+00:00",
+          "id": 23689,
+          "timestamp": "2025-12-10T03:12:31.107000+00:00",
+          "duration": 2850.329,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23688,
+          "timestamp": "2025-12-10T03:11:08.746000+00:00",
+          "duration": 81.356,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMuPlayer"
+          }
+        },
+        {
+          "id": 23687,
+          "timestamp": "2025-12-10T03:10:01.440000+00:00",
+          "duration": 66.302,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23686,
+          "timestamp": "2025-12-10T03:09:59.430000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMuPlayer"
+          }
+        },
+        {
+          "id": 23685,
+          "timestamp": "2025-12-10T03:09:50.388000+00:00",
+          "duration": 8.038,
+          "data": {
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23683,
+          "timestamp": "2025-12-10T03:09:49.383000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "cmd.exe",
-            "title": "Administrator:  GitHub Auto Update"
+            "app": "MuMuPlayer.exe",
+            "title": "MuMuPlayer"
           }
         },
         {
-          "id": 23122,
-          "timestamp": "2025-12-09T16:00:01.183000+00:00",
-          "duration": 0.0,
+          "id": 23678,
+          "timestamp": "2025-12-10T03:05:01.187000+00:00",
+          "duration": 287.191,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MuMuPlayer.exe",
+            "title": "MuMu模拟器12"
           }
         },
         {
-          "id": 23121,
-          "timestamp": "2025-12-09T15:59:14.740000+00:00",
-          "duration": 45.434,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23120,
-          "timestamp": "2025-12-09T15:59:13.731000+00:00",
+          "id": 23677,
+          "timestamp": "2025-12-10T03:05:00.183000+00:00",
           "duration": 0.0,
           "data": {
             "app": "OneCommander.exe",
@@ -41,197 +77,152 @@
           }
         },
         {
-          "id": 23119,
-          "timestamp": "2025-12-09T15:59:10.697000+00:00",
-          "duration": 2.023,
+          "id": 23676,
+          "timestamp": "2025-12-10T03:03:48.372000+00:00",
+          "duration": 70.798,
           "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器12"
           }
         },
         {
-          "id": 23116,
-          "timestamp": "2025-12-09T15:55:26.405000+00:00",
-          "duration": 223.285,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23115,
-          "timestamp": "2025-12-09T15:55:23.372000+00:00",
-          "duration": 2.017,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "才溢れ、欠落者 - otetsu/巡音ルカ"
-          }
-        },
-        {
-          "id": 23114,
-          "timestamp": "2025-12-09T15:55:17.307000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Breath - otetsu/巡音ルカ"
-          }
-        },
-        {
-          "id": 23113,
-          "timestamp": "2025-12-09T15:54:09.638000+00:00",
-          "duration": 66.65,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23112,
-          "timestamp": "2025-12-09T15:54:04.589000+00:00",
-          "duration": 4.039,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 23107,
-          "timestamp": "2025-12-09T15:43:31.274000+00:00",
-          "duration": 632.305,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23106,
-          "timestamp": "2025-12-09T15:43:30.261000+00:00",
+          "id": 23675,
+          "timestamp": "2025-12-10T03:03:47.354000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "MuMuNG-setup-V4.1.33.3741-0717235142.exe",
+            "title": "verifying installer: 84%"
           }
         },
         {
-          "id": 23105,
-          "timestamp": "2025-12-09T15:43:29.253000+00:00",
+          "id": 23674,
+          "timestamp": "2025-12-10T03:03:22.091000+00:00",
+          "duration": 24.251,
+          "data": {
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23672,
+          "timestamp": "2025-12-10T03:03:02.914000+00:00",
+          "duration": 18.17,
+          "data": {
+            "app": "chrome.exe",
+            "title": "儿童色情信息举报专区 - 知乎 - Cent Browser"
+          }
+        },
+        {
+          "id": 23671,
+          "timestamp": "2025-12-10T03:03:01.897000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 7 | VOCALOID SHOP - Cent Browser"
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 23104,
-          "timestamp": "2025-12-09T15:43:28.232000+00:00",
+          "id": 23670,
+          "timestamp": "2025-12-10T03:02:37.588000+00:00",
+          "duration": 23.296,
+          "data": {
+            "app": "chrome.exe",
+            "title": "知乎 - 有问题，就会有答案 - Cent Browser"
+          }
+        },
+        {
+          "id": 23669,
+          "timestamp": "2025-12-10T03:02:35.551000+00:00",
+          "duration": 1.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 23668,
+          "timestamp": "2025-12-10T03:02:33.519000+00:00",
+          "duration": 1.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "下载MuMu模拟器 - Cent Browser"
+          }
+        },
+        {
+          "id": 23667,
+          "timestamp": "2025-12-10T03:02:23.439000+00:00",
+          "duration": 9.074,
+          "data": {
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23666,
+          "timestamp": "2025-12-10T03:02:22.435000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 23665,
+          "timestamp": "2025-12-10T03:02:19.398000+00:00",
+          "duration": 2.036,
+          "data": {
+            "app": "Un.exe",
+            "title": "MuMu模拟器 卸载"
+          }
+        },
+        {
+          "id": 23664,
+          "timestamp": "2025-12-10T03:02:17.385000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Un.exe",
+            "title": "MuMu模拟器 卸载 "
+          }
+        },
+        {
+          "id": 23663,
+          "timestamp": "2025-12-10T03:02:16.381000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "NUDE - otetsu feat. various - Vocaloid Database - Cent Browser"
+            "title": "下载MuMu模拟器 - Cent Browser"
           }
         },
         {
-          "id": 23102,
-          "timestamp": "2025-12-09T15:43:26.214000+00:00",
-          "duration": 1.007,
+          "id": 23662,
+          "timestamp": "2025-12-10T03:02:14.364000+00:00",
+          "duration": 1.009,
           "data": {
             "app": "chrome.exe",
-            "title": "【锁屏可打/EXPERT】モニタリング_哔哩哔哩bilibili - Cent Browser"
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 23098,
-          "timestamp": "2025-12-09T15:43:23.183000+00:00",
-          "duration": 2.021,
+          "id": 23660,
+          "timestamp": "2025-12-10T03:01:57.213000+00:00",
+          "duration": 16.135,
           "data": {
-            "app": "chrome.exe",
-            "title": "谱面预览 人狂热_哔哩哔哩bilibili - Cent Browser"
+            "app": "Un.exe",
+            "title": "MuMu模拟器 卸载 "
           }
         },
         {
-          "id": 23096,
-          "timestamp": "2025-12-09T15:43:22.175000+00:00",
-          "duration": 0.0,
+          "id": 23659,
+          "timestamp": "2025-12-10T03:01:48.120000+00:00",
+          "duration": 8.088,
           "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
           }
         },
         {
-          "id": 23095,
-          "timestamp": "2025-12-09T15:43:16.109000+00:00",
-          "duration": 5.055,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 23094,
-          "timestamp": "2025-12-09T15:43:12.072000+00:00",
-          "duration": 3.025,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Breath - otetsu/巡音ルカ"
-          }
-        },
-        {
-          "id": 23093,
-          "timestamp": "2025-12-09T15:42:47.803000+00:00",
-          "duration": 23.256,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "アポフェニア - 黒うさぎ"
-          }
-        },
-        {
-          "id": 23092,
-          "timestamp": "2025-12-09T15:42:46.783000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "网易云音乐"
-          }
-        },
-        {
-          "id": 23091,
-          "timestamp": "2025-12-09T15:42:44.749000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 23090,
-          "timestamp": "2025-12-09T15:42:43.743000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 23089,
-          "timestamp": "2025-12-09T15:42:42.660000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 23088,
-          "timestamp": "2025-12-09T15:42:39.629000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
-          }
-        },
-        {
-          "id": 23087,
-          "timestamp": "2025-12-09T15:42:38.621000+00:00",
+          "id": 23658,
+          "timestamp": "2025-12-10T03:01:47.109000+00:00",
           "duration": 0.0,
           "data": {
             "app": "SearchApp.exe",
@@ -239,188 +230,8 @@
           }
         },
         {
-          "id": 23086,
-          "timestamp": "2025-12-09T15:42:37.603000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "日期和时间信息"
-          }
-        },
-        {
-          "id": 23085,
-          "timestamp": "2025-12-09T15:42:36.588000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23082,
-          "timestamp": "2025-12-09T15:40:22.198000+00:00",
-          "duration": 133.382,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23081,
-          "timestamp": "2025-12-09T15:40:18.153000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23080,
-          "timestamp": "2025-12-09T15:40:16.134000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23079,
-          "timestamp": "2025-12-09T15:40:14.112000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23078,
-          "timestamp": "2025-12-09T15:40:12.087000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "QQ.exe",
-            "title": "图片查看器"
-          }
-        },
-        {
-          "id": 23077,
-          "timestamp": "2025-12-09T15:39:27.664000+00:00",
-          "duration": 43.412,
-          "data": {
-            "app": "chrome.exe",
-            "title": "谱面预览 人狂热_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23076,
-          "timestamp": "2025-12-09T15:39:25.649000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "NUDE - otetsu feat. various - Vocaloid Database - Cent Browser"
-          }
-        },
-        {
-          "id": 23074,
-          "timestamp": "2025-12-09T15:39:21.609000+00:00",
-          "duration": 3.031,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 23073,
-          "timestamp": "2025-12-09T15:39:07.448000+00:00",
-          "duration": 13.143,
-          "data": {
-            "app": "chrome.exe",
-            "title": "NUDE - otetsu feat. various - Vocaloid Database - Cent Browser"
-          }
-        },
-        {
-          "id": 23072,
-          "timestamp": "2025-12-09T15:39:01.381000+00:00",
-          "duration": 5.063,
-          "data": {
-            "app": "chrome.exe",
-            "title": "otetsu NUDE - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 23071,
-          "timestamp": "2025-12-09T15:38:54.322000+00:00",
-          "duration": 6.051,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 23070,
-          "timestamp": "2025-12-09T15:38:52.293000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "谱面预览 人狂热_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23068,
-          "timestamp": "2025-12-09T15:38:50.275000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 23067,
-          "timestamp": "2025-12-09T15:38:41.181000+00:00",
-          "duration": 8.076,
-          "data": {
-            "app": "chrome.exe",
-            "title": "谱面预览 人狂热_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23066,
-          "timestamp": "2025-12-09T15:38:40.164000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 23065,
-          "timestamp": "2025-12-09T15:38:39.156000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Chrome 的跳转列表"
-          }
-        },
-        {
-          "id": 23064,
-          "timestamp": "2025-12-09T15:38:37.131000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 23063,
-          "timestamp": "2025-12-09T15:38:36.123000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 23062,
-          "timestamp": "2025-12-09T15:38:35.114000+00:00",
+          "id": 23657,
+          "timestamp": "2025-12-10T03:01:46.102000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -428,863 +239,98 @@
           }
         },
         {
-          "id": 23061,
-          "timestamp": "2025-12-09T15:38:34.105000+00:00",
-          "duration": 0.0,
+          "id": 23656,
+          "timestamp": "2025-12-10T03:01:30.945000+00:00",
+          "duration": 14.152,
+          "data": {
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器12"
+          }
+        },
+        {
+          "id": 23655,
+          "timestamp": "2025-12-10T03:01:28.913000+00:00",
+          "duration": 1.021,
           "data": {
             "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 23059,
-          "timestamp": "2025-12-09T15:37:34.435000+00:00",
-          "duration": 58.663,
-          "data": {
-            "app": "chrome.exe",
-            "title": "谱面预览 人狂热_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23058,
-          "timestamp": "2025-12-09T15:37:33.427000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 23057,
-          "timestamp": "2025-12-09T15:37:28.367000+00:00",
-          "duration": 4.054,
-          "data": {
-            "app": "chrome.exe",
-            "title": "世界计划铺面确认-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23056,
-          "timestamp": "2025-12-09T15:37:27.347000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【锁屏可打/EXPERT】モニタリング_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23054,
-          "timestamp": "2025-12-09T15:37:26.334000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 23053,
-          "timestamp": "2025-12-09T15:37:22.284000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "世界计划铺面确认-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 23052,
-          "timestamp": "2025-12-09T15:37:16.206000+00:00",
-          "duration": 5.051,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23051,
-          "timestamp": "2025-12-09T15:37:15.192000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
             "title": ""
           }
         },
         {
-          "id": 23050,
-          "timestamp": "2025-12-09T15:37:14.092000+00:00",
+          "id": 23654,
+          "timestamp": "2025-12-10T03:00:52.529000+00:00",
+          "duration": 35.374,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Maimai DX Festival Plus (2023) - Cent Browser"
+          }
+        },
+        {
+          "id": 23653,
+          "timestamp": "2025-12-10T03:00:49.480000+00:00",
+          "duration": 2.031,
+          "data": {
+            "app": "chrome.exe",
+            "title": "下载MuMu模拟器 - Cent Browser"
+          }
+        },
+        {
+          "id": 23651,
+          "timestamp": "2025-12-10T03:00:45.429000+00:00",
+          "duration": 3.033,
+          "data": {
+            "app": "chrome.exe",
+            "title": "明日方舟 - Arknights - Cent Browser"
+          }
+        },
+        {
+          "id": 23649,
+          "timestamp": "2025-12-10T03:00:44.412000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "title": "bilibili.com/video/BV1AX4y1q7MN/?spm_id_from=333.337.search-card.all.click - Cent Browser"
           }
         },
         {
-          "id": 23049,
-          "timestamp": "2025-12-09T15:37:00.956000+00:00",
-          "duration": 12.129,
+          "id": 23647,
+          "timestamp": "2025-12-10T03:00:31.270000+00:00",
+          "duration": 12.123,
           "data": {
             "app": "chrome.exe",
-            "title": "【pjsk】Q版小人素材 - 哔哩哔哩 - Cent Browser"
+            "title": "mumu模拟器更新后alas是小-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 23048,
-          "timestamp": "2025-12-09T15:36:58.938000+00:00",
-          "duration": 1.009,
+          "id": 23646,
+          "timestamp": "2025-12-10T03:00:30.262000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
+            "title": "mumu模拟器更新后alas失效-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 23046,
-          "timestamp": "2025-12-09T15:36:54.903000+00:00",
-          "duration": 3.029,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【pjsk】Q版小人素材 - 哔哩哔哩 - Cent Browser"
-          }
-        },
-        {
-          "id": 23043,
-          "timestamp": "2025-12-09T15:33:14.674000+00:00",
-          "duration": 219.221,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23042,
-          "timestamp": "2025-12-09T15:33:13.664000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23041,
-          "timestamp": "2025-12-09T15:33:12.654000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > f140b44b62d9cd9a816b55f3f53f0603af1d4d30.png [10/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23040,
-          "timestamp": "2025-12-09T15:33:10.631000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23039,
-          "timestamp": "2025-12-09T15:33:09.615000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 1761390_613.jpg [8/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23038,
-          "timestamp": "2025-12-09T15:33:07.591000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23037,
-          "timestamp": "2025-12-09T15:33:06.581000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 1761390_612.jpg [7/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23036,
-          "timestamp": "2025-12-09T15:33:04.564000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23035,
-          "timestamp": "2025-12-09T15:33:03.548000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > f140b44b62d9cd9a816b55f3f53f0603af1d4d30.png [10/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23034,
-          "timestamp": "2025-12-09T15:33:02.534000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > PixPin_2025-02-14_21-02-01.png [12/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23033,
-          "timestamp": "2025-12-09T15:33:01.516000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > f140b44b62d9cd9a816b55f3f53f0603af1d4d30.png [10/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23032,
-          "timestamp": "2025-12-09T15:33:00.506000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 960170_288.jpg [5/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23031,
-          "timestamp": "2025-12-09T15:32:59.496000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 774171_97.jpg [4/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23030,
-          "timestamp": "2025-12-09T15:32:58.486000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23029,
-          "timestamp": "2025-12-09T15:32:56.462000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 528b20a1f6f7233f582c49bee633e2529ed8d737.png [2/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23028,
-          "timestamp": "2025-12-09T15:32:55.449000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23027,
-          "timestamp": "2025-12-09T15:32:53.424000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 107443c5b74543a9a352f9d643178a82b80114c9.jpg [3/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23026,
-          "timestamp": "2025-12-09T15:32:44.317000+00:00",
-          "duration": 8.1,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23024,
-          "timestamp": "2025-12-09T15:30:57.251000+00:00",
-          "duration": 106.058,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23023,
-          "timestamp": "2025-12-09T15:30:56.240000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23022,
-          "timestamp": "2025-12-09T15:30:55.225000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 屏幕截图 2025-04-22 220902.png [18/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23021,
-          "timestamp": "2025-12-09T15:30:52.195000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23020,
-          "timestamp": "2025-12-09T15:30:49.163000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 屏幕截图 2025-04-22 220902.png [18/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23019,
-          "timestamp": "2025-12-09T15:30:48.153000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > PixPin_2025-02-17_20-52-07.png [15/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23018,
-          "timestamp": "2025-12-09T15:30:47.132000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > PixPin_2025-02-14_21-02-01.png [12/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23017,
-          "timestamp": "2025-12-09T15:30:46.120000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > PixPin_2025-02-01_17-36-48.png [11/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23016,
-          "timestamp": "2025-12-09T15:30:45.109000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 1761390_612.jpg [7/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23015,
-          "timestamp": "2025-12-09T15:30:44.091000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 774171_97.jpg [4/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23014,
-          "timestamp": "2025-12-09T15:30:42.066000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 107443c5b74543a9a352f9d643178a82b80114c9.jpg [3/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23013,
-          "timestamp": "2025-12-09T15:30:41.049000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "pictures  > 528b20a1f6f7233f582c49bee633e2529ed8d737.png [2/18] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23012,
-          "timestamp": "2025-12-09T15:30:19.797000+00:00",
-          "duration": 20.239,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23011,
-          "timestamp": "2025-12-09T15:30:18.783000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-161855.png [19/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23010,
-          "timestamp": "2025-12-09T15:30:17.772000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-154600.png [16/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23009,
-          "timestamp": "2025-12-09T15:30:16.758000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251208-124658.png [11/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23008,
-          "timestamp": "2025-12-09T15:30:15.740000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > MX 播放器专业版_icon.png [9/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23007,
-          "timestamp": "2025-12-09T15:30:14.725000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > IMG_20251209_220610.jpg [7/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23006,
-          "timestamp": "2025-12-09T15:30:12.691000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > compressed_1764405756259.jpg [6/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 23005,
-          "timestamp": "2025-12-09T15:30:08.646000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23004,
-          "timestamp": "2025-12-09T15:30:06.625000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23003,
-          "timestamp": "2025-12-09T15:30:04.606000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 23002,
-          "timestamp": "2025-12-09T15:30:03.597000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 23001,
-          "timestamp": "2025-12-09T15:30:00.555000+00:00",
+          "id": 23644,
+          "timestamp": "2025-12-10T03:00:27.212000+00:00",
           "duration": 2.038,
           "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
+            "app": "chrome.exe",
+            "title": "mumu模拟器更新后alas是小-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 23000,
-          "timestamp": "2025-12-09T15:29:59.549000+00:00",
+          "id": 23642,
+          "timestamp": "2025-12-10T03:00:26.190000+00:00",
           "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22999,
-          "timestamp": "2025-12-09T15:29:54.483000+00:00",
-          "duration": 4.048,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22998,
-          "timestamp": "2025-12-09T15:29:52.460000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22997,
-          "timestamp": "2025-12-09T15:29:51.447000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22996,
-          "timestamp": "2025-12-09T15:29:49.430000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22995,
-          "timestamp": "2025-12-09T15:29:47.403000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22994,
-          "timestamp": "2025-12-09T15:29:41.345000+00:00",
-          "duration": 5.05,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22993,
-          "timestamp": "2025-12-09T15:29:40.335000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22992,
-          "timestamp": "2025-12-09T15:29:39.317000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-164201.png [16/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22991,
-          "timestamp": "2025-12-09T15:29:35.274000+00:00",
-          "duration": 3.033,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22990,
-          "timestamp": "2025-12-09T15:29:34.268000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22989,
-          "timestamp": "2025-12-09T15:29:30.223000+00:00",
-          "duration": 3.033,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22983,
-          "timestamp": "2025-12-09T15:17:33.762000+00:00",
-          "duration": 715.455,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22982,
-          "timestamp": "2025-12-09T15:17:31.739000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22981,
-          "timestamp": "2025-12-09T15:17:30.725000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "无损  > 580788dbb8293ab79fbad2da9dc03242.png [1/4] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22980,
-          "timestamp": "2025-12-09T15:17:29.710000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22979,
-          "timestamp": "2025-12-09T15:17:20.601000+00:00",
-          "duration": 8.098,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22978,
-          "timestamp": "2025-12-09T15:17:19.586000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-163825.png [15/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22977,
-          "timestamp": "2025-12-09T15:17:17.560000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22976,
-          "timestamp": "2025-12-09T15:17:16.543000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-164201.png [16/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22975,
-          "timestamp": "2025-12-09T15:17:13.507000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22974,
-          "timestamp": "2025-12-09T15:17:10.475000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22973,
-          "timestamp": "2025-12-09T15:17:03.392000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22972,
-          "timestamp": "2025-12-09T15:17:02.377000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251208-125050.png [12/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22971,
-          "timestamp": "2025-12-09T15:17:01.368000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > MX 播放器专业版_icon.png [9/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22970,
-          "timestamp": "2025-12-09T15:17:00.357000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > compressed_1764167532856.jpg [3/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22969,
-          "timestamp": "2025-12-09T15:16:59.342000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Screenshot_20251202_095746.jpg [38/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22968,
-          "timestamp": "2025-12-09T15:16:58.336000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > retouch_2025120921492482.jpg [32/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22967,
-          "timestamp": "2025-12-09T15:16:57.319000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-211726.png [27/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22966,
-          "timestamp": "2025-12-09T15:16:56.303000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-170336.png [21/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22964,
-          "timestamp": "2025-12-09T15:16:54.284000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251208-131912.png [15/40] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22963,
-          "timestamp": "2025-12-09T15:16:47.198000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22957,
-          "timestamp": "2025-12-09T15:02:45.566000+00:00",
-          "duration": 840.611,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22956,
-          "timestamp": "2025-12-09T15:02:42.537000+00:00",
-          "duration": 2.017,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22955,
-          "timestamp": "2025-12-09T15:02:40.517000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22954,
-          "timestamp": "2025-12-09T15:02:30.401000+00:00",
-          "duration": 9.105,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22953,
-          "timestamp": "2025-12-09T15:02:28.373000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22952,
-          "timestamp": "2025-12-09T15:02:26.351000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22951,
-          "timestamp": "2025-12-09T15:02:23.313000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22950,
-          "timestamp": "2025-12-09T15:02:12.164000+00:00",
-          "duration": 10.143,
           "data": {
             "app": "chrome.exe",
-            "title": "【pjsk】Q版小人素材 - 哔哩哔哩 - Cent Browser"
+            "title": "下载MuMu模拟器 - Cent Browser"
           }
         },
         {
-          "id": 22949,
-          "timestamp": "2025-12-09T15:02:11.144000+00:00",
+          "id": 23640,
+          "timestamp": "2025-12-10T03:00:25.179000+00:00",
           "duration": 0.0,
           "data": {
             "app": "unknown",
@@ -1292,2870 +338,116 @@
           }
         },
         {
-          "id": 22948,
-          "timestamp": "2025-12-09T15:01:46.852000+00:00",
-          "duration": 23.22,
+          "id": 23639,
+          "timestamp": "2025-12-10T03:00:12.997000+00:00",
+          "duration": 11.114,
           "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器12"
           }
         },
         {
-          "id": 22946,
-          "timestamp": "2025-12-09T15:01:38.778000+00:00",
-          "duration": 7.067,
+          "id": 23638,
+          "timestamp": "2025-12-10T03:00:10.979000+00:00",
+          "duration": 1.011,
           "data": {
-            "app": "chrome.exe",
-            "title": "世界计划Q版小人 - Google 搜索 - Cent Browser"
+            "app": "OneCommander.exe",
+            "title": "无损"
           }
         },
         {
-          "id": 22945,
-          "timestamp": "2025-12-09T15:01:28.665000+00:00",
-          "duration": 9.104,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 22944,
-          "timestamp": "2025-12-09T15:01:27.645000+00:00",
+          "id": 23637,
+          "timestamp": "2025-12-10T03:00:09.974000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 7 | VOCALOID SHOP - Cent Browser"
+            "app": "ShellExperienceHost.exe",
+            "title": "MuMu模拟器 的跳转列表"
           }
         },
         {
-          "id": 22943,
-          "timestamp": "2025-12-09T15:01:26.635000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "G7Cv1GEbQAABQ7D (2480×3508) - Cent Browser"
-          }
-        },
-        {
-          "id": 22941,
-          "timestamp": "2025-12-09T15:01:23.599000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22939,
-          "timestamp": "2025-12-09T15:01:22.577000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 22938,
-          "timestamp": "2025-12-09T15:01:21.559000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22937,
-          "timestamp": "2025-12-09T15:01:19.540000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "G7Cv1GEbQAABQ7D (2480×3508) - Cent Browser"
-          }
-        },
-        {
-          "id": 22935,
-          "timestamp": "2025-12-09T15:01:09.442000+00:00",
-          "duration": 9.087,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22934,
-          "timestamp": "2025-12-09T15:01:07.423000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22933,
-          "timestamp": "2025-12-09T15:00:46.230000+00:00",
-          "duration": 20.183,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22931,
-          "timestamp": "2025-12-09T14:59:37.426000+00:00",
-          "duration": 67.794,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22929,
-          "timestamp": "2025-12-09T14:56:19.446000+00:00",
-          "duration": 196.973,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22928,
-          "timestamp": "2025-12-09T14:56:18.431000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22925,
-          "timestamp": "2025-12-09T14:51:06.214000+00:00",
-          "duration": 311.211,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22924,
-          "timestamp": "2025-12-09T14:51:04.194000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22923,
-          "timestamp": "2025-12-09T14:51:03.185000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-154028.png [13/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22922,
-          "timestamp": "2025-12-09T14:51:02.173000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22921,
-          "timestamp": "2025-12-09T14:51:00.149000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22920,
-          "timestamp": "2025-12-09T14:50:59.141000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > IMG_20251209_220610.jpg [9/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22919,
-          "timestamp": "2025-12-09T14:50:57.116000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22918,
-          "timestamp": "2025-12-09T14:50:55.093000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-153154.png [12/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22916,
-          "timestamp": "2025-12-09T14:50:54.082000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22915,
-          "timestamp": "2025-12-09T14:50:51.053000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-151528.png [11/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22914,
-          "timestamp": "2025-12-09T14:50:48.023000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22913,
-          "timestamp": "2025-12-09T14:50:41.968000+00:00",
-          "duration": 5.043,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22912,
-          "timestamp": "2025-12-09T14:50:40.961000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "G7Cv1GEbQAABQ7D (2480×3508) - Cent Browser"
-          }
-        },
-        {
-          "id": 22911,
-          "timestamp": "2025-12-09T14:50:39.951000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-153154.png [12/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22910,
-          "timestamp": "2025-12-09T14:50:37.914000+00:00",
-          "duration": 1.022,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22909,
-          "timestamp": "2025-12-09T14:50:36.898000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-151528.png [11/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22908,
-          "timestamp": "2025-12-09T14:50:34.879000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22907,
-          "timestamp": "2025-12-09T14:50:33.865000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-153154.png [12/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22906,
-          "timestamp": "2025-12-09T14:50:32.854000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-154028.png [13/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22905,
-          "timestamp": "2025-12-09T14:50:31.840000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-153154.png [12/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22904,
-          "timestamp": "2025-12-09T14:50:29.819000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > IMG_20251209_220610.jpg [9/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22903,
-          "timestamp": "2025-12-09T14:50:26.786000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22902,
-          "timestamp": "2025-12-09T14:50:25.770000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > bcb94fe8b5e42bb0f8edf1e52d05e.jpg [6/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22901,
-          "timestamp": "2025-12-09T14:50:23.750000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22900,
-          "timestamp": "2025-12-09T14:50:22.742000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22899,
-          "timestamp": "2025-12-09T14:50:21.733000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22898,
-          "timestamp": "2025-12-09T14:50:20.720000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 354446fe596e093588ca0695c0b9c2a5.png [5/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22897,
-          "timestamp": "2025-12-09T14:50:18.701000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22896,
-          "timestamp": "2025-12-09T14:50:17.689000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 91258eab-7970-4947-9b2b-d3e9d459cc44.png [4/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22895,
-          "timestamp": "2025-12-09T14:50:14.660000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22894,
-          "timestamp": "2025-12-09T14:50:13.649000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 566.jpg [2/17] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22893,
-          "timestamp": "2025-12-09T14:50:10.616000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22892,
-          "timestamp": "2025-12-09T14:50:08.595000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > compressed_1764405756259.jpg [6/39] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22891,
-          "timestamp": "2025-12-09T14:50:02.532000+00:00",
-          "duration": 5.049,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22888,
-          "timestamp": "2025-12-09T14:44:08.760000+00:00",
-          "duration": 352.763,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22887,
-          "timestamp": "2025-12-09T14:44:06.739000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22886,
-          "timestamp": "2025-12-09T14:44:04.710000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22885,
-          "timestamp": "2025-12-09T14:44:02.685000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22884,
-          "timestamp": "2025-12-09T14:43:58.639000+00:00",
-          "duration": 3.036,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22883,
-          "timestamp": "2025-12-09T14:43:57.630000+00:00",
+          "id": 23636,
+          "timestamp": "2025-12-10T03:00:08.964000+00:00",
           "duration": 0.0,
           "data": {
             "app": "OneCommander.exe",
-            "title": "downloads"
+            "title": "无损"
           }
         },
         {
-          "id": 22882,
-          "timestamp": "2025-12-09T14:43:52.575000+00:00",
-          "duration": 4.05,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22879,
-          "timestamp": "2025-12-09T14:38:54.487000+00:00",
-          "duration": 297.076,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22878,
-          "timestamp": "2025-12-09T14:38:50.444000+00:00",
-          "duration": 3.032,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22877,
-          "timestamp": "2025-12-09T14:38:49.432000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22876,
-          "timestamp": "2025-12-09T14:38:47.408000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22875,
-          "timestamp": "2025-12-09T14:38:40.331000+00:00",
-          "duration": 6.069,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22874,
-          "timestamp": "2025-12-09T14:38:39.311000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "G7Cv1GEbQAABQ7D (2480×3508) - Cent Browser"
-          }
-        },
-        {
-          "id": 22873,
-          "timestamp": "2025-12-09T14:38:28.146000+00:00",
-          "duration": 10.149,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22872,
-          "timestamp": "2025-12-09T14:38:26.122000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "G7Cv1GEbQAABQ7D (2480×3508) - Cent Browser"
-          }
-        },
-        {
-          "id": 22871,
-          "timestamp": "2025-12-09T14:38:22.092000+00:00",
-          "duration": 3.026,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22869,
-          "timestamp": "2025-12-09T14:38:21.072000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22868,
-          "timestamp": "2025-12-09T14:38:17.019000+00:00",
-          "duration": 3.042,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22867,
-          "timestamp": "2025-12-09T14:38:13.992000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22866,
-          "timestamp": "2025-12-09T14:38:12.983000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22865,
-          "timestamp": "2025-12-09T14:38:08.937000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22864,
-          "timestamp": "2025-12-09T14:38:07.926000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22863,
-          "timestamp": "2025-12-09T14:38:02.875000+00:00",
-          "duration": 4.043,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22862,
-          "timestamp": "2025-12-09T14:38:00.854000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22861,
-          "timestamp": "2025-12-09T14:37:59.849000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22860,
-          "timestamp": "2025-12-09T14:37:55.810000+00:00",
-          "duration": 3.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22857,
-          "timestamp": "2025-12-09T14:37:28.561000+00:00",
-          "duration": 26.242,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22856,
-          "timestamp": "2025-12-09T14:37:27.551000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22855,
-          "timestamp": "2025-12-09T14:37:18.469000+00:00",
-          "duration": 8.077,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音ミク - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22854,
-          "timestamp": "2025-12-09T14:37:09.385000+00:00",
-          "duration": 8.077,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音未来 - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22853,
-          "timestamp": "2025-12-09T14:37:03.333000+00:00",
-          "duration": 5.044,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) X 上的 初音未来goods memo：“ピアプロキャラクターズ 人形瑰夢 IPSTAR コラボレストラン 初音ミク 鏡音リン 鏡音レン 巡音ルカ KAITO MEIKO 2025年12月06日〜2026年01月31日 上海・広州で開催決定！ 詳細はお楽しみに〜！！ https://t.co/YGtO8UP0Qg” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22852,
-          "timestamp": "2025-12-09T14:36:57.285000+00:00",
-          "duration": 5.036,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 初音未来 - 搜索 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22850,
-          "timestamp": "2025-12-09T14:36:07.792000+00:00",
-          "duration": 48.483,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22849,
-          "timestamp": "2025-12-09T14:35:57.700000+00:00",
-          "duration": 9.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) X 上的 まらしぃ：“めっちゃ貴重なものを触らせてもらいました…☺️🙏ボカロファンならピンと来る方がいるかも https://t.co/nplw6RnIhP” / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22848,
-          "timestamp": "2025-12-09T14:35:49.572000+00:00",
-          "duration": 7.108,
-          "data": {
-            "app": "chrome.exe",
-            "title": "(2) 主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22847,
-          "timestamp": "2025-12-09T14:35:44.524000+00:00",
-          "duration": 4.04,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22846,
-          "timestamp": "2025-12-09T14:35:38.477000+00:00",
-          "duration": 5.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "主页 / X - Cent Browser"
-          }
-        },
-        {
-          "id": 22845,
-          "timestamp": "2025-12-09T14:35:33.419000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "X - Cent Browser"
-          }
-        },
-        {
-          "id": 22844,
-          "timestamp": "2025-12-09T14:35:25.333000+00:00",
-          "duration": 7.066,
-          "data": {
-            "app": "chrome.exe",
-            "title": "x.com - Cent Browser"
-          }
-        },
-        {
-          "id": 22843,
-          "timestamp": "2025-12-09T14:35:21.280000+00:00",
-          "duration": 3.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 22842,
-          "timestamp": "2025-12-09T14:35:20.271000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22841,
-          "timestamp": "2025-12-09T14:35:19.267000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22840,
-          "timestamp": "2025-12-09T14:35:16.236000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID4 Hatsune Miku V4X incl. ENGLISH PACKAGE DVD Software Japan New | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22838,
-          "timestamp": "2025-12-09T14:28:35.031000+00:00",
-          "duration": 400.195,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22837,
-          "timestamp": "2025-12-09T14:28:33.005000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22836,
-          "timestamp": "2025-12-09T14:28:01.687000+00:00",
-          "duration": 30.311,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22835,
-          "timestamp": "2025-12-09T14:28:00.676000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22834,
-          "timestamp": "2025-12-09T14:27:58.652000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22833,
-          "timestamp": "2025-12-09T14:27:56.629000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22832,
-          "timestamp": "2025-12-09T14:27:55.622000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22831,
-          "timestamp": "2025-12-09T14:27:53.608000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22830,
-          "timestamp": "2025-12-09T14:25:57.471000+00:00",
-          "duration": 115.126,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22829,
-          "timestamp": "2025-12-09T14:25:55.442000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22828,
-          "timestamp": "2025-12-09T14:25:54.429000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22827,
-          "timestamp": "2025-12-09T14:25:52.402000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22826,
-          "timestamp": "2025-12-09T14:25:51.395000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22825,
-          "timestamp": "2025-12-09T14:25:48.371000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22824,
-          "timestamp": "2025-12-09T14:25:20.081000+00:00",
-          "duration": 27.28,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22823,
-          "timestamp": "2025-12-09T14:25:19.074000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22822,
-          "timestamp": "2025-12-09T14:25:18.058000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22821,
-          "timestamp": "2025-12-09T14:25:17.049000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 566.jpg [2/15] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22820,
-          "timestamp": "2025-12-09T14:25:16.033000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 10884-612951-20090304015918.webp [3/15] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22819,
-          "timestamp": "2025-12-09T14:25:15.019000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/15] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22818,
-          "timestamp": "2025-12-09T14:25:11.974000+00:00",
-          "duration": 2.029,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22817,
-          "timestamp": "2025-12-09T14:24:16.420000+00:00",
-          "duration": 54.546,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22816,
-          "timestamp": "2025-12-09T14:24:15.408000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22815,
-          "timestamp": "2025-12-09T14:24:14.400000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-163825.png [14/15] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22814,
-          "timestamp": "2025-12-09T14:24:12.376000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-164201.png [15/15] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22813,
-          "timestamp": "2025-12-09T14:23:57.194000+00:00",
-          "duration": 14.172,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22812,
-          "timestamp": "2025-12-09T14:23:56.182000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Screenshot_20251202_095736.jpg [35/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22811,
-          "timestamp": "2025-12-09T14:23:55.167000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Screenshot_20251202_095647.jpg [34/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22810,
-          "timestamp": "2025-12-09T14:23:54.154000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-214609.png [29/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22809,
-          "timestamp": "2025-12-09T14:23:53.143000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-171255.png [23/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22808,
-          "timestamp": "2025-12-09T14:23:52.133000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-155028.png [17/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22807,
-          "timestamp": "2025-12-09T14:23:51.119000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251208-125050.png [12/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22806,
-          "timestamp": "2025-12-09T14:23:50.111000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251207-143636.png [10/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22805,
-          "timestamp": "2025-12-09T14:23:42.019000+00:00",
-          "duration": 7.081,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22804,
-          "timestamp": "2025-12-09T14:23:41.006000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251209-160547.png [18/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22803,
-          "timestamp": "2025-12-09T14:23:39.992000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251208-131912.png [15/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22802,
-          "timestamp": "2025-12-09T14:23:38.980000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > QQ20251207-143636.png [10/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22801,
-          "timestamp": "2025-12-09T14:23:37.964000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > IMG_20251209_220610.jpg [7/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22800,
-          "timestamp": "2025-12-09T14:23:36.949000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > compressed_1764167533124.jpg [4/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22799,
-          "timestamp": "2025-12-09T14:23:35.934000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Screenshot_20251202_095746.jpg [36/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22798,
-          "timestamp": "2025-12-09T14:23:34.926000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Screenshot_20251202_094714.jpg [31/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22797,
-          "timestamp": "2025-12-09T14:23:33.914000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > retouch_2025120921492482.jpg [30/37] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22796,
-          "timestamp": "2025-12-09T14:23:26.832000+00:00",
-          "duration": 6.076,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22795,
-          "timestamp": "2025-12-09T14:09:47.376000+00:00",
-          "duration": 818.45,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22794,
-          "timestamp": "2025-12-09T14:09:44.342000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22793,
-          "timestamp": "2025-12-09T14:09:10.968000+00:00",
-          "duration": 32.363,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22791,
-          "timestamp": "2025-12-09T14:09:09.960000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 22790,
-          "timestamp": "2025-12-09T14:09:08.888000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22789,
-          "timestamp": "2025-12-09T14:09:07.866000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22783,
-          "timestamp": "2025-12-09T14:03:51.344000+00:00",
-          "duration": 315.508,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22782,
-          "timestamp": "2025-12-09T14:03:46.284000+00:00",
-          "duration": 4.054,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID4 Hatsune Miku V4X incl. ENGLISH PACKAGE DVD Software Japan New | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22781,
-          "timestamp": "2025-12-09T14:03:42.237000+00:00",
-          "duration": 3.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22779,
-          "timestamp": "2025-12-09T14:03:40.227000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22777,
-          "timestamp": "2025-12-09T14:03:10.935000+00:00",
-          "duration": 28.284,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22776,
-          "timestamp": "2025-12-09T14:02:39.546000+00:00",
-          "duration": 30.372,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22775,
-          "timestamp": "2025-12-09T14:02:32.466000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID4 Hatsune Miku V4X English Bundle DVD Software From Japan | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22773,
-          "timestamp": "2025-12-09T14:02:28.434000+00:00",
-          "duration": 3.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Pardon Our Interruption... - Cent Browser"
-          }
-        },
-        {
-          "id": 22772,
-          "timestamp": "2025-12-09T14:02:27.425000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ebay.com/splashui/challenge?ap=1&appName=orch&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F394346676865&iid=b625c563-8dfe-41f9-9fc6-5f5c66a3e167&iim=QNjYuMTY&iia=GaAzLjIwkY&iiz=kLgNi45Ng**Jrn - Cent Browser"
-          }
-        },
-        {
-          "id": 22771,
-          "timestamp": "2025-12-09T14:02:26.418000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 7 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22769,
-          "timestamp": "2025-12-09T14:02:25.398000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22767,
-          "timestamp": "2025-12-09T14:02:14.263000+00:00",
-          "duration": 10.124,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22766,
-          "timestamp": "2025-12-09T14:02:10.215000+00:00",
-          "duration": 3.038,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22765,
-          "timestamp": "2025-12-09T14:02:07.184000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v4x - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22763,
-          "timestamp": "2025-12-09T14:01:58.092000+00:00",
-          "duration": 8.083,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22762,
-          "timestamp": "2025-12-09T14:01:39.891000+00:00",
-          "duration": 17.189,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22761,
-          "timestamp": "2025-12-09T14:01:37.870000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22760,
-          "timestamp": "2025-12-09T14:00:46.346000+00:00",
-          "duration": 50.514,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22759,
-          "timestamp": "2025-12-09T14:00:41.301000+00:00",
-          "duration": 4.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22758,
-          "timestamp": "2025-12-09T14:00:34.235000+00:00",
-          "duration": 6.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22756,
-          "timestamp": "2025-12-09T14:00:27.156000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 8 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22753,
-          "timestamp": "2025-12-09T14:00:04.912000+00:00",
-          "duration": 21.226,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22752,
-          "timestamp": "2025-12-09T13:59:54.789000+00:00",
-          "duration": 9.101,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 9 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22750,
-          "timestamp": "2025-12-09T13:59:45.690000+00:00",
-          "duration": 8.086,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 10 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22749,
-          "timestamp": "2025-12-09T13:59:44.682000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22747,
-          "timestamp": "2025-12-09T13:59:43.671000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "google.com/search?q=miku+v3实体声库购买&sca_esv=51dcf1c7e4b6ab66&udm=2&biw=1536&bih=714&sxsrf=AE3TifNjtldV7NtfPkq557H0HDIgcSoLrw%3A1765288764930&ei=PCs4abq8OOeOur8Pjf6aoQ4&ved=0ahUKEwi6yomO1bCRAxVnh-4BHQ2_JuQQ4dUDCBQ&uact=5&oq=miku+v3实体声库购买&gs_lp=Egtnd3Mtd2l6LWltZyIZbWlrdSB2M-WunuS9k-WjsOW6k-i0reS5sEjyL1C9DVjOLXADeACQAQOYAeMJoAGNLKoBDTItNy4yLjEuMS4xLjG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB5cFsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz-img - Cent Browser"
-          }
-        },
-        {
-          "id": 22746,
-          "timestamp": "2025-12-09T13:59:20.439000+00:00",
-          "duration": 22.22,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22745,
-          "timestamp": "2025-12-09T13:59:18.417000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid 3 Hatsune Miku V3 DVD Windows PC Vocal Software for sale online | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22742,
-          "timestamp": "2025-12-09T13:59:17.403000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 10 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22740,
-          "timestamp": "2025-12-09T13:59:14.377000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未來V3 English (英語語音庫DVD-ROM) │ 誠品線上 - Cent Browser"
-          }
-        },
-        {
-          "id": 22738,
-          "timestamp": "2025-12-09T13:59:13.371000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 10 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22736,
-          "timestamp": "2025-12-09T13:59:01.253000+00:00",
-          "duration": 11.1,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 11 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22735,
-          "timestamp": "2025-12-09T13:58:39.019000+00:00",
-          "duration": 21.23,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 3 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22734,
-          "timestamp": "2025-12-09T13:58:29.927000+00:00",
-          "duration": 8.083,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list page 2 | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22733,
-          "timestamp": "2025-12-09T13:58:23.861000+00:00",
-          "duration": 5.052,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Tag Japanese | download product list | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22731,
-          "timestamp": "2025-12-09T13:58:20.839000+00:00",
-          "duration": 2.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "download product list | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22730,
-          "timestamp": "2025-12-09T13:58:10.739000+00:00",
-          "duration": 9.094,
-          "data": {
-            "app": "chrome.exe",
-            "title": "search result | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22729,
-          "timestamp": "2025-12-09T13:57:52.558000+00:00",
-          "duration": 17.173,
-          "data": {
-            "app": "chrome.exe",
-            "title": "download product list | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22727,
-          "timestamp": "2025-12-09T13:57:33.366000+00:00",
-          "duration": 18.181,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未來V3 English (英語語音庫DVD-ROM) │ 誠品線上 - Cent Browser"
-          }
-        },
-        {
-          "id": 22726,
-          "timestamp": "2025-12-09T13:57:29.335000+00:00",
-          "duration": 3.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "│ 誠品線上 - Cent Browser"
-          }
-        },
-        {
-          "id": 22725,
-          "timestamp": "2025-12-09T13:57:26.319000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "誠品線上 - 閱讀與生活的無盡想像 - Cent Browser"
-          }
-        },
-        {
-          "id": 22724,
-          "timestamp": "2025-12-09T13:57:24.293000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "download product list | VOCALOID SHOP - Cent Browser"
-          }
-        },
-        {
-          "id": 22721,
-          "timestamp": "2025-12-09T13:57:20.236000+00:00",
-          "duration": 3.045,
-          "data": {
-            "app": "chrome.exe",
-            "title": "vocaloid.com/en/products - Cent Browser"
-          }
-        },
-        {
-          "id": 22720,
-          "timestamp": "2025-12-09T13:57:19.227000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22719,
-          "timestamp": "2025-12-09T13:57:04.067000+00:00",
-          "duration": 14.152,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22717,
-          "timestamp": "2025-12-09T13:56:50.911000+00:00",
-          "duration": 12.146,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid 3 Hatsune Miku V3 DVD Windows PC Vocal Software for sale online | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22716,
-          "timestamp": "2025-12-09T13:56:49.900000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22714,
-          "timestamp": "2025-12-09T13:56:41.828000+00:00",
+          "id": 23635,
+          "timestamp": "2025-12-10T03:00:00.893000+00:00",
           "duration": 7.062,
           "data": {
             "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22712,
-          "timestamp": "2025-12-09T13:56:35.759000+00:00",
-          "duration": 5.062,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22710,
-          "timestamp": "2025-12-09T13:56:33.735000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "HATSUNE MIKU V3 (incl. ENGLISH) - Cent Browser"
-          }
-        },
-        {
-          "id": 22709,
-          "timestamp": "2025-12-09T13:56:25.663000+00:00",
-          "duration": 7.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22707,
-          "timestamp": "2025-12-09T13:56:21.636000+00:00",
-          "duration": 3.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "HATSUNE MIKU V3 (incl. ENGLISH) - Cent Browser"
-          }
-        },
-        {
-          "id": 22704,
-          "timestamp": "2025-12-09T13:56:20.629000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SHOPPING CART | SONICWIRE - Cent Browser"
-          }
-        },
-        {
-          "id": 22703,
-          "timestamp": "2025-12-09T13:56:08.522000+00:00",
-          "duration": 11.099,
-          "data": {
-            "app": "chrome.exe",
-            "title": "HATSUNE MIKU V3 (incl. ENGLISH) - Cent Browser"
-          }
-        },
-        {
-          "id": 22701,
-          "timestamp": "2025-12-09T13:55:56.389000+00:00",
-          "duration": 11.128,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 - Cent Browser"
-          }
-        },
-        {
-          "id": 22700,
-          "timestamp": "2025-12-09T13:55:54.371000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SHOPPING CART | SONICWIRE - Cent Browser"
-          }
-        },
-        {
-          "id": 22698,
-          "timestamp": "2025-12-09T13:55:52.345000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22696,
-          "timestamp": "2025-12-09T13:55:47.291000+00:00",
-          "duration": 4.044,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SHOPPING CART | SONICWIRE - Cent Browser"
-          }
-        },
-        {
-          "id": 22694,
-          "timestamp": "2025-12-09T13:55:31.082000+00:00",
-          "duration": 15.192,
-          "data": {
-            "app": "chrome.exe",
-            "title": "HATSUNE MIKU V3 (incl. ENGLISH) - Cent Browser"
-          }
-        },
-        {
-          "id": 22693,
-          "timestamp": "2025-12-09T13:55:25.024000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 - Cent Browser"
-          }
-        },
-        {
-          "id": 22691,
-          "timestamp": "2025-12-09T13:55:17.953000+00:00",
-          "duration": 6.065,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22689,
-          "timestamp": "2025-12-09T13:55:05.831000+00:00",
-          "duration": 11.115,
-          "data": {
-            "app": "chrome.exe",
-            "title": "v3初音 - Top 50件v3初音 - 2025年12月更新 - Taobao - Cent Browser"
-          }
-        },
-        {
-          "id": 22688,
-          "timestamp": "2025-12-09T13:55:00.769000+00:00",
-          "duration": 4.05,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22687,
-          "timestamp": "2025-12-09T13:54:52.680000+00:00",
-          "duration": 7.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Amazon.com: Vocaloid3 Hatsune Miku V3 Bundle : Everything Else - Cent Browser"
-          }
-        },
-        {
-          "id": 22686,
-          "timestamp": "2025-12-09T13:54:50.641000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "amazon.com/-/zh_TW/Vocaloid3-Hatsune-Miku-V3-Bundle/dp/B00EEWFAI2 - Cent Browser"
-          }
-        },
-        {
-          "id": 22685,
-          "timestamp": "2025-12-09T13:54:44.576000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3购买 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22684,
-          "timestamp": "2025-12-09T13:54:43.565000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22683,
-          "timestamp": "2025-12-09T13:54:35.486000+00:00",
-          "duration": 7.071,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 22682,
-          "timestamp": "2025-12-09T13:54:33.467000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22680,
-          "timestamp": "2025-12-09T13:54:32.451000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22678,
-          "timestamp": "2025-12-09T13:54:28.412000+00:00",
-          "duration": 3.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Amazon.com: Miku Append [Japan Import] : Video Games - Cent Browser"
-          }
-        },
-        {
-          "id": 22677,
-          "timestamp": "2025-12-09T13:54:26.388000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append 实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22675,
-          "timestamp": "2025-12-09T13:54:19.288000+00:00",
-          "duration": 6.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22673,
-          "timestamp": "2025-12-09T13:54:12.224000+00:00",
-          "duration": 6.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 - Cent Browser"
-          }
-        },
-        {
-          "id": 22671,
-          "timestamp": "2025-12-09T13:54:08.174000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22669,
-          "timestamp": "2025-12-09T13:54:02.114000+00:00",
-          "duration": 5.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 with English Vocaloid Bundle - Cent Browser"
-          }
-        },
-        {
-          "id": 22667,
-          "timestamp": "2025-12-09T13:54:01.107000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22665,
-          "timestamp": "2025-12-09T13:54:00.101000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22663,
-          "timestamp": "2025-12-09T13:53:41.909000+00:00",
-          "duration": 17.172,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22660,
-          "timestamp": "2025-12-09T13:52:46.252000+00:00",
-          "duration": 54.646,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22659,
-          "timestamp": "2025-12-09T13:52:45.242000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22658,
-          "timestamp": "2025-12-09T13:52:43.210000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22657,
-          "timestamp": "2025-12-09T13:50:25.624000+00:00",
-          "duration": 136.576,
-          "data": {
-            "app": "QQ.exe",
-            "title": "图片查看器"
-          }
-        },
-        {
-          "id": 22655,
-          "timestamp": "2025-12-09T13:49:43.145000+00:00",
-          "duration": 41.471,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22654,
-          "timestamp": "2025-12-09T13:48:07.046000+00:00",
-          "duration": 95.095,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22651,
-          "timestamp": "2025-12-09T13:46:13.776000+00:00",
-          "duration": 112.261,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22649,
-          "timestamp": "2025-12-09T13:46:10.738000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22648,
-          "timestamp": "2025-12-09T13:45:59.626000+00:00",
-          "duration": 10.102,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22647,
-          "timestamp": "2025-12-09T13:45:45.467000+00:00",
-          "duration": 13.148,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku V3 with English Vocaloid Bundle - Cent Browser"
-          }
-        },
-        {
-          "id": 22646,
-          "timestamp": "2025-12-09T13:45:41.429000+00:00",
-          "duration": 3.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22644,
-          "timestamp": "2025-12-09T13:45:22.246000+00:00",
-          "duration": 18.175,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22634,
-          "timestamp": "2025-12-09T13:36:28.076000+00:00",
-          "duration": 533.158,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来VOCALOID3声库购买_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22633,
-          "timestamp": "2025-12-09T13:36:27.058000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22632,
-          "timestamp": "2025-12-09T13:36:08.849000+00:00",
-          "duration": 17.2,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库购买_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22631,
-          "timestamp": "2025-12-09T13:35:33.443000+00:00",
-          "duration": 34.399,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库软件包装封面图_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22630,
-          "timestamp": "2025-12-09T13:35:30.409000+00:00",
-          "duration": 2.025,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22629,
-          "timestamp": "2025-12-09T13:35:23.308000+00:00",
-          "duration": 6.096,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库包装封面图_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22627,
-          "timestamp": "2025-12-09T13:35:22.291000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22626,
-          "timestamp": "2025-12-09T13:35:21.280000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=&st=-1&fm=index&fr=&hs=0&xthttps=111110&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=初音未来V3声库包装封面图 - Cent Browser"
-          }
-        },
-        {
-          "id": 22625,
-          "timestamp": "2025-12-09T13:35:12.161000+00:00",
-          "duration": 8.11,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22624,
-          "timestamp": "2025-12-09T13:35:03.063000+00:00",
-          "duration": 8.079,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/14] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22623,
-          "timestamp": "2025-12-09T13:35:02.049000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 10884-612951-20090304015918.webp [3/14] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22622,
-          "timestamp": "2025-12-09T13:35:01.039000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 235_130814221652_1_lit.jpg [1/14] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22621,
-          "timestamp": "2025-12-09T13:34:59.013000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 22620,
-          "timestamp": "2025-12-09T13:34:58.006000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
             "title": ""
           }
         },
         {
-          "id": 22619,
-          "timestamp": "2025-12-09T13:34:55.993000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22617,
-          "timestamp": "2025-12-09T13:34:37.769000+00:00",
-          "duration": 17.211,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库包装_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22616,
-          "timestamp": "2025-12-09T13:34:35.745000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22615,
-          "timestamp": "2025-12-09T13:34:14.447000+00:00",
-          "duration": 20.282,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22614,
-          "timestamp": "2025-12-09T13:34:13.427000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22612,
-          "timestamp": "2025-12-09T13:34:11.389000+00:00",
-          "duration": 1.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22610,
-          "timestamp": "2025-12-09T13:34:08.349000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22609,
-          "timestamp": "2025-12-09T13:33:59.228000+00:00",
-          "duration": 8.111,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22607,
-          "timestamp": "2025-12-09T13:33:38.001000+00:00",
-          "duration": 20.211,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22606,
-          "timestamp": "2025-12-09T13:33:30.891000+00:00",
-          "duration": 6.088,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22604,
-          "timestamp": "2025-12-09T13:33:29.871000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22602,
-          "timestamp": "2025-12-09T13:33:23.791000+00:00",
-          "duration": 5.062,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22601,
-          "timestamp": "2025-12-09T13:33:22.772000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22599,
-          "timestamp": "2025-12-09T13:33:14.686000+00:00",
-          "duration": 7.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图的搜索结果_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22598,
-          "timestamp": "2025-12-09T13:33:12.664000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "image.baidu.com/search/detail?adpicid=0&b_applid=11189071040937698941&bdtype=0&commodity=&copyright=&cs=4212024475%2C3094622787&di=7565560840087142401&fr=click-pic&fromurl=http%253A%252F%252Fwww.3dmgame.com%252Fzt%252F201308%252F2295258.html&gsm=1e&hd=&height=0&hot=&ic=&ie=utf-8&imgformat=&imgratio=&imgspn=0&is=0%2C0&isImgSet=&latest=&lid=e6a12e14008fb44d&lm=&objurl=https%253A%252F%252Fwww.3dmgame.com%252Fuploads%252Fallimg%252F130814%252F235_130814221652_1_lit.jpg&os=2228345565%2C1589997603&pd=image_conte"
-          }
-        },
-        {
-          "id": 22597,
-          "timestamp": "2025-12-09T13:33:11.646000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22596,
-          "timestamp": "2025-12-09T13:33:02.557000+00:00",
-          "duration": 8.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图_百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22595,
-          "timestamp": "2025-12-09T13:33:00.534000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22593,
-          "timestamp": "2025-12-09T13:32:59.528000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来VOCALOID3实体声库封面图_百度搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22592,
-          "timestamp": "2025-12-09T13:32:57.503000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22590,
-          "timestamp": "2025-12-09T13:32:54.464000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来VOCALOID3实体声库封面图_百度搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22589,
-          "timestamp": "2025-12-09T13:32:49.412000+00:00",
-          "duration": 4.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度图片搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22587,
-          "timestamp": "2025-12-09T13:32:39.301000+00:00",
-          "duration": 9.099,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来VOCALOID3实体声库封面图_百度搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22585,
-          "timestamp": "2025-12-09T13:32:38.280000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22583,
-          "timestamp": "2025-12-09T13:32:17.080000+00:00",
-          "duration": 20.179,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图_百度搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22582,
-          "timestamp": "2025-12-09T13:32:16.060000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22580,
-          "timestamp": "2025-12-09T13:32:06.963000+00:00",
-          "duration": 8.09,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V3声库封面图_百度搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22579,
-          "timestamp": "2025-12-09T13:32:03.934000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22578,
-          "timestamp": "2025-12-09T13:31:45.760000+00:00",
-          "duration": 17.159,
-          "data": {
-            "app": "chrome.exe",
-            "title": "青柠起始页 - Cent Browser"
-          }
-        },
-        {
-          "id": 22577,
-          "timestamp": "2025-12-09T13:31:23.533000+00:00",
-          "duration": 21.217,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku包装盒封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22575,
-          "timestamp": "2025-12-09T13:30:40.090000+00:00",
-          "duration": 42.435,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22574,
-          "timestamp": "2025-12-09T13:30:31.995000+00:00",
-          "duration": 7.088,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22572,
-          "timestamp": "2025-12-09T13:30:28.972000+00:00",
-          "duration": 2.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22570,
-          "timestamp": "2025-12-09T13:30:07.733000+00:00",
-          "duration": 20.22,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22569,
-          "timestamp": "2025-12-09T13:29:54.589000+00:00",
-          "duration": 12.125,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22567,
-          "timestamp": "2025-12-09T13:29:20.230000+00:00",
-          "duration": 33.345,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22566,
-          "timestamp": "2025-12-09T13:29:12.152000+00:00",
-          "duration": 7.074,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音ミク V3 (Original) - Vocaloid Database - Cent Browser"
-          }
-        },
-        {
-          "id": 22565,
-          "timestamp": "2025-12-09T13:29:11.147000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "vocadb.net/Ar/15490 - Cent Browser"
-          }
-        },
-        {
-          "id": 22564,
-          "timestamp": "2025-12-09T13:29:02.034000+00:00",
-          "duration": 8.098,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku v3实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22563,
-          "timestamp": "2025-12-09T13:28:50.930000+00:00",
-          "duration": 10.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append 实体声库 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22560,
-          "timestamp": "2025-12-09T13:28:42.850000+00:00",
-          "duration": 7.07,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22559,
-          "timestamp": "2025-12-09T13:28:40.814000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append 实体声库 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22558,
-          "timestamp": "2025-12-09T13:28:33.758000+00:00",
-          "duration": 6.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Miku Hatsune Append - VGMdb - Cent Browser"
-          }
-        },
-        {
-          "id": 22557,
-          "timestamp": "2025-12-09T13:28:25.673000+00:00",
-          "duration": 7.074,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append 实体声库 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22556,
-          "timestamp": "2025-12-09T13:28:03.460000+00:00",
-          "duration": 21.199,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku Append | Project DIVA Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22555,
-          "timestamp": "2025-12-09T13:27:58.411000+00:00",
+          "id": 23634,
+          "timestamp": "2025-12-10T02:59:55.852000+00:00",
           "duration": 4.038,
           "data": {
             "app": "chrome.exe",
-            "title": "miku append 实体声库 - Google 搜索 - Cent Browser"
+            "title": "下载MuMu模拟器 - Cent Browser"
           }
         },
         {
-          "id": 22553,
-          "timestamp": "2025-12-09T13:27:03.877000+00:00",
-          "duration": 53.529,
+          "id": 23633,
+          "timestamp": "2025-12-10T02:59:54.845000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "【实体展示】初音未来 V2 & Append_哔哩哔哩_bilibili - Cent Browser"
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 22552,
-          "timestamp": "2025-12-09T13:27:00.842000+00:00",
-          "duration": 2.024,
+          "id": 23629,
+          "timestamp": "2025-12-10T02:57:49.682000+00:00",
+          "duration": 124.155,
           "data": {
             "app": "chrome.exe",
-            "title": "bilibili.com/video/BV1CW4y1Z7dC/ - Cent Browser"
+            "title": "明日方舟 - Arknights - Cent Browser"
           }
         },
         {
-          "id": 22551,
-          "timestamp": "2025-12-09T13:26:30.536000+00:00",
-          "duration": 29.293,
+          "id": 23628,
+          "timestamp": "2025-12-10T02:57:48.663000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "miku append 实体声库 - Google 搜索 - Cent Browser"
+            "title": "mumu模拟器更新后alas是小-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22550,
-          "timestamp": "2025-12-09T13:26:26.504000+00:00",
-          "duration": 3.029,
+          "id": 23626,
+          "timestamp": "2025-12-10T02:57:39.549000+00:00",
+          "duration": 8.099,
+          "data": {
+            "app": "chrome.exe",
+            "title": "明日方舟 - Arknights - Cent Browser"
+          }
+        },
+        {
+          "id": 23624,
+          "timestamp": "2025-12-10T02:57:34.494000+00:00",
+          "duration": 4.05,
+          "data": {
+            "app": "chrome.exe",
+            "title": "明日方舟 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 23623,
+          "timestamp": "2025-12-10T02:57:31.458000+00:00",
+          "duration": 2.03,
           "data": {
             "app": "chrome.exe",
             "title": "青柠起始页 - Cent Browser"
           }
         },
         {
-          "id": 22549,
-          "timestamp": "2025-12-09T13:26:25.487000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID2 Hatsune Miku Append Library DVD Software Vocaloid Windows NEW | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22548,
-          "timestamp": "2025-12-09T13:26:22.450000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22546,
-          "timestamp": "2025-12-09T13:26:12.358000+00:00",
-          "duration": 9.087,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append 实体声库封面 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22543,
-          "timestamp": "2025-12-09T13:25:03.704000+00:00",
-          "duration": 67.642,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append soft cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22541,
-          "timestamp": "2025-12-09T13:24:15.113000+00:00",
-          "duration": 47.582,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22540,
-          "timestamp": "2025-12-09T13:24:12.073000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22539,
-          "timestamp": "2025-12-09T13:24:10.053000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID2 Hatsune Miku Append Library DVD Software Vocaloid Windows NEW | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22538,
-          "timestamp": "2025-12-09T13:24:09.038000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22537,
-          "timestamp": "2025-12-09T13:24:07.016000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22535,
-          "timestamp": "2025-12-09T13:23:59.952000+00:00",
-          "duration": 6.055,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID2 Hatsune Miku Append Library DVD Software Vocaloid Windows NEW | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22533,
-          "timestamp": "2025-12-09T13:23:57.929000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22532,
-          "timestamp": "2025-12-09T13:23:35.719000+00:00",
-          "duration": 21.196,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22530,
-          "timestamp": "2025-12-09T13:23:33.698000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22529,
-          "timestamp": "2025-12-09T13:21:11.315000+00:00",
-          "duration": 141.371,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22528,
-          "timestamp": "2025-12-09T13:21:10.308000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 22527,
-          "timestamp": "2025-12-09T13:21:08.224000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22526,
-          "timestamp": "2025-12-09T13:20:54.068000+00:00",
-          "duration": 13.145,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22525,
-          "timestamp": "2025-12-09T13:20:44.956000+00:00",
-          "duration": 8.094,
-          "data": {
-            "app": "chrome.exe",
-            "title": "CRYPTON VOCALOID2 Hatsune Miku Append Library DVD Software Vocaloid Windows NEW | eBay - Cent Browser"
-          }
-        },
-        {
-          "id": 22524,
-          "timestamp": "2025-12-09T13:20:36.887000+00:00",
-          "duration": 7.064,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Amazon.com: Miku Append [Japan Import] : Video Games - Cent Browser"
-          }
-        },
-        {
-          "id": 22522,
-          "timestamp": "2025-12-09T13:20:35.879000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Pardon Our Interruption... - Cent Browser"
-          }
-        },
-        {
-          "id": 22520,
-          "timestamp": "2025-12-09T13:20:34.871000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ebay.com/splashui/challenge?ap=1&appName=orch&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F111223992379&iid=d6991bb9-a3ee-464b-bbac-6a2f4ce1dc38&iim=nNjYuMTV&iia=bFAzLjIwrr&iiz=zbUNi45Ng**xDZ - Cent Browser"
-          }
-        },
-        {
-          "id": 22519,
-          "timestamp": "2025-12-09T13:20:33.862000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22517,
-          "timestamp": "2025-12-09T13:20:32.847000+00:00",
+          "id": 23622,
+          "timestamp": "2025-12-10T02:57:30.441000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
@@ -4163,1346 +455,239 @@
           }
         },
         {
-          "id": 22515,
-          "timestamp": "2025-12-09T13:20:28.816000+00:00",
-          "duration": 3.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22514,
-          "timestamp": "2025-12-09T13:20:27.809000+00:00",
+          "id": 23621,
+          "timestamp": "2025-12-10T02:57:29.435000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "Amazon.com: Miku Append [Japan Import] : Video Games - Cent Browser"
+            "title": "mumu模拟器更新后alas失效-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22512,
-          "timestamp": "2025-12-09T13:20:26.797000+00:00",
-          "duration": 0.0,
+          "id": 23616,
+          "timestamp": "2025-12-10T02:54:58.827000+00:00",
+          "duration": 149.598,
           "data": {
             "app": "chrome.exe",
-            "title": "Google 图片 - Cent Browser"
+            "title": "MuMu模拟器5.0 如何去掉这个烦人的启动步骤？_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22510,
-          "timestamp": "2025-12-09T13:20:25.788000+00:00",
-          "duration": 0.0,
+          "id": 23615,
+          "timestamp": "2025-12-10T02:54:55.797000+00:00",
+          "duration": 2.025,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 23614,
+          "timestamp": "2025-12-10T02:54:51.743000+00:00",
+          "duration": 3.046,
           "data": {
             "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
+            "title": "MuMu模拟器5.0 如何去掉这个烦人的启动步骤？_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22508,
-          "timestamp": "2025-12-09T13:20:24.781000+00:00",
-          "duration": 0.0,
+          "id": 23613,
+          "timestamp": "2025-12-10T02:54:41.636000+00:00",
+          "duration": 9.091,
           "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
           }
         },
         {
-          "id": 22506,
-          "timestamp": "2025-12-09T13:20:23.772000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "amazon.com/Crypton-Future-Media-Append-Import/dp/B00305HJKQ - Cent Browser"
-          }
-        },
-        {
-          "id": 22505,
-          "timestamp": "2025-12-09T13:20:18.729000+00:00",
-          "duration": 4.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Amazon.com - Cent Browser"
-          }
-        },
-        {
-          "id": 22504,
-          "timestamp": "2025-12-09T13:20:17.721000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22503,
-          "timestamp": "2025-12-09T13:20:12.674000+00:00",
-          "duration": 4.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22502,
-          "timestamp": "2025-12-09T13:20:11.666000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22501,
-          "timestamp": "2025-12-09T13:20:09.645000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22498,
-          "timestamp": "2025-12-09T13:19:55.521000+00:00",
-          "duration": 13.114,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 shop - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22497,
-          "timestamp": "2025-12-09T13:19:24.173000+00:00",
-          "duration": 30.34,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append v2 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22495,
-          "timestamp": "2025-12-09T13:19:00.968000+00:00",
-          "duration": 22.199,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku append cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22494,
-          "timestamp": "2025-12-09T13:18:49.853000+00:00",
-          "duration": 10.103,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku vocaloid2 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22493,
-          "timestamp": "2025-12-09T13:18:46.832000+00:00",
-          "duration": 2.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【初音ミク】 ロンググッバイ 【オリジナル】 - ニコニコ動画 - Cent Browser"
-          }
-        },
-        {
-          "id": 22492,
-          "timestamp": "2025-12-09T13:18:45.822000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22491,
-          "timestamp": "2025-12-09T13:18:43.802000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid | VO Vocaloids Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22490,
-          "timestamp": "2025-12-09T13:18:41.782000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22489,
-          "timestamp": "2025-12-09T13:18:39.761000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【初音ミク】 ロンググッバイ 【オリジナル】 - ニコニコ動画 - Cent Browser"
-          }
-        },
-        {
-          "id": 22488,
-          "timestamp": "2025-12-09T13:18:23.579000+00:00",
-          "duration": 15.169,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid | VO Vocaloids Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22487,
-          "timestamp": "2025-12-09T13:18:22.561000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22486,
-          "timestamp": "2025-12-09T13:18:15.489000+00:00",
-          "duration": 6.064,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku vocaloid2 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22485,
-          "timestamp": "2025-12-09T13:18:13.471000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22483,
-          "timestamp": "2025-12-09T13:18:11.454000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22481,
-          "timestamp": "2025-12-09T13:17:43.169000+00:00",
-          "duration": 27.274,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22480,
-          "timestamp": "2025-12-09T13:17:33.039000+00:00",
-          "duration": 9.121,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22479,
-          "timestamp": "2025-12-09T13:17:27.979000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22478,
-          "timestamp": "2025-12-09T13:17:26.964000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22477,
-          "timestamp": "2025-12-09T13:17:20.904000+00:00",
-          "duration": 5.05,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 22476,
-          "timestamp": "2025-12-09T13:17:17.877000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22475,
-          "timestamp": "2025-12-09T13:17:16.868000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 图片 - Cent Browser"
-          }
-        },
-        {
-          "id": 22473,
-          "timestamp": "2025-12-09T13:17:15.855000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22471,
-          "timestamp": "2025-12-09T13:17:11.817000+00:00",
-          "duration": 3.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 图片 - Cent Browser"
-          }
-        },
-        {
-          "id": 22469,
-          "timestamp": "2025-12-09T13:17:09.793000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22468,
-          "timestamp": "2025-12-09T13:16:56.641000+00:00",
-          "duration": 12.143,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22467,
-          "timestamp": "2025-12-09T13:16:55.626000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 22466,
-          "timestamp": "2025-12-09T13:16:53.539000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22465,
-          "timestamp": "2025-12-09T13:16:52.526000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22464,
-          "timestamp": "2025-12-09T13:16:51.516000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22463,
-          "timestamp": "2025-12-09T13:16:48.474000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22462,
-          "timestamp": "2025-12-09T13:16:47.454000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22461,
-          "timestamp": "2025-12-09T13:16:44.420000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22460,
-          "timestamp": "2025-12-09T13:16:43.400000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22459,
-          "timestamp": "2025-12-09T13:16:40.370000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22458,
-          "timestamp": "2025-12-09T13:16:35.325000+00:00",
-          "duration": 4.032,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22457,
-          "timestamp": "2025-12-09T13:16:34.314000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22456,
-          "timestamp": "2025-12-09T13:16:33.304000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 91258eab-7970-4947-9b2b-d3e9d459cc44.png [3/13] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22455,
-          "timestamp": "2025-12-09T13:16:30.269000+00:00",
-          "duration": 2.026,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22454,
-          "timestamp": "2025-12-09T13:16:29.259000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 566.jpg [1/13] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22453,
-          "timestamp": "2025-12-09T13:16:26.229000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22452,
-          "timestamp": "2025-12-09T13:16:25.219000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > bcb94fe8b5e42bb0f8edf1e52d05e.jpg [5/13] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22451,
-          "timestamp": "2025-12-09T13:16:22.190000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22450,
-          "timestamp": "2025-12-09T13:16:21.181000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22449,
-          "timestamp": "2025-12-09T13:16:20.172000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 22448,
-          "timestamp": "2025-12-09T13:16:19.158000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > 91258eab-7970-4947-9b2b-d3e9d459cc44.png [3/13] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22447,
-          "timestamp": "2025-12-09T13:16:16.121000+00:00",
-          "duration": 2.022,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 22446,
-          "timestamp": "2025-12-09T13:16:15.113000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22445,
-          "timestamp": "2025-12-09T13:16:13.091000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22444,
-          "timestamp": "2025-12-09T13:16:03.964000+00:00",
-          "duration": 8.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22443,
-          "timestamp": "2025-12-09T13:16:01.937000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22442,
-          "timestamp": "2025-12-09T13:15:58.910000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22440,
-          "timestamp": "2025-12-09T13:15:53.847000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22439,
-          "timestamp": "2025-12-09T13:15:52.834000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[8/8/8-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22438,
-          "timestamp": "2025-12-09T13:15:51.822000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[0/0/0-retry:0/0]/latest (450×627) - latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22437,
-          "timestamp": "2025-12-09T13:15:50.813000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/imageExtractor.html?tabId=234505950&fetchLevel=0 - Cent Browser"
-          }
-        },
-        {
-          "id": 22436,
-          "timestamp": "2025-12-09T13:15:49.800000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22435,
-          "timestamp": "2025-12-09T13:15:47.777000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22434,
-          "timestamp": "2025-12-09T13:15:41.712000+00:00",
-          "duration": 5.055,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22433,
-          "timestamp": "2025-12-09T13:15:40.705000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22432,
-          "timestamp": "2025-12-09T13:15:39.696000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22431,
-          "timestamp": "2025-12-09T13:15:37.667000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 22430,
-          "timestamp": "2025-12-09T13:15:35.653000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "latest (450×627) - Cent Browser"
-          }
-        },
-        {
-          "id": 22429,
-          "timestamp": "2025-12-09T13:15:31.607000+00:00",
-          "duration": 3.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid | VO Vocaloids Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22428,
-          "timestamp": "2025-12-09T13:15:30.598000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22427,
-          "timestamp": "2025-12-09T13:15:24.518000+00:00",
+          "id": 23612,
+          "timestamp": "2025-12-10T02:54:35.545000+00:00",
           "duration": 5.075,
           "data": {
             "app": "chrome.exe",
-            "title": "miku vocaloid2 cover - Google 搜索 - Cent Browser"
+            "title": "MuMu模拟器5.0 如何去掉这个烦人的启动步骤？_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22426,
-          "timestamp": "2025-12-09T13:15:21.497000+00:00",
-          "duration": 2.016,
+          "id": 23611,
+          "timestamp": "2025-12-10T02:54:30.482000+00:00",
+          "duration": 4.057,
           "data": {
             "app": "chrome.exe",
-            "title": "VOCALOID2 HATSUNE MIKU | eBay - Cent Browser"
+            "title": "mumu模拟器更新后alas失效-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 22423,
-          "timestamp": "2025-12-09T13:15:02.324000+00:00",
-          "duration": 18.169,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku vocaloid2 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22422,
-          "timestamp": "2025-12-09T13:15:01.314000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22420,
-          "timestamp": "2025-12-09T13:14:29.034000+00:00",
-          "duration": 31.271,
-          "data": {
-            "app": "chrome.exe",
-            "title": "miku vocaloid2 cover - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 22419,
-          "timestamp": "2025-12-09T13:14:28.013000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22418,
-          "timestamp": "2025-12-09T13:14:16.887000+00:00",
-          "duration": 10.113,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Vocaloid 6 Tutorial | How To Use Vocalo Changer - YouTube - Cent Browser"
-          }
-        },
-        {
-          "id": 22416,
-          "timestamp": "2025-12-09T13:14:00.742000+00:00",
-          "duration": 15.132,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Hatsune Miku | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22415,
-          "timestamp": "2025-12-09T13:13:57.716000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Search Results | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22414,
-          "timestamp": "2025-12-09T13:13:52.658000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Client Challenge - Cent Browser"
-          }
-        },
-        {
-          "id": 22413,
-          "timestamp": "2025-12-09T13:13:45.584000+00:00",
-          "duration": 6.067,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Megurine Luka | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22411,
-          "timestamp": "2025-12-09T13:09:08.676000+00:00",
-          "duration": 275.9,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22410,
-          "timestamp": "2025-12-09T13:09:07.670000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 22407,
-          "timestamp": "2025-12-09T13:04:24.796000+00:00",
-          "duration": 281.859,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22406,
-          "timestamp": "2025-12-09T13:04:23.783000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-163825.png [10/11] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22405,
-          "timestamp": "2025-12-09T13:04:22.772000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22404,
-          "timestamp": "2025-12-09T13:04:20.756000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22403,
-          "timestamp": "2025-12-09T13:04:19.741000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-163731.png [9/11] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22402,
-          "timestamp": "2025-12-09T13:04:17.718000+00:00",
+          "id": 23609,
+          "timestamp": "2025-12-10T02:54:28.456000+00:00",
           "duration": 1.01,
           "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 22401,
-          "timestamp": "2025-12-09T13:04:16.709000+00:00",
+          "id": 23607,
+          "timestamp": "2025-12-10T02:54:19.333000+00:00",
+          "duration": 8.118,
+          "data": {
+            "app": "chrome.exe",
+            "title": "mumu模拟器更新后alas失效-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 23606,
+          "timestamp": "2025-12-10T02:54:18.325000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 22400,
-          "timestamp": "2025-12-09T13:04:13.675000+00:00",
+          "id": 23605,
+          "timestamp": "2025-12-10T02:54:14.285000+00:00",
+          "duration": 3.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 23604,
+          "timestamp": "2025-12-10T02:54:11.256000+00:00",
           "duration": 2.022,
           "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22399,
-          "timestamp": "2025-12-09T13:04:12.661000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-154028.png [8/11] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22398,
-          "timestamp": "2025-12-09T13:04:08.618000+00:00",
-          "duration": 3.032,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22397,
-          "timestamp": "2025-12-09T13:04:06.593000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "F:  > QQ20251205-151528.png [6/11] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 22396,
-          "timestamp": "2025-12-09T13:04:01.539000+00:00",
-          "duration": 4.04,
-          "data": {
-            "app": "gogh.exe",
-            "title": "选择图片"
-          }
-        },
-        {
-          "id": 22391,
-          "timestamp": "2025-12-09T12:54:35.650000+00:00",
-          "duration": 564.881,
-          "data": {
-            "app": "gogh.exe",
-            "title": "gogh"
-          }
-        },
-        {
-          "id": 22390,
-          "timestamp": "2025-12-09T12:54:25.578000+00:00",
-          "duration": 9.064,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22389,
-          "timestamp": "2025-12-09T12:54:24.569000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "启动中..."
-          }
-        },
-        {
-          "id": 22388,
-          "timestamp": "2025-12-09T12:54:23.557000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 22386,
-          "timestamp": "2025-12-09T12:54:20.525000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22385,
-          "timestamp": "2025-12-09T12:54:19.519000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Megurine Luka | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22384,
-          "timestamp": "2025-12-09T12:54:16.468000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22383,
-          "timestamp": "2025-12-09T12:54:11.401000+00:00",
-          "duration": 4.053,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22376,
-          "timestamp": "2025-12-09T12:48:09.886000+00:00",
-          "duration": 360.503,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 22375,
-          "timestamp": "2025-12-09T12:48:08.879000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22374,
-          "timestamp": "2025-12-09T12:48:06.867000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Megurine Luka | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22373,
-          "timestamp": "2025-12-09T12:48:02.817000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 22372,
-          "timestamp": "2025-12-09T12:48:01.808000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【初音ミク】 ロンググッバイ 【オリジナル】 - ニコニコ動画 - Cent Browser"
-          }
-        },
-        {
-          "id": 22371,
-          "timestamp": "2025-12-09T12:47:59.786000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Megurine Luka | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22370,
-          "timestamp": "2025-12-09T12:47:57.763000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件:ロンググッバイ.png - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22369,
-          "timestamp": "2025-12-09T12:47:52.707000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Megurine Luka | Vocaloid Wiki | Fandom - Cent Browser"
-          }
-        },
-        {
-          "id": 22368,
-          "timestamp": "2025-12-09T12:47:47.641000+00:00",
-          "duration": 4.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁丧失单色”︁ - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22366,
-          "timestamp": "2025-12-09T12:47:23.371000+00:00",
-          "duration": 23.26,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 22365,
-          "timestamp": "2025-12-09T12:47:21.345000+00:00",
-          "duration": 1.013,
-          "data": {
             "app": "chrome.exe",
             "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 22364,
-          "timestamp": "2025-12-09T12:47:16.290000+00:00",
-          "duration": 4.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "亚离解星的个人空间-亚离解星个人主页-哔哩哔哩视频 - Cent Browser"
-          }
-        },
-        {
-          "id": 22363,
-          "timestamp": "2025-12-09T12:47:10.225000+00:00",
-          "duration": 5.054,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22360,
-          "timestamp": "2025-12-09T12:45:51.427000+00:00",
-          "duration": 77.79,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【小春六花AI (lite)】見世物ライフ【Synthesizer V COVER】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 22359,
-          "timestamp": "2025-12-09T12:45:49.403000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22357,
-          "timestamp": "2025-12-09T12:45:38.262000+00:00",
-          "duration": 10.125,
-          "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁User:森诺可”︁ - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22355,
-          "timestamp": "2025-12-09T12:45:19.082000+00:00",
-          "duration": 18.171,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【小春六花AI (lite)】見世物ライフ【Synthesizer V COVER】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 22353,
-          "timestamp": "2025-12-09T12:45:07.921000+00:00",
-          "duration": 10.15,
-          "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁User:森诺可”︁ - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22352,
-          "timestamp": "2025-12-09T12:45:06.913000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁Neru”︁ - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22349,
-          "timestamp": "2025-12-09T12:44:38.605000+00:00",
-          "duration": 27.297,
-          "data": {
-            "app": "chrome.exe",
-            "title": "亚离解星的个人空间-亚离解星个人主页-哔哩哔哩视频 - Cent Browser"
-          }
-        },
-        {
-          "id": 22348,
-          "timestamp": "2025-12-09T12:44:30.518000+00:00",
-          "duration": 7.073,
-          "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁User:森诺可”︁ - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22344,
-          "timestamp": "2025-12-09T12:43:39.982000+00:00",
-          "duration": 49.526,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【小春六花AI (lite)】見世物ライフ【Synthesizer V COVER】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 22343,
-          "timestamp": "2025-12-09T12:43:35.941000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/video/BV1m94y1Q7tr/?spm_id_from=333.1387.0.0 - Cent Browser"
-          }
-        },
-        {
-          "id": 22342,
-          "timestamp": "2025-12-09T12:43:33.919000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22341,
-          "timestamp": "2025-12-09T12:43:21.746000+00:00",
-          "duration": 11.159,
-          "data": {
-            "app": "chrome.exe",
-            "title": "亚离解星的个人空间-亚离解星个人主页-哔哩哔哩视频 - Cent Browser"
-          }
-        },
-        {
-          "id": 22340,
-          "timestamp": "2025-12-09T12:43:20.728000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "space.bilibili.com/1054210524?spm_id_from=333.1007.0.0 - Cent Browser"
-          }
-        },
-        {
-          "id": 22339,
-          "timestamp": "2025-12-09T12:43:19.716000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 22338,
-          "timestamp": "2025-12-09T12:43:12.623000+00:00",
-          "duration": 6.084,
+          "id": 23602,
+          "timestamp": "2025-12-10T02:53:55.049000+00:00",
+          "duration": 15.197,
           "data": {
             "app": "chrome.exe",
             "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
           }
         },
         {
-          "id": 22337,
-          "timestamp": "2025-12-09T12:43:10.589000+00:00",
-          "duration": 1.018,
+          "id": 23601,
+          "timestamp": "2025-12-10T02:53:52.019000+00:00",
+          "duration": 2.022,
           "data": {
             "app": "chrome.exe",
             "title": "青柠起始页 - Cent Browser"
           }
         },
         {
-          "id": 22336,
-          "timestamp": "2025-12-09T12:43:03.539000+00:00",
-          "duration": 6.044,
+          "id": 23599,
+          "timestamp": "2025-12-10T02:53:09.567000+00:00",
+          "duration": 41.447,
           "data": {
             "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+            "title": "MuMu模拟器官网_安卓12模拟器_网易手游模拟器 - Cent Browser"
           }
         },
         {
-          "id": 22335,
-          "timestamp": "2025-12-09T12:42:59.482000+00:00",
-          "duration": 3.049,
+          "id": 23598,
+          "timestamp": "2025-12-10T02:53:01.492000+00:00",
+          "duration": 7.07,
           "data": {
-            "app": "chrome.exe",
-            "title": "bilibili - Google 搜索 - Cent Browser"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 22334,
-          "timestamp": "2025-12-09T12:42:58.463000+00:00",
+          "id": 23596,
+          "timestamp": "2025-12-10T02:52:10.936000+00:00",
+          "duration": 49.545,
+          "data": {
+            "app": "chrome.exe",
+            "title": "MuMu模拟器官网_安卓12模拟器_网易手游模拟器 - Cent Browser"
+          }
+        },
+        {
+          "id": 23595,
+          "timestamp": "2025-12-10T02:52:09.930000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "title": "mumu.163.com - Cent Browser"
           }
         },
         {
-          "id": 22333,
-          "timestamp": "2025-12-09T12:42:51.383000+00:00",
-          "duration": 6.064,
+          "id": 23594,
+          "timestamp": "2025-12-10T02:52:03.876000+00:00",
+          "duration": 5.049,
+          "data": {
+            "app": "chrome.exe",
+            "title": "mumu模拟器 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 23593,
+          "timestamp": "2025-12-10T02:51:55.808000+00:00",
+          "duration": 7.055,
           "data": {
             "app": "chrome.exe",
             "title": "青柠起始页 - Cent Browser"
           }
         },
         {
-          "id": 22332,
-          "timestamp": "2025-12-09T12:42:50.367000+00:00",
+          "id": 23591,
+          "timestamp": "2025-12-10T02:51:53.793000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "co67ey.jpg (540×720) - Cent Browser"
+          }
+        },
+        {
+          "id": 23589,
+          "timestamp": "2025-12-10T02:51:52.779000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "app": "unknown",
+            "title": ""
           }
         },
         {
-          "id": 22330,
-          "timestamp": "2025-12-09T12:42:15.887000+00:00",
-          "duration": 33.463,
+          "id": 23588,
+          "timestamp": "2025-12-10T02:51:48.678000+00:00",
+          "duration": 3.033,
           "data": {
-            "app": "chrome.exe",
-            "title": "编辑“︁User:森诺可”︁ - Vocawiki - Cent Browser"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 22328,
-          "timestamp": "2025-12-09T12:41:44.535000+00:00",
-          "duration": 30.344,
+          "id": 23587,
+          "timestamp": "2025-12-10T02:51:46.657000+00:00",
+          "duration": 1.009,
           "data": {
-            "app": "chrome.exe",
-            "title": "用户:森诺可 - Vocawiki - Cent Browser"
+            "app": "ShellExperienceHost.exe",
+            "title": "QQ 的跳转列表"
           }
         },
         {
-          "id": 22327,
-          "timestamp": "2025-12-09T12:41:34.447000+00:00",
-          "duration": 9.081,
+          "id": 23510,
+          "timestamp": "2025-12-10T00:00:06.584000+00:00",
+          "duration": 10299.059,
           "data": {
-            "app": "chrome.exe",
-            "title": "Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22326,
-          "timestamp": "2025-12-09T12:41:21.290000+00:00",
-          "duration": 12.152,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:Wecury - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22324,
-          "timestamp": "2025-12-09T12:40:28.670000+00:00",
-          "duration": 51.608,
-          "data": {
-            "app": "chrome.exe",
-            "title": "可爱周某 - Vocawiki - Cent Browser"
-          }
-        },
-        {
-          "id": 22318,
-          "timestamp": "2025-12-09T12:00:05.920000+00:00",
-          "duration": 2421.74,
-          "data": {
-            "app": "chrome.exe",
-            "title": "用户:Wecury - Vocawiki - Cent Browser"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2025-12-10T00:00:08.027172",
+    "export_time": "2025-12-10T12:00:08.605948",
     "time_range": {
-      "start": "2025-12-09T12:00:05.920623",
-      "end": "2025-12-10T00:00:05.920623"
+      "start": "2025-12-10T00:00:06.584398",
+      "end": "2025-12-10T12:00:06.584398"
     },
-    "total_events": 610
+    "total_events": 75
   }
 }
