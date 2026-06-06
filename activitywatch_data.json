@@ -5,3275 +5,44 @@
       "type": "window",
       "events": [
         {
-          "id": 248406,
-          "timestamp": "2026-06-06T03:19:03.942000+00:00",
-          "duration": 2457.284,
-          "data": {
-            "app": "QQ.exe",
-            "title": "视频播放器"
-          }
-        },
-        {
-          "id": 248404,
-          "timestamp": "2026-06-06T03:17:10.514000+00:00",
-          "duration": 112.414,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 248403,
-          "timestamp": "2026-06-06T03:17:07.501000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025126-23454.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248402,
-          "timestamp": "2026-06-06T03:17:04.491000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 248401,
-          "timestamp": "2026-06-06T03:17:00.475000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248400,
-          "timestamp": "2026-06-06T03:16:59.469000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248399,
-          "timestamp": "2026-06-06T03:16:56.455000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025126-23454.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248396,
-          "timestamp": "2026-06-06T03:11:56.319000+00:00",
-          "duration": 299.132,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248395,
-          "timestamp": "2026-06-06T03:11:53.306000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025126-23454.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248394,
-          "timestamp": "2026-06-06T03:11:52.300000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025123-03411.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248393,
-          "timestamp": "2026-06-06T03:11:51.294000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248392,
-          "timestamp": "2026-06-06T03:11:50.290000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025123-03411.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248391,
-          "timestamp": "2026-06-06T03:11:49.283000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248390,
-          "timestamp": "2026-06-06T03:11:45.266000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025122-14859.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248389,
-          "timestamp": "2026-06-06T03:11:41.249000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248388,
-          "timestamp": "2026-06-06T03:11:39.241000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ2025122-14859.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248387,
-          "timestamp": "2026-06-06T03:11:37.230000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ20251210-2753.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248386,
-          "timestamp": "2026-06-06T03:11:35.222000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "FSViewerPortable"
-          }
-        },
-        {
-          "id": 248385,
-          "timestamp": "2026-06-06T03:11:34.216000+00:00",
-          "duration": 0.0,
+          "id": 249584,
+          "timestamp": "2026-06-06T15:01:38.666000+00:00",
+          "duration": 3502.592,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 248384,
-          "timestamp": "2026-06-06T03:11:33.211000+00:00",
+          "id": 249583,
+          "timestamp": "2026-06-06T15:01:37.660000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "explorer.exe",
-            "title": "已完成 100%"
+            "app": "chrome.exe",
+            "title": "打开"
           }
         },
         {
-          "id": 248383,
-          "timestamp": "2026-06-06T03:11:32.207000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "已完成 67%"
-          }
-        },
-        {
-          "id": 248382,
-          "timestamp": "2026-06-06T03:11:31.202000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 248381,
-          "timestamp": "2026-06-06T03:11:30.197000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "删除多个项目"
-          }
-        },
-        {
-          "id": 248380,
-          "timestamp": "2026-06-06T03:11:26.182000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 248379,
-          "timestamp": "2026-06-06T03:11:25.178000+00:00",
-          "duration": 0.0,
+          "id": 249582,
+          "timestamp": "2026-06-06T15:01:19.574000+00:00",
+          "duration": 17.081,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 248378,
-          "timestamp": "2026-06-06T03:11:24.174000+00:00",
+          "id": 249581,
+          "timestamp": "2026-06-06T15:01:18.569000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ20251210-2753.mp4  -  FastStone Image Viewer 8.0"
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 248377,
-          "timestamp": "2026-06-06T03:11:23.169000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "FSViewerPortable"
-          }
-        },
-        {
-          "id": 248376,
-          "timestamp": "2026-06-06T03:11:19.150000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ20251210-2753.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248375,
-          "timestamp": "2026-06-06T03:11:17.142000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "Video_1766250407484.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248374,
-          "timestamp": "2026-06-06T03:11:16.137000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除多个项目"
-          }
-        },
-        {
-          "id": 248373,
-          "timestamp": "2026-06-06T03:11:15.130000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "video_20260219_192834.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248372,
-          "timestamp": "2026-06-06T03:11:11.114000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "video_20240211_201056.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248371,
-          "timestamp": "2026-06-06T03:10:57.054000+00:00",
-          "duration": 13.056,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248370,
-          "timestamp": "2026-06-06T03:10:56.047000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "video_20240211_201056.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248369,
-          "timestamp": "2026-06-06T03:10:53.034000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601041545(1).mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248368,
-          "timestamp": "2026-06-06T03:10:52.029000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248367,
-          "timestamp": "2026-06-06T03:10:51.024000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "4aa895b3-8dc1-4c86-aa99-e970d1e71d13.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248366,
-          "timestamp": "2026-06-06T03:10:45.001000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ202613-63725.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248365,
-          "timestamp": "2026-06-06T03:10:41.988000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ202613-17196.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248364,
-          "timestamp": "2026-06-06T03:10:40.983000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "QQ202613-63725.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248363,
-          "timestamp": "2026-06-06T03:10:33.955000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601120457.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248362,
-          "timestamp": "2026-06-06T03:10:32.950000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601120238.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248361,
-          "timestamp": "2026-06-06T03:10:31.944000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601082321.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248360,
-          "timestamp": "2026-06-06T03:10:30.939000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601041545(1).mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248359,
-          "timestamp": "2026-06-06T03:10:29.933000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601041545.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248358,
-          "timestamp": "2026-06-06T03:10:28.928000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "202601080801(2).mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248357,
-          "timestamp": "2026-06-06T03:10:22.901000+00:00",
-          "duration": 5.023,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "4aa895b3-8dc1-4c86-aa99-e970d1e71d13.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248356,
-          "timestamp": "2026-06-06T03:10:20.893000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "6e901734-031f-47fb-a6aa-2a0e28c7b878.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248355,
-          "timestamp": "2026-06-06T03:10:19.889000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "7ce9f547-40c6-44b7-ba1d-b966df2b5e8d.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248354,
-          "timestamp": "2026-06-06T03:10:18.883000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "8a691696-bba0-405e-bfa8-352f9e34d2de.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248353,
-          "timestamp": "2026-06-06T03:10:17.879000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "10c59244-fdb7-49cd-aea8-b01e84ba7ea2.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248352,
-          "timestamp": "2026-06-06T03:10:16.874000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "15e435c3-6745-4558-b7cc-adc74a9eb020.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248351,
-          "timestamp": "2026-06-06T03:10:15.869000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "10c59244-fdb7-49cd-aea8-b01e84ba7ea2.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248350,
-          "timestamp": "2026-06-06T03:10:13.861000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "47affb69-8d21-4913-9b18-bd3fcdfa45e5.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248349,
-          "timestamp": "2026-06-06T03:10:11.851000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "10c59244-fdb7-49cd-aea8-b01e84ba7ea2.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248348,
-          "timestamp": "2026-06-06T03:10:08.839000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "9d6ea6b7-6a0b-4127-a2a0-5d13085fcf3a.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248347,
-          "timestamp": "2026-06-06T03:10:05.825000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "4aa895b3-8dc1-4c86-aa99-e970d1e71d13.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248346,
-          "timestamp": "2026-06-06T03:10:01.809000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248345,
-          "timestamp": "2026-06-06T03:09:56.790000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "fd253d0c49e396db2c8e4971a2edc22e1f1ca12e.png@1052w_!web-dynamic.webp  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248344,
-          "timestamp": "2026-06-06T03:09:55.784000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248343,
-          "timestamp": "2026-06-06T03:09:54.779000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "zero-case-artists-dcaf1797a5.png  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248342,
-          "timestamp": "2026-06-06T03:09:52.771000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248341,
-          "timestamp": "2026-06-06T03:09:51.765000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "mmexport1767939258044-removebg-preview.png  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248340,
-          "timestamp": "2026-06-06T03:09:49.758000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "zero-case-artists-dcaf1797a5.png  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248339,
-          "timestamp": "2026-06-06T03:09:48.752000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248338,
-          "timestamp": "2026-06-06T03:09:46.741000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "29713236139-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248337,
-          "timestamp": "2026-06-06T03:09:43.727000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "27166376694-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248336,
-          "timestamp": "2026-06-06T03:09:42.723000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "29713236139-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248335,
-          "timestamp": "2026-06-06T03:09:41.715000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248334,
-          "timestamp": "2026-06-06T03:09:38.703000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "28546239595-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248333,
-          "timestamp": "2026-06-06T03:09:37.698000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "35794718128-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248332,
-          "timestamp": "2026-06-06T03:09:32.679000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "25804611543-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248331,
-          "timestamp": "2026-06-06T03:09:24.649000+00:00",
-          "duration": 7.026,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248330,
-          "timestamp": "2026-06-06T03:09:23.644000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "25804611543-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248329,
-          "timestamp": "2026-06-06T03:09:20.631000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "387053109-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248328,
-          "timestamp": "2026-06-06T03:09:15.613000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248327,
-          "timestamp": "2026-06-06T03:09:13.605000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "信息"
-          }
-        },
-        {
-          "id": 248326,
-          "timestamp": "2026-06-06T03:09:10.590000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "387053109-1-192.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248325,
-          "timestamp": "2026-06-06T03:09:06.573000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "66605640-1-6.mp4  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248324,
-          "timestamp": "2026-06-06T03:08:52.515000+00:00",
-          "duration": 13.054,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248323,
-          "timestamp": "2026-06-06T03:08:46.493000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "0fd20e5c2e7a4dd961f55c2eca7aa54f16a3c9626da1f-M2htUZ.png  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248322,
-          "timestamp": "2026-06-06T03:08:44.484000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "设置"
-          }
-        },
-        {
-          "id": 248321,
-          "timestamp": "2026-06-06T03:08:38.458000+00:00",
-          "duration": 5.022,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "0fd20e5c2e7a4dd961f55c2eca7aa54f16a3c9626da1f-M2htUZ.png  -  FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248320,
-          "timestamp": "2026-06-06T03:08:37.452000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "FSViewer.exe",
-            "title": "FastStone Image Viewer 8.0"
-          }
-        },
-        {
-          "id": 248319,
-          "timestamp": "2026-06-06T03:08:36.447000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "FSViewerPortable"
-          }
-        },
-        {
-          "id": 248318,
-          "timestamp": "2026-06-06T03:08:31.426000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
-          }
-        },
-        {
-          "id": 248317,
-          "timestamp": "2026-06-06T03:08:30.422000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "app"
-          }
-        },
-        {
-          "id": 248316,
-          "timestamp": "2026-06-06T03:08:28.413000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 248315,
-          "timestamp": "2026-06-06T03:08:27.409000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248314,
-          "timestamp": "2026-06-06T03:08:26.405000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "sleep"
-          }
-        },
-        {
-          "id": 248313,
-          "timestamp": "2026-06-06T03:08:24.396000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "apps"
-          }
-        },
-        {
-          "id": 248312,
-          "timestamp": "2026-06-06T03:08:23.392000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 248311,
-          "timestamp": "2026-06-06T03:08:22.388000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "网页项目"
-          }
-        },
-        {
-          "id": 248310,
-          "timestamp": "2026-06-06T03:08:21.382000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 248309,
-          "timestamp": "2026-06-06T03:08:20.376000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "app"
-          }
-        },
-        {
-          "id": 248308,
-          "timestamp": "2026-06-06T03:08:17.364000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248307,
-          "timestamp": "2026-06-06T03:08:13.346000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248306,
-          "timestamp": "2026-06-06T03:08:12.342000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248305,
-          "timestamp": "2026-06-06T03:08:11.338000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248304,
-          "timestamp": "2026-06-06T03:08:10.332000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248303,
-          "timestamp": "2026-06-06T03:08:09.327000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Preview"
-          }
-        },
-        {
-          "id": 248302,
-          "timestamp": "2026-06-06T03:08:07.318000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248301,
-          "timestamp": "2026-06-06T03:08:06.314000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除多个项目"
-          }
-        },
-        {
-          "id": 248300,
-          "timestamp": "2026-06-06T03:08:00.291000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248299,
-          "timestamp": "2026-06-06T03:07:59.286000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Preview"
-          }
-        },
-        {
-          "id": 248298,
-          "timestamp": "2026-06-06T03:07:57.277000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248297,
-          "timestamp": "2026-06-06T03:07:56.272000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248296,
-          "timestamp": "2026-06-06T03:07:52.255000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248295,
-          "timestamp": "2026-06-06T03:07:50.247000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Preview"
-          }
-        },
-        {
-          "id": 248294,
-          "timestamp": "2026-06-06T03:07:48.238000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248293,
-          "timestamp": "2026-06-06T03:07:47.234000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248292,
-          "timestamp": "2026-06-06T03:07:46.230000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248291,
-          "timestamp": "2026-06-06T03:07:45.225000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Preview"
-          }
-        },
-        {
-          "id": 248290,
-          "timestamp": "2026-06-06T03:07:44.218000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248289,
-          "timestamp": "2026-06-06T03:07:43.212000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248288,
-          "timestamp": "2026-06-06T03:07:41.204000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248287,
-          "timestamp": "2026-06-06T03:07:40.198000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Preview"
-          }
-        },
-        {
-          "id": 248286,
-          "timestamp": "2026-06-06T03:07:38.189000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248285,
-          "timestamp": "2026-06-06T03:07:37.184000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 248284,
-          "timestamp": "2026-06-06T03:07:35.175000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248283,
-          "timestamp": "2026-06-06T03:07:34.170000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "downloads  > Synthesizer_V_URL_Icon.webp [342/348] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 248282,
-          "timestamp": "2026-06-06T03:07:31.158000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248281,
-          "timestamp": "2026-06-06T03:07:29.148000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "win"
-          }
-        },
-        {
-          "id": 248280,
-          "timestamp": "2026-06-06T03:07:28.143000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "新增20260315-4-keyzone classic 五种经典钢琴电钢合集（首推这个，无需魔法）"
-          }
-        },
-        {
-          "id": 248279,
-          "timestamp": "2026-06-06T03:07:26.131000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248278,
-          "timestamp": "2026-06-06T03:07:25.127000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "A-安装必读"
-          }
-        },
-        {
-          "id": 248277,
-          "timestamp": "2026-06-06T03:07:16.087000+00:00",
-          "duration": 8.036,
-          "data": {
-            "app": "msedge.exe",
-            "title": "安装说明及教程2026.pdf - 用户配置 1 - Microsoft​ Edge"
-          }
-        },
-        {
-          "id": 248276,
-          "timestamp": "2026-06-06T03:07:15.081000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248275,
-          "timestamp": "2026-06-06T03:07:13.074000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OpenWith.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248274,
-          "timestamp": "2026-06-06T03:07:12.068000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "A-安装必读"
-          }
-        },
-        {
-          "id": 248273,
-          "timestamp": "2026-06-06T03:07:10.060000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 248272,
-          "timestamp": "2026-06-06T03:07:08.050000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "E:\\"
-          }
-        },
-        {
-          "id": 248271,
-          "timestamp": "2026-06-06T03:07:06.040000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 248270,
-          "timestamp": "2026-06-06T03:07:05.034000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248269,
-          "timestamp": "2026-06-06T03:07:03.027000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "notepad.exe",
-            "title": "basic.ics - 记事本"
-          }
-        },
-        {
-          "id": 248268,
-          "timestamp": "2026-06-06T03:07:01.017000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248263,
-          "timestamp": "2026-06-06T03:02:10.812000+00:00",
-          "duration": 289.202,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248262,
-          "timestamp": "2026-06-06T03:02:05.785000+00:00",
-          "duration": 4.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248261,
-          "timestamp": "2026-06-06T03:02:04.778000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248260,
-          "timestamp": "2026-06-06T03:02:01.764000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248259,
-          "timestamp": "2026-06-06T03:01:58.751000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248258,
-          "timestamp": "2026-06-06T03:01:49.712000+00:00",
-          "duration": 8.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248257,
-          "timestamp": "2026-06-06T03:01:46.699000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 248256,
-          "timestamp": "2026-06-06T03:01:44.689000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 248252,
-          "timestamp": "2026-06-06T02:51:28.410000+00:00",
-          "duration": 615.275,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 248247,
-          "timestamp": "2026-06-06T02:45:48.185000+00:00",
-          "duration": 339.222,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248246,
-          "timestamp": "2026-06-06T02:45:46.175000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248245,
-          "timestamp": "2026-06-06T02:45:45.171000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 248244,
-          "timestamp": "2026-06-06T02:45:44.108000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248243,
-          "timestamp": "2026-06-06T02:45:32.059000+00:00",
-          "duration": 11.045,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248242,
-          "timestamp": "2026-06-06T02:45:07.967000+00:00",
-          "duration": 23.088,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248241,
-          "timestamp": "2026-06-06T02:44:18.747000+00:00",
-          "duration": 48.217,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248234,
-          "timestamp": "2026-06-06T02:31:39.020000+00:00",
-          "duration": 758.724,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248233,
-          "timestamp": "2026-06-06T02:30:25.659000+00:00",
-          "duration": 72.358,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248232,
-          "timestamp": "2026-06-06T02:30:19.635000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248231,
-          "timestamp": "2026-06-06T02:30:09.600000+00:00",
-          "duration": 9.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248230,
-          "timestamp": "2026-06-06T02:29:45.503000+00:00",
-          "duration": 23.093,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248228,
-          "timestamp": "2026-06-06T02:27:56.097000+00:00",
-          "duration": 108.404,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248227,
-          "timestamp": "2026-06-06T02:27:13.913000+00:00",
-          "duration": 41.18,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248226,
-          "timestamp": "2026-06-06T02:27:01.865000+00:00",
-          "duration": 11.044,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248225,
-          "timestamp": "2026-06-06T02:26:03.619000+00:00",
-          "duration": 57.243,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248223,
-          "timestamp": "2026-06-06T02:25:50.568000+00:00",
-          "duration": 12.047,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248222,
-          "timestamp": "2026-06-06T02:25:04.358000+00:00",
-          "duration": 45.207,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248221,
-          "timestamp": "2026-06-06T02:25:03.351000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248220,
-          "timestamp": "2026-06-06T02:24:51.294000+00:00",
-          "duration": 11.054,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248219,
-          "timestamp": "2026-06-06T02:24:32.222000+00:00",
-          "duration": 18.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248216,
-          "timestamp": "2026-06-06T02:17:29.444000+00:00",
-          "duration": 421.773,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248215,
-          "timestamp": "2026-06-06T02:17:06.358000+00:00",
-          "duration": 22.082,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248203,
-          "timestamp": "2026-06-06T02:04:17.824000+00:00",
-          "duration": 767.53,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248201,
-          "timestamp": "2026-06-06T02:02:22.415000+00:00",
-          "duration": 114.404,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248200,
-          "timestamp": "2026-06-06T02:01:03.078000+00:00",
-          "duration": 78.334,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248199,
-          "timestamp": "2026-06-06T02:00:22.931000+00:00",
-          "duration": 39.143,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248198,
-          "timestamp": "2026-06-06T01:59:38.742000+00:00",
-          "duration": 43.186,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248196,
-          "timestamp": "2026-06-06T01:59:18.669000+00:00",
-          "duration": 19.069,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248195,
-          "timestamp": "2026-06-06T01:58:20.406000+00:00",
-          "duration": 57.259,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248194,
-          "timestamp": "2026-06-06T01:58:19.399000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248192,
-          "timestamp": "2026-06-06T01:58:01.325000+00:00",
-          "duration": 17.071,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248191,
-          "timestamp": "2026-06-06T01:58:00.320000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248190,
-          "timestamp": "2026-06-06T01:57:58.310000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248189,
-          "timestamp": "2026-06-06T01:57:34.214000+00:00",
-          "duration": 23.092,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248188,
-          "timestamp": "2026-06-06T01:57:15.120000+00:00",
-          "duration": 18.09,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248186,
-          "timestamp": "2026-06-06T01:57:11.105000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248185,
-          "timestamp": "2026-06-06T01:57:10.099000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248184,
-          "timestamp": "2026-06-06T01:57:03.070000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248183,
-          "timestamp": "2026-06-06T01:56:53.032000+00:00",
-          "duration": 9.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248182,
-          "timestamp": "2026-06-06T01:55:48.739000+00:00",
-          "duration": 63.29,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248181,
-          "timestamp": "2026-06-06T01:55:38.699000+00:00",
-          "duration": 9.036,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248179,
-          "timestamp": "2026-06-06T01:53:21.107000+00:00",
-          "duration": 136.588,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248178,
-          "timestamp": "2026-06-06T01:53:11.072000+00:00",
-          "duration": 9.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248177,
-          "timestamp": "2026-06-06T01:52:56.011000+00:00",
-          "duration": 14.058,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248176,
-          "timestamp": "2026-06-06T01:52:48.981000+00:00",
-          "duration": 6.026,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248175,
-          "timestamp": "2026-06-06T01:52:15.845000+00:00",
-          "duration": 32.132,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248173,
-          "timestamp": "2026-06-06T01:51:48.717000+00:00",
-          "duration": 26.125,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248172,
-          "timestamp": "2026-06-06T01:51:44.700000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248170,
-          "timestamp": "2026-06-06T01:51:12.547000+00:00",
-          "duration": 31.15,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248169,
-          "timestamp": "2026-06-06T01:51:10.539000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248168,
-          "timestamp": "2026-06-06T01:51:03.512000+00:00",
-          "duration": 6.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248166,
-          "timestamp": "2026-06-06T01:51:01.503000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248164,
-          "timestamp": "2026-06-06T01:50:29.354000+00:00",
-          "duration": 31.145,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248163,
-          "timestamp": "2026-06-06T01:50:28.349000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248162,
-          "timestamp": "2026-06-06T01:50:03.244000+00:00",
-          "duration": 24.102,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248161,
-          "timestamp": "2026-06-06T01:49:56.217000+00:00",
-          "duration": 6.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248160,
-          "timestamp": "2026-06-06T01:49:55.213000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 248158,
-          "timestamp": "2026-06-06T01:49:35.140000+00:00",
-          "duration": 19.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248157,
-          "timestamp": "2026-06-06T01:49:29.117000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 常规设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248156,
-          "timestamp": "2026-06-06T01:49:16.067000+00:00",
-          "duration": 12.047,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248155,
-          "timestamp": "2026-06-06T01:49:12.050000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248153,
-          "timestamp": "2026-06-06T01:49:10.043000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年6月7日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248151,
-          "timestamp": "2026-06-06T01:49:07.031000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248148,
-          "timestamp": "2026-06-06T01:48:57.998000+00:00",
-          "duration": 8.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248146,
-          "timestamp": "2026-06-06T01:48:54.983000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248144,
-          "timestamp": "2026-06-06T01:48:22.860000+00:00",
-          "duration": 31.12,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248143,
-          "timestamp": "2026-06-06T01:48:21.856000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 248142,
-          "timestamp": "2026-06-06T01:47:11.500000+00:00",
-          "duration": 69.279,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248141,
-          "timestamp": "2026-06-06T01:47:09.491000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248139,
-          "timestamp": "2026-06-06T01:46:24.317000+00:00",
-          "duration": 44.17,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 248138,
-          "timestamp": "2026-06-06T01:46:18.291000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248137,
-          "timestamp": "2026-06-06T01:46:04.236000+00:00",
-          "duration": 13.05,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248136,
-          "timestamp": "2026-06-06T01:45:49.174000+00:00",
-          "duration": 14.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248135,
-          "timestamp": "2026-06-06T01:45:39.131000+00:00",
-          "duration": 9.038,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248134,
-          "timestamp": "2026-06-06T01:45:06.003000+00:00",
-          "duration": 32.124,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 248133,
-          "timestamp": "2026-06-06T01:45:04.960000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248132,
-          "timestamp": "2026-06-06T01:45:03.955000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 248131,
-          "timestamp": "2026-06-06T01:45:02.950000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 248130,
-          "timestamp": "2026-06-06T01:44:49.850000+00:00",
-          "duration": 12.046,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248128,
-          "timestamp": "2026-06-06T01:44:48.846000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248126,
-          "timestamp": "2026-06-06T01:44:47.841000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 248123,
-          "timestamp": "2026-06-06T01:41:04.820000+00:00",
-          "duration": 221.955,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248122,
-          "timestamp": "2026-06-06T01:41:01.808000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248121,
-          "timestamp": "2026-06-06T01:40:59.799000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年6月7日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248119,
-          "timestamp": "2026-06-06T01:40:36.715000+00:00",
-          "duration": 22.08,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248117,
-          "timestamp": "2026-06-06T01:40:35.711000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年6月7日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248116,
-          "timestamp": "2026-06-06T01:40:32.698000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 活动详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 248115,
-          "timestamp": "2026-06-06T01:40:29.687000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年6月7日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248114,
-          "timestamp": "2026-06-06T01:40:19.650000+00:00",
-          "duration": 9.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248113,
-          "timestamp": "2026-06-06T01:40:03.591000+00:00",
-          "duration": 15.056,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 活动详情 - Cent Browser"
-          }
-        },
-        {
-          "id": 248112,
-          "timestamp": "2026-06-06T01:39:57.566000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248111,
-          "timestamp": "2026-06-06T01:39:56.561000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248108,
-          "timestamp": "2026-06-06T01:38:23.172000+00:00",
-          "duration": 92.386,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248107,
-          "timestamp": "2026-06-06T01:38:18.153000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248105,
-          "timestamp": "2026-06-06T01:37:57.071000+00:00",
-          "duration": 20.077,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248104,
-          "timestamp": "2026-06-06T01:37:56.065000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248103,
-          "timestamp": "2026-06-06T01:37:53.055000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "notepad.exe",
-            "title": "basic.ics - 记事本"
-          }
-        },
-        {
-          "id": 248102,
-          "timestamp": "2026-06-06T01:37:46.030000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "OpenWith.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248101,
-          "timestamp": "2026-06-06T01:37:44.020000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 248100,
-          "timestamp": "2026-06-06T01:37:37.996000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248099,
-          "timestamp": "2026-06-06T01:37:36.992000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248098,
-          "timestamp": "2026-06-06T01:37:15.899000+00:00",
-          "duration": 20.088,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248097,
-          "timestamp": "2026-06-06T01:37:14.893000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248095,
-          "timestamp": "2026-06-06T01:37:03.853000+00:00",
-          "duration": 10.035,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248094,
-          "timestamp": "2026-06-06T01:37:01.845000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248092,
-          "timestamp": "2026-06-06T01:36:50.802000+00:00",
-          "duration": 10.038,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248091,
-          "timestamp": "2026-06-06T01:36:44.776000+00:00",
-          "duration": 5.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248090,
-          "timestamp": "2026-06-06T01:36:43.770000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248089,
-          "timestamp": "2026-06-06T01:36:38.749000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248088,
-          "timestamp": "2026-06-06T01:36:31.722000+00:00",
-          "duration": 6.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248086,
-          "timestamp": "2026-06-06T01:36:30.718000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248084,
-          "timestamp": "2026-06-06T01:36:20.683000+00:00",
-          "duration": 9.031,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248082,
-          "timestamp": "2026-06-06T01:36:10.647000+00:00",
-          "duration": 9.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248080,
-          "timestamp": "2026-06-06T01:36:08.639000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248078,
-          "timestamp": "2026-06-06T01:35:35.506000+00:00",
-          "duration": 32.129,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248077,
-          "timestamp": "2026-06-06T01:35:34.501000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 248076,
-          "timestamp": "2026-06-06T01:35:32.453000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248073,
-          "timestamp": "2026-06-06T01:34:21.158000+00:00",
-          "duration": 70.291,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248072,
-          "timestamp": "2026-06-06T01:34:12.120000+00:00",
-          "duration": 8.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "电脑同步用日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248071,
-          "timestamp": "2026-06-06T01:34:10.111000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "calendar.google.com/calendar/u/0/embed?src=naflg9e@gmail.com&ctz=Asia/Shanghai - Cent Browser"
-          }
-        },
-        {
-          "id": 248070,
-          "timestamp": "2026-06-06T01:34:09.107000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 248069,
-          "timestamp": "2026-06-06T01:34:02.076000+00:00",
-          "duration": 6.025,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248068,
-          "timestamp": "2026-06-06T01:33:39.991000+00:00",
-          "duration": 21.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248067,
-          "timestamp": "2026-06-06T01:33:07.860000+00:00",
-          "duration": 31.126,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248066,
-          "timestamp": "2026-06-06T01:32:58.828000+00:00",
-          "duration": 8.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248065,
-          "timestamp": "2026-06-06T01:32:57.822000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248063,
-          "timestamp": "2026-06-06T01:32:40.755000+00:00",
-          "duration": 16.062,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248062,
-          "timestamp": "2026-06-06T01:32:39.750000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248061,
-          "timestamp": "2026-06-06T01:32:35.733000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248060,
-          "timestamp": "2026-06-06T01:32:29.708000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248058,
-          "timestamp": "2026-06-06T01:29:42.070000+00:00",
-          "duration": 166.635,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248057,
-          "timestamp": "2026-06-06T01:29:34.044000+00:00",
-          "duration": 7.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248055,
-          "timestamp": "2026-06-06T01:28:40.852000+00:00",
-          "duration": 52.188,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248054,
-          "timestamp": "2026-06-06T01:28:38.842000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248053,
-          "timestamp": "2026-06-06T01:28:33.824000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248052,
-          "timestamp": "2026-06-06T01:28:20.776000+00:00",
-          "duration": 12.045,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248051,
-          "timestamp": "2026-06-06T01:28:19.771000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248050,
-          "timestamp": "2026-06-06T01:28:13.747000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248048,
-          "timestamp": "2026-06-06T01:28:08.731000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248047,
-          "timestamp": "2026-06-06T01:27:54.680000+00:00",
-          "duration": 13.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248046,
-          "timestamp": "2026-06-06T01:27:49.663000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248045,
-          "timestamp": "2026-06-06T01:27:37.619000+00:00",
-          "duration": 11.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248044,
-          "timestamp": "2026-06-06T01:27:34.603000+00:00",
-          "duration": 2.012,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248043,
-          "timestamp": "2026-06-06T01:27:30.589000+00:00",
-          "duration": 3.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248042,
-          "timestamp": "2026-06-06T01:27:29.584000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248041,
-          "timestamp": "2026-06-06T01:27:26.574000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248040,
-          "timestamp": "2026-06-06T01:27:23.564000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248039,
-          "timestamp": "2026-06-06T01:27:12.521000+00:00",
-          "duration": 10.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248038,
-          "timestamp": "2026-06-06T01:27:07.501000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248037,
-          "timestamp": "2026-06-06T01:27:05.493000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248036,
-          "timestamp": "2026-06-06T01:27:01.477000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "calendar.google.com/calendar/u/0/r/settings/calendar/bmFmbGc5ZUBnbWFpbC5jb20?pli=1 - Cent Browser"
-          }
-        },
-        {
-          "id": 248035,
-          "timestamp": "2026-06-06T01:26:59.466000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248034,
-          "timestamp": "2026-06-06T01:26:42.408000+00:00",
-          "duration": 16.056,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248032,
-          "timestamp": "2026-06-06T01:26:38.393000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 创建日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248031,
-          "timestamp": "2026-06-06T01:26:34.378000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248030,
-          "timestamp": "2026-06-06T01:26:16.311000+00:00",
-          "duration": 17.064,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 创建日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248028,
-          "timestamp": "2026-06-06T01:25:59.248000+00:00",
-          "duration": 16.061,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “电脑同步用日历”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248027,
-          "timestamp": "2026-06-06T01:25:56.237000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248026,
-          "timestamp": "2026-06-06T01:25:52.221000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 创建日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248023,
-          "timestamp": "2026-06-06T01:25:51.213000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248022,
-          "timestamp": "2026-06-06T01:25:48.198000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 248019,
-          "timestamp": "2026-06-06T01:25:46.189000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248018,
-          "timestamp": "2026-06-06T01:25:45.183000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 248017,
-          "timestamp": "2026-06-06T01:25:33.137000+00:00",
-          "duration": 11.042,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248016,
-          "timestamp": "2026-06-06T01:25:32.133000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "calendar.google.com/calendar/u/0/r/settings/createcalendar?pli=1 - Cent Browser"
-          }
-        },
-        {
-          "id": 248015,
-          "timestamp": "2026-06-06T01:25:31.127000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 创建日历 - Cent Browser"
-          }
-        },
-        {
-          "id": 248014,
-          "timestamp": "2026-06-06T01:25:02.030000+00:00",
-          "duration": 28.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 常规设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248013,
-          "timestamp": "2026-06-06T01:24:52.997000+00:00",
-          "duration": 8.029,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 248011,
-          "timestamp": "2026-06-06T01:24:19.880000+00:00",
-          "duration": 32.114,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 常规设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248010,
-          "timestamp": "2026-06-06T01:23:51.772000+00:00",
-          "duration": 27.103,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - “可颂”的日历设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 248008,
-          "timestamp": "2026-06-06T01:23:32.701000+00:00",
-          "duration": 18.067,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Google 日历 - 2026年5月31日这周 - Cent Browser"
-          }
-        },
-        {
-          "id": 248007,
-          "timestamp": "2026-06-06T01:23:23.665000+00:00",
-          "duration": 8.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 248005,
-          "timestamp": "2026-06-06T01:23:20.656000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "谷歌日历 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 248003,
-          "timestamp": "2026-06-06T01:23:19.651000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 248002,
-          "timestamp": "2026-06-06T01:23:14.633000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247998,
-          "timestamp": "2026-06-06T01:16:56.338000+00:00",
-          "duration": 377.291,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247995,
-          "timestamp": "2026-06-06T01:14:35.873000+00:00",
-          "duration": 139.461,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247994,
-          "timestamp": "2026-06-06T01:14:18.804000+00:00",
-          "duration": 16.064,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247993,
-          "timestamp": "2026-06-06T01:14:13.786000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247992,
-          "timestamp": "2026-06-06T01:14:12.781000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 247991,
-          "timestamp": "2026-06-06T01:14:06.759000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247989,
-          "timestamp": "2026-06-06T01:13:25.606000+00:00",
-          "duration": 40.149,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247988,
-          "timestamp": "2026-06-06T01:12:49.479000+00:00",
-          "duration": 35.123,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247986,
-          "timestamp": "2026-06-06T01:12:48.474000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247985,
-          "timestamp": "2026-06-06T01:12:27.388000+00:00",
-          "duration": 20.081,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247984,
-          "timestamp": "2026-06-06T01:12:26.383000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247982,
-          "timestamp": "2026-06-06T01:10:38.973000+00:00",
-          "duration": 106.407,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247981,
-          "timestamp": "2026-06-06T01:10:23.921000+00:00",
-          "duration": 14.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247978,
-          "timestamp": "2026-06-06T01:08:56.582000+00:00",
-          "duration": 86.336,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247977,
-          "timestamp": "2026-06-06T01:08:50.563000+00:00",
-          "duration": 5.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247976,
-          "timestamp": "2026-06-06T01:08:49.557000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247975,
-          "timestamp": "2026-06-06T01:08:45.544000+00:00",
-          "duration": 3.01,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247974,
-          "timestamp": "2026-06-06T01:08:41.529000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247973,
-          "timestamp": "2026-06-06T01:08:40.523000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247972,
-          "timestamp": "2026-06-06T01:07:57.298000+00:00",
-          "duration": 42.15,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247971,
-          "timestamp": "2026-06-06T01:07:28.203000+00:00",
-          "duration": 28.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247969,
-          "timestamp": "2026-06-06T01:06:20.944000+00:00",
-          "duration": 66.256,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247968,
-          "timestamp": "2026-06-06T01:06:19.938000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247967,
-          "timestamp": "2026-06-06T01:06:12.914000+00:00",
-          "duration": 6.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 247966,
-          "timestamp": "2026-06-06T01:06:09.903000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247965,
-          "timestamp": "2026-06-06T01:06:08.899000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247964,
-          "timestamp": "2026-06-06T01:04:02.379000+00:00",
-          "duration": 125.468,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247963,
-          "timestamp": "2026-06-06T01:04:00.368000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 247962,
-          "timestamp": "2026-06-06T01:03:59.364000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247961,
-          "timestamp": "2026-06-06T01:02:37.083000+00:00",
-          "duration": 81.278,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247959,
-          "timestamp": "2026-06-06T01:02:36.078000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247958,
-          "timestamp": "2026-06-06T01:02:35.074000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Everything.exe",
-            "title": "startpage - Everything"
-          }
-        },
-        {
-          "id": 247957,
-          "timestamp": "2026-06-06T01:02:28.048000+00:00",
-          "duration": 6.022,
-          "data": {
-            "app": "Everything.exe",
-            "title": "Startpage.html 属性"
-          }
-        },
-        {
-          "id": 247956,
-          "timestamp": "2026-06-06T01:02:23.031000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "Everything.exe",
-            "title": "startpage - Everything"
-          }
-        },
-        {
-          "id": 247955,
-          "timestamp": "2026-06-06T01:02:22.026000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Everything.exe",
-            "title": "strtpage - Everything"
-          }
-        },
-        {
-          "id": 247954,
-          "timestamp": "2026-06-06T01:02:11.992000+00:00",
-          "duration": 9.032,
-          "data": {
-            "app": "Everything.exe",
-            "title": "stratpage - Everything"
-          }
-        },
-        {
-          "id": 247953,
-          "timestamp": "2026-06-06T01:02:10.987000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Everything.exe",
-            "title": "sttpage - Everything"
-          }
-        },
-        {
-          "id": 247952,
-          "timestamp": "2026-06-06T01:02:06.973000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "Everything.exe",
-            "title": "startpage - Everything"
-          }
-        },
-        {
-          "id": 247951,
-          "timestamp": "2026-06-06T01:02:04.965000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Everything.exe",
-            "title": "start - Everything"
-          }
-        },
-        {
-          "id": 247950,
-          "timestamp": "2026-06-06T01:02:03.960000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Everything.exe",
-            "title": "s - Everything"
-          }
-        },
-        {
-          "id": 247949,
-          "timestamp": "2026-06-06T01:02:01.951000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "Everything.exe",
-            "title": "sa - Everything"
-          }
-        },
-        {
-          "id": 247948,
-          "timestamp": "2026-06-06T01:01:58.941000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "Everything.exe",
-            "title": "mumu - Everything"
-          }
-        },
-        {
-          "id": 247947,
-          "timestamp": "2026-06-06T01:01:57.936000+00:00",
+          "id": 249580,
+          "timestamp": "2026-06-06T15:01:17.558000+00:00",
           "duration": 0.0,
           "data": {
             "app": "Lucy_x64.exe",
@@ -3281,17 +50,8 @@
           }
         },
         {
-          "id": 247946,
-          "timestamp": "2026-06-06T01:01:56.931000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247945,
-          "timestamp": "2026-06-06T01:01:55.927000+00:00",
+          "id": 249579,
+          "timestamp": "2026-06-06T15:01:16.553000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
@@ -3299,1265 +59,1580 @@
           }
         },
         {
-          "id": 247944,
-          "timestamp": "2026-06-06T01:01:34.856000+00:00",
-          "duration": 20.066,
+          "id": 249578,
+          "timestamp": "2026-06-06T15:01:15.549000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "设置 - Cent Browser"
+            "app": "ShellExperienceHost.exe",
+            "title": "ActivityWatch服务器 的跳转列表"
           }
         },
         {
-          "id": 247943,
-          "timestamp": "2026-06-06T01:01:30.842000+00:00",
-          "duration": 3.011,
+          "id": 249577,
+          "timestamp": "2026-06-06T15:01:12.533000+00:00",
+          "duration": 2.011,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247942,
-          "timestamp": "2026-06-06T01:01:29.836000+00:00",
-          "duration": 0.0,
+          "id": 249574,
+          "timestamp": "2026-06-06T15:01:00.476000+00:00",
+          "duration": 11.053,
           "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "app": "QQ.exe",
+            "title": "QQ"
           }
         },
         {
-          "id": 247939,
-          "timestamp": "2026-06-06T01:01:27.824000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247938,
-          "timestamp": "2026-06-06T01:01:26.819000+00:00",
-          "duration": 0.0,
+          "id": 249568,
+          "timestamp": "2026-06-06T14:54:23.274000+00:00",
+          "duration": 396.197,
           "data": {
             "app": "QClaw.exe",
             "title": "QClaw"
           }
         },
         {
-          "id": 247937,
-          "timestamp": "2026-06-06T01:01:19.795000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247936,
-          "timestamp": "2026-06-06T01:01:18.791000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247935,
-          "timestamp": "2026-06-06T01:01:17.786000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247934,
-          "timestamp": "2026-06-06T01:01:11.764000+00:00",
-          "duration": 5.018,
+          "id": 249567,
+          "timestamp": "2026-06-06T14:54:19.256000+00:00",
+          "duration": 3.014,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247932,
-          "timestamp": "2026-06-06T01:01:08.751000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "我的活动监控面板 - Cent Browser"
-          }
-        },
-        {
-          "id": 247931,
-          "timestamp": "2026-06-06T01:01:06.746000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 247930,
-          "timestamp": "2026-06-06T01:01:03.734000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247929,
-          "timestamp": "2026-06-06T01:01:02.729000+00:00",
+          "id": 249566,
+          "timestamp": "2026-06-06T14:54:18.247000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "自制声库"
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
           }
         },
         {
-          "id": 247928,
-          "timestamp": "2026-06-06T01:00:58.716000+00:00",
-          "duration": 3.01,
+          "id": 249565,
+          "timestamp": "2026-06-06T14:54:17.241000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 247927,
-          "timestamp": "2026-06-06T01:00:55.702000+00:00",
+          "id": 249564,
+          "timestamp": "2026-06-06T14:54:14.228000+00:00",
           "duration": 2.01,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "76561198409221415"
-          }
-        },
-        {
-          "id": 247926,
-          "timestamp": "2026-06-06T01:00:52.692000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247925,
-          "timestamp": "2026-06-06T01:00:49.680000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "VipSongsDownload"
-          }
-        },
-        {
-          "id": 247924,
-          "timestamp": "2026-06-06T01:00:48.674000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247923,
-          "timestamp": "2026-06-06T01:00:46.665000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BaiduNetdiskDownload"
-          }
-        },
-        {
-          "id": 247922,
-          "timestamp": "2026-06-06T01:00:38.637000+00:00",
-          "duration": 7.025,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247921,
-          "timestamp": "2026-06-06T01:00:37.632000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件夹"
-          }
-        },
-        {
-          "id": 247920,
-          "timestamp": "2026-06-06T01:00:32.614000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247919,
-          "timestamp": "2026-06-06T01:00:28.599000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 247917,
-          "timestamp": "2026-06-06T00:59:18.364000+00:00",
-          "duration": 69.231,
-          "data": {
             "app": "QClaw.exe",
             "title": "QClaw"
           }
         },
         {
-          "id": 247916,
-          "timestamp": "2026-06-06T00:59:17.358000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247915,
-          "timestamp": "2026-06-06T00:59:16.354000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 247914,
-          "timestamp": "2026-06-06T00:59:11.336000+00:00",
-          "duration": 4.016,
+          "id": 249563,
+          "timestamp": "2026-06-06T14:54:09.200000+00:00",
+          "duration": 4.018,
           "data": {
             "app": "chrome.exe",
-            "title": "我的活动监控面板 - Cent Browser"
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247913,
-          "timestamp": "2026-06-06T00:59:09.328000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 247912,
-          "timestamp": "2026-06-06T00:59:07.321000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247911,
-          "timestamp": "2026-06-06T00:59:06.316000+00:00",
-          "duration": 0.0,
+          "id": 249561,
+          "timestamp": "2026-06-06T14:53:44.067000+00:00",
+          "duration": 24.128,
           "data": {
             "app": "QClaw.exe",
             "title": "QClaw"
           }
         },
         {
-          "id": 247910,
-          "timestamp": "2026-06-06T00:58:37.197000+00:00",
-          "duration": 28.114,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247909,
-          "timestamp": "2026-06-06T00:58:36.191000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247908,
-          "timestamp": "2026-06-06T00:55:14.328000+00:00",
-          "duration": 200.799,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247907,
-          "timestamp": "2026-06-06T00:55:11.316000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247906,
-          "timestamp": "2026-06-06T00:55:04.294000+00:00",
-          "duration": 6.018,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 247905,
-          "timestamp": "2026-06-06T00:55:03.290000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247904,
-          "timestamp": "2026-06-06T00:55:02.285000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247903,
-          "timestamp": "2026-06-06T00:55:00.276000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 247902,
-          "timestamp": "2026-06-06T00:54:58.268000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "工具"
-          }
-        },
-        {
-          "id": 247901,
-          "timestamp": "2026-06-06T00:54:56.259000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247900,
-          "timestamp": "2026-06-06T00:54:55.255000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247899,
-          "timestamp": "2026-06-06T00:54:42.209000+00:00",
-          "duration": 12.043,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 247898,
-          "timestamp": "2026-06-06T00:54:41.203000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247897,
-          "timestamp": "2026-06-06T00:54:40.154000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247896,
-          "timestamp": "2026-06-06T00:54:39.151000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "已完成 86%"
-          }
-        },
-        {
-          "id": 247895,
-          "timestamp": "2026-06-06T00:54:38.147000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247894,
-          "timestamp": "2026-06-06T00:54:37.143000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "删除多个项目"
-          }
-        },
-        {
-          "id": 247893,
-          "timestamp": "2026-06-06T00:54:34.131000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247892,
-          "timestamp": "2026-06-06T00:54:33.127000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247891,
-          "timestamp": "2026-06-06T00:54:32.081000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247890,
-          "timestamp": "2026-06-06T00:54:31.077000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "sleep"
-          }
-        },
-        {
-          "id": 247889,
-          "timestamp": "2026-06-06T00:54:29.068000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247888,
-          "timestamp": "2026-06-06T00:54:28.064000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247887,
-          "timestamp": "2026-06-06T00:54:27.021000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247886,
-          "timestamp": "2026-06-06T00:54:26.017000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "apps"
-          }
-        },
-        {
-          "id": 247885,
-          "timestamp": "2026-06-06T00:54:24.008000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247884,
-          "timestamp": "2026-06-06T00:54:23.004000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247883,
-          "timestamp": "2026-06-06T00:54:22+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 247882,
-          "timestamp": "2026-06-06T00:54:07.954000+00:00",
-          "duration": 13.044,
+          "id": 249560,
+          "timestamp": "2026-06-06T14:53:16.932000+00:00",
+          "duration": 26.13,
           "data": {
             "app": "chrome.exe",
-            "title": "我的活动监控面板 - Cent Browser"
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247881,
-          "timestamp": "2026-06-06T00:54:06.950000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 247880,
-          "timestamp": "2026-06-06T00:54:00.927000+00:00",
-          "duration": 5.015,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 247877,
-          "timestamp": "2026-06-06T00:53:56.913000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247876,
-          "timestamp": "2026-06-06T00:53:55.909000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247875,
-          "timestamp": "2026-06-06T00:53:51.864000+00:00",
-          "duration": 3.009,
-          "data": {
-            "app": "notepad.exe",
-            "title": "博客闲言历史代码.txt - 记事本"
-          }
-        },
-        {
-          "id": 247874,
-          "timestamp": "2026-06-06T00:53:49.857000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247873,
-          "timestamp": "2026-06-06T00:53:47.816000+00:00",
-          "duration": 1.038,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247872,
-          "timestamp": "2026-06-06T00:53:46.777000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247871,
-          "timestamp": "2026-06-06T00:53:44.769000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "影音文件"
-          }
-        },
-        {
-          "id": 247870,
-          "timestamp": "2026-06-06T00:53:40.758000+00:00",
-          "duration": 3.009,
-          "data": {
-            "app": "PotPlayerMini64.exe",
-            "title": "QQ录屏20260507041629.mp4 - PotPlayer"
-          }
-        },
-        {
-          "id": 247869,
-          "timestamp": "2026-06-06T00:53:39.752000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "PotPlayerMini64.exe",
-            "title": "PotPlayer"
-          }
-        },
-        {
-          "id": 247868,
-          "timestamp": "2026-06-06T00:53:38.748000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "影音文件"
-          }
-        },
-        {
-          "id": 247867,
-          "timestamp": "2026-06-06T00:53:33.732000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "PotPlayerMini64.exe",
-            "title": "QQ录屏20260507041534.mp4 - PotPlayer"
-          }
-        },
-        {
-          "id": 247866,
-          "timestamp": "2026-06-06T00:53:32.728000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "PotPlayerMini64.exe",
-            "title": "PotPlayer"
-          }
-        },
-        {
-          "id": 247865,
-          "timestamp": "2026-06-06T00:53:29.717000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "影音文件"
-          }
-        },
-        {
-          "id": 247864,
-          "timestamp": "2026-06-06T00:53:26.709000+00:00",
-          "duration": 2.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247863,
-          "timestamp": "2026-06-06T00:53:25.704000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247862,
-          "timestamp": "2026-06-06T00:53:24.663000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247861,
-          "timestamp": "2026-06-06T00:53:19.649000+00:00",
-          "duration": 4.012,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "网页项目"
-          }
-        },
-        {
-          "id": 247860,
-          "timestamp": "2026-06-06T00:53:14.633000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247859,
-          "timestamp": "2026-06-06T00:53:12.595000+00:00",
-          "duration": 1.036,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247858,
-          "timestamp": "2026-06-06T00:53:11.558000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247857,
-          "timestamp": "2026-06-06T00:53:09.550000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247856,
-          "timestamp": "2026-06-06T00:53:08.546000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "进度"
-          }
-        },
-        {
-          "id": 247855,
-          "timestamp": "2026-06-06T00:53:00.521000+00:00",
-          "duration": 7.021,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247854,
-          "timestamp": "2026-06-06T00:52:59.518000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247853,
-          "timestamp": "2026-06-06T00:52:56.508000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 247852,
-          "timestamp": "2026-06-06T00:52:54.500000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "notepad.exe",
-            "title": "步骤备忘.txt - 记事本"
-          }
-        },
-        {
-          "id": 247851,
-          "timestamp": "2026-06-06T00:52:49.482000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247850,
-          "timestamp": "2026-06-06T00:52:48.479000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247849,
-          "timestamp": "2026-06-06T00:52:46.433000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247848,
-          "timestamp": "2026-06-06T00:52:38.408000+00:00",
-          "duration": 7.022,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "程序安装包"
-          }
-        },
-        {
-          "id": 247847,
-          "timestamp": "2026-06-06T00:52:37.402000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247846,
-          "timestamp": "2026-06-06T00:52:30.378000+00:00",
-          "duration": 6.02,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "懒得整理但是先都放这里吧"
-          }
-        },
-        {
-          "id": 247845,
-          "timestamp": "2026-06-06T00:52:23.354000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "G:\\"
-          }
-        },
-        {
-          "id": 247844,
-          "timestamp": "2026-06-06T00:52:18.337000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247843,
-          "timestamp": "2026-06-06T00:52:03.284000+00:00",
-          "duration": 14.05,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247842,
-          "timestamp": "2026-06-06T00:51:57.264000+00:00",
-          "duration": 5.017,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247841,
-          "timestamp": "2026-06-06T00:51:56.260000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "WinRAR.exe",
-            "title": "新建文本文档.rar"
-          }
-        },
-        {
-          "id": 247840,
-          "timestamp": "2026-06-06T00:51:35.191000+00:00",
-          "duration": 20.064,
-          "data": {
-            "app": "chrome.exe",
-            "title": "亚离解星观测站 - Cent Browser"
-          }
-        },
-        {
-          "id": 247839,
-          "timestamp": "2026-06-06T00:51:33.185000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "WinRAR.exe",
-            "title": "新建文本文档.rar"
-          }
-        },
-        {
-          "id": 247838,
-          "timestamp": "2026-06-06T00:51:31.177000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247837,
-          "timestamp": "2026-06-06T00:51:30.172000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 247836,
-          "timestamp": "2026-06-06T00:51:28.165000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247835,
-          "timestamp": "2026-06-06T00:51:22.143000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "notepad.exe",
-            "title": "新建文本文档.txt - 记事本"
-          }
-        },
-        {
-          "id": 247834,
-          "timestamp": "2026-06-06T00:51:21.139000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247833,
-          "timestamp": "2026-06-06T00:51:17.125000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "notepad.exe",
-            "title": "碎碎念归档的json.txt - 记事本"
-          }
-        },
-        {
-          "id": 247832,
-          "timestamp": "2026-06-06T00:51:15.115000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247831,
-          "timestamp": "2026-06-06T00:51:14.108000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "进度"
-          }
-        },
-        {
-          "id": 247830,
-          "timestamp": "2026-06-06T00:51:12.099000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247829,
-          "timestamp": "2026-06-06T00:51:08.086000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\文档笔记\\低配应用集.md [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 247828,
-          "timestamp": "2026-06-06T00:51:05.075000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247826,
-          "timestamp": "2026-06-06T00:51:03.067000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Obsidian.exe",
-            "title": "Home - Obsidian - Obsidian v1.10.6"
-          }
-        },
-        {
-          "id": 247825,
-          "timestamp": "2026-06-06T00:51:02.060000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Obsidian.exe",
-            "title": "2025年年度总结 - Obsidian - Obsidian v1.10.6"
-          }
-        },
-        {
-          "id": 247824,
-          "timestamp": "2026-06-06T00:51:01.055000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Obsidian.exe",
-            "title": "Obsidian - Obsidian v1.10.6"
-          }
-        },
-        {
-          "id": 247823,
-          "timestamp": "2026-06-06T00:51:00.050000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Obsidian.exe",
-            "title": "Obsidian"
-          }
-        },
-        {
-          "id": 247822,
-          "timestamp": "2026-06-06T00:50:56.036000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247821,
-          "timestamp": "2026-06-06T00:50:50.016000+00:00",
-          "duration": 5.016,
-          "data": {
-            "app": "notepad.exe",
-            "title": "步骤备忘.txt - 记事本"
-          }
-        },
-        {
-          "id": 247820,
-          "timestamp": "2026-06-06T00:50:44.997000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "文档笔记"
-          }
-        },
-        {
-          "id": 247819,
-          "timestamp": "2026-06-06T00:50:41.985000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247818,
-          "timestamp": "2026-06-06T00:50:40.982000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 247817,
-          "timestamp": "2026-06-06T00:50:35.907000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 247816,
-          "timestamp": "2026-06-06T00:50:33.898000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 247813,
-          "timestamp": "2026-06-06T00:41:52.056000+00:00",
-          "duration": 520.839,
+          "id": 249554,
+          "timestamp": "2026-06-06T14:45:24.433000+00:00",
+          "duration": 471.495,
           "data": {
             "app": "QClaw.exe",
             "title": "QClaw"
           }
         },
         {
-          "id": 247812,
-          "timestamp": "2026-06-06T00:41:16.905000+00:00",
-          "duration": 34.146,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 247811,
-          "timestamp": "2026-06-06T00:41:13.893000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 247810,
-          "timestamp": "2026-06-06T00:41:12.888000+00:00",
+          "id": 249553,
+          "timestamp": "2026-06-06T14:45:23.428000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "unknown",
-            "title": ""
+            "app": "OneCommander.exe",
+            "title": "downloads"
           }
         },
         {
-          "id": 247808,
-          "timestamp": "2026-06-06T00:40:23.649000+00:00",
-          "duration": 48.18,
+          "id": 249552,
+          "timestamp": "2026-06-06T14:45:17.395000+00:00",
+          "duration": 5.027,
           "data": {
-            "app": "QClaw-Setup-0.2.24-5001-540.exe",
-            "title": "QClaw"
+            "app": "OneCommander.exe",
+            "title": "Startpage3.html 属性"
           }
         },
         {
-          "id": 247807,
-          "timestamp": "2026-06-06T00:40:14.615000+00:00",
-          "duration": 8.031,
+          "id": 249551,
+          "timestamp": "2026-06-06T14:45:11.365000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "downloads"
+          }
+        },
+        {
+          "id": 249550,
+          "timestamp": "2026-06-06T14:45:08.349000+00:00",
+          "duration": 2.011,
           "data": {
             "app": "OneCommander.exe",
             "title": "download"
           }
         },
         {
-          "id": 247806,
-          "timestamp": "2026-06-06T00:40:11.603000+00:00",
-          "duration": 2.009,
+          "id": 249549,
+          "timestamp": "2026-06-06T14:45:06.339000+00:00",
+          "duration": 1.007,
           "data": {
-            "app": "chrome.exe",
-            "title": ""
+            "app": "OneCommander.exe",
+            "title": "E:\\"
           }
         },
         {
-          "id": 247804,
-          "timestamp": "2026-06-06T00:38:26.256000+00:00",
-          "duration": 104.344,
+          "id": 249548,
+          "timestamp": "2026-06-06T14:45:04.329000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "chrome.exe",
-            "title": "QClaw - 微信远程办公 AI 助手 | 腾讯出品 - Cent Browser"
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
           }
         },
         {
-          "id": 247803,
-          "timestamp": "2026-06-06T00:38:14.214000+00:00",
-          "duration": 11.038,
+          "id": 249547,
+          "timestamp": "2026-06-06T14:44:16.075000+00:00",
+          "duration": 47.249,
           "data": {
-            "app": "chrome.exe",
-            "title": ""
+            "app": "QClaw.exe",
+            "title": "QClaw"
           }
         },
         {
-          "id": 247802,
-          "timestamp": "2026-06-06T00:38:08.190000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "QClaw - 微信远程办公 AI 助手 | 腾讯出品 - Cent Browser"
-          }
-        },
-        {
-          "id": 247801,
-          "timestamp": "2026-06-06T00:38:06.183000+00:00",
-          "duration": 1.003,
+          "id": 249546,
+          "timestamp": "2026-06-06T14:44:11.040000+00:00",
+          "duration": 4.028,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247797,
-          "timestamp": "2026-06-06T00:37:41.094000+00:00",
-          "duration": 24.085,
+          "id": 249545,
+          "timestamp": "2026-06-06T14:43:56.968000+00:00",
+          "duration": 13.067,
           "data": {
-            "app": "chrome.exe",
-            "title": "QClaw - 微信远程办公 AI 助手 | 腾讯出品 - Cent Browser"
+            "app": "QClaw.exe",
+            "title": "QClaw"
           }
         },
         {
-          "id": 247796,
-          "timestamp": "2026-06-06T00:37:17.008000+00:00",
-          "duration": 23.082,
+          "id": 249544,
+          "timestamp": "2026-06-06T14:43:55.964000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "QCLAW - Google 搜索 - Cent Browser"
+            "app": "unknown",
+            "title": ""
           }
         },
         {
-          "id": 247795,
-          "timestamp": "2026-06-06T00:37:13.996000+00:00",
-          "duration": 2.008,
+          "id": 249543,
+          "timestamp": "2026-06-06T14:43:54.892000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249541,
+          "timestamp": "2026-06-06T14:43:37.811000+00:00",
+          "duration": 16.078,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249538,
+          "timestamp": "2026-06-06T14:43:36.805000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
             "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 247794,
-          "timestamp": "2026-06-06T00:37:05.968000+00:00",
-          "duration": 7.025,
+          "id": 249537,
+          "timestamp": "2026-06-06T14:43:31.782000+00:00",
+          "duration": 4.019,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 247793,
-          "timestamp": "2026-06-06T00:37:01.951000+00:00",
-          "duration": 3.011,
+          "id": 249534,
+          "timestamp": "2026-06-06T14:43:30.778000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249532,
+          "timestamp": "2026-06-06T14:42:59.641000+00:00",
+          "duration": 30.132,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249524,
+          "timestamp": "2026-06-06T14:33:42.407000+00:00",
+          "duration": 556.23,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249523,
+          "timestamp": "2026-06-06T14:33:36.378000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249521,
+          "timestamp": "2026-06-06T14:33:28.342000+00:00",
+          "duration": 7.031,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249520,
+          "timestamp": "2026-06-06T14:33:19.306000+00:00",
+          "duration": 8.033,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249519,
+          "timestamp": "2026-06-06T14:33:18.299000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 249518,
+          "timestamp": "2026-06-06T14:33:08.262000+00:00",
+          "duration": 9.033,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249516,
+          "timestamp": "2026-06-06T14:33:06.249000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249515,
+          "timestamp": "2026-06-06T14:33:03.237000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 249514,
+          "timestamp": "2026-06-06T14:33:02.230000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 247785,
-          "timestamp": "2026-06-06T00:00:04.644000+00:00",
-          "duration": 2216.305,
+          "id": 249513,
+          "timestamp": "2026-06-06T14:33:01.224000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249512,
+          "timestamp": "2026-06-06T14:32:50.174000+00:00",
+          "duration": 10.044,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249511,
+          "timestamp": "2026-06-06T14:32:49.169000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 249510,
+          "timestamp": "2026-06-06T14:32:44.093000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249509,
+          "timestamp": "2026-06-06T14:32:37.055000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249508,
+          "timestamp": "2026-06-06T14:32:36.050000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249507,
+          "timestamp": "2026-06-06T14:32:35.045000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249506,
+          "timestamp": "2026-06-06T14:32:30.023000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249505,
+          "timestamp": "2026-06-06T14:32:29.018000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 249504,
+          "timestamp": "2026-06-06T14:32:26.936000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249503,
+          "timestamp": "2026-06-06T14:32:23.917000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249502,
+          "timestamp": "2026-06-06T14:32:21.909000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249501,
+          "timestamp": "2026-06-06T14:32:14.881000+00:00",
+          "duration": 6.024,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249500,
+          "timestamp": "2026-06-06T14:32:11.864000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249499,
+          "timestamp": "2026-06-06T14:32:09.852000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
+          }
+        },
+        {
+          "id": 249498,
+          "timestamp": "2026-06-06T14:32:06.833000+00:00",
+          "duration": 2.01,
           "data": {
             "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 249497,
+          "timestamp": "2026-06-06T14:31:46.730000+00:00",
+          "duration": 19.098,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 249494,
+          "timestamp": "2026-06-06T14:28:06.571000+00:00",
+          "duration": 219.155,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249493,
+          "timestamp": "2026-06-06T14:28:02.555000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249492,
+          "timestamp": "2026-06-06T14:28:01.551000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249491,
+          "timestamp": "2026-06-06T14:28:00.546000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249490,
+          "timestamp": "2026-06-06T14:27:58.537000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249489,
+          "timestamp": "2026-06-06T14:27:46.474000+00:00",
+          "duration": 11.057,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249487,
+          "timestamp": "2026-06-06T14:27:17.349000+00:00",
+          "duration": 28.12,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249480,
+          "timestamp": "2026-06-06T14:16:32.117000+00:00",
+          "duration": 644.227,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249478,
+          "timestamp": "2026-06-06T14:16:16.053000+00:00",
+          "duration": 15.061,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249477,
+          "timestamp": "2026-06-06T14:16:15.048000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249476,
+          "timestamp": "2026-06-06T14:16:10.028000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249475,
+          "timestamp": "2026-06-06T14:16:09.023000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249474,
+          "timestamp": "2026-06-06T14:16:08.017000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249473,
+          "timestamp": "2026-06-06T14:16:05.004000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249472,
+          "timestamp": "2026-06-06T14:15:51.950000+00:00",
+          "duration": 12.049,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249471,
+          "timestamp": "2026-06-06T14:15:49.941000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249470,
+          "timestamp": "2026-06-06T14:15:47.930000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 249469,
+          "timestamp": "2026-06-06T14:15:43.911000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249468,
+          "timestamp": "2026-06-06T14:15:40.892000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249467,
+          "timestamp": "2026-06-06T14:15:39.886000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249460,
+          "timestamp": "2026-06-06T14:00:49.545000+00:00",
+          "duration": 889.335,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249459,
+          "timestamp": "2026-06-06T14:00:44.525000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "网页工具"
+          }
+        },
+        {
+          "id": 249458,
+          "timestamp": "2026-06-06T14:00:42.516000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "F:\\"
+          }
+        },
+        {
+          "id": 249457,
+          "timestamp": "2026-06-06T14:00:40.507000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Exact Audio Copy"
+          }
+        },
+        {
+          "id": 249456,
+          "timestamp": "2026-06-06T14:00:38.498000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249455,
+          "timestamp": "2026-06-06T14:00:28.455000+00:00",
+          "duration": 9.039,
+          "data": {
+            "app": "chrome.exe",
+            "title": "设置 - Cent Browser"
+          }
+        },
+        {
+          "id": 249454,
+          "timestamp": "2026-06-06T14:00:24.438000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249453,
+          "timestamp": "2026-06-06T14:00:23.432000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 249452,
+          "timestamp": "2026-06-06T14:00:20.417000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249451,
+          "timestamp": "2026-06-06T14:00:17.405000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249439,
+          "timestamp": "2026-06-06T13:38:09.875000+00:00",
+          "duration": 1326.524,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249438,
+          "timestamp": "2026-06-06T13:38:06.859000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249425,
+          "timestamp": "2026-06-06T13:20:11.457000+00:00",
+          "duration": 1074.396,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249423,
+          "timestamp": "2026-06-06T13:19:41.330000+00:00",
+          "duration": 29.121,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249413,
+          "timestamp": "2026-06-06T13:08:58.910000+00:00",
+          "duration": 641.416,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249412,
+          "timestamp": "2026-06-06T13:08:56.900000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249411,
+          "timestamp": "2026-06-06T13:08:55.895000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249410,
+          "timestamp": "2026-06-06T13:08:52.881000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249409,
+          "timestamp": "2026-06-06T13:08:39.829000+00:00",
+          "duration": 12.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249408,
+          "timestamp": "2026-06-06T13:08:38.824000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249406,
+          "timestamp": "2026-06-06T13:08:36.815000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 249405,
+          "timestamp": "2026-06-06T13:08:20.756000+00:00",
+          "duration": 15.055,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249404,
+          "timestamp": "2026-06-06T13:08:17.743000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249402,
+          "timestamp": "2026-06-06T13:08:15.734000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 249401,
+          "timestamp": "2026-06-06T13:08:13.725000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249400,
+          "timestamp": "2026-06-06T13:08:10.712000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249399,
+          "timestamp": "2026-06-06T13:07:59.669000+00:00",
+          "duration": 10.039,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249398,
+          "timestamp": "2026-06-06T13:07:55.651000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249397,
+          "timestamp": "2026-06-06T13:07:54.646000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "cloudmusic.exe 属性"
+          }
+        },
+        {
+          "id": 249396,
+          "timestamp": "2026-06-06T13:07:52.638000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "高级属性 "
+          }
+        },
+        {
+          "id": 249395,
+          "timestamp": "2026-06-06T13:07:42.603000+00:00",
+          "duration": 9.032,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "cloudmusic.exe 属性"
+          }
+        },
+        {
+          "id": 249394,
+          "timestamp": "2026-06-06T13:07:27.547000+00:00",
+          "duration": 14.051,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249393,
+          "timestamp": "2026-06-06T13:07:26.542000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249392,
+          "timestamp": "2026-06-06T13:07:24.532000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249391,
+          "timestamp": "2026-06-06T13:07:23.528000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249390,
+          "timestamp": "2026-06-06T13:07:17.505000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249388,
+          "timestamp": "2026-06-06T13:07:02.444000+00:00",
+          "duration": 14.058,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249387,
+          "timestamp": "2026-06-06T13:06:59.430000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249385,
+          "timestamp": "2026-06-06T13:06:54.409000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249383,
+          "timestamp": "2026-06-06T13:06:49.389000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249381,
+          "timestamp": "2026-06-06T13:06:48.382000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249380,
+          "timestamp": "2026-06-06T13:06:45.369000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 249379,
+          "timestamp": "2026-06-06T13:06:42.357000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249378,
+          "timestamp": "2026-06-06T13:06:41.350000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249377,
+          "timestamp": "2026-06-06T13:06:38.338000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249376,
+          "timestamp": "2026-06-06T13:06:19.263000+00:00",
+          "duration": 18.073,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249375,
+          "timestamp": "2026-06-06T13:06:18.257000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 249373,
+          "timestamp": "2026-06-06T13:06:16.188000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 249372,
+          "timestamp": "2026-06-06T13:06:08.156000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249370,
+          "timestamp": "2026-06-06T13:06:03.135000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249369,
+          "timestamp": "2026-06-06T13:06:02.131000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 249368,
+          "timestamp": "2026-06-06T13:06:01.126000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249367,
+          "timestamp": "2026-06-06T13:05:58.113000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 249366,
+          "timestamp": "2026-06-06T13:05:53.094000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249365,
+          "timestamp": "2026-06-06T13:05:52.088000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249364,
+          "timestamp": "2026-06-06T13:05:49.076000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249363,
+          "timestamp": "2026-06-06T13:05:48.070000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249362,
+          "timestamp": "2026-06-06T13:05:42.043000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249359,
+          "timestamp": "2026-06-06T13:05:41.037000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249358,
+          "timestamp": "2026-06-06T13:05:39.029000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249357,
+          "timestamp": "2026-06-06T13:05:34.010000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249356,
+          "timestamp": "2026-06-06T13:05:33.005000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 249355,
+          "timestamp": "2026-06-06T13:05:31.999000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249354,
+          "timestamp": "2026-06-06T13:05:30.994000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 249353,
+          "timestamp": "2026-06-06T13:05:27.983000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249352,
+          "timestamp": "2026-06-06T13:05:24.971000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 249351,
+          "timestamp": "2026-06-06T13:05:21.960000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 249350,
+          "timestamp": "2026-06-06T13:05:11.919000+00:00",
+          "duration": 9.037,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 249349,
+          "timestamp": "2026-06-06T13:05:04.893000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 249348,
+          "timestamp": "2026-06-06T13:05:01.880000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249347,
+          "timestamp": "2026-06-06T13:04:55.854000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 249346,
+          "timestamp": "2026-06-06T13:04:23.733000+00:00",
+          "duration": 31.117,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249344,
+          "timestamp": "2026-06-06T13:04:22.727000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249343,
+          "timestamp": "2026-06-06T13:04:21.720000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249342,
+          "timestamp": "2026-06-06T13:03:43.575000+00:00",
+          "duration": 37.142,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249341,
+          "timestamp": "2026-06-06T13:03:34.537000+00:00",
+          "duration": 8.033,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249339,
+          "timestamp": "2026-06-06T13:03:31.526000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249338,
+          "timestamp": "2026-06-06T13:03:26.508000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 249337,
+          "timestamp": "2026-06-06T13:03:12.456000+00:00",
+          "duration": 13.049,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249336,
+          "timestamp": "2026-06-06T13:02:59.403000+00:00",
+          "duration": 12.049,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249335,
+          "timestamp": "2026-06-06T13:02:58.398000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ActivityWatch - Cent Browser"
+          }
+        },
+        {
+          "id": 249333,
+          "timestamp": "2026-06-06T13:02:57.393000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249331,
+          "timestamp": "2026-06-06T13:02:56.387000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249330,
+          "timestamp": "2026-06-06T13:02:54.378000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249329,
+          "timestamp": "2026-06-06T13:02:37.304000+00:00",
+          "duration": 16.071,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Emoji表情大全 - Cent Browser"
+          }
+        },
+        {
+          "id": 249328,
+          "timestamp": "2026-06-06T13:02:32.285000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "emoji大全 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 249326,
+          "timestamp": "2026-06-06T13:01:58.138000+00:00",
+          "duration": 33.143,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249325,
+          "timestamp": "2026-06-06T13:01:54.123000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Exact Audio Copy"
+          }
+        },
+        {
+          "id": 249324,
+          "timestamp": "2026-06-06T13:01:49.098000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249322,
+          "timestamp": "2026-06-06T13:01:25.004000+00:00",
+          "duration": 23.091,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249321,
+          "timestamp": "2026-06-06T13:01:22.996000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249320,
+          "timestamp": "2026-06-06T13:01:20.987000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249319,
+          "timestamp": "2026-06-06T13:01:17.973000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "freac"
+          }
+        },
+        {
+          "id": 249318,
+          "timestamp": "2026-06-06T13:01:16.968000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249317,
+          "timestamp": "2026-06-06T13:01:15.962000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "freac"
+          }
+        },
+        {
+          "id": 249316,
+          "timestamp": "2026-06-06T13:01:01.905000+00:00",
+          "duration": 13.053,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249315,
+          "timestamp": "2026-06-06T13:00:37.805000+00:00",
+          "duration": 23.096,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249314,
+          "timestamp": "2026-06-06T13:00:21.729000+00:00",
+          "duration": 15.073,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 249313,
+          "timestamp": "2026-06-06T13:00:20.725000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249263,
+          "timestamp": "2026-06-06T12:00:04.482000+00:00",
+          "duration": 3615.237,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-06T12:00:06.761146",
+    "export_time": "2026-06-07T00:00:06.591421",
     "time_range": {
-      "start": "2026-06-06T00:00:04.644927",
-      "end": "2026-06-06T12:00:04.644927"
+      "start": "2026-06-06T12:00:04.482555",
+      "end": "2026-06-07T00:00:04.482555"
     },
-    "total_events": 505
+    "total_events": 180
   }
 }
