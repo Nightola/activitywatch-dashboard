@@ -5,386 +5,107 @@
       "type": "window",
       "events": [
         {
-          "id": 249584,
-          "timestamp": "2026-06-06T15:01:38.666000+00:00",
-          "duration": 3502.592,
+          "id": 249905,
+          "timestamp": "2026-06-07T03:47:50.181000+00:00",
+          "duration": 731.199,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 249583,
-          "timestamp": "2026-06-06T15:01:37.660000+00:00",
+          "id": 249904,
+          "timestamp": "2026-06-07T03:47:49.176000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "打开"
-          }
-        },
-        {
-          "id": 249582,
-          "timestamp": "2026-06-06T15:01:19.574000+00:00",
-          "duration": 17.081,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249581,
-          "timestamp": "2026-06-06T15:01:18.569000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249580,
-          "timestamp": "2026-06-06T15:01:17.558000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249579,
-          "timestamp": "2026-06-06T15:01:16.553000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249578,
-          "timestamp": "2026-06-06T15:01:15.549000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "ActivityWatch服务器 的跳转列表"
-          }
-        },
-        {
-          "id": 249577,
-          "timestamp": "2026-06-06T15:01:12.533000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249574,
-          "timestamp": "2026-06-06T15:01:00.476000+00:00",
-          "duration": 11.053,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 249568,
-          "timestamp": "2026-06-06T14:54:23.274000+00:00",
-          "duration": 396.197,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249567,
-          "timestamp": "2026-06-06T14:54:19.256000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249566,
-          "timestamp": "2026-06-06T14:54:18.247000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249565,
-          "timestamp": "2026-06-06T14:54:17.241000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249564,
-          "timestamp": "2026-06-06T14:54:14.228000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249563,
-          "timestamp": "2026-06-06T14:54:09.200000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249561,
-          "timestamp": "2026-06-06T14:53:44.067000+00:00",
-          "duration": 24.128,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249560,
-          "timestamp": "2026-06-06T14:53:16.932000+00:00",
-          "duration": 26.13,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249554,
-          "timestamp": "2026-06-06T14:45:24.433000+00:00",
-          "duration": 471.495,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249553,
-          "timestamp": "2026-06-06T14:45:23.428000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 249552,
-          "timestamp": "2026-06-06T14:45:17.395000+00:00",
-          "duration": 5.027,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Startpage3.html 属性"
-          }
-        },
-        {
-          "id": 249551,
-          "timestamp": "2026-06-06T14:45:11.365000+00:00",
-          "duration": 5.025,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 249550,
-          "timestamp": "2026-06-06T14:45:08.349000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 249549,
-          "timestamp": "2026-06-06T14:45:06.339000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "E:\\"
-          }
-        },
-        {
-          "id": 249548,
-          "timestamp": "2026-06-06T14:45:04.329000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 249547,
-          "timestamp": "2026-06-06T14:44:16.075000+00:00",
-          "duration": 47.249,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249546,
-          "timestamp": "2026-06-06T14:44:11.040000+00:00",
-          "duration": 4.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249545,
-          "timestamp": "2026-06-06T14:43:56.968000+00:00",
-          "duration": 13.067,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249544,
-          "timestamp": "2026-06-06T14:43:55.964000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
+            "app": "steamwebhelper.exe",
             "title": ""
           }
         },
         {
-          "id": 249543,
-          "timestamp": "2026-06-06T14:43:54.892000+00:00",
+          "id": 249903,
+          "timestamp": "2026-06-07T03:47:47.165000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 249902,
+          "timestamp": "2026-06-07T03:47:30.085000+00:00",
+          "duration": 16.074,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "特惠"
+          }
+        },
+        {
+          "id": 249901,
+          "timestamp": "2026-06-07T03:47:29.079000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 249541,
-          "timestamp": "2026-06-06T14:43:37.811000+00:00",
-          "duration": 16.078,
+          "id": 249900,
+          "timestamp": "2026-06-07T03:47:09+00:00",
+          "duration": 19.074,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "steamwebhelper.exe",
+            "title": "登录 Steam"
           }
         },
         {
-          "id": 249538,
-          "timestamp": "2026-06-06T14:43:36.805000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 249537,
-          "timestamp": "2026-06-06T14:43:31.782000+00:00",
-          "duration": 4.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249534,
-          "timestamp": "2026-06-06T14:43:30.778000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249532,
-          "timestamp": "2026-06-06T14:42:59.641000+00:00",
-          "duration": 30.132,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249524,
-          "timestamp": "2026-06-06T14:33:42.407000+00:00",
-          "duration": 556.23,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249523,
-          "timestamp": "2026-06-06T14:33:36.378000+00:00",
-          "duration": 5.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249521,
-          "timestamp": "2026-06-06T14:33:28.342000+00:00",
-          "duration": 7.031,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249520,
-          "timestamp": "2026-06-06T14:33:19.306000+00:00",
-          "duration": 8.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249519,
-          "timestamp": "2026-06-06T14:33:18.299000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 249518,
-          "timestamp": "2026-06-06T14:33:08.262000+00:00",
-          "duration": 9.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249516,
-          "timestamp": "2026-06-06T14:33:06.249000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249515,
-          "timestamp": "2026-06-06T14:33:03.237000+00:00",
-          "duration": 2.008,
+          "id": 249898,
+          "timestamp": "2026-06-07T03:47:01.969000+00:00",
+          "duration": 6.026,
           "data": {
             "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
+            "title": "OneCommander Window Manager"
           }
         },
         {
-          "id": 249514,
-          "timestamp": "2026-06-06T14:33:02.230000+00:00",
+          "id": 249897,
+          "timestamp": "2026-06-07T03:46:52.931000+00:00",
+          "duration": 8.035,
+          "data": {
+            "app": "steam.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 249896,
+          "timestamp": "2026-06-07T03:46:51.923000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 249895,
+          "timestamp": "2026-06-07T03:46:49.915000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 249894,
+          "timestamp": "2026-06-07T03:46:48.910000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 249893,
+          "timestamp": "2026-06-07T03:46:47.904000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -392,17 +113,161 @@
           }
         },
         {
-          "id": 249513,
-          "timestamp": "2026-06-06T14:33:01.224000+00:00",
+          "id": 249891,
+          "timestamp": "2026-06-07T03:46:46.900000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
           }
         },
         {
-          "id": 249512,
-          "timestamp": "2026-06-06T14:32:50.174000+00:00",
+          "id": 249890,
+          "timestamp": "2026-06-07T03:46:44.888000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 249889,
+          "timestamp": "2026-06-07T03:46:43.882000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249888,
+          "timestamp": "2026-06-07T03:46:41.874000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 249887,
+          "timestamp": "2026-06-07T03:46:39.864000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249886,
+          "timestamp": "2026-06-07T03:46:35.847000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249885,
+          "timestamp": "2026-06-07T03:46:34.841000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 249863,
+          "timestamp": "2026-06-07T02:50:42.772000+00:00",
+          "duration": 3351.064,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249862,
+          "timestamp": "2026-06-07T02:50:39.755000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 249858,
+          "timestamp": "2026-06-07T02:43:10.016000+00:00",
+          "duration": 448.736,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 249857,
+          "timestamp": "2026-06-07T02:42:59.976000+00:00",
+          "duration": 9.037,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249856,
+          "timestamp": "2026-06-07T02:42:55.960000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 249855,
+          "timestamp": "2026-06-07T02:42:52.947000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 249854,
+          "timestamp": "2026-06-07T02:41:47.697000+00:00",
+          "duration": 64.247,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 249853,
+          "timestamp": "2026-06-07T02:41:46.690000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 249852,
+          "timestamp": "2026-06-07T02:41:43.589000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 249851,
+          "timestamp": "2026-06-07T02:41:41.581000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 249849,
+          "timestamp": "2026-06-07T02:41:30.533000+00:00",
           "duration": 10.044,
           "data": {
             "app": "chrome.exe",
@@ -410,1229 +275,41 @@
           }
         },
         {
-          "id": 249511,
-          "timestamp": "2026-06-06T14:32:49.169000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 249510,
-          "timestamp": "2026-06-06T14:32:44.093000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249509,
-          "timestamp": "2026-06-06T14:32:37.055000+00:00",
-          "duration": 6.03,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249508,
-          "timestamp": "2026-06-06T14:32:36.050000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249507,
-          "timestamp": "2026-06-06T14:32:35.045000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249506,
-          "timestamp": "2026-06-06T14:32:30.023000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249505,
-          "timestamp": "2026-06-06T14:32:29.018000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 249504,
-          "timestamp": "2026-06-06T14:32:26.936000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249503,
-          "timestamp": "2026-06-06T14:32:23.917000+00:00",
-          "duration": 2.012,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249502,
-          "timestamp": "2026-06-06T14:32:21.909000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249501,
-          "timestamp": "2026-06-06T14:32:14.881000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249500,
-          "timestamp": "2026-06-06T14:32:11.864000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249499,
-          "timestamp": "2026-06-06T14:32:09.852000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "Notepad--.exe",
-            "title": "C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\startpage.html [文本模式] - Ndd"
-          }
-        },
-        {
-          "id": 249498,
-          "timestamp": "2026-06-06T14:32:06.833000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "activitywatch-dashboard"
-          }
-        },
-        {
-          "id": 249497,
-          "timestamp": "2026-06-06T14:31:46.730000+00:00",
-          "duration": 19.098,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 249494,
-          "timestamp": "2026-06-06T14:28:06.571000+00:00",
-          "duration": 219.155,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249493,
-          "timestamp": "2026-06-06T14:28:02.555000+00:00",
+          "id": 249848,
+          "timestamp": "2026-06-07T02:41:26.518000+00:00",
           "duration": 3.012,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
           }
         },
         {
-          "id": 249492,
-          "timestamp": "2026-06-06T14:28:01.551000+00:00",
-          "duration": 0.0,
+          "id": 249829,
+          "timestamp": "2026-06-07T01:43:30.039000+00:00",
+          "duration": 3475.475,
           "data": {
             "app": "cmd.exe",
             "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 249491,
-          "timestamp": "2026-06-06T14:28:00.546000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249490,
-          "timestamp": "2026-06-06T14:27:58.537000+00:00",
-          "duration": 1.005,
+          "id": 249687,
+          "timestamp": "2026-06-07T00:00:04.588000+00:00",
+          "duration": 6200.642,
           "data": {
             "app": "cmd.exe",
             "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249489,
-          "timestamp": "2026-06-06T14:27:46.474000+00:00",
-          "duration": 11.057,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249487,
-          "timestamp": "2026-06-06T14:27:17.349000+00:00",
-          "duration": 28.12,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249480,
-          "timestamp": "2026-06-06T14:16:32.117000+00:00",
-          "duration": 644.227,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249478,
-          "timestamp": "2026-06-06T14:16:16.053000+00:00",
-          "duration": 15.061,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249477,
-          "timestamp": "2026-06-06T14:16:15.048000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249476,
-          "timestamp": "2026-06-06T14:16:10.028000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249475,
-          "timestamp": "2026-06-06T14:16:09.023000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249474,
-          "timestamp": "2026-06-06T14:16:08.017000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249473,
-          "timestamp": "2026-06-06T14:16:05.004000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249472,
-          "timestamp": "2026-06-06T14:15:51.950000+00:00",
-          "duration": 12.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249471,
-          "timestamp": "2026-06-06T14:15:49.941000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "cmd.exe",
-            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249470,
-          "timestamp": "2026-06-06T14:15:47.930000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 249469,
-          "timestamp": "2026-06-06T14:15:43.911000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249468,
-          "timestamp": "2026-06-06T14:15:40.892000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249467,
-          "timestamp": "2026-06-06T14:15:39.886000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 249460,
-          "timestamp": "2026-06-06T14:00:49.545000+00:00",
-          "duration": 889.335,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249459,
-          "timestamp": "2026-06-06T14:00:44.525000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "网页工具"
-          }
-        },
-        {
-          "id": 249458,
-          "timestamp": "2026-06-06T14:00:42.516000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "F:\\"
-          }
-        },
-        {
-          "id": 249457,
-          "timestamp": "2026-06-06T14:00:40.507000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Exact Audio Copy"
-          }
-        },
-        {
-          "id": 249456,
-          "timestamp": "2026-06-06T14:00:38.498000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 249455,
-          "timestamp": "2026-06-06T14:00:28.455000+00:00",
-          "duration": 9.039,
-          "data": {
-            "app": "chrome.exe",
-            "title": "设置 - Cent Browser"
-          }
-        },
-        {
-          "id": 249454,
-          "timestamp": "2026-06-06T14:00:24.438000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249453,
-          "timestamp": "2026-06-06T14:00:23.432000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 249452,
-          "timestamp": "2026-06-06T14:00:20.417000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249451,
-          "timestamp": "2026-06-06T14:00:17.405000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249439,
-          "timestamp": "2026-06-06T13:38:09.875000+00:00",
-          "duration": 1326.524,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249438,
-          "timestamp": "2026-06-06T13:38:06.859000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249425,
-          "timestamp": "2026-06-06T13:20:11.457000+00:00",
-          "duration": 1074.396,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249423,
-          "timestamp": "2026-06-06T13:19:41.330000+00:00",
-          "duration": 29.121,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249413,
-          "timestamp": "2026-06-06T13:08:58.910000+00:00",
-          "duration": 641.416,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249412,
-          "timestamp": "2026-06-06T13:08:56.900000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249411,
-          "timestamp": "2026-06-06T13:08:55.895000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249410,
-          "timestamp": "2026-06-06T13:08:52.881000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249409,
-          "timestamp": "2026-06-06T13:08:39.829000+00:00",
-          "duration": 12.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249408,
-          "timestamp": "2026-06-06T13:08:38.824000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249406,
-          "timestamp": "2026-06-06T13:08:36.815000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 249405,
-          "timestamp": "2026-06-06T13:08:20.756000+00:00",
-          "duration": 15.055,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249404,
-          "timestamp": "2026-06-06T13:08:17.743000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249402,
-          "timestamp": "2026-06-06T13:08:15.734000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "EditWnd"
-          }
-        },
-        {
-          "id": 249401,
-          "timestamp": "2026-06-06T13:08:13.725000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249400,
-          "timestamp": "2026-06-06T13:08:10.712000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249399,
-          "timestamp": "2026-06-06T13:07:59.669000+00:00",
-          "duration": 10.039,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249398,
-          "timestamp": "2026-06-06T13:07:55.651000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249397,
-          "timestamp": "2026-06-06T13:07:54.646000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "cloudmusic.exe 属性"
-          }
-        },
-        {
-          "id": 249396,
-          "timestamp": "2026-06-06T13:07:52.638000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "高级属性 "
-          }
-        },
-        {
-          "id": 249395,
-          "timestamp": "2026-06-06T13:07:42.603000+00:00",
-          "duration": 9.032,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "cloudmusic.exe 属性"
-          }
-        },
-        {
-          "id": 249394,
-          "timestamp": "2026-06-06T13:07:27.547000+00:00",
-          "duration": 14.051,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249393,
-          "timestamp": "2026-06-06T13:07:26.542000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249392,
-          "timestamp": "2026-06-06T13:07:24.532000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249391,
-          "timestamp": "2026-06-06T13:07:23.528000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 249390,
-          "timestamp": "2026-06-06T13:07:17.505000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249388,
-          "timestamp": "2026-06-06T13:07:02.444000+00:00",
-          "duration": 14.058,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249387,
-          "timestamp": "2026-06-06T13:06:59.430000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249385,
-          "timestamp": "2026-06-06T13:06:54.409000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249383,
-          "timestamp": "2026-06-06T13:06:49.389000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249381,
-          "timestamp": "2026-06-06T13:06:48.382000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249380,
-          "timestamp": "2026-06-06T13:06:45.369000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "EditWnd"
-          }
-        },
-        {
-          "id": 249379,
-          "timestamp": "2026-06-06T13:06:42.357000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249378,
-          "timestamp": "2026-06-06T13:06:41.350000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249377,
-          "timestamp": "2026-06-06T13:06:38.338000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249376,
-          "timestamp": "2026-06-06T13:06:19.263000+00:00",
-          "duration": 18.073,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249375,
-          "timestamp": "2026-06-06T13:06:18.257000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 249373,
-          "timestamp": "2026-06-06T13:06:16.188000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 249372,
-          "timestamp": "2026-06-06T13:06:08.156000+00:00",
-          "duration": 7.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249370,
-          "timestamp": "2026-06-06T13:06:03.135000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249369,
-          "timestamp": "2026-06-06T13:06:02.131000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 249368,
-          "timestamp": "2026-06-06T13:06:01.126000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249367,
-          "timestamp": "2026-06-06T13:05:58.113000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "EditWnd"
-          }
-        },
-        {
-          "id": 249366,
-          "timestamp": "2026-06-06T13:05:53.094000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249365,
-          "timestamp": "2026-06-06T13:05:52.088000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249364,
-          "timestamp": "2026-06-06T13:05:49.076000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249363,
-          "timestamp": "2026-06-06T13:05:48.070000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249362,
-          "timestamp": "2026-06-06T13:05:42.043000+00:00",
-          "duration": 5.024,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249359,
-          "timestamp": "2026-06-06T13:05:41.037000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249358,
-          "timestamp": "2026-06-06T13:05:39.029000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249357,
-          "timestamp": "2026-06-06T13:05:34.010000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 249356,
-          "timestamp": "2026-06-06T13:05:33.005000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 249355,
-          "timestamp": "2026-06-06T13:05:31.999000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249354,
-          "timestamp": "2026-06-06T13:05:30.994000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 249353,
-          "timestamp": "2026-06-06T13:05:27.983000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249352,
-          "timestamp": "2026-06-06T13:05:24.971000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 249351,
-          "timestamp": "2026-06-06T13:05:21.960000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "Taskmgr.exe",
-            "title": "任务管理器"
-          }
-        },
-        {
-          "id": 249350,
-          "timestamp": "2026-06-06T13:05:11.919000+00:00",
-          "duration": 9.037,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 249349,
-          "timestamp": "2026-06-06T13:05:04.893000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "Taskmgr.exe",
-            "title": "任务管理器"
-          }
-        },
-        {
-          "id": 249348,
-          "timestamp": "2026-06-06T13:05:01.880000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249347,
-          "timestamp": "2026-06-06T13:04:55.854000+00:00",
-          "duration": 5.022,
-          "data": {
-            "app": "Taskmgr.exe",
-            "title": "任务管理器"
-          }
-        },
-        {
-          "id": 249346,
-          "timestamp": "2026-06-06T13:04:23.733000+00:00",
-          "duration": 31.117,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249344,
-          "timestamp": "2026-06-06T13:04:22.727000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249343,
-          "timestamp": "2026-06-06T13:04:21.720000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249342,
-          "timestamp": "2026-06-06T13:03:43.575000+00:00",
-          "duration": 37.142,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249341,
-          "timestamp": "2026-06-06T13:03:34.537000+00:00",
-          "duration": 8.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249339,
-          "timestamp": "2026-06-06T13:03:31.526000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249338,
-          "timestamp": "2026-06-06T13:03:26.508000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "EditWnd"
-          }
-        },
-        {
-          "id": 249337,
-          "timestamp": "2026-06-06T13:03:12.456000+00:00",
-          "duration": 13.049,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249336,
-          "timestamp": "2026-06-06T13:02:59.403000+00:00",
-          "duration": 12.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249335,
-          "timestamp": "2026-06-06T13:02:58.398000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ActivityWatch - Cent Browser"
-          }
-        },
-        {
-          "id": 249333,
-          "timestamp": "2026-06-06T13:02:57.393000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249331,
-          "timestamp": "2026-06-06T13:02:56.387000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249330,
-          "timestamp": "2026-06-06T13:02:54.378000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249329,
-          "timestamp": "2026-06-06T13:02:37.304000+00:00",
-          "duration": 16.071,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Emoji表情大全 - Cent Browser"
-          }
-        },
-        {
-          "id": 249328,
-          "timestamp": "2026-06-06T13:02:32.285000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "emoji大全 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 249326,
-          "timestamp": "2026-06-06T13:01:58.138000+00:00",
-          "duration": 33.143,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249325,
-          "timestamp": "2026-06-06T13:01:54.123000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Exact Audio Copy"
-          }
-        },
-        {
-          "id": 249324,
-          "timestamp": "2026-06-06T13:01:49.098000+00:00",
-          "duration": 4.019,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249322,
-          "timestamp": "2026-06-06T13:01:25.004000+00:00",
-          "duration": 23.091,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249321,
-          "timestamp": "2026-06-06T13:01:22.996000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249320,
-          "timestamp": "2026-06-06T13:01:20.987000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249319,
-          "timestamp": "2026-06-06T13:01:17.973000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "freac"
-          }
-        },
-        {
-          "id": 249318,
-          "timestamp": "2026-06-06T13:01:16.968000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249317,
-          "timestamp": "2026-06-06T13:01:15.962000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "freac"
-          }
-        },
-        {
-          "id": 249316,
-          "timestamp": "2026-06-06T13:01:01.905000+00:00",
-          "duration": 13.053,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 249315,
-          "timestamp": "2026-06-06T13:00:37.805000+00:00",
-          "duration": 23.096,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249314,
-          "timestamp": "2026-06-06T13:00:21.729000+00:00",
-          "duration": 15.073,
-          "data": {
-            "app": "QClaw.exe",
-            "title": "QClaw"
-          }
-        },
-        {
-          "id": 249313,
-          "timestamp": "2026-06-06T13:00:20.725000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 249263,
-          "timestamp": "2026-06-06T12:00:04.482000+00:00",
-          "duration": 3615.237,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-07T00:00:06.591421",
+    "export_time": "2026-06-07T12:00:06.671472",
     "time_range": {
-      "start": "2026-06-06T12:00:04.482555",
-      "end": "2026-06-07T00:00:04.482555"
+      "start": "2026-06-07T00:00:04.588964",
+      "end": "2026-06-07T12:00:04.588964"
     },
-    "total_events": 180
+    "total_events": 33
   }
 }
