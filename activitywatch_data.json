@@ -5,80 +5,206 @@
       "type": "window",
       "events": [
         {
-          "id": 249905,
-          "timestamp": "2026-06-07T03:47:50.181000+00:00",
-          "duration": 731.199,
+          "id": 250335,
+          "timestamp": "2026-06-07T12:40:28.070000+00:00",
+          "duration": 11972.849,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 249904,
-          "timestamp": "2026-06-07T03:47:49.176000+00:00",
-          "duration": 0.0,
+          "id": 250334,
+          "timestamp": "2026-06-07T12:40:00.943000+00:00",
+          "duration": 26.121,
           "data": {
             "app": "steamwebhelper.exe",
+            "title": "DJMAX RESPECT V"
+          }
+        },
+        {
+          "id": 250332,
+          "timestamp": "2026-06-07T12:39:57.929000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250331,
+          "timestamp": "2026-06-07T12:39:27.798000+00:00",
+          "duration": 29.126,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Muse Dash"
+          }
+        },
+        {
+          "id": 250330,
+          "timestamp": "2026-06-07T12:39:21.771000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250329,
+          "timestamp": "2026-06-07T12:39:17.751000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "MONSTER HUNTER RISE"
+          }
+        },
+        {
+          "id": 250328,
+          "timestamp": "2026-06-07T12:39:11.723000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250327,
+          "timestamp": "2026-06-07T12:38:46.612000+00:00",
+          "duration": 24.106,
+          "data": {
+            "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 249903,
-          "timestamp": "2026-06-07T03:47:47.165000+00:00",
-          "duration": 1.004,
+          "id": 250326,
+          "timestamp": "2026-06-07T12:38:28.534000+00:00",
+          "duration": 17.073,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 249902,
-          "timestamp": "2026-06-07T03:47:30.085000+00:00",
-          "duration": 16.074,
+          "id": 250325,
+          "timestamp": "2026-06-07T12:38:24.512000+00:00",
+          "duration": 3.019,
           "data": {
             "app": "steamwebhelper.exe",
-            "title": "特惠"
+            "title": "MONSTER HUNTER RISE"
           }
         },
         {
-          "id": 249901,
-          "timestamp": "2026-06-07T03:47:29.079000+00:00",
+          "id": 250324,
+          "timestamp": "2026-06-07T12:38:16.471000+00:00",
+          "duration": 7.036,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250323,
+          "timestamp": "2026-06-07T12:38:09.437000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "MONSTER HUNTER RISE"
+          }
+        },
+        {
+          "id": 250321,
+          "timestamp": "2026-06-07T12:35:46.820000+00:00",
+          "duration": 141.613,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250320,
+          "timestamp": "2026-06-07T12:35:19.714000+00:00",
+          "duration": 26.102,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 250319,
+          "timestamp": "2026-06-07T12:35:16.702000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 250317,
+          "timestamp": "2026-06-07T12:34:21.484000+00:00",
+          "duration": 54.215,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250316,
+          "timestamp": "2026-06-07T12:34:10.436000+00:00",
+          "duration": 10.043,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "MONSTER HUNTER RISE"
+          }
+        },
+        {
+          "id": 250315,
+          "timestamp": "2026-06-07T12:33:47.326000+00:00",
+          "duration": 22.105,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 250314,
+          "timestamp": "2026-06-07T12:33:28.243000+00:00",
+          "duration": 18.08,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 250313,
+          "timestamp": "2026-06-07T12:33:27.239000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 249900,
-          "timestamp": "2026-06-07T03:47:09+00:00",
-          "duration": 19.074,
+          "id": 250312,
+          "timestamp": "2026-06-07T12:33:16.191000+00:00",
+          "duration": 10.044,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "登录 Steam"
           }
         },
         {
-          "id": 249898,
-          "timestamp": "2026-06-07T03:47:01.969000+00:00",
-          "duration": 6.026,
+          "id": 250310,
+          "timestamp": "2026-06-07T12:33:12.173000+00:00",
+          "duration": 3.013,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 249897,
-          "timestamp": "2026-06-07T03:46:52.931000+00:00",
-          "duration": 8.035,
-          "data": {
-            "app": "steam.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 249896,
-          "timestamp": "2026-06-07T03:46:51.923000+00:00",
+          "id": 250309,
+          "timestamp": "2026-06-07T12:33:11.166000+00:00",
           "duration": 0.0,
           "data": {
             "app": "SearchApp.exe",
@@ -86,8 +212,8 @@
           }
         },
         {
-          "id": 249895,
-          "timestamp": "2026-06-07T03:46:49.915000+00:00",
+          "id": 250308,
+          "timestamp": "2026-06-07T12:33:09.157000+00:00",
           "duration": 1.004,
           "data": {
             "app": "StartMenuExperienceHost.exe",
@@ -95,8 +221,8 @@
           }
         },
         {
-          "id": 249894,
-          "timestamp": "2026-06-07T03:46:48.910000+00:00",
+          "id": 250307,
+          "timestamp": "2026-06-07T12:33:08.153000+00:00",
           "duration": 0.0,
           "data": {
             "app": "SearchApp.exe",
@@ -104,35 +230,134 @@
           }
         },
         {
-          "id": 249893,
-          "timestamp": "2026-06-07T03:46:47.904000+00:00",
-          "duration": 0.0,
+          "id": 250297,
+          "timestamp": "2026-06-07T12:22:53.822000+00:00",
+          "duration": 613.328,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "cmd.exe",
+            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 249891,
-          "timestamp": "2026-06-07T03:46:46.900000+00:00",
-          "duration": 0.0,
+          "id": 250296,
+          "timestamp": "2026-06-07T12:22:50.807000+00:00",
+          "duration": 2.01,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 249890,
-          "timestamp": "2026-06-07T03:46:44.888000+00:00",
-          "duration": 1.006,
+          "id": 250291,
+          "timestamp": "2026-06-07T12:19:16.012000+00:00",
+          "duration": 213.79,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250290,
+          "timestamp": "2026-06-07T12:19:14.002000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 250289,
+          "timestamp": "2026-06-07T12:19:09.985000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250288,
+          "timestamp": "2026-06-07T12:19:08.977000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 250285,
+          "timestamp": "2026-06-07T12:19:07.971000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 250284,
+          "timestamp": "2026-06-07T12:19:05.964000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 250283,
+          "timestamp": "2026-06-07T12:19:04.956000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 250282,
+          "timestamp": "2026-06-07T12:18:51.901000+00:00",
+          "duration": 12.051,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 250281,
+          "timestamp": "2026-06-07T12:18:50.897000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander"
+          }
+        },
+        {
+          "id": 250280,
+          "timestamp": "2026-06-07T12:18:48.887000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "explorer.exe",
             "title": "Program Manager"
           }
         },
         {
-          "id": 249889,
-          "timestamp": "2026-06-07T03:46:43.882000+00:00",
+          "id": 250279,
+          "timestamp": "2026-06-07T12:18:47.880000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 250278,
+          "timestamp": "2026-06-07T12:18:45.874000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 250277,
+          "timestamp": "2026-06-07T12:18:44.867000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -140,17 +365,17 @@
           }
         },
         {
-          "id": 249888,
-          "timestamp": "2026-06-07T03:46:41.874000+00:00",
-          "duration": 1.005,
+          "id": 250276,
+          "timestamp": "2026-06-07T12:18:43.862000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
           }
         },
         {
-          "id": 249887,
-          "timestamp": "2026-06-07T03:46:39.864000+00:00",
+          "id": 250275,
+          "timestamp": "2026-06-07T12:18:41.853000+00:00",
           "duration": 1.006,
           "data": {
             "app": "explorer.exe",
@@ -158,17 +383,125 @@
           }
         },
         {
-          "id": 249886,
-          "timestamp": "2026-06-07T03:46:35.847000+00:00",
-          "duration": 3.014,
+          "id": 250274,
+          "timestamp": "2026-06-07T12:18:40.848000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
           }
         },
         {
-          "id": 249885,
-          "timestamp": "2026-06-07T03:46:34.841000+00:00",
+          "id": 250273,
+          "timestamp": "2026-06-07T12:18:37.836000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
+          }
+        },
+        {
+          "id": 250272,
+          "timestamp": "2026-06-07T12:18:36.831000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已回收 252 个项目"
+          }
+        },
+        {
+          "id": 250271,
+          "timestamp": "2026-06-07T12:18:35.824000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
+          }
+        },
+        {
+          "id": 250270,
+          "timestamp": "2026-06-07T12:18:32.714000+00:00",
+          "duration": 2.106,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 250269,
+          "timestamp": "2026-06-07T12:18:31.655000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "C:\\Users\\Administrator\\Desktop\\文档笔记\\低配应用集.md [文件模式] - Ndd"
+          }
+        },
+        {
+          "id": 250268,
+          "timestamp": "2026-06-07T12:18:29.647000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Notepad--.exe",
+            "title": "关闭文件 - Ndd"
+          }
+        },
+        {
+          "id": 250267,
+          "timestamp": "2026-06-07T12:18:27.636000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 250266,
+          "timestamp": "2026-06-07T12:18:26.631000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 250265,
+          "timestamp": "2026-06-07T12:18:21.614000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "activitywatch-dashboard"
+          }
+        },
+        {
+          "id": 250264,
+          "timestamp": "2026-06-07T12:18:19.605000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 250263,
+          "timestamp": "2026-06-07T12:18:18.599000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 250262,
+          "timestamp": "2026-06-07T12:18:14.584000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
+          }
+        },
+        {
+          "id": 250261,
+          "timestamp": "2026-06-07T12:18:13.579000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -176,71 +509,80 @@
           }
         },
         {
-          "id": 249863,
-          "timestamp": "2026-06-07T02:50:42.772000+00:00",
-          "duration": 3351.064,
+          "id": 250260,
+          "timestamp": "2026-06-07T12:18:09.565000+00:00",
+          "duration": 3.011,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
           }
         },
         {
-          "id": 249862,
-          "timestamp": "2026-06-07T02:50:39.755000+00:00",
-          "duration": 2.012,
+          "id": 250259,
+          "timestamp": "2026-06-07T12:18:08.560000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "explorer.exe",
+            "title": "已回收 257 个项目"
           }
         },
         {
-          "id": 249858,
-          "timestamp": "2026-06-07T02:43:10.016000+00:00",
-          "duration": 448.736,
+          "id": 250258,
+          "timestamp": "2026-06-07T12:18:07.554000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
           }
         },
         {
-          "id": 249857,
-          "timestamp": "2026-06-07T02:42:59.976000+00:00",
-          "duration": 9.037,
+          "id": 250257,
+          "timestamp": "2026-06-07T12:18:05.544000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "ShellExperienceHost.exe",
+            "title": "ActivityWatch服务器 的跳转列表"
           }
         },
         {
-          "id": 249856,
-          "timestamp": "2026-06-07T02:42:55.960000+00:00",
-          "duration": 3.012,
+          "id": 250256,
+          "timestamp": "2026-06-07T12:18:02.533000+00:00",
+          "duration": 2.008,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "explorer.exe",
+            "title": "文件夹正在使用"
           }
         },
         {
-          "id": 249855,
-          "timestamp": "2026-06-07T02:42:52.947000+00:00",
-          "duration": 2.009,
+          "id": 250255,
+          "timestamp": "2026-06-07T12:18:01.528000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         },
         {
-          "id": 249854,
-          "timestamp": "2026-06-07T02:41:47.697000+00:00",
-          "duration": 64.247,
+          "id": 250254,
+          "timestamp": "2026-06-07T12:18:00.522000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "explorer.exe",
+            "title": "Program Manager"
           }
         },
         {
-          "id": 249853,
-          "timestamp": "2026-06-07T02:41:46.690000+00:00",
+          "id": 250253,
+          "timestamp": "2026-06-07T12:17:37.414000+00:00",
+          "duration": 22.104,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 250252,
+          "timestamp": "2026-06-07T12:17:36.407000+00:00",
           "duration": 0.0,
           "data": {
             "app": "unknown",
@@ -248,68 +590,95 @@
           }
         },
         {
-          "id": 249852,
-          "timestamp": "2026-06-07T02:41:43.589000+00:00",
-          "duration": 2.013,
+          "id": 250249,
+          "timestamp": "2026-06-07T12:16:07.855000+00:00",
+          "duration": 87.473,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "🧪 测试应用启动 - Cent Browser"
           }
         },
         {
-          "id": 249851,
-          "timestamp": "2026-06-07T02:41:41.581000+00:00",
-          "duration": 1.004,
+          "id": 250246,
+          "timestamp": "2026-06-07T12:13:22.954000+00:00",
+          "duration": 163.895,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "chrome.exe",
+            "title": "测试应用启动 - Cent Browser"
           }
         },
         {
-          "id": 249849,
-          "timestamp": "2026-06-07T02:41:30.533000+00:00",
-          "duration": 10.044,
+          "id": 250241,
+          "timestamp": "2026-06-07T12:09:36.789000+00:00",
+          "duration": 225.161,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 250240,
+          "timestamp": "2026-06-07T12:09:26.737000+00:00",
+          "duration": 9.047,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 249848,
-          "timestamp": "2026-06-07T02:41:26.518000+00:00",
-          "duration": 3.012,
+          "id": 250239,
+          "timestamp": "2026-06-07T12:09:10.670000+00:00",
+          "duration": 15.064,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "QClaw.exe",
+            "title": "QClaw"
           }
         },
         {
-          "id": 249829,
-          "timestamp": "2026-06-07T01:43:30.039000+00:00",
-          "duration": 3475.475,
+          "id": 250237,
+          "timestamp": "2026-06-07T12:09:05.648000+00:00",
+          "duration": 4.018,
           "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 249687,
-          "timestamp": "2026-06-07T00:00:04.588000+00:00",
-          "duration": 6200.642,
+          "id": 250236,
+          "timestamp": "2026-06-07T12:08:53.601000+00:00",
+          "duration": 11.043,
           "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+            "app": "chrome.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 250235,
+          "timestamp": "2026-06-07T12:08:34.504000+00:00",
+          "duration": 18.092,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250192,
+          "timestamp": "2026-06-07T12:00:04.827000+00:00",
+          "duration": 508.672,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-07T12:00:06.671472",
+    "export_time": "2026-06-08T00:00:06.930712",
     "time_range": {
-      "start": "2026-06-07T00:00:04.588964",
-      "end": "2026-06-07T12:00:04.588964"
+      "start": "2026-06-07T12:00:04.827025",
+      "end": "2026-06-08T00:00:04.827025"
     },
-    "total_events": 33
+    "total_events": 74
   }
 }
