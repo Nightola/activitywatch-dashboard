@@ -5,23 +5,1040 @@
       "type": "window",
       "events": [
         {
-          "id": 250420,
-          "timestamp": "2026-06-08T00:00:04.589000+00:00",
-          "duration": 14396.525,
+          "id": 251049,
+          "timestamp": "2026-06-08T16:00:01.014000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "7zg.exe",
+            "title": "43% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251048,
+          "timestamp": "2026-06-08T15:59:36.921000+00:00",
+          "duration": 23.09,
+          "data": {
+            "app": "7zg.exe",
+            "title": "42% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251047,
+          "timestamp": "2026-06-08T15:59:24.874000+00:00",
+          "duration": 11.043,
+          "data": {
+            "app": "7zg.exe",
+            "title": "41% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251046,
+          "timestamp": "2026-06-08T15:59:03.791000+00:00",
+          "duration": 20.078,
+          "data": {
+            "app": "7zg.exe",
+            "title": "40% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251045,
+          "timestamp": "2026-06-08T15:58:46.725000+00:00",
+          "duration": 16.062,
+          "data": {
+            "app": "7zg.exe",
+            "title": "39% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251043,
+          "timestamp": "2026-06-08T15:58:28.658000+00:00",
+          "duration": 17.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "38% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251042,
+          "timestamp": "2026-06-08T15:58:09.590000+00:00",
+          "duration": 18.064,
+          "data": {
+            "app": "7zg.exe",
+            "title": "37% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251041,
+          "timestamp": "2026-06-08T15:57:49.517000+00:00",
+          "duration": 19.07,
+          "data": {
+            "app": "7zg.exe",
+            "title": "36% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251040,
+          "timestamp": "2026-06-08T15:57:31.450000+00:00",
+          "duration": 17.064,
+          "data": {
+            "app": "7zg.exe",
+            "title": "35% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251039,
+          "timestamp": "2026-06-08T15:57:10.372000+00:00",
+          "duration": 20.073,
+          "data": {
+            "app": "7zg.exe",
+            "title": "34% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251038,
+          "timestamp": "2026-06-08T15:56:54.305000+00:00",
+          "duration": 15.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "33% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251037,
+          "timestamp": "2026-06-08T15:56:28.206000+00:00",
+          "duration": 25.095,
+          "data": {
+            "app": "7zg.exe",
+            "title": "32% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251036,
+          "timestamp": "2026-06-08T15:56:19.173000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "7zg.exe",
+            "title": "31% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251034,
+          "timestamp": "2026-06-08T15:55:54.080000+00:00",
+          "duration": 24.089,
+          "data": {
+            "app": "7zg.exe",
+            "title": "30% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251033,
+          "timestamp": "2026-06-08T15:55:43.038000+00:00",
+          "duration": 10.037,
+          "data": {
+            "app": "7zg.exe",
+            "title": "29% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251032,
+          "timestamp": "2026-06-08T15:55:22.963000+00:00",
+          "duration": 19.072,
+          "data": {
+            "app": "7zg.exe",
+            "title": "28% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251031,
+          "timestamp": "2026-06-08T15:55:04.895000+00:00",
+          "duration": 17.065,
+          "data": {
+            "app": "7zg.exe",
+            "title": "27% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251030,
+          "timestamp": "2026-06-08T15:54:49.833000+00:00",
+          "duration": 14.058,
+          "data": {
+            "app": "7zg.exe",
+            "title": "26% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251029,
+          "timestamp": "2026-06-08T15:54:29.761000+00:00",
+          "duration": 19.069,
+          "data": {
+            "app": "7zg.exe",
+            "title": "25% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251028,
+          "timestamp": "2026-06-08T15:54:08.680000+00:00",
+          "duration": 20.075,
+          "data": {
+            "app": "7zg.exe",
+            "title": "24% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251027,
+          "timestamp": "2026-06-08T15:53:48.604000+00:00",
+          "duration": 19.072,
+          "data": {
+            "app": "7zg.exe",
+            "title": "23% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251025,
+          "timestamp": "2026-06-08T15:53:30.534000+00:00",
+          "duration": 17.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "22% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251024,
+          "timestamp": "2026-06-08T15:53:08.447000+00:00",
+          "duration": 21.083,
+          "data": {
+            "app": "7zg.exe",
+            "title": "21% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251023,
+          "timestamp": "2026-06-08T15:52:45.360000+00:00",
+          "duration": 22.083,
+          "data": {
+            "app": "7zg.exe",
+            "title": "20% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251022,
+          "timestamp": "2026-06-08T15:52:23.275000+00:00",
+          "duration": 21.081,
+          "data": {
+            "app": "7zg.exe",
+            "title": "19% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251021,
+          "timestamp": "2026-06-08T15:51:59.180000+00:00",
+          "duration": 23.092,
+          "data": {
+            "app": "7zg.exe",
+            "title": "18% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251020,
+          "timestamp": "2026-06-08T15:51:35.089000+00:00",
+          "duration": 23.087,
+          "data": {
+            "app": "7zg.exe",
+            "title": "17% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251019,
+          "timestamp": "2026-06-08T15:51:14.008000+00:00",
+          "duration": 20.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "16% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251018,
+          "timestamp": "2026-06-08T15:50:51.926000+00:00",
+          "duration": 21.078,
+          "data": {
+            "app": "7zg.exe",
+            "title": "15% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251017,
+          "timestamp": "2026-06-08T15:50:13.780000+00:00",
+          "duration": 37.143,
+          "data": {
+            "app": "7zg.exe",
+            "title": "14% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251015,
+          "timestamp": "2026-06-08T15:49:40.651000+00:00",
+          "duration": 32.126,
+          "data": {
+            "app": "7zg.exe",
+            "title": "13% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251014,
+          "timestamp": "2026-06-08T15:49:02.511000+00:00",
+          "duration": 37.137,
+          "data": {
+            "app": "7zg.exe",
+            "title": "12% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251013,
+          "timestamp": "2026-06-08T15:48:39.426000+00:00",
+          "duration": 22.081,
+          "data": {
+            "app": "7zg.exe",
+            "title": "11% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251012,
+          "timestamp": "2026-06-08T15:48:29.386000+00:00",
+          "duration": 9.036,
+          "data": {
+            "app": "7zg.exe",
+            "title": "10% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251011,
+          "timestamp": "2026-06-08T15:48:15.334000+00:00",
+          "duration": 13.049,
+          "data": {
+            "app": "7zg.exe",
+            "title": "9% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251010,
+          "timestamp": "2026-06-08T15:48:08.308000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "7zg.exe",
+            "title": "8% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251009,
+          "timestamp": "2026-06-08T15:48:05.296000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "7zg.exe",
+            "title": "7% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251008,
+          "timestamp": "2026-06-08T15:48:02.283000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "7zg.exe",
+            "title": "6% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251007,
+          "timestamp": "2026-06-08T15:47:39.197000+00:00",
+          "duration": 22.083,
+          "data": {
+            "app": "7zg.exe",
+            "title": "5% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251005,
+          "timestamp": "2026-06-08T15:47:22.129000+00:00",
+          "duration": 16.065,
+          "data": {
+            "app": "7zg.exe",
+            "title": "4% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251004,
+          "timestamp": "2026-06-08T15:47:15.104000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "7zg.exe",
+            "title": "3% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251003,
+          "timestamp": "2026-06-08T15:46:51.014000+00:00",
+          "duration": 23.087,
+          "data": {
+            "app": "7zg.exe",
+            "title": "2% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251002,
+          "timestamp": "2026-06-08T15:46:28.932000+00:00",
+          "duration": 21.078,
+          "data": {
+            "app": "7zg.exe",
+            "title": "1% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251001,
+          "timestamp": "2026-06-08T15:46:23.913000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "7zg.exe",
+            "title": "0% Extracting F:\\Hypergryph Laun ... cef2-38-HG.zip.001"
+          }
+        },
+        {
+          "id": 251000,
+          "timestamp": "2026-06-08T15:46:22.909000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "7zg.exe",
+            "title": " Extracting"
+          }
+        },
+        {
+          "id": 250989,
+          "timestamp": "2026-06-08T15:23:15.476000+00:00",
+          "duration": 1386.428,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 250988,
+          "timestamp": "2026-06-08T15:23:13.463000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 250985,
+          "timestamp": "2026-06-08T15:15:58.662000+00:00",
+          "duration": 433.797,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 250984,
+          "timestamp": "2026-06-08T15:15:57.656000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 250983,
+          "timestamp": "2026-06-08T15:15:50.544000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 250982,
+          "timestamp": "2026-06-08T15:15:48.536000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Games.exe",
+            "title": "Dialog - 鹰角启动器"
+          }
+        },
+        {
+          "id": 250981,
+          "timestamp": "2026-06-08T15:15:46.526000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 250980,
+          "timestamp": "2026-06-08T15:15:44.514000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 250979,
+          "timestamp": "2026-06-08T15:15:39.491000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250977,
+          "timestamp": "2026-06-08T15:15:38.484000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《明日方舟》PC下载安装指引 - 明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 250976,
+          "timestamp": "2026-06-08T15:15:36.474000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 250975,
+          "timestamp": "2026-06-08T15:15:29.443000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250974,
+          "timestamp": "2026-06-08T15:15:28.436000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "选择 ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 250973,
+          "timestamp": "2026-06-08T15:15:26.428000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 250972,
+          "timestamp": "2026-06-08T15:15:22.411000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《明日方舟》PC下载安装指引 - 明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 250971,
+          "timestamp": "2026-06-08T15:15:01.332000+00:00",
+          "duration": 20.074,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "鹰角启动器 安装程序"
+          }
+        },
+        {
+          "id": 250970,
+          "timestamp": "2026-06-08T15:14:58.319000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "请选择安装路径"
+          }
+        },
+        {
+          "id": 250969,
+          "timestamp": "2026-06-08T15:14:57.314000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "鹰角启动器 安装程序"
+          }
+        },
+        {
+          "id": 250968,
+          "timestamp": "2026-06-08T15:14:55.305000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 250967,
+          "timestamp": "2026-06-08T15:14:53.296000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "鹰角启动器 安装程序"
+          }
+        },
+        {
+          "id": 250966,
+          "timestamp": "2026-06-08T15:14:50.284000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "请选择安装路径"
+          }
+        },
+        {
+          "id": 250965,
+          "timestamp": "2026-06-08T15:14:47.270000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 250963,
+          "timestamp": "2026-06-08T15:14:43.253000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "请选择安装路径"
+          }
+        },
+        {
+          "id": 250962,
+          "timestamp": "2026-06-08T15:14:39.237000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "鹰角启动器 安装程序"
+          }
+        },
+        {
+          "id": 250961,
+          "timestamp": "2026-06-08T15:14:38.233000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HypergryphLauncher_v1.4.0.1401_1_1_arknights.exe",
+            "title": "${STR_APP_NAME_zh-cn} 安装"
+          }
+        },
+        {
+          "id": 250940,
+          "timestamp": "2026-06-08T13:37:41.323000+00:00",
+          "duration": 5815.907,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 250939,
+          "timestamp": "2026-06-08T13:37:39.313000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《明日方舟》PC下载安装指引 - 明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 250938,
+          "timestamp": "2026-06-08T13:37:37.298000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 250935,
+          "timestamp": "2026-06-08T13:37:18.228000+00:00",
+          "duration": 18.067,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《明日方舟》PC下载安装指引 - 明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 250934,
+          "timestamp": "2026-06-08T13:37:09.192000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "明日方舟PC版 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 250933,
+          "timestamp": "2026-06-08T13:37:08.188000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "google.com/search?q=明日方舟PC版 - Cent Browser"
+          }
+        },
+        {
+          "id": 250932,
+          "timestamp": "2026-06-08T13:37:07.181000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 250931,
+          "timestamp": "2026-06-08T13:36:58.148000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250930,
+          "timestamp": "2026-06-08T13:36:57.143000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 250929,
+          "timestamp": "2026-06-08T13:36:56.138000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250928,
+          "timestamp": "2026-06-08T13:36:42.083000+00:00",
+          "duration": 13.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 250927,
+          "timestamp": "2026-06-08T13:36:40.072000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 250926,
+          "timestamp": "2026-06-08T13:36:39.065000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250925,
+          "timestamp": "2026-06-08T13:36:38.060000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "关闭 BlueStacks 5"
+          }
+        },
+        {
+          "id": 250924,
+          "timestamp": "2026-06-08T13:36:37.054000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250923,
+          "timestamp": "2026-06-08T13:36:36.050000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "关闭 BlueStacks 5"
+          }
+        },
+        {
+          "id": 250922,
+          "timestamp": "2026-06-08T13:30:11.570000+00:00",
+          "duration": 383.477,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250921,
+          "timestamp": "2026-06-08T13:30:03.540000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250920,
+          "timestamp": "2026-06-08T13:30:02.535000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "需要重启"
+          }
+        },
+        {
+          "id": 250919,
+          "timestamp": "2026-06-08T13:29:50.489000+00:00",
+          "duration": 11.043,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 250918,
+          "timestamp": "2026-06-08T13:29:49.484000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "HD-Player"
+          }
+        },
+        {
+          "id": 250917,
+          "timestamp": "2026-06-08T13:29:26.392000+00:00",
+          "duration": 22.088,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250916,
+          "timestamp": "2026-06-08T13:29:14.343000+00:00",
+          "duration": 11.044,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250915,
+          "timestamp": "2026-06-08T13:29:13.339000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks Loading"
+          }
+        },
+        {
+          "id": 250914,
+          "timestamp": "2026-06-08T13:29:12.332000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "重启BlueStacks"
+          }
+        },
+        {
+          "id": 250913,
+          "timestamp": "2026-06-08T13:29:05.305000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 250912,
+          "timestamp": "2026-06-08T13:29:03.297000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "HD-Player"
+          }
+        },
+        {
+          "id": 250911,
+          "timestamp": "2026-06-08T13:16:39.390000+00:00",
+          "duration": 742.901,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250910,
+          "timestamp": "2026-06-08T13:16:11.283000+00:00",
+          "duration": 27.104,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 250909,
+          "timestamp": "2026-06-08T13:16:09.274000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250908,
+          "timestamp": "2026-06-08T13:16:00.233000+00:00",
+          "duration": 8.038,
+          "data": {
+            "app": "ControlCenterU.exe",
+            "title": "ControlCenterU"
+          }
+        },
+        {
+          "id": 250907,
+          "timestamp": "2026-06-08T13:15:54.205000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 250906,
+          "timestamp": "2026-06-08T13:15:53.199000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250905,
+          "timestamp": "2026-06-08T13:15:51.189000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 250904,
+          "timestamp": "2026-06-08T13:15:50.182000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250903,
+          "timestamp": "2026-06-08T13:15:49.178000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Steam 的跳转列表"
+          }
+        },
+        {
+          "id": 250902,
+          "timestamp": "2026-06-08T13:15:48.170000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250901,
+          "timestamp": "2026-06-08T13:15:46.159000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Chrome 的跳转列表"
+          }
+        },
+        {
+          "id": 250900,
+          "timestamp": "2026-06-08T13:15:42.133000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 250899,
+          "timestamp": "2026-06-08T13:15:20.035000+00:00",
+          "duration": 21.094,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250898,
+          "timestamp": "2026-06-08T13:15:10.994000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 250897,
+          "timestamp": "2026-06-08T13:15:09.988000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
+          }
+        },
+        {
+          "id": 250896,
+          "timestamp": "2026-06-08T13:15:08.983000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "HD-Player"
+          }
+        },
+        {
+          "id": 250848,
+          "timestamp": "2026-06-08T12:00:05.826000+00:00",
+          "duration": 4502.15,
+          "data": {
+            "app": "HD-Player.exe",
+            "title": "BlueStacks 5"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-08T12:00:06.649366",
+    "export_time": "2026-06-09T00:00:07.899701",
     "time_range": {
-      "start": "2026-06-08T00:00:04.589509",
-      "end": "2026-06-08T12:00:04.589509"
+      "start": "2026-06-08T12:00:05.826404",
+      "end": "2026-06-09T00:00:05.826404"
     },
-    "total_events": 1
+    "total_events": 114
   }
 }
