@@ -5,518 +5,158 @@
       "type": "window",
       "events": [
         {
-          "id": 251426,
-          "timestamp": "2026-06-09T04:00:01.623000+00:00",
-          "duration": 0.0,
+          "id": 251683,
+          "timestamp": "2026-06-09T15:43:39.003000+00:00",
+          "duration": 982.133,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
           }
         },
         {
-          "id": 251402,
-          "timestamp": "2026-06-09T03:10:22.281000+00:00",
-          "duration": 2978.336,
+          "id": 251682,
+          "timestamp": "2026-06-09T15:43:36.982000+00:00",
+          "duration": 1.009,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         },
         {
-          "id": 251401,
-          "timestamp": "2026-06-09T03:10:04.195000+00:00",
-          "duration": 17.08,
+          "id": 251681,
+          "timestamp": "2026-06-09T15:43:33.952000+00:00",
+          "duration": 2.018,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "特惠"
+            "app": "ControlCenterU.exe",
+            "title": "ControlCenterU"
           }
         },
         {
-          "id": 251400,
-          "timestamp": "2026-06-09T03:10:03.191000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 251399,
-          "timestamp": "2026-06-09T03:09:39.092000+00:00",
-          "duration": 23.096,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "登录 Steam"
-          }
-        },
-        {
-          "id": 251398,
-          "timestamp": "2026-06-09T03:09:35.076000+00:00",
-          "duration": 3.012,
+          "id": 251680,
+          "timestamp": "2026-06-09T15:43:24.886000+00:00",
+          "duration": 8.063,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 251397,
-          "timestamp": "2026-06-09T03:09:34.072000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251396,
-          "timestamp": "2026-06-09T03:09:32.063000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
-          }
-        },
-        {
-          "id": 251395,
-          "timestamp": "2026-06-09T03:09:20.015000+00:00",
-          "duration": 11.043,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251394,
-          "timestamp": "2026-06-09T03:09:18.006000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251393,
-          "timestamp": "2026-06-09T03:09:14.995000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 251392,
-          "timestamp": "2026-06-09T03:09:13.990000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 251391,
-          "timestamp": "2026-06-09T03:09:11.705000+00:00",
-          "duration": 1.282,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BlueStacks_nxt_cn"
-          }
-        },
-        {
-          "id": 251390,
-          "timestamp": "2026-06-09T03:09:08.691000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "ApplicationFrameHost.exe",
-            "title": "设置"
-          }
-        },
-        {
-          "id": 251389,
-          "timestamp": "2026-06-09T03:09:06.683000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "BlueStacksUninstaller.exe",
-            "title": "Bluestacks China Uninstaller"
-          }
-        },
-        {
-          "id": 251388,
-          "timestamp": "2026-06-09T03:09:05.676000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BlueStacksUninstaller.exe",
-            "title": "CustomMessageWindow"
-          }
-        },
-        {
-          "id": 251387,
-          "timestamp": "2026-06-09T03:08:58.649000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "BlueStacksUninstaller.exe",
-            "title": "Bluestacks China Uninstaller"
-          }
-        },
-        {
-          "id": 251385,
-          "timestamp": "2026-06-09T03:08:35.560000+00:00",
-          "duration": 22.085,
-          "data": {
-            "app": "ApplicationFrameHost.exe",
-            "title": "设置"
-          }
-        },
-        {
-          "id": 251384,
-          "timestamp": "2026-06-09T03:08:34.554000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251383,
-          "timestamp": "2026-06-09T03:08:33.548000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BlueStacks_nxt_cn"
-          }
-        },
-        {
-          "id": 251382,
-          "timestamp": "2026-06-09T03:08:32.543000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Client"
-          }
-        },
-        {
-          "id": 251381,
-          "timestamp": "2026-06-09T03:08:28.529000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Assets"
-          }
-        },
-        {
-          "id": 251380,
-          "timestamp": "2026-06-09T03:08:27.525000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Client"
-          }
-        },
-        {
-          "id": 251379,
-          "timestamp": "2026-06-09T03:08:26.521000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BlueStacks_nxt_cn"
-          }
-        },
-        {
-          "id": 251378,
-          "timestamp": "2026-06-09T03:08:24.509000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Engine"
-          }
-        },
-        {
-          "id": 251377,
-          "timestamp": "2026-06-09T03:08:22.503000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BlueStacks_nxt_cn"
-          }
-        },
-        {
-          "id": 251376,
-          "timestamp": "2026-06-09T03:08:21.497000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
-          }
-        },
-        {
-          "id": 251375,
-          "timestamp": "2026-06-09T03:08:20.491000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "BlueStarOS"
-          }
-        },
-        {
-          "id": 251374,
-          "timestamp": "2026-06-09T03:08:12.462000+00:00",
-          "duration": 7.026,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
-          }
-        },
-        {
-          "id": 251373,
-          "timestamp": "2026-06-09T03:08:08.446000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 251372,
-          "timestamp": "2026-06-09T03:08:07.440000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 251371,
-          "timestamp": "2026-06-09T03:08:06.435000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251370,
-          "timestamp": "2026-06-09T03:08:05.430000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251369,
-          "timestamp": "2026-06-09T03:08:04.425000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 251368,
-          "timestamp": "2026-06-09T03:08:03.420000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 251367,
-          "timestamp": "2026-06-09T03:07:58.402000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 251366,
-          "timestamp": "2026-06-09T03:07:55.389000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 251365,
-          "timestamp": "2026-06-09T03:07:47.360000+00:00",
-          "duration": 7.026,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251364,
-          "timestamp": "2026-06-09T03:07:45.353000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
-          }
-        },
-        {
-          "id": 251363,
-          "timestamp": "2026-06-09T03:07:44.348000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 251362,
-          "timestamp": "2026-06-09T03:07:41.336000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251360,
-          "timestamp": "2026-06-09T03:07:40.331000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 251359,
-          "timestamp": "2026-06-09T03:07:25.280000+00:00",
-          "duration": 14.047,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251358,
-          "timestamp": "2026-06-09T03:07:24.274000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 251357,
-          "timestamp": "2026-06-09T03:07:23.269000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251352,
-          "timestamp": "2026-06-09T03:03:32.409000+00:00",
-          "duration": 229.855,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 251351,
-          "timestamp": "2026-06-09T03:03:20.361000+00:00",
-          "duration": 11.045,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 251350,
-          "timestamp": "2026-06-09T03:03:19.355000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 251349,
-          "timestamp": "2026-06-09T03:03:13.286000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 251348,
-          "timestamp": "2026-06-09T03:03:09.270000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "日期和时间信息"
-          }
-        },
-        {
-          "id": 251347,
-          "timestamp": "2026-06-09T03:03:08.265000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251346,
-          "timestamp": "2026-06-09T03:02:52.197000+00:00",
-          "duration": 15.063,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 251331,
-          "timestamp": "2026-06-09T02:32:16.504000+00:00",
-          "duration": 1834.688,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 251329,
-          "timestamp": "2026-06-09T02:32:14.494000+00:00",
+          "id": 251679,
+          "timestamp": "2026-06-09T15:43:22.871000+00:00",
           "duration": 1.006,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         },
         {
-          "id": 251328,
-          "timestamp": "2026-06-09T02:32:11.483000+00:00",
-          "duration": 2.008,
+          "id": 251678,
+          "timestamp": "2026-06-09T15:43:21.866000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 251194,
-          "timestamp": "2026-06-09T00:00:04.532000+00:00",
-          "duration": 9125.947,
+          "id": 251677,
+          "timestamp": "2026-06-09T15:43:19.848000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 251676,
+          "timestamp": "2026-06-09T15:43:16.832000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 251675,
+          "timestamp": "2026-06-09T15:43:14.816000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 251674,
+          "timestamp": "2026-06-09T15:43:11.795000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 251671,
+          "timestamp": "2026-06-09T15:35:40.617000+00:00",
+          "duration": 450.172,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 251670,
+          "timestamp": "2026-06-09T15:35:20.530000+00:00",
+          "duration": 19.082,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 251669,
+          "timestamp": "2026-06-09T15:35:10.485000+00:00",
+          "duration": 9.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 251668,
+          "timestamp": "2026-06-09T15:35:08.476000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 251666,
+          "timestamp": "2026-06-09T15:35:06.466000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Chrome 的跳转列表"
+          }
+        },
+        {
+          "id": 251546,
+          "timestamp": "2026-06-09T12:00:04.896000+00:00",
+          "duration": 12900.567,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-09T12:00:06.590720",
+    "export_time": "2026-06-10T00:00:07.015312",
     "time_range": {
-      "start": "2026-06-09T00:00:04.532258",
-      "end": "2026-06-09T12:00:04.532258"
+      "start": "2026-06-09T12:00:04.896163",
+      "end": "2026-06-10T00:00:04.896163"
     },
-    "total_events": 56
+    "total_events": 16
   }
 }
