@@ -5,23 +5,113 @@
       "type": "window",
       "events": [
         {
-          "id": 251741,
-          "timestamp": "2026-06-10T00:00:04.545000+00:00",
-          "duration": 14396.736,
+          "id": 252153,
+          "timestamp": "2026-06-10T13:52:44.637000+00:00",
+          "duration": 7636.984,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 252152,
+          "timestamp": "2026-06-10T13:52:43.633000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 252151,
+          "timestamp": "2026-06-10T13:52:38.613000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 252150,
+          "timestamp": "2026-06-10T13:52:37.608000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 252149,
+          "timestamp": "2026-06-10T13:52:35.601000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 252148,
+          "timestamp": "2026-06-10T13:52:33.592000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 252117,
+          "timestamp": "2026-06-10T12:26:41.854000+00:00",
+          "duration": 5150.735,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 252116,
+          "timestamp": "2026-06-10T12:26:29.809000+00:00",
+          "duration": 11.042,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 252115,
+          "timestamp": "2026-06-10T12:26:26.794000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 252114,
+          "timestamp": "2026-06-10T12:26:22.777000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 252097,
+          "timestamp": "2026-06-10T12:00:04.903000+00:00",
+          "duration": 1576.871,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-10T12:00:06.608397",
+    "export_time": "2026-06-11T00:00:06.959715",
     "time_range": {
-      "start": "2026-06-10T00:00:04.545362",
-      "end": "2026-06-10T12:00:04.545362"
+      "start": "2026-06-10T12:00:04.903958",
+      "end": "2026-06-11T00:00:04.903958"
     },
-    "total_events": 1
+    "total_events": 11
   }
 }
