@@ -5,158 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 251683,
-          "timestamp": "2026-06-09T15:43:39.003000+00:00",
-          "duration": 982.133,
-          "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
-          }
-        },
-        {
-          "id": 251682,
-          "timestamp": "2026-06-09T15:43:36.982000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 251681,
-          "timestamp": "2026-06-09T15:43:33.952000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "ControlCenterU.exe",
-            "title": "ControlCenterU"
-          }
-        },
-        {
-          "id": 251680,
-          "timestamp": "2026-06-09T15:43:24.886000+00:00",
-          "duration": 8.063,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251679,
-          "timestamp": "2026-06-09T15:43:22.871000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
-          }
-        },
-        {
-          "id": 251678,
-          "timestamp": "2026-06-09T15:43:21.866000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 251677,
-          "timestamp": "2026-06-09T15:43:19.848000+00:00",
-          "duration": 1.006,
+          "id": 251741,
+          "timestamp": "2026-06-10T00:00:04.545000+00:00",
+          "duration": 14396.736,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 251676,
-          "timestamp": "2026-06-09T15:43:16.832000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251675,
-          "timestamp": "2026-06-09T15:43:14.816000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 251674,
-          "timestamp": "2026-06-09T15:43:11.795000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251671,
-          "timestamp": "2026-06-09T15:35:40.617000+00:00",
-          "duration": 450.172,
-          "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
-          }
-        },
-        {
-          "id": 251670,
-          "timestamp": "2026-06-09T15:35:20.530000+00:00",
-          "duration": 19.082,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 251669,
-          "timestamp": "2026-06-09T15:35:10.485000+00:00",
-          "duration": 9.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 251668,
-          "timestamp": "2026-06-09T15:35:08.476000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 251666,
-          "timestamp": "2026-06-09T15:35:06.466000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Chrome 的跳转列表"
-          }
-        },
-        {
-          "id": 251546,
-          "timestamp": "2026-06-09T12:00:04.896000+00:00",
-          "duration": 12900.567,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-10T00:00:07.015312",
+    "export_time": "2026-06-10T12:00:06.608397",
     "time_range": {
-      "start": "2026-06-09T12:00:04.896163",
-      "end": "2026-06-10T00:00:04.896163"
+      "start": "2026-06-10T00:00:04.545362",
+      "end": "2026-06-10T12:00:04.545362"
     },
-    "total_events": 16
+    "total_events": 1
   }
 }
