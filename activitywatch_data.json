@@ -5,8 +5,8 @@
       "type": "window",
       "events": [
         {
-          "id": 252666,
-          "timestamp": "2026-06-11T16:00:01.755000+00:00",
+          "id": 252848,
+          "timestamp": "2026-06-12T04:00:01.625000+00:00",
           "duration": 0.0,
           "data": {
             "app": "cmd.exe",
@@ -14,167 +14,23 @@
           }
         },
         {
-          "id": 252651,
-          "timestamp": "2026-06-11T13:29:06.361000+00:00",
-          "duration": 9054.391,
+          "id": 252668,
+          "timestamp": "2026-06-12T00:00:04.517000+00:00",
+          "duration": 14396.103,
           "data": {
             "app": "Games.exe",
             "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 252650,
-          "timestamp": "2026-06-11T13:29:05.355000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 252629,
-          "timestamp": "2026-06-11T12:54:32.164000+00:00",
-          "duration": 2072.186,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 252611,
-          "timestamp": "2026-06-11T12:09:41.773000+00:00",
-          "duration": 2681.633,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 252610,
-          "timestamp": "2026-06-11T12:09:33.733000+00:00",
-          "duration": 7.036,
-          "data": {
-            "app": "PlatformProcess.exe",
-            "title": "Form"
-          }
-        },
-        {
-          "id": 252609,
-          "timestamp": "2026-06-11T12:09:06.578000+00:00",
-          "duration": 26.151,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 252608,
-          "timestamp": "2026-06-11T12:07:59.238000+00:00",
-          "duration": 66.336,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 252607,
-          "timestamp": "2026-06-11T12:07:44.168000+00:00",
-          "duration": 14.066,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 252606,
-          "timestamp": "2026-06-11T12:07:40.150000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 252605,
-          "timestamp": "2026-06-11T12:07:38.141000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 252604,
-          "timestamp": "2026-06-11T12:07:37.132000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 252603,
-          "timestamp": "2026-06-11T12:07:35.122000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 252602,
-          "timestamp": "2026-06-11T12:07:14.032000+00:00",
-          "duration": 20.084,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 252601,
-          "timestamp": "2026-06-11T12:07:08.007000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 252600,
-          "timestamp": "2026-06-11T12:06:52.936000+00:00",
-          "duration": 14.068,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 252598,
-          "timestamp": "2026-06-11T12:06:51.931000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 252560,
-          "timestamp": "2026-06-11T12:00:04.685000+00:00",
-          "duration": 406.243,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-12T00:00:06.742811",
+    "export_time": "2026-06-12T12:00:06.571759",
     "time_range": {
-      "start": "2026-06-11T12:00:04.685366",
-      "end": "2026-06-12T00:00:04.685366"
+      "start": "2026-06-12T00:00:04.517773",
+      "end": "2026-06-12T12:00:04.517773"
     },
-    "total_events": 18
+    "total_events": 2
   }
 }
