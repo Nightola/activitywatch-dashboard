@@ -5,18 +5,36 @@
       "type": "window",
       "events": [
         {
-          "id": 253130,
-          "timestamp": "2026-06-13T01:43:28.718000+00:00",
-          "duration": 8192.452,
+          "id": 253181,
+          "timestamp": "2026-06-13T13:36:52.253000+00:00",
+          "duration": 8589.014,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 253180,
+          "timestamp": "2026-06-13T13:36:45.225000+00:00",
+          "duration": 6.024,
           "data": {
             "app": "memreduct.exe",
             "title": "Mem Reduct"
           }
         },
         {
-          "id": 253129,
-          "timestamp": "2026-06-13T00:00:04.490000+00:00",
-          "duration": 6199.011,
+          "id": 253179,
+          "timestamp": "2026-06-13T13:36:44.220000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 253173,
+          "timestamp": "2026-06-13T12:00:04.550000+00:00",
+          "duration": 5798.667,
           "data": {
             "app": "memreduct.exe",
             "title": "Mem Reduct"
@@ -26,11 +44,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-06-13T12:00:06.549345",
+    "export_time": "2026-06-14T00:00:06.612768",
     "time_range": {
-      "start": "2026-06-13T00:00:04.490327",
-      "end": "2026-06-13T12:00:04.490327"
+      "start": "2026-06-13T12:00:04.550896",
+      "end": "2026-06-14T00:00:04.550896"
     },
-    "total_events": 2
+    "total_events": 4
   }
 }
