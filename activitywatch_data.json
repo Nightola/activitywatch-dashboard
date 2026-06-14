@@ -5,22 +5,22 @@
       "type": "window",
       "events": [
         {
-          "id": 253193,
-          "timestamp": "2026-06-14T00:00:04.905000+00:00",
-          "duration": 14395.943,
+          "id": 253226,
+          "timestamp": "2026-06-14T12:00:04.735000+00:00",
+          "duration": 14396.306,
           "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-14T12:00:07.002390",
+    "export_time": "2026-06-15T00:00:06.805230",
     "time_range": {
-      "start": "2026-06-14T00:00:04.905099",
-      "end": "2026-06-14T12:00:04.905099"
+      "start": "2026-06-14T12:00:04.735048",
+      "end": "2026-06-15T00:00:04.735048"
     },
     "total_events": 1
   }
