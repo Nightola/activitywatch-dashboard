@@ -5,9 +5,9 @@
       "type": "window",
       "events": [
         {
-          "id": 253226,
-          "timestamp": "2026-06-14T12:00:04.735000+00:00",
-          "duration": 14396.306,
+          "id": 253232,
+          "timestamp": "2026-06-15T00:00:04.564000+00:00",
+          "duration": 14396.859,
           "data": {
             "app": "OneCommander.exe",
             "title": "OneCommander Window Manager"
@@ -17,10 +17,10 @@
     }
   },
   "export_info": {
-    "export_time": "2026-06-15T00:00:06.805230",
+    "export_time": "2026-06-15T12:00:06.628547",
     "time_range": {
-      "start": "2026-06-14T12:00:04.735048",
-      "end": "2026-06-15T00:00:04.735048"
+      "start": "2026-06-15T00:00:04.564983",
+      "end": "2026-06-15T12:00:04.564983"
     },
     "total_events": 1
   }
