@@ -5,23 +5,41 @@
       "type": "window",
       "events": [
         {
-          "id": 253232,
-          "timestamp": "2026-06-15T00:00:04.564000+00:00",
-          "duration": 14396.859,
+          "id": 253439,
+          "timestamp": "2026-06-15T16:00:01.693000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+          }
+        },
+        {
+          "id": 253339,
+          "timestamp": "2026-06-15T12:14:51.526000+00:00",
+          "duration": 13509.162,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史1】三测的方舟有多毒，开服的方舟就有多火【明日方舟】_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 253321,
+          "timestamp": "2026-06-15T12:00:04.562000+00:00",
+          "duration": 885.959,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史0】9年前的明日方舟长什么样？【明日方舟】_明日方舟 - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-15T12:00:06.628547",
+    "export_time": "2026-06-16T00:00:06.619681",
     "time_range": {
-      "start": "2026-06-15T00:00:04.564983",
-      "end": "2026-06-15T12:00:04.564983"
+      "start": "2026-06-15T12:00:04.562294",
+      "end": "2026-06-16T00:00:04.562294"
     },
-    "total_events": 1
+    "total_events": 3
   }
 }
