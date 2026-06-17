@@ -5,32 +5,104 @@
       "type": "window",
       "events": [
         {
-          "id": 254193,
-          "timestamp": "2026-06-17T01:43:27.197000+00:00",
-          "duration": 8193.944,
+          "id": 254471,
+          "timestamp": "2026-06-17T12:49:37.310000+00:00",
+          "duration": 11424.303,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 254011,
-          "timestamp": "2026-06-17T00:00:04.607000+00:00",
-          "duration": 6198.823,
+          "id": 254470,
+          "timestamp": "2026-06-17T12:49:36.300000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254448,
+          "timestamp": "2026-06-17T12:26:38.440000+00:00",
+          "duration": 1376.846,
+          "data": {
+            "app": "chrome.exe",
+            "title": "又见逆天人设！超级富婆一天狂花50万，精致女生下雨露营竟是水龙头喷水？互联网奇葩人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254447,
+          "timestamp": "2026-06-17T12:26:35.426000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV162JJ63EWk/?spm_id_from=333.1007.tianma.2-1-4.click - Cent Browser"
+          }
+        },
+        {
+          "id": 254446,
+          "timestamp": "2026-06-17T12:26:28.396000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 254444,
+          "timestamp": "2026-06-17T12:23:15.645000+00:00",
+          "duration": 191.748,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254420,
+          "timestamp": "2026-06-17T12:02:03.231000+00:00",
+          "duration": 1271.407,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【明日方舟】青蒜时刻！万字舆论拆解，异格银灰事件始末，当浪潮退去后，究竟是谁在裸泳_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 254417,
+          "timestamp": "2026-06-17T12:00:30.831000+00:00",
+          "duration": 91.397,
+          "data": {
+            "app": "chrome.exe",
+            "title": "异格银灰已知缺点汇总（不参与强度节奏讨论，仅陈列展示个人发现）【明日方舟】_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 254416,
+          "timestamp": "2026-06-17T12:00:22.793000+00:00",
+          "duration": 7.034,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 254414,
+          "timestamp": "2026-06-17T12:00:04.468000+00:00",
+          "duration": 17.321,
+          "data": {
+            "app": "chrome.exe",
+            "title": "异格银灰已知缺点汇总（不参与强度节奏讨论，仅陈列展示个人发现）【明日方舟】_明日方舟 - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-17T12:00:06.678753",
+    "export_time": "2026-06-18T00:00:06.529204",
     "time_range": {
-      "start": "2026-06-17T00:00:04.607052",
-      "end": "2026-06-17T12:00:04.607052"
+      "start": "2026-06-17T12:00:04.468382",
+      "end": "2026-06-18T00:00:04.468382"
     },
-    "total_events": 2
+    "total_events": 10
   }
 }
