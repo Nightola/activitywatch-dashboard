@@ -5,8 +5,8 @@
       "type": "window",
       "events": [
         {
-          "id": 254767,
-          "timestamp": "2026-06-18T04:00:01.676000+00:00",
+          "id": 255083,
+          "timestamp": "2026-06-18T16:00:01.856000+00:00",
           "duration": 0.0,
           "data": {
             "app": "cmd.exe",
@@ -14,32 +14,113 @@
           }
         },
         {
-          "id": 254720,
-          "timestamp": "2026-06-18T01:43:27.891000+00:00",
-          "duration": 8192.781,
+          "id": 255027,
+          "timestamp": "2026-06-18T13:23:56.449000+00:00",
+          "duration": 9364.401,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 255026,
+          "timestamp": "2026-06-18T13:23:55.443000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 255025,
+          "timestamp": "2026-06-18T13:23:50.420000+00:00",
+          "duration": 4.019,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
           }
         },
         {
-          "id": 254534,
-          "timestamp": "2026-06-18T00:00:04.522000+00:00",
-          "duration": 6199.611,
+          "id": 255023,
+          "timestamp": "2026-06-18T13:22:36.110000+00:00",
+          "duration": 73.304,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 254987,
+          "timestamp": "2026-06-18T12:25:51.278000+00:00",
+          "duration": 3403.828,
+          "data": {
+            "app": "chrome.exe",
+            "title": "最逆天的一次！富豪保姆凌晨4点做28道早餐、44万点赞的天才狗救主人竟是剧本摆拍？_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254986,
+          "timestamp": "2026-06-18T12:25:48.263000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 254969,
+          "timestamp": "2026-06-18T12:11:30.548000+00:00",
+          "duration": 856.711,
+          "data": {
+            "app": "chrome.exe",
+            "title": "最逆天的一次！富豪保姆凌晨4点做28道早餐、44万点赞的天才狗救主人竟是剧本摆拍？_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254968,
+          "timestamp": "2026-06-18T12:11:27.534000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 254966,
+          "timestamp": "2026-06-18T12:07:23.504000+00:00",
+          "duration": 243.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "最逆天的一次！富豪保姆凌晨4点做28道早餐、44万点赞的天才狗救主人竟是剧本摆拍？_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 254963,
+          "timestamp": "2026-06-18T12:07:21.493000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 254913,
+          "timestamp": "2026-06-18T12:00:04.678000+00:00",
+          "duration": 435.811,
+          "data": {
+            "app": "chrome.exe",
+            "title": "最逆天的一次！富豪保姆凌晨4点做28道早餐、44万点赞的天才狗救主人竟是剧本摆拍？_哔哩哔哩_bilibili - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-18T12:00:06.588450",
+    "export_time": "2026-06-19T00:00:06.741920",
     "time_range": {
-      "start": "2026-06-18T00:00:04.522344",
-      "end": "2026-06-18T12:00:04.522344"
+      "start": "2026-06-18T12:00:04.678992",
+      "end": "2026-06-19T00:00:04.678992"
     },
-    "total_events": 3
+    "total_events": 12
   }
 }
