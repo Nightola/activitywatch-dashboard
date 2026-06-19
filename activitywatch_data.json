@@ -5,23 +5,32 @@
       "type": "window",
       "events": [
         {
-          "id": 255096,
-          "timestamp": "2026-06-19T00:00:04.415000+00:00",
-          "duration": 14396.445,
+          "id": 255569,
+          "timestamp": "2026-06-19T13:31:56.745000+00:00",
+          "duration": 8884.225,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 255509,
+          "timestamp": "2026-06-19T12:00:04.697000+00:00",
+          "duration": 5511.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "神仙系统送你三个心愿！国产阿拉丁《夜光神杯》，童年快乐回忆~_哔哩哔哩_bilibili - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-19T12:00:06.471646",
+    "export_time": "2026-06-20T00:00:06.775616",
     "time_range": {
-      "start": "2026-06-19T00:00:04.415692",
-      "end": "2026-06-19T12:00:04.415692"
+      "start": "2026-06-19T12:00:04.697051",
+      "end": "2026-06-20T00:00:04.697051"
     },
-    "total_events": 1
+    "total_events": 2
   }
 }
