@@ -5,26 +5,575 @@
       "type": "window",
       "events": [
         {
-          "id": 255720,
-          "timestamp": "2026-06-20T03:30:01.394000+00:00",
-          "duration": 1799.774,
+          "id": 256178,
+          "timestamp": "2026-06-20T16:00:02.628000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "cmd.exe",
+            "title": "Administrator:  GitHub Auto Update"
+          }
+        },
+        {
+          "id": 256155,
+          "timestamp": "2026-06-20T15:04:45.208000+00:00",
+          "duration": 3316.415,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256154,
+          "timestamp": "2026-06-20T15:04:44.186000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 256148,
+          "timestamp": "2026-06-20T14:53:34.316000+00:00",
+          "duration": 668.822,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256146,
+          "timestamp": "2026-06-20T14:53:03.161000+00:00",
+          "duration": 30.146,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 256145,
+          "timestamp": "2026-06-20T14:53:01.148000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256144,
+          "timestamp": "2026-06-20T14:53:00.140000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 256121,
+          "timestamp": "2026-06-20T14:02:56.460000+00:00",
+          "duration": 3002.676,
+          "data": {
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256120,
+          "timestamp": "2026-06-20T14:02:55.454000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 256119,
+          "timestamp": "2026-06-20T14:02:54.385000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 256118,
+          "timestamp": "2026-06-20T14:02:44.337000+00:00",
+          "duration": 9.042,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 256117,
+          "timestamp": "2026-06-20T14:02:43.332000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 256116,
+          "timestamp": "2026-06-20T14:02:41.321000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 256115,
+          "timestamp": "2026-06-20T14:02:38.304000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256113,
+          "timestamp": "2026-06-20T14:02:37.300000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256112,
+          "timestamp": "2026-06-20T14:02:33.281000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256111,
+          "timestamp": "2026-06-20T14:02:32.276000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256110,
+          "timestamp": "2026-06-20T14:02:26.247000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256109,
+          "timestamp": "2026-06-20T14:02:25.241000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "fresamp014omp"
+          }
+        },
+        {
+          "id": 256108,
+          "timestamp": "2026-06-20T14:02:16.200000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256107,
+          "timestamp": "2026-06-20T14:02:15.194000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256106,
+          "timestamp": "2026-06-20T14:02:13.182000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256105,
+          "timestamp": "2026-06-20T14:02:12.176000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256104,
+          "timestamp": "2026-06-20T14:02:10.166000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256103,
+          "timestamp": "2026-06-20T14:02:09.159000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "进度"
+          }
+        },
+        {
+          "id": 256102,
+          "timestamp": "2026-06-20T14:02:07.148000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256101,
+          "timestamp": "2026-06-20T14:02:06.142000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256100,
+          "timestamp": "2026-06-20T14:02:05.135000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256099,
+          "timestamp": "2026-06-20T14:02:03.125000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256098,
+          "timestamp": "2026-06-20T14:02:00.110000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256097,
+          "timestamp": "2026-06-20T14:01:59.103000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件"
+          }
+        },
+        {
+          "id": 256096,
+          "timestamp": "2026-06-20T14:01:50.061000+00:00",
+          "duration": 8.037,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256095,
+          "timestamp": "2026-06-20T14:01:48.049000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64"
+          }
+        },
+        {
+          "id": 256094,
+          "timestamp": "2026-06-20T14:01:46.039000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256093,
+          "timestamp": "2026-06-20T14:01:44.029000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256092,
+          "timestamp": "2026-06-20T14:01:43.024000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 256091,
+          "timestamp": "2026-06-20T14:01:36.996000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Lucy快速启动v1.8.6"
+          }
+        },
+        {
+          "id": 256090,
+          "timestamp": "2026-06-20T14:01:32.975000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 256089,
+          "timestamp": "2026-06-20T14:01:25.942000+00:00",
+          "duration": 6.029,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "E:\\"
+          }
+        },
+        {
+          "id": 256088,
+          "timestamp": "2026-06-20T14:01:24.936000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander"
+          }
+        },
+        {
+          "id": 256087,
+          "timestamp": "2026-06-20T14:01:17.903000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 256086,
+          "timestamp": "2026-06-20T14:01:16.897000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 256085,
+          "timestamp": "2026-06-20T14:01:13.814000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256084,
+          "timestamp": "2026-06-20T14:01:12.808000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": "把恋综当选妃，花心男10天变心200次！偶像剧都编不出来的奇葩自恋渣男！全网最细盘点！_哔哩哔哩_bilibili - Cent Browser"
+            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
           }
         },
         {
-          "id": 255718,
-          "timestamp": "2026-06-20T03:29:46.320000+00:00",
-          "duration": 14.069,
+          "id": 256083,
+          "timestamp": "2026-06-20T14:01:04.765000+00:00",
+          "duration": 7.038,
           "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
           }
         },
         {
-          "id": 255717,
-          "timestamp": "2026-06-20T03:29:45.312000+00:00",
+          "id": 256081,
+          "timestamp": "2026-06-20T14:01:03.758000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
+          }
+        },
+        {
+          "id": 256080,
+          "timestamp": "2026-06-20T14:01:01.744000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256079,
+          "timestamp": "2026-06-20T14:00:49.660000+00:00",
+          "duration": 11.079,
+          "data": {
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256078,
+          "timestamp": "2026-06-20T14:00:47.646000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256077,
+          "timestamp": "2026-06-20T14:00:46.638000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BaiduNetdisk.exe",
+            "title": "欢迎使用百度网盘"
+          }
+        },
+        {
+          "id": 256076,
+          "timestamp": "2026-06-20T14:00:45.631000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256075,
+          "timestamp": "2026-06-20T14:00:44.620000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 256074,
+          "timestamp": "2026-06-20T14:00:43.480000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BaiduNetdisk.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256073,
+          "timestamp": "2026-06-20T14:00:37.441000+00:00",
+          "duration": 5.034,
+          "data": {
+            "app": "chrome.exe",
+            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
+          }
+        },
+        {
+          "id": 256072,
+          "timestamp": "2026-06-20T14:00:31.404000+00:00",
+          "duration": 5.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "百度网盘 请输入提取码 - Cent Browser"
+          }
+        },
+        {
+          "id": 256071,
+          "timestamp": "2026-06-20T14:00:28.386000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 256070,
+          "timestamp": "2026-06-20T14:00:19.340000+00:00",
+          "duration": 8.041,
+          "data": {
+            "app": "chrome.exe",
+            "title": "朋友收集梦想生活 Switch官方中文正式版+1.0.1升补-switch520-gamer520 - Cent Browser"
+          }
+        },
+        {
+          "id": 256069,
+          "timestamp": "2026-06-20T14:00:16.322000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 256068,
+          "timestamp": "2026-06-20T14:00:13.307000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "switch游戏下载-免费switch游戏下载-ns破解游戏下载-switch520-gamer520 - Cent Browser"
+          }
+        },
+        {
+          "id": 256067,
+          "timestamp": "2026-06-20T13:59:39.147000+00:00",
+          "duration": 33.156,
+          "data": {
+            "app": "chrome.exe",
+            "title": "switch520-gamer520-全球热门游戏白嫖网 - Cent Browser"
+          }
+        },
+        {
+          "id": 256066,
+          "timestamp": "2026-06-20T13:59:38.142000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "switch520-多平台游戏资源下载网站|520switch.com - 知乎 - Cent Browser"
+          }
+        },
+        {
+          "id": 256064,
+          "timestamp": "2026-06-20T13:59:35.127000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "www.520switch.com - Cent Browser"
+          }
+        },
+        {
+          "id": 256062,
+          "timestamp": "2026-06-20T13:59:31.104000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256061,
+          "timestamp": "2026-06-20T13:59:30.100000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -32,35 +581,215 @@
           }
         },
         {
-          "id": 255716,
-          "timestamp": "2026-06-20T03:29:36.263000+00:00",
-          "duration": 8.042,
+          "id": 256060,
+          "timestamp": "2026-06-20T13:59:29.094000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "把恋综当选妃，花心男10天变心200次！偶像剧都编不出来的奇葩自恋渣男！全网最细盘点！_哔哩哔哩_bilibili - Cent Browser"
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
           }
         },
         {
-          "id": 255715,
-          "timestamp": "2026-06-20T03:29:34.249000+00:00",
-          "duration": 1.008,
+          "id": 256059,
+          "timestamp": "2026-06-20T13:59:28.088000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256058,
+          "timestamp": "2026-06-20T13:59:24.069000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256057,
+          "timestamp": "2026-06-20T13:59:23.063000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256056,
+          "timestamp": "2026-06-20T13:59:22.057000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "www.520switch.com - Cent Browser"
+          }
+        },
+        {
+          "id": 256055,
+          "timestamp": "2026-06-20T13:59:20.047000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256054,
+          "timestamp": "2026-06-20T13:59:11.005000+00:00",
+          "duration": 8.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "知乎 - 安全中心 - Cent Browser"
+          }
+        },
+        {
+          "id": 256053,
+          "timestamp": "2026-06-20T13:59:08.996000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "chrome.exe",
             "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 255714,
-          "timestamp": "2026-06-20T03:29:18.148000+00:00",
-          "duration": 15.094,
+          "id": 256052,
+          "timestamp": "2026-06-20T13:59:05.981000+00:00",
+          "duration": 2.011,
           "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 255712,
-          "timestamp": "2026-06-20T03:29:16.134000+00:00",
+          "id": 256051,
+          "timestamp": "2026-06-20T13:59:01.957000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "zhuanlan.zhihu.com/p/2012527316157351198 - Cent Browser"
+          }
+        },
+        {
+          "id": 256050,
+          "timestamp": "2026-06-20T13:58:54.927000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SWITCH520 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 256049,
+          "timestamp": "2026-06-20T13:58:47.894000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "www.520switch.com - Cent Browser"
+          }
+        },
+        {
+          "id": 256046,
+          "timestamp": "2026-06-20T13:54:02.640000+00:00",
+          "duration": 284.246,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256045,
+          "timestamp": "2026-06-20T13:54:01.634000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 256044,
+          "timestamp": "2026-06-20T13:53:48.576000+00:00",
+          "duration": 12.054,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256042,
+          "timestamp": "2026-06-20T13:53:30.497000+00:00",
+          "duration": 17.075,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SWITCH520 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 256041,
+          "timestamp": "2026-06-20T13:53:29.489000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Switch520-Gamer520 - Cent Browser"
+          }
+        },
+        {
+          "id": 256040,
+          "timestamp": "2026-06-20T13:53:28.482000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 256038,
+          "timestamp": "2026-06-20T13:53:24.464000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Switch520-Gamer520 - Cent Browser"
+          }
+        },
+        {
+          "id": 256036,
+          "timestamp": "2026-06-20T13:53:23.457000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "gamer520.com - Cent Browser"
+          }
+        },
+        {
+          "id": 256035,
+          "timestamp": "2026-06-20T13:53:20.444000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SWITCH520 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 256034,
+          "timestamp": "2026-06-20T13:53:18.434000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "403 Forbidden - Cent Browser"
+          }
+        },
+        {
+          "id": 256032,
+          "timestamp": "2026-06-20T13:52:57.341000+00:00",
+          "duration": 20.087,
+          "data": {
+            "app": "chrome.exe",
+            "title": "SWITCH520 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 256031,
+          "timestamp": "2026-06-20T13:52:55.330000+00:00",
           "duration": 1.007,
           "data": {
             "app": "chrome.exe",
@@ -68,26 +797,53 @@
           }
         },
         {
-          "id": 255711,
-          "timestamp": "2026-06-20T03:29:13.120000+00:00",
-          "duration": 2.011,
+          "id": 256030,
+          "timestamp": "2026-06-20T13:52:44.284000+00:00",
+          "duration": 10.041,
           "data": {
             "app": "chrome.exe",
             "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 255710,
-          "timestamp": "2026-06-20T03:29:12.116000+00:00",
+          "id": 256029,
+          "timestamp": "2026-06-20T13:52:43.278000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "OneCommander 的跳转列表"
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
           }
         },
         {
-          "id": 255709,
-          "timestamp": "2026-06-20T03:29:11.108000+00:00",
+          "id": 256028,
+          "timestamp": "2026-06-20T13:52:39.257000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256027,
+          "timestamp": "2026-06-20T13:52:38.253000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 256026,
+          "timestamp": "2026-06-20T13:52:32.227000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 256024,
+          "timestamp": "2026-06-20T13:52:31.221000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
@@ -95,77 +851,68 @@
           }
         },
         {
-          "id": 255708,
-          "timestamp": "2026-06-20T03:29:10.099000+00:00",
-          "duration": 0.0,
+          "id": 256023,
+          "timestamp": "2026-06-20T13:52:26.197000+00:00",
+          "duration": 4.017,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 255707,
-          "timestamp": "2026-06-20T03:29:09.094000+00:00",
-          "duration": 0.0,
+          "id": 256022,
+          "timestamp": "2026-06-20T13:52:14.145000+00:00",
+          "duration": 11.047,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "chrome.exe",
+            "title": "书签 - Cent Browser"
           }
         },
         {
-          "id": 255698,
-          "timestamp": "2026-06-20T03:00:04.359000+00:00",
-          "duration": 1743.731,
+          "id": 256021,
+          "timestamp": "2026-06-20T13:52:02.092000+00:00",
+          "duration": 11.049,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 255697,
-          "timestamp": "2026-06-20T02:56:58.643000+00:00",
-          "duration": 184.712,
+          "id": 256020,
+          "timestamp": "2026-06-20T13:52:00.082000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 255687,
-          "timestamp": "2026-06-20T02:28:05.817000+00:00",
-          "duration": 1731.821,
+          "id": 255983,
+          "timestamp": "2026-06-20T12:50:58.114000+00:00",
+          "duration": 3660.964,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "娱乐圈再刷新下限，明星大佬力挺沙人犯夺影后。细盘深扒【监狱来的妈妈】炸裂细节_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 255685,
-          "timestamp": "2026-06-20T02:28:02.803000+00:00",
-          "duration": 2.011,
+          "id": 255944,
+          "timestamp": "2026-06-20T12:00:05.158000+00:00",
+          "duration": 3051.949,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 255680,
-          "timestamp": "2026-06-20T00:00:04.584000+00:00",
-          "duration": 8877.215,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "chrome.exe",
+            "title": "张杰谢娜两口子不要再闹了好吗？【爆笑演唱会名场面】_哔哩哔哩_bilibili - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-20T12:00:06.650782",
+    "export_time": "2026-06-21T00:00:07.301497",
     "time_range": {
-      "start": "2026-06-20T00:00:04.584277",
-      "end": "2026-06-20T12:00:04.584277"
+      "start": "2026-06-20T12:00:05.158070",
+      "end": "2026-06-21T00:00:05.158070"
     },
-    "total_events": 17
+    "total_events": 100
   }
 }
