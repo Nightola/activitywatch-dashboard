@@ -5,32 +5,167 @@
       "type": "window",
       "events": [
         {
-          "id": 255569,
-          "timestamp": "2026-06-19T13:31:56.745000+00:00",
-          "duration": 8884.225,
+          "id": 255720,
+          "timestamp": "2026-06-20T03:30:01.394000+00:00",
+          "duration": 1799.774,
+          "data": {
+            "app": "chrome.exe",
+            "title": "把恋综当选妃，花心男10天变心200次！偶像剧都编不出来的奇葩自恋渣男！全网最细盘点！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 255718,
+          "timestamp": "2026-06-20T03:29:46.320000+00:00",
+          "duration": 14.069,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 255717,
+          "timestamp": "2026-06-20T03:29:45.312000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 255509,
-          "timestamp": "2026-06-19T12:00:04.697000+00:00",
-          "duration": 5511.042,
+          "id": 255716,
+          "timestamp": "2026-06-20T03:29:36.263000+00:00",
+          "duration": 8.042,
           "data": {
             "app": "chrome.exe",
-            "title": "神仙系统送你三个心愿！国产阿拉丁《夜光神杯》，童年快乐回忆~_哔哩哔哩_bilibili - Cent Browser"
+            "title": "把恋综当选妃，花心男10天变心200次！偶像剧都编不出来的奇葩自恋渣男！全网最细盘点！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 255715,
+          "timestamp": "2026-06-20T03:29:34.249000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 255714,
+          "timestamp": "2026-06-20T03:29:18.148000+00:00",
+          "duration": 15.094,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 255712,
+          "timestamp": "2026-06-20T03:29:16.134000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 255711,
+          "timestamp": "2026-06-20T03:29:13.120000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 255710,
+          "timestamp": "2026-06-20T03:29:12.116000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "OneCommander 的跳转列表"
+          }
+        },
+        {
+          "id": 255709,
+          "timestamp": "2026-06-20T03:29:11.108000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 255708,
+          "timestamp": "2026-06-20T03:29:10.099000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 255707,
+          "timestamp": "2026-06-20T03:29:09.094000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 255698,
+          "timestamp": "2026-06-20T03:00:04.359000+00:00",
+          "duration": 1743.731,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 255697,
+          "timestamp": "2026-06-20T02:56:58.643000+00:00",
+          "duration": 184.712,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 255687,
+          "timestamp": "2026-06-20T02:28:05.817000+00:00",
+          "duration": 1731.821,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 255685,
+          "timestamp": "2026-06-20T02:28:02.803000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 255680,
+          "timestamp": "2026-06-20T00:00:04.584000+00:00",
+          "duration": 8877.215,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-20T00:00:06.775616",
+    "export_time": "2026-06-20T12:00:06.650782",
     "time_range": {
-      "start": "2026-06-19T12:00:04.697051",
-      "end": "2026-06-20T00:00:04.697051"
+      "start": "2026-06-20T00:00:04.584277",
+      "end": "2026-06-20T12:00:04.584277"
     },
-    "total_events": 2
+    "total_events": 17
   }
 }
