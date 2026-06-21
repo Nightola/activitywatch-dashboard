@@ -5,89 +5,206 @@
       "type": "window",
       "events": [
         {
-          "id": 256178,
-          "timestamp": "2026-06-20T16:00:02.628000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "cmd.exe",
-            "title": "Administrator:  GitHub Auto Update"
-          }
-        },
-        {
-          "id": 256155,
-          "timestamp": "2026-06-20T15:04:45.208000+00:00",
-          "duration": 3316.415,
-          "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
-          }
-        },
-        {
-          "id": 256154,
-          "timestamp": "2026-06-20T15:04:44.186000+00:00",
+          "id": 256977,
+          "timestamp": "2026-06-21T04:00:01.769000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
           }
         },
         {
-          "id": 256148,
-          "timestamp": "2026-06-20T14:53:34.316000+00:00",
-          "duration": 668.822,
-          "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
-          }
-        },
-        {
-          "id": 256146,
-          "timestamp": "2026-06-20T14:53:03.161000+00:00",
-          "duration": 30.146,
+          "id": 256970,
+          "timestamp": "2026-06-21T03:11:39.820000+00:00",
+          "duration": 2900.943,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 256145,
-          "timestamp": "2026-06-20T14:53:01.148000+00:00",
-          "duration": 1.006,
+          "id": 256969,
+          "timestamp": "2026-06-21T02:53:09.805000+00:00",
+          "duration": 1109.01,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "Retrospective 2025.exe",
+            "title": "Retrospective 2025"
           }
         },
         {
-          "id": 256144,
-          "timestamp": "2026-06-20T14:53:00.140000+00:00",
-          "duration": 0.0,
+          "id": 256964,
+          "timestamp": "2026-06-21T02:29:24.606000+00:00",
+          "duration": 1424.195,
           "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 256121,
-          "timestamp": "2026-06-20T14:02:56.460000+00:00",
-          "duration": 3002.676,
+          "id": 256963,
+          "timestamp": "2026-06-21T02:07:48.689000+00:00",
+          "duration": 1294.912,
           "data": {
-            "app": "BaiduNetdiskUnite.exe",
-            "title": "百度网盘"
+            "app": "MuseDash.exe",
+            "title": "MuseDash"
           }
         },
         {
-          "id": 256120,
-          "timestamp": "2026-06-20T14:02:55.454000+00:00",
-          "duration": 0.0,
+          "id": 256962,
+          "timestamp": "2026-06-21T02:04:15.765000+00:00",
+          "duration": 211.916,
           "data": {
-            "app": "unknown",
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 256961,
+          "timestamp": "2026-06-21T02:04:12.753000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
             "title": ""
           }
         },
         {
-          "id": 256119,
-          "timestamp": "2026-06-20T14:02:54.385000+00:00",
+          "id": 256960,
+          "timestamp": "2026-06-21T02:04:02.706000+00:00",
+          "duration": 9.043,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 256959,
+          "timestamp": "2026-06-21T02:04:01.701000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256958,
+          "timestamp": "2026-06-21T02:03:43.617000+00:00",
+          "duration": 17.078,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 256956,
+          "timestamp": "2026-06-21T02:03:42.612000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256955,
+          "timestamp": "2026-06-21T02:03:41.606000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Menu"
+          }
+        },
+        {
+          "id": 256954,
+          "timestamp": "2026-06-21T02:03:38.592000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256949,
+          "timestamp": "2026-06-21T01:56:55.823000+00:00",
+          "duration": 401.765,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256948,
+          "timestamp": "2026-06-21T01:55:53.488000+00:00",
+          "duration": 61.33,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256947,
+          "timestamp": "2026-06-21T01:55:42.428000+00:00",
+          "duration": 10.053,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256946,
+          "timestamp": "2026-06-21T01:47:03.650000+00:00",
+          "duration": 517.772,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256945,
+          "timestamp": "2026-06-21T01:46:26.457000+00:00",
+          "duration": 36.188,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256944,
+          "timestamp": "2026-06-21T01:31:48.224000+00:00",
+          "duration": 877.225,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256943,
+          "timestamp": "2026-06-21T01:31:32.150000+00:00",
+          "duration": 15.069,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256942,
+          "timestamp": "2026-06-21T01:30:45.879000+00:00",
+          "duration": 45.267,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 256941,
+          "timestamp": "2026-06-21T01:30:29.766000+00:00",
+          "duration": 15.106,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256940,
+          "timestamp": "2026-06-21T01:30:28.759000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -95,233 +212,863 @@
           }
         },
         {
-          "id": 256118,
-          "timestamp": "2026-06-20T14:02:44.337000+00:00",
-          "duration": 9.042,
+          "id": 256939,
+          "timestamp": "2026-06-21T01:30:23.731000+00:00",
+          "duration": 4.023,
           "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 256117,
-          "timestamp": "2026-06-20T14:02:43.332000+00:00",
+          "id": 256938,
+          "timestamp": "2026-06-21T01:30:22.721000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
+            "app": "chrome.exe",
+            "title": "游戏 DLC 解锁 - FAQ 常见问题 - Cent Browser"
           }
         },
         {
-          "id": 256116,
-          "timestamp": "2026-06-20T14:02:41.321000+00:00",
+          "id": 256937,
+          "timestamp": "2026-06-21T01:30:19.705000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "非线性列车 - By. Juij - Cent Browser"
+          }
+        },
+        {
+          "id": 256935,
+          "timestamp": "2026-06-21T01:30:18.698000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "已添加书签"
+          }
+        },
+        {
+          "id": 256934,
+          "timestamp": "2026-06-21T01:30:16.682000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "非线性列车 - By. Juij - Cent Browser"
+          }
+        },
+        {
+          "id": 256933,
+          "timestamp": "2026-06-21T01:30:15.673000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Monster Hunter Rise 怪物猎人 崛起 [DLC 解锁] [DLC Unlock] [Steam] [Windows & SteamOS] - Cent Browser"
+          }
+        },
+        {
+          "id": 256932,
+          "timestamp": "2026-06-21T01:30:12.654000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "游戏 DLC 解锁 - FAQ 常见问题 - Cent Browser"
+          }
+        },
+        {
+          "id": 256930,
+          "timestamp": "2026-06-21T01:30:09.640000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256929,
+          "timestamp": "2026-06-21T01:30:04.612000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256928,
+          "timestamp": "2026-06-21T01:29:59.584000+00:00",
+          "duration": 4.024,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256927,
+          "timestamp": "2026-06-21T01:29:56.568000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256926,
+          "timestamp": "2026-06-21T01:29:50.529000+00:00",
+          "duration": 5.033,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256925,
+          "timestamp": "2026-06-21T01:29:44.493000+00:00",
+          "duration": 5.028,
+          "data": {
+            "app": "BaiduNetdiskUnite.exe",
+            "title": "百度网盘"
+          }
+        },
+        {
+          "id": 256924,
+          "timestamp": "2026-06-21T01:29:42.482000+00:00",
           "duration": 1.007,
           "data": {
             "app": "explorer.exe",
-            "title": "此电脑"
+            "title": ""
           }
         },
         {
-          "id": 256115,
-          "timestamp": "2026-06-20T14:02:38.304000+00:00",
+          "id": 256922,
+          "timestamp": "2026-06-21T01:29:40.471000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256921,
+          "timestamp": "2026-06-21T01:29:37.454000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 256920,
+          "timestamp": "2026-06-21T01:29:36.446000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256919,
+          "timestamp": "2026-06-21T01:29:29.407000+00:00",
+          "duration": 6.034,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256918,
+          "timestamp": "2026-06-21T01:29:08.285000+00:00",
+          "duration": 20.115,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256917,
+          "timestamp": "2026-06-21T01:28:48.167000+00:00",
+          "duration": 19.112,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256916,
+          "timestamp": "2026-06-21T01:28:44.143000+00:00",
+          "duration": 3.019,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256915,
+          "timestamp": "2026-06-21T01:28:37.101000+00:00",
+          "duration": 6.033,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256914,
+          "timestamp": "2026-06-21T01:28:33.079000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256913,
+          "timestamp": "2026-06-21T01:27:40.784000+00:00",
+          "duration": 51.291,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256912,
+          "timestamp": "2026-06-21T01:27:29.714000+00:00",
+          "duration": 10.063,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256910,
+          "timestamp": "2026-06-21T01:26:38.390000+00:00",
+          "duration": 50.316,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256909,
+          "timestamp": "2026-06-21T01:26:21.290000+00:00",
+          "duration": 16.093,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256908,
+          "timestamp": "2026-06-21T01:25:39.042000+00:00",
+          "duration": 41.241,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256907,
+          "timestamp": "2026-06-21T01:25:22.955000+00:00",
+          "duration": 15.081,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256906,
+          "timestamp": "2026-06-21T01:25:03.850000+00:00",
+          "duration": 18.099,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256905,
+          "timestamp": "2026-06-21T01:24:58.821000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256903,
+          "timestamp": "2026-06-21T01:23:49.419000+00:00",
+          "duration": 68.396,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256902,
+          "timestamp": "2026-06-21T01:23:45.396000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256898,
+          "timestamp": "2026-06-21T01:15:56.512000+00:00",
+          "duration": 467.878,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256897,
+          "timestamp": "2026-06-21T01:15:52.481000+00:00",
+          "duration": 3.022,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256896,
+          "timestamp": "2026-06-21T01:15:34.367000+00:00",
+          "duration": 17.107,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256894,
+          "timestamp": "2026-06-21T01:13:47.711000+00:00",
+          "duration": 105.652,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256892,
+          "timestamp": "2026-06-21T01:09:48.211000+00:00",
+          "duration": 238.494,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256891,
+          "timestamp": "2026-06-21T01:09:36.142000+00:00",
+          "duration": 11.064,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256889,
+          "timestamp": "2026-06-21T01:09:34.129000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256888,
+          "timestamp": "2026-06-21T01:09:29.100000+00:00",
+          "duration": 4.025,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256887,
+          "timestamp": "2026-06-21T01:09:04.953000+00:00",
+          "duration": 23.139,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256886,
+          "timestamp": "2026-06-21T01:07:04.292000+00:00",
+          "duration": 119.656,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256884,
+          "timestamp": "2026-06-21T01:06:25.068000+00:00",
+          "duration": 38.216,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256883,
+          "timestamp": "2026-06-21T01:06:15.011000+00:00",
+          "duration": 9.051,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256882,
+          "timestamp": "2026-06-21T01:06:08.976000+00:00",
+          "duration": 5.03,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256881,
+          "timestamp": "2026-06-21T01:06:05.959000+00:00",
           "duration": 2.012,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 256113,
-          "timestamp": "2026-06-20T14:02:37.300000+00:00",
-          "duration": 0.0,
+          "id": 256880,
+          "timestamp": "2026-06-21T01:04:58.576000+00:00",
+          "duration": 66.376,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
+            "app": "Arknights.exe",
+            "title": "明日方舟"
           }
         },
         {
-          "id": 256112,
-          "timestamp": "2026-06-20T14:02:33.281000+00:00",
-          "duration": 3.014,
+          "id": 256879,
+          "timestamp": "2026-06-21T01:04:44.498000+00:00",
+          "duration": 13.073,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 256111,
-          "timestamp": "2026-06-20T14:02:32.276000+00:00",
-          "duration": 0.0,
+          "id": 256878,
+          "timestamp": "2026-06-21T01:04:40.474000+00:00",
+          "duration": 3.018,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
+            "app": "Arknights.exe",
+            "title": "明日方舟"
           }
         },
         {
-          "id": 256110,
-          "timestamp": "2026-06-20T14:02:26.247000+00:00",
-          "duration": 5.024,
+          "id": 256876,
+          "timestamp": "2026-06-21T01:04:33.435000+00:00",
+          "duration": 6.031,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 256109,
-          "timestamp": "2026-06-20T14:02:25.241000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "fresamp014omp"
-          }
-        },
-        {
-          "id": 256108,
-          "timestamp": "2026-06-20T14:02:16.200000+00:00",
-          "duration": 8.036,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256107,
-          "timestamp": "2026-06-20T14:02:15.194000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 256106,
-          "timestamp": "2026-06-20T14:02:13.182000+00:00",
+          "id": 256875,
+          "timestamp": "2026-06-21T01:04:31.424000+00:00",
           "duration": 1.006,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
+            "app": "Arknights.exe",
+            "title": "明日方舟"
           }
         },
         {
-          "id": 256105,
-          "timestamp": "2026-06-20T14:02:12.176000+00:00",
+          "id": 256874,
+          "timestamp": "2026-06-21T01:04:22.370000+00:00",
+          "duration": 8.048,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256872,
+          "timestamp": "2026-06-21T01:00:35.968000+00:00",
+          "duration": 225.396,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256871,
+          "timestamp": "2026-06-21T01:00:18.868000+00:00",
+          "duration": 16.094,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256869,
+          "timestamp": "2026-06-21T00:58:22.165000+00:00",
+          "duration": 115.696,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256868,
+          "timestamp": "2026-06-21T00:58:06.079000+00:00",
+          "duration": 15.081,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256867,
+          "timestamp": "2026-06-21T00:58:05.073000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256866,
+          "timestamp": "2026-06-21T00:58:01.047000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256863,
+          "timestamp": "2026-06-21T00:53:53.523000+00:00",
+          "duration": 246.516,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256862,
+          "timestamp": "2026-06-21T00:53:43.469000+00:00",
+          "duration": 9.048,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256861,
+          "timestamp": "2026-06-21T00:53:42.462000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256860,
+          "timestamp": "2026-06-21T00:53:39.445000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256859,
+          "timestamp": "2026-06-21T00:53:17.316000+00:00",
+          "duration": 21.121,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256858,
+          "timestamp": "2026-06-21T00:53:11.277000+00:00",
+          "duration": 5.033,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256856,
+          "timestamp": "2026-06-21T00:50:38.440000+00:00",
+          "duration": 151.829,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256855,
+          "timestamp": "2026-06-21T00:50:34.414000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256851,
+          "timestamp": "2026-06-21T00:43:59.025000+00:00",
+          "duration": 394.384,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256850,
+          "timestamp": "2026-06-21T00:43:58.016000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 256849,
+          "timestamp": "2026-06-21T00:43:56.927000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256848,
+          "timestamp": "2026-06-21T00:43:52.902000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256847,
+          "timestamp": "2026-06-21T00:43:50.823000+00:00",
+          "duration": 1.075,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 256846,
+          "timestamp": "2026-06-21T00:43:35.666000+00:00",
+          "duration": 14.081,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256845,
+          "timestamp": "2026-06-21T00:43:06.504000+00:00",
+          "duration": 28.156,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256844,
+          "timestamp": "2026-06-21T00:43:00.465000+00:00",
+          "duration": 5.032,
+          "data": {
+            "app": "PlatformProcess.exe",
+            "title": "Form"
+          }
+        },
+        {
+          "id": 256843,
+          "timestamp": "2026-06-21T00:42:48.389000+00:00",
+          "duration": 11.069,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256842,
+          "timestamp": "2026-06-21T00:42:47.380000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256841,
+          "timestamp": "2026-06-21T00:42:44.359000+00:00",
+          "duration": 2.016,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256840,
+          "timestamp": "2026-06-21T00:42:43.352000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 256839,
+          "timestamp": "2026-06-21T00:42:40.333000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256838,
+          "timestamp": "2026-06-21T00:42:39.326000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Arknights.exe",
+            "title": "明日方舟"
+          }
+        },
+        {
+          "id": 256835,
+          "timestamp": "2026-06-21T00:38:59.123000+00:00",
+          "duration": 219.191,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256834,
+          "timestamp": "2026-06-21T00:38:58.115000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256832,
+          "timestamp": "2026-06-21T00:36:43.462000+00:00",
+          "duration": 133.649,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 256831,
+          "timestamp": "2026-06-21T00:36:20.351000+00:00",
+          "duration": 22.107,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 256830,
+          "timestamp": "2026-06-21T00:36:18.341000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 256829,
+          "timestamp": "2026-06-21T00:36:16.331000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 256820,
+          "timestamp": "2026-06-21T00:22:16.365000+00:00",
+          "duration": 838.962,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 256819,
+          "timestamp": "2026-06-21T00:22:13.347000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 256817,
+          "timestamp": "2026-06-21T00:22:12.342000+00:00",
           "duration": 0.0,
           "data": {
             "app": "OneCommander.exe",
-            "title": "删除文件"
+            "title": "Everything"
           }
         },
         {
-          "id": 256104,
-          "timestamp": "2026-06-20T14:02:10.166000+00:00",
+          "id": 256816,
+          "timestamp": "2026-06-21T00:21:44.106000+00:00",
+          "duration": 27.23,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 256815,
+          "timestamp": "2026-06-21T00:21:43.101000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 256814,
+          "timestamp": "2026-06-21T00:21:41.092000+00:00",
           "duration": 1.005,
           "data": {
             "app": "OneCommander.exe",
-            "title": "download"
+            "title": "D:\\"
           }
         },
         {
-          "id": 256103,
-          "timestamp": "2026-06-20T14:02:09.159000+00:00",
-          "duration": 0.0,
+          "id": 256813,
+          "timestamp": "2026-06-21T00:21:37.070000+00:00",
+          "duration": 3.016,
           "data": {
             "app": "OneCommander.exe",
-            "title": "进度"
+            "title": "Windows & SteamOS 系统"
           }
         },
         {
-          "id": 256102,
-          "timestamp": "2026-06-20T14:02:07.148000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256101,
-          "timestamp": "2026-06-20T14:02:06.142000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 256100,
-          "timestamp": "2026-06-20T14:02:05.135000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256099,
-          "timestamp": "2026-06-20T14:02:03.125000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256098,
-          "timestamp": "2026-06-20T14:02:00.110000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256097,
-          "timestamp": "2026-06-20T14:01:59.103000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "删除文件"
-          }
-        },
-        {
-          "id": 256096,
-          "timestamp": "2026-06-20T14:01:50.061000+00:00",
-          "duration": 8.037,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256095,
-          "timestamp": "2026-06-20T14:01:48.049000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64"
-          }
-        },
-        {
-          "id": 256094,
-          "timestamp": "2026-06-20T14:01:46.039000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256093,
-          "timestamp": "2026-06-20T14:01:44.029000+00:00",
-          "duration": 1.006,
+          "id": 256812,
+          "timestamp": "2026-06-21T00:21:33.050000+00:00",
+          "duration": 3.015,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 256092,
-          "timestamp": "2026-06-20T14:01:43.024000+00:00",
+          "id": 256811,
+          "timestamp": "2026-06-21T00:21:32.043000+00:00",
           "duration": 0.0,
           "data": {
             "app": "Lucy_x64.exe",
@@ -329,53 +1076,26 @@
           }
         },
         {
-          "id": 256091,
-          "timestamp": "2026-06-20T14:01:36.996000+00:00",
-          "duration": 5.023,
+          "id": 256810,
+          "timestamp": "2026-06-21T00:21:28.022000+00:00",
+          "duration": 3.016,
           "data": {
             "app": "OneCommander.exe",
-            "title": "Lucy快速启动v1.8.6"
+            "title": "OneCommander Window Manager"
           }
         },
         {
-          "id": 256090,
-          "timestamp": "2026-06-20T14:01:32.975000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "download"
-          }
-        },
-        {
-          "id": 256089,
-          "timestamp": "2026-06-20T14:01:25.942000+00:00",
-          "duration": 6.029,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "E:\\"
-          }
-        },
-        {
-          "id": 256088,
-          "timestamp": "2026-06-20T14:01:24.936000+00:00",
+          "id": 256809,
+          "timestamp": "2026-06-21T00:21:27.017000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander"
+            "app": "dwm.exe",
+            "title": "Microsoft Windows"
           }
         },
         {
-          "id": 256087,
-          "timestamp": "2026-06-20T14:01:17.903000+00:00",
-          "duration": 6.028,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 256086,
-          "timestamp": "2026-06-20T14:01:16.897000+00:00",
+          "id": 256808,
+          "timestamp": "2026-06-21T00:21:25.949000+00:00",
           "duration": 0.0,
           "data": {
             "app": "unknown",
@@ -383,197 +1103,8 @@
           }
         },
         {
-          "id": 256085,
-          "timestamp": "2026-06-20T14:01:13.814000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 256084,
-          "timestamp": "2026-06-20T14:01:12.808000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
-          }
-        },
-        {
-          "id": 256083,
-          "timestamp": "2026-06-20T14:01:04.765000+00:00",
-          "duration": 7.038,
-          "data": {
-            "app": "BaiduNetdiskUnite.exe",
-            "title": "百度网盘"
-          }
-        },
-        {
-          "id": 256081,
-          "timestamp": "2026-06-20T14:01:03.758000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
-          }
-        },
-        {
-          "id": 256080,
-          "timestamp": "2026-06-20T14:01:01.744000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 256079,
-          "timestamp": "2026-06-20T14:00:49.660000+00:00",
-          "duration": 11.079,
-          "data": {
-            "app": "BaiduNetdiskUnite.exe",
-            "title": "百度网盘"
-          }
-        },
-        {
-          "id": 256078,
-          "timestamp": "2026-06-20T14:00:47.646000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 256077,
-          "timestamp": "2026-06-20T14:00:46.638000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BaiduNetdisk.exe",
-            "title": "欢迎使用百度网盘"
-          }
-        },
-        {
-          "id": 256076,
-          "timestamp": "2026-06-20T14:00:45.631000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ApplicationFrameHost.exe",
-            "title": "百度网盘"
-          }
-        },
-        {
-          "id": 256075,
-          "timestamp": "2026-06-20T14:00:44.620000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 256074,
-          "timestamp": "2026-06-20T14:00:43.480000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BaiduNetdisk.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256073,
-          "timestamp": "2026-06-20T14:00:37.441000+00:00",
-          "duration": 5.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[朋友收集 梦想生活].Tomodachi Life Living the Dream_免费高速下载|百度网盘-分享无限制 - Cent Browser"
-          }
-        },
-        {
-          "id": 256072,
-          "timestamp": "2026-06-20T14:00:31.404000+00:00",
-          "duration": 5.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "百度网盘 请输入提取码 - Cent Browser"
-          }
-        },
-        {
-          "id": 256071,
-          "timestamp": "2026-06-20T14:00:28.386000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 256070,
-          "timestamp": "2026-06-20T14:00:19.340000+00:00",
-          "duration": 8.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "朋友收集梦想生活 Switch官方中文正式版+1.0.1升补-switch520-gamer520 - Cent Browser"
-          }
-        },
-        {
-          "id": 256069,
-          "timestamp": "2026-06-20T14:00:16.322000+00:00",
-          "duration": 2.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 256068,
-          "timestamp": "2026-06-20T14:00:13.307000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "switch游戏下载-免费switch游戏下载-ns破解游戏下载-switch520-gamer520 - Cent Browser"
-          }
-        },
-        {
-          "id": 256067,
-          "timestamp": "2026-06-20T13:59:39.147000+00:00",
-          "duration": 33.156,
-          "data": {
-            "app": "chrome.exe",
-            "title": "switch520-gamer520-全球热门游戏白嫖网 - Cent Browser"
-          }
-        },
-        {
-          "id": 256066,
-          "timestamp": "2026-06-20T13:59:38.142000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "switch520-多平台游戏资源下载网站|520switch.com - 知乎 - Cent Browser"
-          }
-        },
-        {
-          "id": 256064,
-          "timestamp": "2026-06-20T13:59:35.127000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "www.520switch.com - Cent Browser"
-          }
-        },
-        {
-          "id": 256062,
-          "timestamp": "2026-06-20T13:59:31.104000+00:00",
-          "duration": 3.017,
-          "data": {
-            "app": "ShadowsocksR-dotnet2.0.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256061,
-          "timestamp": "2026-06-20T13:59:30.100000+00:00",
+          "id": 256807,
+          "timestamp": "2026-06-21T00:21:24.873000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -581,338 +1112,41 @@
           }
         },
         {
-          "id": 256060,
-          "timestamp": "2026-06-20T13:59:29.094000+00:00",
-          "duration": 0.0,
+          "id": 256806,
+          "timestamp": "2026-06-21T00:21:14.825000+00:00",
+          "duration": 9.041,
           "data": {
-            "app": "ShadowsocksR-dotnet2.0.exe",
-            "title": ""
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 256059,
-          "timestamp": "2026-06-20T13:59:28.088000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256058,
-          "timestamp": "2026-06-20T13:59:24.069000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "ShadowsocksR-dotnet2.0.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256057,
-          "timestamp": "2026-06-20T13:59:23.063000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256056,
-          "timestamp": "2026-06-20T13:59:22.057000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "www.520switch.com - Cent Browser"
-          }
-        },
-        {
-          "id": 256055,
-          "timestamp": "2026-06-20T13:59:20.047000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 256054,
-          "timestamp": "2026-06-20T13:59:11.005000+00:00",
-          "duration": 8.038,
-          "data": {
-            "app": "chrome.exe",
-            "title": "知乎 - 安全中心 - Cent Browser"
-          }
-        },
-        {
-          "id": 256053,
-          "timestamp": "2026-06-20T13:59:08.996000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 256052,
-          "timestamp": "2026-06-20T13:59:05.981000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256051,
-          "timestamp": "2026-06-20T13:59:01.957000+00:00",
-          "duration": 3.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "zhuanlan.zhihu.com/p/2012527316157351198 - Cent Browser"
-          }
-        },
-        {
-          "id": 256050,
-          "timestamp": "2026-06-20T13:58:54.927000+00:00",
-          "duration": 6.026,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SWITCH520 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 256049,
-          "timestamp": "2026-06-20T13:58:47.894000+00:00",
-          "duration": 6.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "www.520switch.com - Cent Browser"
-          }
-        },
-        {
-          "id": 256046,
-          "timestamp": "2026-06-20T13:54:02.640000+00:00",
-          "duration": 284.246,
+          "id": 256799,
+          "timestamp": "2026-06-21T00:14:17.972000+00:00",
+          "duration": 415.847,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 256045,
-          "timestamp": "2026-06-20T13:54:01.634000+00:00",
-          "duration": 0.0,
+          "id": 256672,
+          "timestamp": "2026-06-21T00:00:04.833000+00:00",
+          "duration": 852.135,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
-          }
-        },
-        {
-          "id": 256044,
-          "timestamp": "2026-06-20T13:53:48.576000+00:00",
-          "duration": 12.054,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 256042,
-          "timestamp": "2026-06-20T13:53:30.497000+00:00",
-          "duration": 17.075,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SWITCH520 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 256041,
-          "timestamp": "2026-06-20T13:53:29.489000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Switch520-Gamer520 - Cent Browser"
-          }
-        },
-        {
-          "id": 256040,
-          "timestamp": "2026-06-20T13:53:28.482000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 256038,
-          "timestamp": "2026-06-20T13:53:24.464000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Switch520-Gamer520 - Cent Browser"
-          }
-        },
-        {
-          "id": 256036,
-          "timestamp": "2026-06-20T13:53:23.457000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "gamer520.com - Cent Browser"
-          }
-        },
-        {
-          "id": 256035,
-          "timestamp": "2026-06-20T13:53:20.444000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SWITCH520 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 256034,
-          "timestamp": "2026-06-20T13:53:18.434000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "403 Forbidden - Cent Browser"
-          }
-        },
-        {
-          "id": 256032,
-          "timestamp": "2026-06-20T13:52:57.341000+00:00",
-          "duration": 20.087,
-          "data": {
-            "app": "chrome.exe",
-            "title": "SWITCH520 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 256031,
-          "timestamp": "2026-06-20T13:52:55.330000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 256030,
-          "timestamp": "2026-06-20T13:52:44.284000+00:00",
-          "duration": 10.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 256029,
-          "timestamp": "2026-06-20T13:52:43.278000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 256028,
-          "timestamp": "2026-06-20T13:52:39.257000+00:00",
-          "duration": 3.015,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 256027,
-          "timestamp": "2026-06-20T13:52:38.253000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 256026,
-          "timestamp": "2026-06-20T13:52:32.227000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 256024,
-          "timestamp": "2026-06-20T13:52:31.221000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 256023,
-          "timestamp": "2026-06-20T13:52:26.197000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 256022,
-          "timestamp": "2026-06-20T13:52:14.145000+00:00",
-          "duration": 11.047,
-          "data": {
-            "app": "chrome.exe",
-            "title": "书签 - Cent Browser"
-          }
-        },
-        {
-          "id": 256021,
-          "timestamp": "2026-06-20T13:52:02.092000+00:00",
-          "duration": 11.049,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 256020,
-          "timestamp": "2026-06-20T13:52:00.082000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 255983,
-          "timestamp": "2026-06-20T12:50:58.114000+00:00",
-          "duration": 3660.964,
-          "data": {
-            "app": "chrome.exe",
-            "title": "娱乐圈再刷新下限，明星大佬力挺沙人犯夺影后。细盘深扒【监狱来的妈妈】炸裂细节_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 255944,
-          "timestamp": "2026-06-20T12:00:05.158000+00:00",
-          "duration": 3051.949,
-          "data": {
-            "app": "chrome.exe",
-            "title": "张杰谢娜两口子不要再闹了好吗？【爆笑演唱会名场面】_哔哩哔哩_bilibili - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-21T00:00:07.301497",
+    "export_time": "2026-06-21T12:00:06.912976",
     "time_range": {
-      "start": "2026-06-20T12:00:05.158070",
-      "end": "2026-06-21T00:00:05.158070"
+      "start": "2026-06-21T00:00:04.833696",
+      "end": "2026-06-21T12:00:04.833696"
     },
-    "total_events": 100
+    "total_events": 126
   }
 }
