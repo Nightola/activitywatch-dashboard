@@ -5,32 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 258728,
-          "timestamp": "2026-06-22T04:00:01.148000+00:00",
-          "duration": 0.0,
+          "id": 258848,
+          "timestamp": "2026-06-22T12:00:04.256000+00:00",
+          "duration": 14396.802,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 258464,
-          "timestamp": "2026-06-22T00:00:04.062000+00:00",
-          "duration": 14396.068,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "inbox"
+            "app": "explorer.exe",
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-22T12:00:06.140031",
+    "export_time": "2026-06-23T00:00:06.333186",
     "time_range": {
-      "start": "2026-06-22T00:00:04.062057",
-      "end": "2026-06-22T12:00:04.062057"
+      "start": "2026-06-22T12:00:04.256236",
+      "end": "2026-06-23T00:00:04.256236"
     },
-    "total_events": 2
+    "total_events": 1
   }
 }
