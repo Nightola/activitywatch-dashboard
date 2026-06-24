@@ -5,23 +5,365 @@
       "type": "window",
       "events": [
         {
-          "id": 259721,
-          "timestamp": "2026-06-24T00:00:03.713000+00:00",
-          "duration": 14397.288,
+          "id": 260260,
+          "timestamp": "2026-06-24T16:00:02.595000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "cmd.exe",
+            "title": "Administrator:  GitHub Auto Update"
+          }
+        },
+        {
+          "id": 260259,
+          "timestamp": "2026-06-24T16:00:01.585000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+          }
+        },
+        {
+          "id": 260258,
+          "timestamp": "2026-06-24T14:49:37.816000+00:00",
+          "duration": 4222.767,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 260257,
+          "timestamp": "2026-06-24T14:48:00.483000+00:00",
+          "duration": 96.324,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 260256,
+          "timestamp": "2026-06-24T14:47:59.479000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260255,
+          "timestamp": "2026-06-24T14:47:58.475000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Everything 的跳转列表"
+          }
+        },
+        {
+          "id": 260254,
+          "timestamp": "2026-06-24T14:47:55.466000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 260253,
+          "timestamp": "2026-06-24T14:47:51.446000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【补档】适配22.1.0，可选极限超频，大气层1.11.1酸菜鱼整合包-v1分享。switch 22系统大气层 - Cent Browser"
+          }
+        },
+        {
+          "id": 260252,
+          "timestamp": "2026-06-24T14:46:43.201000+00:00",
+          "duration": 67.242,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260251,
+          "timestamp": "2026-06-24T14:46:39.187000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260249,
+          "timestamp": "2026-06-24T14:38:15.429000+00:00",
+          "duration": 502.754,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260248,
+          "timestamp": "2026-06-24T14:38:13.421000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260247,
+          "timestamp": "2026-06-24T14:38:04.385000+00:00",
+          "duration": 8.033,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260242,
+          "timestamp": "2026-06-24T14:29:58.670000+00:00",
+          "duration": 484.713,
           "data": {
             "app": "explorer.exe",
             "title": ""
+          }
+        },
+        {
+          "id": 260241,
+          "timestamp": "2026-06-24T14:29:57.667000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260240,
+          "timestamp": "2026-06-24T14:29:50.643000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260239,
+          "timestamp": "2026-06-24T14:21:13.860000+00:00",
+          "duration": 515.78,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260238,
+          "timestamp": "2026-06-24T14:21:11.852000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260237,
+          "timestamp": "2026-06-24T14:12:03.932000+00:00",
+          "duration": 546.917,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260236,
+          "timestamp": "2026-06-24T14:11:57.909000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260235,
+          "timestamp": "2026-06-24T14:10:52.681000+00:00",
+          "duration": 64.225,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260234,
+          "timestamp": "2026-06-24T14:10:50.669000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260233,
+          "timestamp": "2026-06-24T14:10:38.623000+00:00",
+          "duration": 11.043,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260232,
+          "timestamp": "2026-06-24T14:10:35.609000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260231,
+          "timestamp": "2026-06-24T14:08:04.061000+00:00",
+          "duration": 150.544,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260230,
+          "timestamp": "2026-06-24T14:08:03.055000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260225,
+          "timestamp": "2026-06-24T13:49:55.208000+00:00",
+          "duration": 1086.844,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260224,
+          "timestamp": "2026-06-24T13:49:50.190000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260223,
+          "timestamp": "2026-06-24T13:40:19.170000+00:00",
+          "duration": 570.016,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260222,
+          "timestamp": "2026-06-24T13:40:13.136000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260221,
+          "timestamp": "2026-06-24T13:37:08.493000+00:00",
+          "duration": 183.639,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260220,
+          "timestamp": "2026-06-24T13:37:05.482000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260216,
+          "timestamp": "2026-06-24T13:21:58.302000+00:00",
+          "duration": 906.177,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260215,
+          "timestamp": "2026-06-24T13:21:50.271000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260211,
+          "timestamp": "2026-06-24T12:49:42.569000+00:00",
+          "duration": 1926.696,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260209,
+          "timestamp": "2026-06-24T12:49:38.554000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260208,
+          "timestamp": "2026-06-24T12:49:37.549000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260207,
+          "timestamp": "2026-06-24T12:49:35.541000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 260204,
+          "timestamp": "2026-06-24T12:00:05.056000+00:00",
+          "duration": 2969.482,
+          "data": {
+            "app": "Everything.exe",
+            "title": "MUMU - Everything"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-24T12:00:05.799500",
+    "export_time": "2026-06-25T00:00:07.165132",
     "time_range": {
-      "start": "2026-06-24T00:00:03.713859",
-      "end": "2026-06-24T12:00:03.713859"
+      "start": "2026-06-24T12:00:05.056962",
+      "end": "2026-06-25T00:00:05.056962"
     },
-    "total_events": 1
+    "total_events": 39
   }
 }
