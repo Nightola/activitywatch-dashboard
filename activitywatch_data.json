@@ -5,392 +5,59 @@
       "type": "window",
       "events": [
         {
-          "id": 260401,
-          "timestamp": "2026-06-25T03:44:46.355000+00:00",
-          "duration": 914.026,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 260385,
-          "timestamp": "2026-06-25T03:04:00.456000+00:00",
-          "duration": 2443.175,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 260382,
-          "timestamp": "2026-06-25T03:01:56.029000+00:00",
-          "duration": 123.424,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【1818黄金眼】小伙称踩背馆消费几天后查出骨折，记者震惊“互动”后报警_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260375,
-          "timestamp": "2026-06-25T02:46:27.683000+00:00",
-          "duration": 927.342,
-          "data": {
-            "app": "chrome.exe",
-            "title": "5月份的沙雕新闻竞争的真激烈啊！！！_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260374,
-          "timestamp": "2026-06-25T02:46:21.660000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260372,
-          "timestamp": "2026-06-25T02:46:20.655000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260370,
-          "timestamp": "2026-06-25T02:46:02.593000+00:00",
-          "duration": 17.059,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260346,
-          "timestamp": "2026-06-25T02:13:26.840000+00:00",
-          "duration": 1954.747,
-          "data": {
-            "app": "chrome.exe",
-            "title": "雷霆剧！乡土玛丽苏！爆笑解说台偶泥石流《明若晓溪》！_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260345,
-          "timestamp": "2026-06-25T02:13:25.831000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/video/BV13WEi6MEQu/?spm_id_from=333.1007.tianma.1-1-1.click - Cent Browser"
-          }
-        },
-        {
-          "id": 260344,
-          "timestamp": "2026-06-25T02:13:24.826000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260343,
-          "timestamp": "2026-06-25T02:13:23.823000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260342,
-          "timestamp": "2026-06-25T02:13:21.814000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bangdream 7周年纪念壁纸任务-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260340,
-          "timestamp": "2026-06-25T02:13:18.802000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "第四天_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260334,
-          "timestamp": "2026-06-25T02:07:17.559000+00:00",
-          "duration": 360.24,
-          "data": {
-            "app": "chrome.exe",
-            "title": "十万打赏换来一位奶奶！乔碧萝榜一至今未能走出阴影！【网络狠人101】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260332,
-          "timestamp": "2026-06-25T02:07:04.515000+00:00",
-          "duration": 12.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "第四天_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260331,
-          "timestamp": "2026-06-25T02:06:06.309000+00:00",
-          "duration": 57.203,
-          "data": {
-            "app": "chrome.exe",
-            "title": "第三天_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260329,
-          "timestamp": "2026-06-25T02:05:14.125000+00:00",
-          "duration": 51.181,
-          "data": {
-            "app": "chrome.exe",
-            "title": "第二天_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260327,
-          "timestamp": "2026-06-25T02:04:36.995000+00:00",
-          "duration": 36.127,
-          "data": {
-            "app": "chrome.exe",
-            "title": "邦邦七周年特殊任务（下），全4天_哔哩哔哩bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260326,
-          "timestamp": "2026-06-25T02:04:35.989000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260325,
-          "timestamp": "2026-06-25T02:04:31.972000+00:00",
-          "duration": 3.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bangdream 7周年纪念壁纸任务-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260324,
-          "timestamp": "2026-06-25T02:04:22.936000+00:00",
-          "duration": 8.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bangdream 7周年纪念壁纸-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260323,
-          "timestamp": "2026-06-25T02:04:20.916000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260321,
-          "timestamp": "2026-06-25T02:03:54.831000+00:00",
-          "duration": 25.08,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260319,
-          "timestamp": "2026-06-25T02:03:30.739000+00:00",
-          "duration": 23.089,
-          "data": {
-            "app": "chrome.exe",
-            "title": "十万打赏换来一位奶奶！乔碧萝榜一至今未能走出阴影！【网络狠人101】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260318,
-          "timestamp": "2026-06-25T02:03:28.729000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/video/BV1ntjw6SE6w/?spm_id_from=333.1007.tianma.2-2-5.click - Cent Browser"
-          }
-        },
-        {
-          "id": 260317,
-          "timestamp": "2026-06-25T02:03:27.724000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260316,
-          "timestamp": "2026-06-25T02:03:03.628000+00:00",
-          "duration": 23.093,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 260314,
-          "timestamp": "2026-06-25T02:03:00.617000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260313,
-          "timestamp": "2026-06-25T02:02:57.605000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 260312,
-          "timestamp": "2026-06-25T02:02:56.601000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
-          }
-        },
-        {
-          "id": 260309,
-          "timestamp": "2026-06-25T02:02:55.594000+00:00",
-          "duration": 0.0,
+          "id": 260648,
+          "timestamp": "2026-06-25T12:59:20.676000+00:00",
+          "duration": 10840.179,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 260308,
-          "timestamp": "2026-06-25T02:02:52.583000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 260307,
-          "timestamp": "2026-06-25T02:02:50.573000+00:00",
-          "duration": 1.004,
+          "id": 260646,
+          "timestamp": "2026-06-25T12:59:19.671000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
-            "title": ""
+            "title": "Newsmy (G:)"
           }
         },
         {
-          "id": 260302,
-          "timestamp": "2026-06-25T01:16:45.293000+00:00",
-          "duration": 2764.276,
+          "id": 260641,
+          "timestamp": "2026-06-25T12:44:12.691000+00:00",
+          "duration": 905.978,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "OneCommander.exe",
+            "title": "downloads"
           }
         },
         {
-          "id": 260301,
-          "timestamp": "2026-06-25T01:16:12.190000+00:00",
-          "duration": 32.1,
+          "id": 260639,
+          "timestamp": "2026-06-25T12:43:40.576000+00:00",
+          "duration": 31.112,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "6.9.3.754.tmp",
+            "title": "安装"
           }
         },
         {
-          "id": 260299,
-          "timestamp": "2026-06-25T01:16:11.186000+00:00",
-          "duration": 0.0,
+          "id": 260614,
+          "timestamp": "2026-06-25T12:00:04.058000+00:00",
+          "duration": 2615.514,
           "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 260298,
-          "timestamp": "2026-06-25T01:16:10.144000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260292,
-          "timestamp": "2026-06-25T00:46:52.682000+00:00",
-          "duration": 1756.459,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 260291,
-          "timestamp": "2026-06-25T00:46:51.678000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 260290,
-          "timestamp": "2026-06-25T00:46:48.665000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260289,
-          "timestamp": "2026-06-25T00:45:58.516000+00:00",
-          "duration": 49.147,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260283,
-          "timestamp": "2026-06-25T00:00:04.002000+00:00",
-          "duration": 2753.51,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "OneCommander.exe",
+            "title": "downloads"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-25T12:00:06.062933",
+    "export_time": "2026-06-26T00:00:06.120252",
     "time_range": {
-      "start": "2026-06-25T00:00:04.002827",
-      "end": "2026-06-25T12:00:04.002827"
+      "start": "2026-06-25T12:00:04.058812",
+      "end": "2026-06-26T00:00:04.058812"
     },
-    "total_events": 42
+    "total_events": 5
   }
 }
