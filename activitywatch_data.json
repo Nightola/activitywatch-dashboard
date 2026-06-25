@@ -5,341 +5,296 @@
       "type": "window",
       "events": [
         {
-          "id": 260260,
-          "timestamp": "2026-06-24T16:00:02.595000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "cmd.exe",
-            "title": "Administrator:  GitHub Auto Update"
-          }
-        },
-        {
-          "id": 260259,
-          "timestamp": "2026-06-24T16:00:01.585000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 260258,
-          "timestamp": "2026-06-24T14:49:37.816000+00:00",
-          "duration": 4222.767,
-          "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
-          }
-        },
-        {
-          "id": 260257,
-          "timestamp": "2026-06-24T14:48:00.483000+00:00",
-          "duration": 96.324,
+          "id": 260401,
+          "timestamp": "2026-06-25T03:44:46.355000+00:00",
+          "duration": 914.026,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 260256,
-          "timestamp": "2026-06-24T14:47:59.479000+00:00",
-          "duration": 0.0,
+          "id": 260385,
+          "timestamp": "2026-06-25T03:04:00.456000+00:00",
+          "duration": 2443.175,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 260255,
-          "timestamp": "2026-06-24T14:47:58.475000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Everything 的跳转列表"
-          }
-        },
-        {
-          "id": 260254,
-          "timestamp": "2026-06-24T14:47:55.466000+00:00",
-          "duration": 2.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 260253,
-          "timestamp": "2026-06-24T14:47:51.446000+00:00",
-          "duration": 3.013,
+          "id": 260382,
+          "timestamp": "2026-06-25T03:01:56.029000+00:00",
+          "duration": 123.424,
           "data": {
             "app": "chrome.exe",
-            "title": "【补档】适配22.1.0，可选极限超频，大气层1.11.1酸菜鱼整合包-v1分享。switch 22系统大气层 - Cent Browser"
+            "title": "【1818黄金眼】小伙称踩背馆消费几天后查出骨折，记者震惊“互动”后报警_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260252,
-          "timestamp": "2026-06-24T14:46:43.201000+00:00",
-          "duration": 67.242,
+          "id": 260375,
+          "timestamp": "2026-06-25T02:46:27.683000+00:00",
+          "duration": 927.342,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "5月份的沙雕新闻竞争的真激烈啊！！！_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260251,
-          "timestamp": "2026-06-24T14:46:39.187000+00:00",
-          "duration": 3.011,
+          "id": 260374,
+          "timestamp": "2026-06-25T02:46:21.660000+00:00",
+          "duration": 5.019,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
           }
         },
         {
-          "id": 260249,
-          "timestamp": "2026-06-24T14:38:15.429000+00:00",
-          "duration": 502.754,
+          "id": 260372,
+          "timestamp": "2026-06-25T02:46:20.655000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 260248,
-          "timestamp": "2026-06-24T14:38:13.421000+00:00",
+          "id": 260370,
+          "timestamp": "2026-06-25T02:46:02.593000+00:00",
+          "duration": 17.059,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260346,
+          "timestamp": "2026-06-25T02:13:26.840000+00:00",
+          "duration": 1954.747,
+          "data": {
+            "app": "chrome.exe",
+            "title": "雷霆剧！乡土玛丽苏！爆笑解说台偶泥石流《明若晓溪》！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260345,
+          "timestamp": "2026-06-25T02:13:25.831000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV13WEi6MEQu/?spm_id_from=333.1007.tianma.1-1-1.click - Cent Browser"
+          }
+        },
+        {
+          "id": 260344,
+          "timestamp": "2026-06-25T02:13:24.826000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 260343,
+          "timestamp": "2026-06-25T02:13:23.823000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260342,
+          "timestamp": "2026-06-25T02:13:21.814000+00:00",
           "duration": 1.004,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "bangdream 7周年纪念壁纸任务-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260247,
-          "timestamp": "2026-06-24T14:38:04.385000+00:00",
-          "duration": 8.033,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260242,
-          "timestamp": "2026-06-24T14:29:58.670000+00:00",
-          "duration": 484.713,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 260241,
-          "timestamp": "2026-06-24T14:29:57.667000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260240,
-          "timestamp": "2026-06-24T14:29:50.643000+00:00",
-          "duration": 6.021,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260239,
-          "timestamp": "2026-06-24T14:21:13.860000+00:00",
-          "duration": 515.78,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260238,
-          "timestamp": "2026-06-24T14:21:11.852000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260237,
-          "timestamp": "2026-06-24T14:12:03.932000+00:00",
-          "duration": 546.917,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260236,
-          "timestamp": "2026-06-24T14:11:57.909000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260235,
-          "timestamp": "2026-06-24T14:10:52.681000+00:00",
-          "duration": 64.225,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260234,
-          "timestamp": "2026-06-24T14:10:50.669000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260233,
-          "timestamp": "2026-06-24T14:10:38.623000+00:00",
-          "duration": 11.043,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260232,
-          "timestamp": "2026-06-24T14:10:35.609000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260231,
-          "timestamp": "2026-06-24T14:08:04.061000+00:00",
-          "duration": 150.544,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260230,
-          "timestamp": "2026-06-24T14:08:03.055000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260225,
-          "timestamp": "2026-06-24T13:49:55.208000+00:00",
-          "duration": 1086.844,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260224,
-          "timestamp": "2026-06-24T13:49:50.190000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260223,
-          "timestamp": "2026-06-24T13:40:19.170000+00:00",
-          "duration": 570.016,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260222,
-          "timestamp": "2026-06-24T13:40:13.136000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 260221,
-          "timestamp": "2026-06-24T13:37:08.493000+00:00",
-          "duration": 183.639,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 260220,
-          "timestamp": "2026-06-24T13:37:05.482000+00:00",
+          "id": 260340,
+          "timestamp": "2026-06-25T02:13:18.802000+00:00",
           "duration": 2.008,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "第四天_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260216,
-          "timestamp": "2026-06-24T13:21:58.302000+00:00",
-          "duration": 906.177,
+          "id": 260334,
+          "timestamp": "2026-06-25T02:07:17.559000+00:00",
+          "duration": 360.24,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "十万打赏换来一位奶奶！乔碧萝榜一至今未能走出阴影！【网络狠人101】_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260215,
-          "timestamp": "2026-06-24T13:21:50.271000+00:00",
-          "duration": 7.026,
+          "id": 260332,
+          "timestamp": "2026-06-25T02:07:04.515000+00:00",
+          "duration": 12.04,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "第四天_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260211,
-          "timestamp": "2026-06-24T12:49:42.569000+00:00",
-          "duration": 1926.696,
+          "id": 260331,
+          "timestamp": "2026-06-25T02:06:06.309000+00:00",
+          "duration": 57.203,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "第三天_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260209,
-          "timestamp": "2026-06-24T12:49:38.554000+00:00",
-          "duration": 3.012,
+          "id": 260329,
+          "timestamp": "2026-06-25T02:05:14.125000+00:00",
+          "duration": 51.181,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "第二天_哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 260208,
-          "timestamp": "2026-06-24T12:49:37.549000+00:00",
+          "id": 260327,
+          "timestamp": "2026-06-25T02:04:36.995000+00:00",
+          "duration": 36.127,
+          "data": {
+            "app": "chrome.exe",
+            "title": "邦邦七周年特殊任务（下），全4天_哔哩哔哩bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260326,
+          "timestamp": "2026-06-25T02:04:35.989000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 260207,
-          "timestamp": "2026-06-24T12:49:35.541000+00:00",
+          "id": 260325,
+          "timestamp": "2026-06-25T02:04:31.972000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bangdream 7周年纪念壁纸任务-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260324,
+          "timestamp": "2026-06-25T02:04:22.936000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bangdream 7周年纪念壁纸-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260323,
+          "timestamp": "2026-06-25T02:04:20.916000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 260321,
+          "timestamp": "2026-06-25T02:03:54.831000+00:00",
+          "duration": 25.08,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260319,
+          "timestamp": "2026-06-25T02:03:30.739000+00:00",
+          "duration": 23.089,
+          "data": {
+            "app": "chrome.exe",
+            "title": "十万打赏换来一位奶奶！乔碧萝榜一至今未能走出阴影！【网络狠人101】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260318,
+          "timestamp": "2026-06-25T02:03:28.729000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV1ntjw6SE6w/?spm_id_from=333.1007.tianma.2-2-5.click - Cent Browser"
+          }
+        },
+        {
+          "id": 260317,
+          "timestamp": "2026-06-25T02:03:27.724000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 260316,
+          "timestamp": "2026-06-25T02:03:03.628000+00:00",
+          "duration": 23.093,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 260314,
+          "timestamp": "2026-06-25T02:03:00.617000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 260313,
+          "timestamp": "2026-06-25T02:02:57.605000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 260312,
+          "timestamp": "2026-06-25T02:02:56.601000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "ActivityWatch服务器 - C:\\Users\\Administrator\\Desktop\\activitywatch-dashboard\\start-dashboard.bat"
+          }
+        },
+        {
+          "id": 260309,
+          "timestamp": "2026-06-25T02:02:55.594000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 260308,
+          "timestamp": "2026-06-25T02:02:52.583000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 260307,
+          "timestamp": "2026-06-25T02:02:50.573000+00:00",
           "duration": 1.004,
           "data": {
             "app": "explorer.exe",
@@ -347,23 +302,95 @@
           }
         },
         {
-          "id": 260204,
-          "timestamp": "2026-06-24T12:00:05.056000+00:00",
-          "duration": 2969.482,
+          "id": 260302,
+          "timestamp": "2026-06-25T01:16:45.293000+00:00",
+          "duration": 2764.276,
           "data": {
-            "app": "Everything.exe",
-            "title": "MUMU - Everything"
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260301,
+          "timestamp": "2026-06-25T01:16:12.190000+00:00",
+          "duration": 32.1,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260299,
+          "timestamp": "2026-06-25T01:16:11.186000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 260298,
+          "timestamp": "2026-06-25T01:16:10.144000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260292,
+          "timestamp": "2026-06-25T00:46:52.682000+00:00",
+          "duration": 1756.459,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 260291,
+          "timestamp": "2026-06-25T00:46:51.678000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 260290,
+          "timestamp": "2026-06-25T00:46:48.665000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 260289,
+          "timestamp": "2026-06-25T00:45:58.516000+00:00",
+          "duration": 49.147,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 260283,
+          "timestamp": "2026-06-25T00:00:04.002000+00:00",
+          "duration": 2753.51,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-25T00:00:07.165132",
+    "export_time": "2026-06-25T12:00:06.062933",
     "time_range": {
-      "start": "2026-06-24T12:00:05.056962",
-      "end": "2026-06-25T00:00:05.056962"
+      "start": "2026-06-25T00:00:04.002827",
+      "end": "2026-06-25T12:00:04.002827"
     },
-    "total_events": 39
+    "total_events": 42
   }
 }
