@@ -5,41 +5,617 @@
       "type": "window",
       "events": [
         {
-          "id": 260941,
-          "timestamp": "2026-06-26T04:00:01.227000+00:00",
+          "id": 261275,
+          "timestamp": "2026-06-26T14:05:51.882000+00:00",
+          "duration": 6848.461,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 261274,
+          "timestamp": "2026-06-26T14:05:50.877000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 260906,
-          "timestamp": "2026-06-26T02:08:31.907000+00:00",
-          "duration": 6688.317,
+          "id": 261273,
+          "timestamp": "2026-06-26T14:05:32.819000+00:00",
+          "duration": 17.055,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 261262,
+          "timestamp": "2026-06-26T13:31:07.075000+00:00",
+          "duration": 2064.742,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261255,
+          "timestamp": "2026-06-26T13:10:49.163000+00:00",
+          "duration": 1216.909,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【明日方舟】雪山降临OS-EX-8突袭低配双核攻略_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261254,
+          "timestamp": "2026-06-26T13:10:46.149000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【明日方舟】雪山降临OS-EX-1~8突袭低配攻略_哔哩哔哩bilibili_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 261253,
+          "timestamp": "2026-06-26T13:10:45.145000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 261252,
+          "timestamp": "2026-06-26T13:10:35.109000+00:00",
+          "duration": 9.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "osex8初雪-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261251,
+          "timestamp": "2026-06-26T13:10:28.084000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "双人单核OS-EX8_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261248,
+          "timestamp": "2026-06-26T13:10:24.066000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ew单核 OS-EX-8（普通+突袭）_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 261247,
+          "timestamp": "2026-06-26T13:10:16.035000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "OS-S-3突袭 维雪双人半挂机 - Cent Browser"
+          }
+        },
+        {
+          "id": 261246,
+          "timestamp": "2026-06-26T13:09:02.778000+00:00",
+          "duration": 72.254,
+          "data": {
+            "app": "chrome.exe",
+            "title": "ew单核 OS-EX-8（普通+突袭）_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 261230,
+          "timestamp": "2026-06-26T12:52:41.600000+00:00",
+          "duration": 980.174,
+          "data": {
+            "app": "chrome.exe",
+            "title": "双人单核OS-EX8_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261229,
+          "timestamp": "2026-06-26T12:52:40.596000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 261228,
+          "timestamp": "2026-06-26T12:52:37.584000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "osex8初雪-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261224,
+          "timestamp": "2026-06-26T12:51:46.413000+00:00",
+          "duration": 50.167,
+          "data": {
+            "app": "chrome.exe",
+            "title": "EX8 普+突【单核】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261223,
+          "timestamp": "2026-06-26T12:51:42.395000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【雪山降临】OS-EX-8突袭等 EX全关【低配/挂机】攻略合集【明日方舟】_哔哩哔哩bilibili_明日方舟_攻略 - Cent Browser"
+          }
+        },
+        {
+          "id": 261222,
+          "timestamp": "2026-06-26T12:51:41.390000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 261221,
+          "timestamp": "2026-06-26T12:51:36.366000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "osex8初雪-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261220,
+          "timestamp": "2026-06-26T12:51:35.360000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 261219,
+          "timestamp": "2026-06-26T12:51:25.328000+00:00",
+          "duration": 9.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史4】那个永不磨灭的冬天——局部坏死【明日方舟】_明日方舟_游戏杂谈 - Cent Browser"
+          }
+        },
+        {
+          "id": 261215,
+          "timestamp": "2026-06-26T12:43:05.749000+00:00",
+          "duration": 498.576,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261213,
+          "timestamp": "2026-06-26T12:41:38.442000+00:00",
+          "duration": 86.303,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史4】那个永不磨灭的冬天——局部坏死【明日方舟】_明日方舟_游戏杂谈 - Cent Browser"
+          }
+        },
+        {
+          "id": 261212,
+          "timestamp": "2026-06-26T12:41:01.291000+00:00",
+          "duration": 36.144,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261211,
+          "timestamp": "2026-06-26T12:41:00.286000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史4】那个永不磨灭的冬天——局部坏死【明日方舟】_明日方舟_游戏杂谈 - Cent Browser"
+          }
+        },
+        {
+          "id": 261209,
+          "timestamp": "2026-06-26T12:40:22.091000+00:00",
+          "duration": 37.19,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261208,
+          "timestamp": "2026-06-26T12:40:19.075000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 261205,
+          "timestamp": "2026-06-26T12:36:04.666000+00:00",
+          "duration": 253.406,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261204,
+          "timestamp": "2026-06-26T12:35:53.611000+00:00",
+          "duration": 10.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史4】那个永不磨灭的冬天——局部坏死【明日方舟】_明日方舟_游戏杂谈 - Cent Browser"
+          }
+        },
+        {
+          "id": 261203,
+          "timestamp": "2026-06-26T12:35:52.601000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV12xLo61E4M/?spm_id_from=333.1007.tianma.1-1-1.click - Cent Browser"
+          }
+        },
+        {
+          "id": 261202,
+          "timestamp": "2026-06-26T12:35:50.593000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261201,
+          "timestamp": "2026-06-26T12:35:49.588000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261199,
+          "timestamp": "2026-06-26T12:35:46.574000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261198,
+          "timestamp": "2026-06-26T12:35:44.565000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261197,
+          "timestamp": "2026-06-26T12:31:29.962000+00:00",
+          "duration": 253.598,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261196,
+          "timestamp": "2026-06-26T12:31:21.919000+00:00",
+          "duration": 7.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261195,
+          "timestamp": "2026-06-26T12:31:03.846000+00:00",
+          "duration": 17.066,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261194,
+          "timestamp": "2026-06-26T12:30:58.826000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261193,
+          "timestamp": "2026-06-26T12:30:56.813000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261192,
+          "timestamp": "2026-06-26T12:30:45.752000+00:00",
+          "duration": 10.053,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261191,
+          "timestamp": "2026-06-26T12:30:22.674000+00:00",
+          "duration": 22.073,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261190,
+          "timestamp": "2026-06-26T12:30:19.665000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "三观炸裂！姐妹同时怀孕？互联网上最毁三观的视频！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261188,
+          "timestamp": "2026-06-26T12:21:50.530000+00:00",
+          "duration": 508.132,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261187,
+          "timestamp": "2026-06-26T12:21:14.304000+00:00",
+          "duration": 35.218,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261185,
+          "timestamp": "2026-06-26T12:20:13.999000+00:00",
+          "duration": 59.3,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261184,
+          "timestamp": "2026-06-26T12:20:08.969000+00:00",
+          "duration": 4.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261183,
+          "timestamp": "2026-06-26T12:19:37.764000+00:00",
+          "duration": 30.198,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261182,
+          "timestamp": "2026-06-26T12:19:17.669000+00:00",
+          "duration": 19.092,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261181,
+          "timestamp": "2026-06-26T12:17:42.121000+00:00",
+          "duration": 94.542,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261180,
+          "timestamp": "2026-06-26T12:17:32.072000+00:00",
+          "duration": 9.045,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "记事本 的跳转列表"
+          }
+        },
+        {
+          "id": 261179,
+          "timestamp": "2026-06-26T12:17:31.065000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 260718,
-          "timestamp": "2026-06-26T00:00:03.862000+00:00",
-          "duration": 7704.626,
+          "id": 261178,
+          "timestamp": "2026-06-26T12:17:26.037000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261177,
+          "timestamp": "2026-06-26T12:17:25.030000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261176,
+          "timestamp": "2026-06-26T12:17:21.007000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 261175,
+          "timestamp": "2026-06-26T12:17:20.001000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "关机"
+          }
+        },
+        {
+          "id": 261174,
+          "timestamp": "2026-06-26T12:17:18.989000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Menu"
+          }
+        },
+        {
+          "id": 261173,
+          "timestamp": "2026-06-26T12:17:17.982000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
+          }
+        },
+        {
+          "id": 261172,
+          "timestamp": "2026-06-26T12:17:07.930000+00:00",
+          "duration": 9.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261171,
+          "timestamp": "2026-06-26T12:16:58.865000+00:00",
+          "duration": 8.058,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261170,
+          "timestamp": "2026-06-26T12:16:31.720000+00:00",
+          "duration": 26.138,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261168,
+          "timestamp": "2026-06-26T12:11:26.622000+00:00",
+          "duration": 304.095,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261167,
+          "timestamp": "2026-06-26T12:11:19.575000+00:00",
+          "duration": 6.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261166,
+          "timestamp": "2026-06-26T12:10:50.462000+00:00",
+          "duration": 28.108,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261165,
+          "timestamp": "2026-06-26T12:10:49.457000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261164,
+          "timestamp": "2026-06-26T12:06:33.978000+00:00",
+          "duration": 254.468,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261162,
+          "timestamp": "2026-06-26T12:05:44.787000+00:00",
+          "duration": 48.184,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！精致女生P视频造假晕倒被狗救、富婆花9万买水晶，近期互联网离谱人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 261161,
+          "timestamp": "2026-06-26T12:00:04.106000+00:00",
+          "duration": 339.678,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-26T12:00:05.923705",
+    "export_time": "2026-06-27T00:00:06.169921",
     "time_range": {
-      "start": "2026-06-26T00:00:03.862114",
-      "end": "2026-06-26T12:00:03.862114"
+      "start": "2026-06-26T12:00:04.106356",
+      "end": "2026-06-27T00:00:04.106356"
     },
-    "total_events": 3
+    "total_events": 67
   }
 }
