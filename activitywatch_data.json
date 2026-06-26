@@ -5,59 +5,41 @@
       "type": "window",
       "events": [
         {
-          "id": 260648,
-          "timestamp": "2026-06-25T12:59:20.676000+00:00",
-          "duration": 10840.179,
+          "id": 260941,
+          "timestamp": "2026-06-26T04:00:01.227000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+          }
+        },
+        {
+          "id": 260906,
+          "timestamp": "2026-06-26T02:08:31.907000+00:00",
+          "duration": 6688.317,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 260646,
-          "timestamp": "2026-06-25T12:59:19.671000+00:00",
-          "duration": 0.0,
+          "id": 260718,
+          "timestamp": "2026-06-26T00:00:03.862000+00:00",
+          "duration": 7704.626,
           "data": {
             "app": "explorer.exe",
-            "title": "Newsmy (G:)"
-          }
-        },
-        {
-          "id": 260641,
-          "timestamp": "2026-06-25T12:44:12.691000+00:00",
-          "duration": 905.978,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
-          }
-        },
-        {
-          "id": 260639,
-          "timestamp": "2026-06-25T12:43:40.576000+00:00",
-          "duration": 31.112,
-          "data": {
-            "app": "6.9.3.754.tmp",
-            "title": "安装"
-          }
-        },
-        {
-          "id": 260614,
-          "timestamp": "2026-06-25T12:00:04.058000+00:00",
-          "duration": 2615.514,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "downloads"
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-06-26T00:00:06.120252",
+    "export_time": "2026-06-26T12:00:05.923705",
     "time_range": {
-      "start": "2026-06-25T12:00:04.058812",
-      "end": "2026-06-26T00:00:04.058812"
+      "start": "2026-06-26T00:00:03.862114",
+      "end": "2026-06-26T12:00:03.862114"
     },
-    "total_events": 5
+    "total_events": 3
   }
 }
