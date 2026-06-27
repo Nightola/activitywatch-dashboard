@@ -5,63 +5,171 @@
       "type": "window",
       "events": [
         {
-          "id": 261609,
-          "timestamp": "2026-06-27T03:30:09.639000+00:00",
-          "duration": 1791.014,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 261607,
-          "timestamp": "2026-06-27T03:30:06.625000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 261606,
-          "timestamp": "2026-06-27T03:29:37.525000+00:00",
-          "duration": 28.097,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 261605,
-          "timestamp": "2026-06-27T03:29:35.518000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 261604,
-          "timestamp": "2026-06-27T03:29:24.479000+00:00",
-          "duration": 10.034,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 261570,
-          "timestamp": "2026-06-27T02:08:43.887000+00:00",
-          "duration": 4839.588,
+          "id": 261925,
+          "timestamp": "2026-06-27T14:03:01.107000+00:00",
+          "duration": 7019.312,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 261326,
-          "timestamp": "2026-06-27T00:00:03.907000+00:00",
-          "duration": 7716.336,
+          "id": 261924,
+          "timestamp": "2026-06-27T14:02:51.073000+00:00",
+          "duration": 9.031,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 261903,
+          "timestamp": "2026-06-27T12:50:17.381000+00:00",
+          "duration": 4352.686,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 261901,
+          "timestamp": "2026-06-27T12:47:20.707000+00:00",
+          "duration": 175.67,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 261900,
+          "timestamp": "2026-06-27T12:47:17.696000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 261899,
+          "timestamp": "2026-06-27T12:47:16.691000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261898,
+          "timestamp": "2026-06-27T12:47:08.660000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 261897,
+          "timestamp": "2026-06-27T12:46:37.555000+00:00",
+          "duration": 30.101,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261896,
+          "timestamp": "2026-06-27T12:46:34.543000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "Alas.exe",
+            "title": "管理员:  Alas Updater"
+          }
+        },
+        {
+          "id": 261895,
+          "timestamp": "2026-06-27T12:46:33.539000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "AzurLaneAutoScript"
+          }
+        },
+        {
+          "id": 261894,
+          "timestamp": "2026-06-27T12:46:31.530000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "[NS]朋友收集 梦想生活v1.0.2中文正式版整合xci版本体nps加补丁"
+          }
+        },
+        {
+          "id": 261893,
+          "timestamp": "2026-06-27T12:46:30.525000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 261892,
+          "timestamp": "2026-06-27T12:46:23.500000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 261891,
+          "timestamp": "2026-06-27T12:46:22.494000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261890,
+          "timestamp": "2026-06-27T12:46:20.486000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Release Easy Install (v0.4.10) · LmeSzinc/AzurLaneAutoScript · GitHub - Cent Browser"
+          }
+        },
+        {
+          "id": 261889,
+          "timestamp": "2026-06-27T12:46:19.479000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 261888,
+          "timestamp": "2026-06-27T12:46:18.476000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Release Easy Install (v0.4.10) · LmeSzinc/AzurLaneAutoScript · GitHub - Cent Browser"
+          }
+        },
+        {
+          "id": 261886,
+          "timestamp": "2026-06-27T12:46:09.442000+00:00",
+          "duration": 8.031,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261809,
+          "timestamp": "2026-06-27T12:00:04.135000+00:00",
+          "duration": 2764.304,
           "data": {
             "app": "explorer.exe",
             "title": ""
@@ -71,11 +179,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-06-27T12:00:05.971324",
+    "export_time": "2026-06-28T00:00:06.196158",
     "time_range": {
-      "start": "2026-06-27T00:00:03.907867",
-      "end": "2026-06-27T12:00:03.907867"
+      "start": "2026-06-27T12:00:04.135348",
+      "end": "2026-06-28T00:00:04.135348"
     },
-    "total_events": 7
+    "total_events": 19
   }
 }
