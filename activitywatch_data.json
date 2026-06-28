@@ -5,53 +5,80 @@
       "type": "window",
       "events": [
         {
-          "id": 261925,
-          "timestamp": "2026-06-27T14:03:01.107000+00:00",
-          "duration": 7019.312,
+          "id": 262205,
+          "timestamp": "2026-06-28T02:46:37.456000+00:00",
+          "duration": 4403.275,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 262204,
+          "timestamp": "2026-06-28T02:46:09.349000+00:00",
+          "duration": 27.103,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 262193,
+          "timestamp": "2026-06-28T02:08:50.546000+00:00",
+          "duration": 2237.796,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 262186,
+          "timestamp": "2026-06-28T01:52:59.454000+00:00",
+          "duration": 947.463,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 262185,
+          "timestamp": "2026-06-28T01:52:55.438000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "ShadowsocksR-dotnet2.0.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 262184,
+          "timestamp": "2026-06-28T01:52:54.434000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 261924,
-          "timestamp": "2026-06-27T14:02:51.073000+00:00",
-          "duration": 9.031,
+          "id": 262179,
+          "timestamp": "2026-06-28T01:44:09.408000+00:00",
+          "duration": 524.023,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 261903,
-          "timestamp": "2026-06-27T12:50:17.381000+00:00",
-          "duration": 4352.686,
+          "id": 262177,
+          "timestamp": "2026-06-28T01:44:04.356000+00:00",
+          "duration": 4.046,
           "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 261901,
-          "timestamp": "2026-06-27T12:47:20.707000+00:00",
-          "duration": 175.67,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 261900,
-          "timestamp": "2026-06-27T12:47:17.696000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 261899,
-          "timestamp": "2026-06-27T12:47:16.691000+00:00",
+          "id": 262176,
+          "timestamp": "2026-06-28T01:44:03.341000+00:00",
           "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
@@ -59,117 +86,261 @@
           }
         },
         {
-          "id": 261898,
-          "timestamp": "2026-06-27T12:47:08.660000+00:00",
-          "duration": 7.026,
+          "id": 262172,
+          "timestamp": "2026-06-28T01:38:59.815000+00:00",
+          "duration": 302.514,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 262171,
+          "timestamp": "2026-06-28T01:38:58.810000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "MuMu模拟器官网_安卓12模拟器_网易手游模拟器 - Cent Browser"
+          }
+        },
+        {
+          "id": 262165,
+          "timestamp": "2026-06-28T01:34:10.395000+00:00",
+          "duration": 287.407,
+          "data": {
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 262164,
+          "timestamp": "2026-06-28T01:34:08.375000+00:00",
+          "duration": 1.006,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
           }
         },
         {
-          "id": 261897,
-          "timestamp": "2026-06-27T12:46:37.555000+00:00",
-          "duration": 30.101,
+          "id": 262163,
+          "timestamp": "2026-06-28T01:34:06.367000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 262162,
+          "timestamp": "2026-06-28T01:34:04.357000+00:00",
+          "duration": 1.006,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 261896,
-          "timestamp": "2026-06-27T12:46:34.543000+00:00",
-          "duration": 2.007,
+          "id": 262161,
+          "timestamp": "2026-06-28T01:33:58.334000+00:00",
+          "duration": 5.02,
           "data": {
-            "app": "Alas.exe",
-            "title": "管理员:  Alas Updater"
+            "app": "nemu-downloader.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 261895,
-          "timestamp": "2026-06-27T12:46:33.539000+00:00",
-          "duration": 0.0,
+          "id": 262160,
+          "timestamp": "2026-06-28T01:33:55.321000+00:00",
+          "duration": 2.009,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "AzurLaneAutoScript"
-          }
-        },
-        {
-          "id": 261894,
-          "timestamp": "2026-06-27T12:46:31.530000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "[NS]朋友收集 梦想生活v1.0.2中文正式版整合xci版本体nps加补丁"
-          }
-        },
-        {
-          "id": 261893,
-          "timestamp": "2026-06-27T12:46:30.525000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
+            "app": "chrome.exe",
             "title": ""
           }
         },
         {
-          "id": 261892,
-          "timestamp": "2026-06-27T12:46:23.500000+00:00",
-          "duration": 6.022,
+          "id": 262159,
+          "timestamp": "2026-06-28T01:33:42.270000+00:00",
+          "duration": 12.048,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "chrome.exe",
+            "title": "MuMu模拟器官网_安卓12模拟器_网易手游模拟器 - Cent Browser"
           }
         },
         {
-          "id": 261891,
-          "timestamp": "2026-06-27T12:46:22.494000+00:00",
-          "duration": 0.0,
+          "id": 262158,
+          "timestamp": "2026-06-28T01:33:34.234000+00:00",
+          "duration": 7.03,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 261890,
-          "timestamp": "2026-06-27T12:46:20.486000+00:00",
+          "id": 262157,
+          "timestamp": "2026-06-28T01:33:33.228000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "MuMu模拟器官网_安卓12模拟器_网易手游模拟器 - Cent Browser"
+          }
+        },
+        {
+          "id": 262156,
+          "timestamp": "2026-06-28T01:33:32.224000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "mumu.163.com - Cent Browser"
+          }
+        },
+        {
+          "id": 262155,
+          "timestamp": "2026-06-28T01:33:30.216000+00:00",
           "duration": 1.004,
           "data": {
             "app": "chrome.exe",
-            "title": "Release Easy Install (v0.4.10) · LmeSzinc/AzurLaneAutoScript · GitHub - Cent Browser"
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 261889,
-          "timestamp": "2026-06-27T12:46:19.479000+00:00",
+          "id": 262154,
+          "timestamp": "2026-06-28T01:33:25.198000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "mumu模拟器 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 262153,
+          "timestamp": "2026-06-28T01:33:19.175000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 262152,
+          "timestamp": "2026-06-28T01:33:17.167000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 262151,
+          "timestamp": "2026-06-28T01:33:16.163000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": ""
+            "title": "maa 生息演算-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 261888,
-          "timestamp": "2026-06-27T12:46:18.476000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Release Easy Install (v0.4.10) · LmeSzinc/AzurLaneAutoScript · GitHub - Cent Browser"
-          }
-        },
-        {
-          "id": 261886,
-          "timestamp": "2026-06-27T12:46:09.442000+00:00",
-          "duration": 8.031,
+          "id": 262149,
+          "timestamp": "2026-06-28T01:33:11.143000+00:00",
+          "duration": 4.016,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 261809,
-          "timestamp": "2026-06-27T12:00:04.135000+00:00",
-          "duration": 2764.304,
+          "id": 262148,
+          "timestamp": "2026-06-28T01:32:40.018000+00:00",
+          "duration": 30.12,
+          "data": {
+            "app": "chrome.exe",
+            "title": "maa 生息演算-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 262147,
+          "timestamp": "2026-06-28T01:32:38.011000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 262146,
+          "timestamp": "2026-06-28T01:32:25.965000+00:00",
+          "duration": 11.041,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【方舟编年史4】那个永不磨灭的冬天——局部坏死【明日方舟】_明日方舟_游戏杂谈 - Cent Browser"
+          }
+        },
+        {
+          "id": 262144,
+          "timestamp": "2026-06-28T01:32:24.959000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Release Easy Install (v0.4.10) · LmeSzinc/AzurLaneAutoScript · GitHub - Cent Browser"
+          }
+        },
+        {
+          "id": 262142,
+          "timestamp": "2026-06-28T01:32:23.954000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 262124,
+          "timestamp": "2026-06-28T00:40:16.933000+00:00",
+          "duration": 3126.019,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 262123,
+          "timestamp": "2026-06-28T00:39:24.730000+00:00",
+          "duration": 51.198,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 262121,
+          "timestamp": "2026-06-28T00:38:44.579000+00:00",
+          "duration": 39.146,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 262120,
+          "timestamp": "2026-06-28T00:38:35.547000+00:00",
+          "duration": 8.028,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 262119,
+          "timestamp": "2026-06-28T00:38:21.496000+00:00",
+          "duration": 13.048,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 261968,
+          "timestamp": "2026-06-28T00:00:04.195000+00:00",
+          "duration": 2296.298,
           "data": {
             "app": "explorer.exe",
             "title": ""
@@ -179,11 +350,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-06-28T00:00:06.196158",
+    "export_time": "2026-06-28T12:00:06.264345",
     "time_range": {
-      "start": "2026-06-27T12:00:04.135348",
-      "end": "2026-06-28T00:00:04.135348"
+      "start": "2026-06-28T00:00:04.195346",
+      "end": "2026-06-28T12:00:04.195346"
     },
-    "total_events": 19
+    "total_events": 38
   }
 }
