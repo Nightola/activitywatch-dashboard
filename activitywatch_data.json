@@ -5,44 +5,143 @@
       "type": "window",
       "events": [
         {
-          "id": 265808,
-          "timestamp": "2026-07-05T04:00:02.055000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 265801,
-          "timestamp": "2026-07-05T01:06:40.460000+00:00",
-          "duration": 10400.587,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 265800,
-          "timestamp": "2026-07-05T01:06:24.396000+00:00",
-          "duration": 15.06,
+          "id": 266424,
+          "timestamp": "2026-07-05T15:41:55.573000+00:00",
+          "duration": 1086.185,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 265799,
-          "timestamp": "2026-07-05T01:05:43.222000+00:00",
-          "duration": 40.17,
+          "id": 266423,
+          "timestamp": "2026-07-05T15:41:34.457000+00:00",
+          "duration": 20.11,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 265798,
-          "timestamp": "2026-07-05T01:05:41.214000+00:00",
+          "id": 266422,
+          "timestamp": "2026-07-05T15:40:48.246000+00:00",
+          "duration": 45.207,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266421,
+          "timestamp": "2026-07-05T15:40:46.234000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": "成就列表"
+          }
+        },
+        {
+          "id": 266420,
+          "timestamp": "2026-07-05T15:40:44.225000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266414,
+          "timestamp": "2026-07-05T14:40:52.412000+00:00",
+          "duration": 3590.808,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266413,
+          "timestamp": "2026-07-05T14:40:51.402000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 266412,
+          "timestamp": "2026-07-05T14:40:39.339000+00:00",
+          "duration": 11.059,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266410,
+          "timestamp": "2026-07-05T14:40:25.257000+00:00",
+          "duration": 13.075,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266409,
+          "timestamp": "2026-07-05T14:40:24.245000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266406,
+          "timestamp": "2026-07-05T14:34:15.915000+00:00",
+          "duration": 367.321,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266405,
+          "timestamp": "2026-07-05T14:34:13.902000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266403,
+          "timestamp": "2026-07-05T14:33:59.823000+00:00",
+          "duration": 13.073,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266397,
+          "timestamp": "2026-07-05T14:21:06.068000+00:00",
+          "duration": 772.75,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266396,
+          "timestamp": "2026-07-05T14:20:59.029000+00:00",
+          "duration": 6.033,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266395,
+          "timestamp": "2026-07-05T14:20:57.019000+00:00",
           "duration": 1.004,
           "data": {
             "app": "MAA.exe",
@@ -50,17 +149,107 @@
           }
         },
         {
-          "id": 265797,
-          "timestamp": "2026-07-05T01:05:36.186000+00:00",
-          "duration": 4.023,
+          "id": 266394,
+          "timestamp": "2026-07-05T14:20:56.012000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266393,
+          "timestamp": "2026-07-05T14:20:51.990000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266392,
+          "timestamp": "2026-07-05T14:20:46.966000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266391,
+          "timestamp": "2026-07-05T14:20:27.860000+00:00",
+          "duration": 18.102,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266390,
+          "timestamp": "2026-07-05T14:20:26.854000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266389,
+          "timestamp": "2026-07-05T14:20:21.826000+00:00",
+          "duration": 4.024,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266388,
+          "timestamp": "2026-07-05T14:20:20.819000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266387,
+          "timestamp": "2026-07-05T14:20:15.771000+00:00",
+          "duration": 4.043,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266386,
+          "timestamp": "2026-07-05T14:20:12.753000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266385,
+          "timestamp": "2026-07-05T14:19:38.560000+00:00",
+          "duration": 33.186,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 266384,
+          "timestamp": "2026-07-05T14:19:29.505000+00:00",
+          "duration": 8.051,
           "data": {
             "app": "MAA.exe",
             "title": "公告"
           }
         },
         {
-          "id": 265796,
-          "timestamp": "2026-07-05T01:05:35.181000+00:00",
+          "id": 266383,
+          "timestamp": "2026-07-05T14:19:28.497000+00:00",
           "duration": 0.0,
           "data": {
             "app": "MAA.exe",
@@ -68,215 +257,989 @@
           }
         },
         {
-          "id": 265795,
-          "timestamp": "2026-07-05T01:05:29.151000+00:00",
-          "duration": 5.026,
+          "id": 266382,
+          "timestamp": "2026-07-05T14:19:16.429000+00:00",
+          "duration": 11.063,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 265794,
-          "timestamp": "2026-07-05T01:05:28.143000+00:00",
-          "duration": 0.0,
+          "id": 266381,
+          "timestamp": "2026-07-05T14:19:08.380000+00:00",
+          "duration": 7.041,
           "data": {
             "app": "MAA.exe",
             "title": "提示"
           }
         },
         {
-          "id": 265793,
-          "timestamp": "2026-07-05T01:05:17.092000+00:00",
-          "duration": 10.046,
+          "id": 266380,
+          "timestamp": "2026-07-05T14:18:56.307000+00:00",
+          "duration": 11.068,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 265792,
-          "timestamp": "2026-07-05T01:05:12.068000+00:00",
-          "duration": 4.019,
-          "data": {
-            "app": "MAA.exe",
-            "title": "公告"
-          }
-        },
-        {
-          "id": 265791,
-          "timestamp": "2026-07-05T01:05:06.038000+00:00",
-          "duration": 5.025,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 265790,
-          "timestamp": "2026-07-05T01:05:00.012000+00:00",
-          "duration": 5.023,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 265789,
-          "timestamp": "2026-07-05T01:04:26.868000+00:00",
-          "duration": 32.138,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 265788,
-          "timestamp": "2026-07-05T01:04:24.856000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MAA.exe",
-            "title": "上次程序崩溃原因"
-          }
-        },
-        {
-          "id": 265787,
-          "timestamp": "2026-07-05T01:04:18.826000+00:00",
-          "duration": 5.026,
-          "data": {
-            "app": "MAA.exe",
-            "title": "公告"
-          }
-        },
-        {
-          "id": 265786,
-          "timestamp": "2026-07-05T01:04:16.816000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MAA.exe",
-            "title": "上次程序崩溃原因"
-          }
-        },
-        {
-          "id": 265785,
-          "timestamp": "2026-07-05T01:04:15.811000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 265784,
-          "timestamp": "2026-07-05T01:04:10.786000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 265783,
-          "timestamp": "2026-07-05T01:04:01.747000+00:00",
-          "duration": 8.035,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 265782,
-          "timestamp": "2026-07-05T01:03:52.713000+00:00",
-          "duration": 8.031,
+          "id": 266379,
+          "timestamp": "2026-07-05T14:17:59.957000+00:00",
+          "duration": 55.343,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 265781,
-          "timestamp": "2026-07-05T01:03:47.693000+00:00",
-          "duration": 4.016,
+          "id": 266378,
+          "timestamp": "2026-07-05T14:17:50.913000+00:00",
+          "duration": 8.039,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266377,
+          "timestamp": "2026-07-05T14:17:49.907000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266376,
+          "timestamp": "2026-07-05T14:17:48.901000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266375,
+          "timestamp": "2026-07-05T14:17:47.892000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "Disk space analysis tool 的跳转列表"
+          }
+        },
+        {
+          "id": 266374,
+          "timestamp": "2026-07-05T14:17:44.873000+00:00",
+          "duration": 2.015,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266373,
+          "timestamp": "2026-07-05T14:17:41.855000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "OneCommander 的跳转列表"
+          }
+        },
+        {
+          "id": 266372,
+          "timestamp": "2026-07-05T14:17:34.794000+00:00",
+          "duration": 6.055,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266371,
+          "timestamp": "2026-07-05T14:17:33.788000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266370,
+          "timestamp": "2026-07-05T14:17:25.746000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266369,
+          "timestamp": "2026-07-05T14:17:21.707000+00:00",
+          "duration": 3.03,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266368,
+          "timestamp": "2026-07-05T14:17:20.691000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266367,
+          "timestamp": "2026-07-05T14:17:10.626000+00:00",
+          "duration": 9.054,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266366,
+          "timestamp": "2026-07-05T14:17:08.614000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266365,
+          "timestamp": "2026-07-05T14:17:07.602000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266364,
+          "timestamp": "2026-07-05T14:16:53.515000+00:00",
+          "duration": 13.071,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266363,
+          "timestamp": "2026-07-05T14:16:50.499000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266362,
+          "timestamp": "2026-07-05T14:16:48.488000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266361,
+          "timestamp": "2026-07-05T14:16:47.483000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266360,
+          "timestamp": "2026-07-05T14:16:37.357000+00:00",
+          "duration": 9.054,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266359,
+          "timestamp": "2026-07-05T14:16:33.332000+00:00",
+          "duration": 3.02,
           "data": {
             "app": "OneCommander.exe",
             "title": "MAA-v6.2.3-win-x64"
           }
         },
         {
-          "id": 265780,
-          "timestamp": "2026-07-05T01:03:45.684000+00:00",
-          "duration": 1.005,
+          "id": 266358,
+          "timestamp": "2026-07-05T14:16:31.318000+00:00",
+          "duration": 1.008,
           "data": {
             "app": "OneCommander.exe",
-            "title": "AzurLaneAutoScript"
+            "title": "MAA-v6.2.3-win-x64 - 副本"
           }
         },
         {
-          "id": 265779,
-          "timestamp": "2026-07-05T00:36:20.469000+00:00",
-          "duration": 1644.211,
+          "id": 266357,
+          "timestamp": "2026-07-05T14:16:11.213000+00:00",
+          "duration": 19.1,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 265778,
-          "timestamp": "2026-07-05T00:36:16.456000+00:00",
-          "duration": 3.01,
+          "id": 266356,
+          "timestamp": "2026-07-05T14:15:45.067000+00:00",
+          "duration": 25.139,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 265777,
-          "timestamp": "2026-07-05T00:04:27.005000+00:00",
-          "duration": 1908.448,
+          "id": 266355,
+          "timestamp": "2026-07-05T14:15:34.008000+00:00",
+          "duration": 10.054,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "title": "MuMu安卓设备-1-1"
           }
         },
         {
-          "id": 265776,
-          "timestamp": "2026-07-05T00:03:23.775000+00:00",
-          "duration": 62.225,
+          "id": 266353,
+          "timestamp": "2026-07-05T14:15:28.982000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266352,
+          "timestamp": "2026-07-05T14:15:13.907000+00:00",
+          "duration": 14.069,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266351,
+          "timestamp": "2026-07-05T14:14:56.826000+00:00",
+          "duration": 16.076,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266350,
+          "timestamp": "2026-07-05T14:14:55.820000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266349,
+          "timestamp": "2026-07-05T14:14:54.748000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266348,
+          "timestamp": "2026-07-05T14:14:42.690000+00:00",
+          "duration": 11.052,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266347,
+          "timestamp": "2026-07-05T14:14:13.551000+00:00",
+          "duration": 28.134,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266346,
+          "timestamp": "2026-07-05T14:13:57.483000+00:00",
+          "duration": 15.062,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266345,
+          "timestamp": "2026-07-05T14:13:53.467000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266344,
+          "timestamp": "2026-07-05T14:13:50.454000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266343,
+          "timestamp": "2026-07-05T14:13:47.441000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266342,
+          "timestamp": "2026-07-05T14:13:35.392000+00:00",
+          "duration": 11.044,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (emulator-5554) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266341,
+          "timestamp": "2026-07-05T14:13:22.324000+00:00",
+          "duration": 12.064,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266340,
+          "timestamp": "2026-07-05T14:13:20.312000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266339,
+          "timestamp": "2026-07-05T14:13:19.307000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266338,
+          "timestamp": "2026-07-05T14:13:17.298000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266336,
+          "timestamp": "2026-07-05T14:12:31.118000+00:00",
+          "duration": 45.176,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266335,
+          "timestamp": "2026-07-05T14:12:22.084000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (emulator-5554) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266334,
+          "timestamp": "2026-07-05T14:12:20.074000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266333,
+          "timestamp": "2026-07-05T14:12:17.060000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (emulator-5554) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266332,
+          "timestamp": "2026-07-05T14:12:14.047000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16384) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266331,
+          "timestamp": "2026-07-05T14:12:13.041000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266330,
+          "timestamp": "2026-07-05T14:12:10.027000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16384) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266329,
+          "timestamp": "2026-07-05T14:12:05.004000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (5555) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266327,
+          "timestamp": "2026-07-05T14:12:04+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266326,
+          "timestamp": "2026-07-05T14:11:59.983000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (5555) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266325,
+          "timestamp": "2026-07-05T14:11:53.958000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266324,
+          "timestamp": "2026-07-05T14:11:43.918000+00:00",
+          "duration": 9.037,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266323,
+          "timestamp": "2026-07-05T14:11:23.834000+00:00",
+          "duration": 19.08,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266322,
+          "timestamp": "2026-07-05T14:10:54.698000+00:00",
+          "duration": 28.13,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266321,
+          "timestamp": "2026-07-05T14:10:47.654000+00:00",
+          "duration": 6.039,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266320,
+          "timestamp": "2026-07-05T14:10:44.640000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MAA.exe",
+            "title": "公告"
+          }
+        },
+        {
+          "id": 266319,
+          "timestamp": "2026-07-05T14:10:41.628000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266318,
+          "timestamp": "2026-07-05T14:10:31.582000+00:00",
+          "duration": 9.041,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64 - 副本"
+          }
+        },
+        {
+          "id": 266317,
+          "timestamp": "2026-07-05T14:08:35.071000+00:00",
+          "duration": 115.506,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 265775,
-          "timestamp": "2026-07-05T00:03:22.769000+00:00",
+          "id": 266315,
+          "timestamp": "2026-07-05T14:08:34.063000+00:00",
           "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 47%"
+          }
+        },
+        {
+          "id": 266314,
+          "timestamp": "2026-07-05T14:08:33.057000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 46%"
+          }
+        },
+        {
+          "id": 266313,
+          "timestamp": "2026-07-05T14:08:32.031000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "关机"
+          }
+        },
+        {
+          "id": 266312,
+          "timestamp": "2026-07-05T14:08:30.020000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Menu"
+          }
+        },
+        {
+          "id": 266311,
+          "timestamp": "2026-07-05T14:08:22.986000+00:00",
+          "duration": 6.029,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266310,
+          "timestamp": "2026-07-05T14:08:12.935000+00:00",
+          "duration": 9.045,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 266309,
+          "timestamp": "2026-07-05T14:08:04.902000+00:00",
+          "duration": 7.029,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266308,
+          "timestamp": "2026-07-05T14:08:02.892000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266307,
+          "timestamp": "2026-07-05T14:07:55.860000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266306,
+          "timestamp": "2026-07-05T14:07:54.855000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "dwm.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266305,
+          "timestamp": "2026-07-05T14:07:51.765000+00:00",
+          "duration": 2.026,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266304,
+          "timestamp": "2026-07-05T14:07:50.760000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 13%"
+          }
+        },
+        {
+          "id": 266303,
+          "timestamp": "2026-07-05T14:07:49.755000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 10%"
+          }
+        },
+        {
+          "id": 266302,
+          "timestamp": "2026-07-05T14:07:46.739000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 9%"
+          }
+        },
+        {
+          "id": 266301,
+          "timestamp": "2026-07-05T14:07:45.735000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 8%"
+          }
+        },
+        {
+          "id": 266300,
+          "timestamp": "2026-07-05T14:07:44.728000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 6%"
+          }
+        },
+        {
+          "id": 266299,
+          "timestamp": "2026-07-05T14:07:43.723000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 2%"
+          }
+        },
+        {
+          "id": 266298,
+          "timestamp": "2026-07-05T14:07:42.698000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "进度"
+          }
+        },
+        {
+          "id": 266297,
+          "timestamp": "2026-07-05T14:07:34.667000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 266296,
+          "timestamp": "2026-07-05T14:07:33.660000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64"
+          }
+        },
+        {
+          "id": 266295,
+          "timestamp": "2026-07-05T14:07:32.655000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 266294,
+          "timestamp": "2026-07-05T14:07:30.646000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "E:\\"
+          }
+        },
+        {
+          "id": 266293,
+          "timestamp": "2026-07-05T14:07:27.634000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 266292,
+          "timestamp": "2026-07-05T14:07:26.627000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 266291,
+          "timestamp": "2026-07-05T14:07:25.622000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "RiichiCity"
+          }
+        },
+        {
+          "id": 266290,
+          "timestamp": "2026-07-05T14:07:21.600000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266289,
+          "timestamp": "2026-07-05T14:07:19.589000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266288,
+          "timestamp": "2026-07-05T14:07:16.574000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Default"
+          }
+        },
+        {
+          "id": 266287,
+          "timestamp": "2026-07-05T14:07:13.561000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266285,
+          "timestamp": "2026-07-05T14:06:50.455000+00:00",
+          "duration": 22.103,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266284,
+          "timestamp": "2026-07-05T14:06:45.427000+00:00",
+          "duration": 4.022,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266283,
+          "timestamp": "2026-07-05T14:06:42.411000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266282,
+          "timestamp": "2026-07-05T14:06:36.388000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266281,
+          "timestamp": "2026-07-05T14:06:29.359000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266280,
+          "timestamp": "2026-07-05T14:06:26.346000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266279,
+          "timestamp": "2026-07-05T14:06:20.323000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266278,
+          "timestamp": "2026-07-05T14:06:18.314000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu 设置中心"
+          }
+        },
+        {
+          "id": 266277,
+          "timestamp": "2026-07-05T14:06:16.304000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266274,
+          "timestamp": "2026-07-05T14:05:31.125000+00:00",
+          "duration": 44.174,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266273,
+          "timestamp": "2026-07-05T14:05:22.091000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 266272,
+          "timestamp": "2026-07-05T14:05:08.020000+00:00",
+          "duration": 13.066,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 265774,
-          "timestamp": "2026-07-05T00:03:21.763000+00:00",
+          "id": 266271,
+          "timestamp": "2026-07-05T14:05:07.014000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "dwm.exe",
-            "title": "Microsoft Windows"
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
           }
         },
         {
-          "id": 265773,
-          "timestamp": "2026-07-05T00:03:20.709000+00:00",
-          "duration": 0.0,
+          "id": 266270,
+          "timestamp": "2026-07-05T14:04:59.989000+00:00",
+          "duration": 6.021,
           "data": {
-            "app": "dwm.exe",
-            "title": "太逆天了！精致女生离婚带娃被富二代总裁狂追、富婆买包一天狂花61万？近期互联网热门逆天人设赏析！_哔哩哔哩_bilibili - Cent Browser (未响应)"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 265772,
-          "timestamp": "2026-07-05T00:03:17.652000+00:00",
+          "id": 266269,
+          "timestamp": "2026-07-05T14:04:58.985000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 266268,
+          "timestamp": "2026-07-05T14:04:57.980000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266267,
+          "timestamp": "2026-07-05T14:04:56.974000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 266266,
+          "timestamp": "2026-07-05T14:04:53.963000+00:00",
           "duration": 2.008,
           "data": {
             "app": "explorer.exe",
@@ -284,86 +1247,2264 @@
           }
         },
         {
-          "id": 265771,
-          "timestamp": "2026-07-05T00:03:07.185000+00:00",
-          "duration": 9.464,
-          "data": {
-            "app": "dwm.exe",
-            "title": "太逆天了！精致女生离婚带娃被富二代总裁狂追、富婆买包一天狂花61万？近期互联网热门逆天人设赏析！_哔哩哔哩_bilibili - Cent Browser (未响应)"
-          }
-        },
-        {
-          "id": 265770,
-          "timestamp": "2026-07-05T00:02:51.057000+00:00",
-          "duration": 15.072,
+          "id": 266265,
+          "timestamp": "2026-07-05T14:04:27.863000+00:00",
+          "duration": 25.095,
           "data": {
             "app": "chrome.exe",
-            "title": "太逆天了！精致女生离婚带娃被富二代总裁狂追、富婆买包一天狂花61万？近期互联网热门逆天人设赏析！_哔哩哔哩_bilibili - Cent Browser"
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
           }
         },
         {
-          "id": 265768,
-          "timestamp": "2026-07-05T00:00:34.448000+00:00",
-          "duration": 135.604,
+          "id": 266263,
+          "timestamp": "2026-07-05T14:03:55.737000+00:00",
+          "duration": 31.123,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "chrome.exe",
+            "title": "常见问题 | 用户手册 | MAA 文档站 - Cent Browser"
           }
         },
         {
-          "id": 265767,
-          "timestamp": "2026-07-05T00:00:27.412000+00:00",
-          "duration": 6.031,
+          "id": 266262,
+          "timestamp": "2026-07-05T14:03:48.711000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "其他 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266261,
+          "timestamp": "2026-07-05T14:03:45.699000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "CLI 使用指南 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266260,
+          "timestamp": "2026-07-05T14:03:37.667000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "新手上路 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266259,
+          "timestamp": "2026-07-05T14:03:36.661000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "用户手册 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266256,
+          "timestamp": "2026-07-05T14:03:21.599000+00:00",
+          "duration": 14.059,
+          "data": {
+            "app": "chrome.exe",
+            "title": "MAA | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266255,
+          "timestamp": "2026-07-05T14:03:15.574000+00:00",
+          "duration": 5.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 266254,
+          "timestamp": "2026-07-05T14:03:14.571000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266253,
+          "timestamp": "2026-07-05T14:03:06.539000+00:00",
+          "duration": 7.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 266252,
+          "timestamp": "2026-07-05T14:02:51.475000+00:00",
+          "duration": 14.06,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 266251,
+          "timestamp": "2026-07-05T14:02:50.471000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266250,
+          "timestamp": "2026-07-05T14:02:37.415000+00:00",
+          "duration": 12.053,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 266249,
+          "timestamp": "2026-07-05T14:02:35.406000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266248,
+          "timestamp": "2026-07-05T14:02:34.386000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 265766,
-          "timestamp": "2026-07-05T00:00:16.355000+00:00",
-          "duration": 10.052,
+          "id": 266241,
+          "timestamp": "2026-07-05T13:42:27.790000+00:00",
+          "duration": 1205.594,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266240,
+          "timestamp": "2026-07-05T13:42:02.649000+00:00",
+          "duration": 24.137,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266239,
+          "timestamp": "2026-07-05T13:41:47.590000+00:00",
+          "duration": 14.055,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266238,
+          "timestamp": "2026-07-05T13:41:40.558000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer Log Console"
+          }
+        },
+        {
+          "id": 266237,
+          "timestamp": "2026-07-05T13:41:30.522000+00:00",
+          "duration": 9.033,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266236,
+          "timestamp": "2026-07-05T13:41:29.516000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266235,
+          "timestamp": "2026-07-05T13:41:28.470000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 266234,
+          "timestamp": "2026-07-05T13:41:22.443000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266233,
+          "timestamp": "2026-07-05T13:41:17.423000+00:00",
+          "duration": 4.017,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备-1"
           }
         },
         {
-          "id": 265765,
-          "timestamp": "2026-07-05T00:00:12.330000+00:00",
-          "duration": 3.021,
+          "id": 266232,
+          "timestamp": "2026-07-05T13:41:08.388000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266231,
+          "timestamp": "2026-07-05T13:41:06.378000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266229,
+          "timestamp": "2026-07-05T13:40:39.277000+00:00",
+          "duration": 26.098,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266226,
+          "timestamp": "2026-07-05T13:23:04.522000+00:00",
+          "duration": 1053.751,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266225,
+          "timestamp": "2026-07-05T13:23:00.506000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266224,
+          "timestamp": "2026-07-05T13:22:30.392000+00:00",
+          "duration": 29.111,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266223,
+          "timestamp": "2026-07-05T13:22:16.333000+00:00",
+          "duration": 13.056,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Default"
+          }
+        },
+        {
+          "id": 266222,
+          "timestamp": "2026-07-05T13:22:10.305000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266221,
+          "timestamp": "2026-07-05T13:22:09.297000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (76.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266220,
+          "timestamp": "2026-07-05T13:22:08.293000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (75.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266219,
+          "timestamp": "2026-07-05T13:22:07.287000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (75.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266218,
+          "timestamp": "2026-07-05T13:22:06.282000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (75.0GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266217,
+          "timestamp": "2026-07-05T13:22:05.276000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (74.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266216,
+          "timestamp": "2026-07-05T13:22:04.272000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (74.6GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266215,
+          "timestamp": "2026-07-05T13:22:03.266000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (74.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266214,
+          "timestamp": "2026-07-05T13:22:02.260000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (73.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266213,
+          "timestamp": "2026-07-05T13:22:01.256000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (73.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266212,
+          "timestamp": "2026-07-05T13:22:00.251000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (73.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266211,
+          "timestamp": "2026-07-05T13:21:59.245000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (72.6GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266210,
+          "timestamp": "2026-07-05T13:21:58.240000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (72.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266209,
+          "timestamp": "2026-07-05T13:21:57.234000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (72.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266208,
+          "timestamp": "2026-07-05T13:21:56.228000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (72.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266207,
+          "timestamp": "2026-07-05T13:21:55.210000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (72.0GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266206,
+          "timestamp": "2026-07-05T13:21:54.205000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (71.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266205,
+          "timestamp": "2026-07-05T13:21:53.200000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (71.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266204,
+          "timestamp": "2026-07-05T13:21:52.194000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (71.6GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266203,
+          "timestamp": "2026-07-05T13:21:51.189000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (71.4GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266202,
+          "timestamp": "2026-07-05T13:21:50.181000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (71.0GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266201,
+          "timestamp": "2026-07-05T13:21:49.176000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (70.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266200,
+          "timestamp": "2026-07-05T13:21:48.168000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (70.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266199,
+          "timestamp": "2026-07-05T13:21:47.161000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (70.5GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266198,
+          "timestamp": "2026-07-05T13:21:46.154000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (70.4GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266197,
+          "timestamp": "2026-07-05T13:21:45.149000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (70.2GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266196,
+          "timestamp": "2026-07-05T13:21:44.124000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (69.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266195,
+          "timestamp": "2026-07-05T13:21:43.119000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (69.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266194,
+          "timestamp": "2026-07-05T13:21:42.112000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (69.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266193,
+          "timestamp": "2026-07-05T13:21:41.108000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (69.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266192,
+          "timestamp": "2026-07-05T13:21:40.103000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (68.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266191,
+          "timestamp": "2026-07-05T13:21:39.097000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (68.4GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266190,
+          "timestamp": "2026-07-05T13:21:38.091000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 11%"
+          }
+        },
+        {
+          "id": 266189,
+          "timestamp": "2026-07-05T13:21:37.086000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 8%"
+          }
+        },
+        {
+          "id": 266188,
+          "timestamp": "2026-07-05T13:21:36.080000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 4%"
+          }
+        },
+        {
+          "id": 266187,
+          "timestamp": "2026-07-05T13:21:35.076000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 0%"
+          }
+        },
+        {
+          "id": 266186,
+          "timestamp": "2026-07-05T13:21:34.071000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已发现 46,323 个项目(7.38 GB)..."
+          }
+        },
+        {
+          "id": 266185,
+          "timestamp": "2026-07-05T13:21:33.061000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已发现 27,676 个项目(4.62 GB)..."
+          }
+        },
+        {
+          "id": 266184,
+          "timestamp": "2026-07-05T13:21:32.057000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266183,
+          "timestamp": "2026-07-05T13:21:31.049000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 266182,
+          "timestamp": "2026-07-05T13:21:30.042000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266181,
+          "timestamp": "2026-07-05T13:21:28.034000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266180,
+          "timestamp": "2026-07-05T13:21:27.028000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "huaxian"
+          }
+        },
+        {
+          "id": 266179,
+          "timestamp": "2026-07-05T13:21:26.023000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266178,
+          "timestamp": "2026-07-05T13:21:24.014000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266177,
+          "timestamp": "2026-07-05T13:21:22.005000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266176,
+          "timestamp": "2026-07-05T13:21:19.998000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "HuaLauncher"
+          }
+        },
+        {
+          "id": 266175,
+          "timestamp": "2026-07-05T13:20:09.738000+00:00",
+          "duration": 69.255,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266174,
+          "timestamp": "2026-07-05T13:20:08.733000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 9%"
+          }
+        },
+        {
+          "id": 266173,
+          "timestamp": "2026-07-05T13:20:00.697000+00:00",
+          "duration": 7.032,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 0%"
+          }
+        },
+        {
+          "id": 266172,
+          "timestamp": "2026-07-05T13:19:59.692000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 63,760 个项目(10.0 GB)..."
+          }
+        },
+        {
+          "id": 266171,
+          "timestamp": "2026-07-05T13:19:58.689000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 58,708 个项目(9.33 GB)..."
+          }
+        },
+        {
+          "id": 266170,
+          "timestamp": "2026-07-05T13:19:57.683000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 52,881 个项目(8.39 GB)..."
+          }
+        },
+        {
+          "id": 266169,
+          "timestamp": "2026-07-05T13:19:56.679000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 48,680 个项目(7.73 GB)..."
+          }
+        },
+        {
+          "id": 266168,
+          "timestamp": "2026-07-05T13:19:55.676000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 44,632 个项目(7.26 GB)..."
+          }
+        },
+        {
+          "id": 266167,
+          "timestamp": "2026-07-05T13:19:54.670000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 40,509 个项目(6.05 GB)..."
+          }
+        },
+        {
+          "id": 266166,
+          "timestamp": "2026-07-05T13:19:53.666000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 34,742 个项目(5.62 GB)..."
+          }
+        },
+        {
+          "id": 266165,
+          "timestamp": "2026-07-05T13:19:52.660000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 30,853 个项目(5.30 GB)..."
+          }
+        },
+        {
+          "id": 266164,
+          "timestamp": "2026-07-05T13:19:51.655000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 27,291 个项目(4.52 GB)..."
+          }
+        },
+        {
+          "id": 266163,
+          "timestamp": "2026-07-05T13:19:50.648000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 23,135 个项目(4.18 GB)..."
+          }
+        },
+        {
+          "id": 266162,
+          "timestamp": "2026-07-05T13:19:49.642000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 19,004 个项目(3.85 GB)..."
+          }
+        },
+        {
+          "id": 266161,
+          "timestamp": "2026-07-05T13:19:48.638000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 14,362 个项目(3.03 GB)..."
+          }
+        },
+        {
+          "id": 266160,
+          "timestamp": "2026-07-05T13:19:47.633000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 11,204 个项目(2.66 GB)..."
+          }
+        },
+        {
+          "id": 266159,
+          "timestamp": "2026-07-05T13:19:46.626000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已发现 7,760 个项目(2.01 GB)..."
+          }
+        },
+        {
+          "id": 266158,
+          "timestamp": "2026-07-05T13:19:45.621000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266157,
+          "timestamp": "2026-07-05T13:19:44.615000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266156,
+          "timestamp": "2026-07-05T13:19:43.609000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "进度"
+          }
+        },
+        {
+          "id": 266155,
+          "timestamp": "2026-07-05T13:17:05.009000+00:00",
+          "duration": 157.594,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WUDownloadCache"
+          }
+        },
+        {
+          "id": 266154,
+          "timestamp": "2026-07-05T13:17:04.004000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Xfer Records"
+          }
+        },
+        {
+          "id": 266153,
+          "timestamp": "2026-07-05T13:16:59.988000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "amd64_Microsoft-Windows-Client-Desktop-Required-Package~~amd64~~10.0.19041.1"
+          }
+        },
+        {
+          "id": 266151,
+          "timestamp": "2026-07-05T13:16:27.854000+00:00",
+          "duration": 31.129,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (66.3GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266150,
+          "timestamp": "2026-07-05T13:16:26.847000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266148,
+          "timestamp": "2026-07-05T13:13:18.122000+00:00",
+          "duration": 187.678,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 266147,
+          "timestamp": "2026-07-05T13:13:14.106000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266146,
+          "timestamp": "2026-07-05T13:13:12.097000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (65.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266145,
+          "timestamp": "2026-07-05T13:13:10.088000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266144,
+          "timestamp": "2026-07-05T13:13:09.084000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266143,
+          "timestamp": "2026-07-05T13:13:02.058000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266142,
+          "timestamp": "2026-07-05T13:13:01.053000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266141,
+          "timestamp": "2026-07-05T13:12:58.040000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266140,
+          "timestamp": "2026-07-05T13:12:57.034000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266139,
+          "timestamp": "2026-07-05T13:12:55.024000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266138,
+          "timestamp": "2026-07-05T13:12:54.020000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266137,
+          "timestamp": "2026-07-05T13:12:49+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266136,
+          "timestamp": "2026-07-05T13:12:47.994000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266135,
+          "timestamp": "2026-07-05T13:12:45.987000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266134,
+          "timestamp": "2026-07-05T13:12:44.983000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266133,
+          "timestamp": "2026-07-05T13:12:42.974000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266132,
+          "timestamp": "2026-07-05T13:12:41.968000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266131,
+          "timestamp": "2026-07-05T13:12:26.912000+00:00",
+          "duration": 14.052,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266130,
+          "timestamp": "2026-07-05T13:12:25.906000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266129,
+          "timestamp": "2026-07-05T13:12:21.891000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MalodyV"
+          }
+        },
+        {
+          "id": 266128,
+          "timestamp": "2026-07-05T13:12:06.826000+00:00",
+          "duration": 14.061,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (65.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266127,
+          "timestamp": "2026-07-05T13:12:05.800000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266126,
+          "timestamp": "2026-07-05T13:12:03.792000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266125,
+          "timestamp": "2026-07-05T13:12:02.787000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266124,
+          "timestamp": "2026-07-05T13:12:01.781000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266123,
+          "timestamp": "2026-07-05T13:12:00.774000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266122,
+          "timestamp": "2026-07-05T13:11:59.771000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266121,
+          "timestamp": "2026-07-05T13:11:58.763000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266120,
+          "timestamp": "2026-07-05T13:11:55.750000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Infinity Nikki"
+          }
+        },
+        {
+          "id": 266119,
+          "timestamp": "2026-07-05T13:11:46.714000+00:00",
+          "duration": 8.032,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 265764,
-          "timestamp": "2026-07-05T00:00:09.198000+00:00",
-          "duration": 2.125,
+          "id": 266118,
+          "timestamp": "2026-07-05T13:11:45.708000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "csrss.exe",
-            "title": "MonsterHunterRise.exe - 致命的应用程序退出"
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (64.7GB Free Space) - Ready]"
           }
         },
         {
-          "id": 265763,
-          "timestamp": "2026-07-05T00:00:05.369000+00:00",
-          "duration": 2.765,
+          "id": 266117,
+          "timestamp": "2026-07-05T13:11:42.696000+00:00",
+          "duration": 2.009,
           "data": {
-            "app": "MonsterHunterRise.exe",
-            "title": "Monster Hunter Rise"
+            "app": "OneCommander.exe",
+            "title": "Infinity Nikki"
+          }
+        },
+        {
+          "id": 266116,
+          "timestamp": "2026-07-05T13:11:34.664000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (64.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266115,
+          "timestamp": "2026-07-05T13:11:16.590000+00:00",
+          "duration": 17.07,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266114,
+          "timestamp": "2026-07-05T13:11:14.580000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (62.7GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266113,
+          "timestamp": "2026-07-05T13:11:02.527000+00:00",
+          "duration": 11.049,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266112,
+          "timestamp": "2026-07-05T13:10:56.499000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (62.2GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266111,
+          "timestamp": "2026-07-05T13:10:08.320000+00:00",
+          "duration": 47.175,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266110,
+          "timestamp": "2026-07-05T13:10:07.314000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266109,
+          "timestamp": "2026-07-05T13:10:04.305000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266108,
+          "timestamp": "2026-07-05T13:10:03.299000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 266107,
+          "timestamp": "2026-07-05T13:10:02.294000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266106,
+          "timestamp": "2026-07-05T13:10:01.289000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266105,
+          "timestamp": "2026-07-05T13:09:59.279000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (62.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266104,
+          "timestamp": "2026-07-05T13:09:57.268000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266103,
+          "timestamp": "2026-07-05T13:09:56.263000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266102,
+          "timestamp": "2026-07-05T13:09:53.249000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MahjongSoul"
+          }
+        },
+        {
+          "id": 266101,
+          "timestamp": "2026-07-05T13:09:40.191000+00:00",
+          "duration": 12.053,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (62.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266100,
+          "timestamp": "2026-07-05T13:09:39.185000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "common"
+          }
+        },
+        {
+          "id": 266099,
+          "timestamp": "2026-07-05T13:09:37.176000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266098,
+          "timestamp": "2026-07-05T13:09:30.143000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MUSYNX"
+          }
+        },
+        {
+          "id": 266097,
+          "timestamp": "2026-07-05T13:09:21.103000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (62.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266096,
+          "timestamp": "2026-07-05T13:09:20.099000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266095,
+          "timestamp": "2026-07-05T13:09:18.045000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266094,
+          "timestamp": "2026-07-05T13:07:39.690000+00:00",
+          "duration": 97.353,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266093,
+          "timestamp": "2026-07-05T13:07:38.687000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 95%"
+          }
+        },
+        {
+          "id": 266092,
+          "timestamp": "2026-07-05T13:07:37.679000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "已完成 48%"
+          }
+        },
+        {
+          "id": 266091,
+          "timestamp": "2026-07-05T13:07:36.676000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266090,
+          "timestamp": "2026-07-05T13:07:35.672000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266089,
+          "timestamp": "2026-07-05T13:07:31.657000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266088,
+          "timestamp": "2026-07-05T13:07:30.652000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266087,
+          "timestamp": "2026-07-05T13:07:29.647000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (55.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266086,
+          "timestamp": "2026-07-05T13:07:28.643000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "RiichiCity"
+          }
+        },
+        {
+          "id": 266085,
+          "timestamp": "2026-07-05T13:07:27.639000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 93%"
+          }
+        },
+        {
+          "id": 266084,
+          "timestamp": "2026-07-05T13:07:26.634000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "已完成 0%"
+          }
+        },
+        {
+          "id": 266083,
+          "timestamp": "2026-07-05T13:07:25.627000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "RiichiCity"
+          }
+        },
+        {
+          "id": 266082,
+          "timestamp": "2026-07-05T13:07:24.623000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "删除文件夹"
+          }
+        },
+        {
+          "id": 266081,
+          "timestamp": "2026-07-05T13:07:21.610000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "RiichiCity"
+          }
+        },
+        {
+          "id": 266080,
+          "timestamp": "2026-07-05T13:07:14.576000+00:00",
+          "duration": 6.029,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (55.8GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266079,
+          "timestamp": "2026-07-05T13:07:13.542000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (42.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266078,
+          "timestamp": "2026-07-05T13:07:12.419000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266077,
+          "timestamp": "2026-07-05T13:06:57.325000+00:00",
+          "duration": 14.09,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266076,
+          "timestamp": "2026-07-05T13:06:53.311000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (42.9GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266075,
+          "timestamp": "2026-07-05T13:06:23.189000+00:00",
+          "duration": 29.119,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266074,
+          "timestamp": "2026-07-05T13:06:22.183000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266073,
+          "timestamp": "2026-07-05T13:06:21.176000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266072,
+          "timestamp": "2026-07-05T13:03:54.649000+00:00",
+          "duration": 145.523,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266071,
+          "timestamp": "2026-07-05T13:03:46.619000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266070,
+          "timestamp": "2026-07-05T13:03:18.508000+00:00",
+          "duration": 27.106,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "登录 Steam"
+          }
+        },
+        {
+          "id": 266069,
+          "timestamp": "2026-07-05T13:03:13.487000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266068,
+          "timestamp": "2026-07-05T13:03:04.446000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "steam.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266067,
+          "timestamp": "2026-07-05T13:03:03.441000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 266066,
+          "timestamp": "2026-07-05T13:02:59.426000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 266065,
+          "timestamp": "2026-07-05T13:02:58.422000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 266064,
+          "timestamp": "2026-07-05T13:02:55.408000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266063,
+          "timestamp": "2026-07-05T13:02:33.335000+00:00",
+          "duration": 21.07,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - Ready]"
+          }
+        },
+        {
+          "id": 266062,
+          "timestamp": "2026-07-05T13:02:32.327000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 98%]"
+          }
+        },
+        {
+          "id": 266061,
+          "timestamp": "2026-07-05T13:02:29.316000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 97%]"
+          }
+        },
+        {
+          "id": 266060,
+          "timestamp": "2026-07-05T13:02:28.312000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 78%]"
+          }
+        },
+        {
+          "id": 266059,
+          "timestamp": "2026-07-05T13:02:27.309000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 77%]"
+          }
+        },
+        {
+          "id": 266058,
+          "timestamp": "2026-07-05T13:02:26.305000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 71%]"
+          }
+        },
+        {
+          "id": 266057,
+          "timestamp": "2026-07-05T13:02:25.300000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 60%]"
+          }
+        },
+        {
+          "id": 266056,
+          "timestamp": "2026-07-05T13:02:24.293000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 36%]"
+          }
+        },
+        {
+          "id": 266055,
+          "timestamp": "2026-07-05T13:02:22.288000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 31%]"
+          }
+        },
+        {
+          "id": 266054,
+          "timestamp": "2026-07-05T13:02:21.282000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 5%]"
+          }
+        },
+        {
+          "id": 266053,
+          "timestamp": "2026-07-05T13:02:14.255000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 3%]"
+          }
+        },
+        {
+          "id": 266052,
+          "timestamp": "2026-07-05T13:02:13.250000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 2%]"
+          }
+        },
+        {
+          "id": 266051,
+          "timestamp": "2026-07-05T13:02:12.245000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "SpaceSniffer 1.3.0.2 - www.uderzo.it - [软件 (D:) (17.1GB Free Space) - full scan 0%]"
+          }
+        },
+        {
+          "id": 266050,
+          "timestamp": "2026-07-05T13:02:09.235000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "SpaceSniffer.exe",
+            "title": "Choose your Space"
+          }
+        },
+        {
+          "id": 266049,
+          "timestamp": "2026-07-05T13:02:04.216000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266048,
+          "timestamp": "2026-07-05T13:02:02.207000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "wincleaner.exe",
+            "title": "WindowsCleaner v5.0"
+          }
+        },
+        {
+          "id": 266047,
+          "timestamp": "2026-07-05T13:01:55.181000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WindowsCleaner"
+          }
+        },
+        {
+          "id": 266046,
+          "timestamp": "2026-07-05T13:01:53.175000+00:00",
+          "duration": 1.002,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266045,
+          "timestamp": "2026-07-05T13:01:52.170000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WiseDiskCleaner"
+          }
+        },
+        {
+          "id": 266044,
+          "timestamp": "2026-07-05T13:01:51.166000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 266043,
+          "timestamp": "2026-07-05T13:01:50.160000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266042,
+          "timestamp": "2026-07-05T13:01:26.085000+00:00",
+          "duration": 23.072,
+          "data": {
+            "app": "WiseDiskCleaner.exe",
+            "title": "Wise Disk Cleaner 11 "
+          }
+        },
+        {
+          "id": 266041,
+          "timestamp": "2026-07-05T13:01:22.028000+00:00",
+          "duration": 3.053,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WiseDiskCleaner"
+          }
+        },
+        {
+          "id": 266040,
+          "timestamp": "2026-07-05T12:59:51.718000+00:00",
+          "duration": 89.308,
+          "data": {
+            "app": "WiseDiskCleaner.exe",
+            "title": "Wise Disk Cleaner 11 "
+          }
+        },
+        {
+          "id": 266039,
+          "timestamp": "2026-07-05T12:59:49.712000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "WiseDiskCleaner"
+          }
+        },
+        {
+          "id": 266038,
+          "timestamp": "2026-07-05T12:59:43.690000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266037,
+          "timestamp": "2026-07-05T12:59:42.684000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266036,
+          "timestamp": "2026-07-05T12:59:40.676000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Ample Sound 属性"
+          }
+        },
+        {
+          "id": 266035,
+          "timestamp": "2026-07-05T12:59:39.673000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266034,
+          "timestamp": "2026-07-05T12:59:37.666000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "AGSC_Library 属性"
+          }
+        },
+        {
+          "id": 266033,
+          "timestamp": "2026-07-05T12:59:35.658000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266032,
+          "timestamp": "2026-07-05T12:59:33.650000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Addictive Drums 2 属性"
+          }
+        },
+        {
+          "id": 266031,
+          "timestamp": "2026-07-05T12:59:31.642000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266030,
+          "timestamp": "2026-07-05T12:59:30.637000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Decent Sampler 属性"
+          }
+        },
+        {
+          "id": 266029,
+          "timestamp": "2026-07-05T12:59:28.627000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266028,
+          "timestamp": "2026-07-05T12:59:27.623000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "HY-MBMFX_free_x64 属性"
+          }
+        },
+        {
+          "id": 266027,
+          "timestamp": "2026-07-05T12:59:15.572000+00:00",
+          "duration": 11.048,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "VST"
+          }
+        },
+        {
+          "id": 266026,
+          "timestamp": "2026-07-05T12:59:13.562000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266025,
+          "timestamp": "2026-07-05T12:59:11.554000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Administrator"
+          }
+        },
+        {
+          "id": 266024,
+          "timestamp": "2026-07-05T12:59:10.549000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Users"
+          }
+        },
+        {
+          "id": 266023,
+          "timestamp": "2026-07-05T12:59:05.531000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266022,
+          "timestamp": "2026-07-05T12:59:03.523000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266021,
+          "timestamp": "2026-07-05T12:59:02.518000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QClaw.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266020,
+          "timestamp": "2026-07-05T12:59:01.514000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266019,
+          "timestamp": "2026-07-05T12:59:00.508000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 266018,
+          "timestamp": "2026-07-05T12:58:59.499000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QClaw.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266017,
+          "timestamp": "2026-07-05T12:58:57.489000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266016,
+          "timestamp": "2026-07-05T12:58:55.478000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "QClaw.exe",
+            "title": "QClaw"
+          }
+        },
+        {
+          "id": 266015,
+          "timestamp": "2026-07-05T12:58:53.471000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 266014,
+          "timestamp": "2026-07-05T12:58:52.465000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 266013,
+          "timestamp": "2026-07-05T12:58:44.437000+00:00",
+          "duration": 7.025,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 266012,
+          "timestamp": "2026-07-05T12:58:43.431000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 266011,
+          "timestamp": "2026-07-05T12:58:41.424000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266010,
+          "timestamp": "2026-07-05T12:58:40.420000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266009,
+          "timestamp": "2026-07-05T12:58:38.409000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 266008,
+          "timestamp": "2026-07-05T12:58:33.391000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266007,
+          "timestamp": "2026-07-05T12:58:30.381000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 266006,
+          "timestamp": "2026-07-05T12:57:05.073000+00:00",
+          "duration": 84.305,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 266004,
+          "timestamp": "2026-07-05T12:56:27.938000+00:00",
+          "duration": 36.13,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266001,
+          "timestamp": "2026-07-05T12:32:49.197000+00:00",
+          "duration": 1417.737,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
+          }
+        },
+        {
+          "id": 265999,
+          "timestamp": "2026-07-05T12:32:34.132000+00:00",
+          "duration": 14.061,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16416) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 265994,
+          "timestamp": "2026-07-05T12:00:05.844000+00:00",
+          "duration": 1947.284,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-05T12:00:07.487794",
+    "export_time": "2026-07-06T00:00:08.012198",
     "time_range": {
-      "start": "2026-07-05T00:00:05.369593",
-      "end": "2026-07-05T12:00:05.369593"
+      "start": "2026-07-05T12:00:05.844168",
+      "end": "2026-07-06T00:00:05.844168"
     },
-    "total_events": 39
+    "total_events": 388
   }
 }
