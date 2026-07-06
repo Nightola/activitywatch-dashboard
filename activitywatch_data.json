@@ -5,1067 +5,446 @@
       "type": "window",
       "events": [
         {
-          "id": 266671,
-          "timestamp": "2026-07-06T03:12:22.522000+00:00",
-          "duration": 2858.016,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266670,
-          "timestamp": "2026-07-06T03:12:20.516000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266668,
-          "timestamp": "2026-07-06T03:11:09.251000+00:00",
-          "duration": 70.26,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266667,
-          "timestamp": "2026-07-06T03:11:06.236000+00:00",
-          "duration": 2.012,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266663,
-          "timestamp": "2026-07-06T02:49:45.429000+00:00",
-          "duration": 1279.803,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266662,
-          "timestamp": "2026-07-06T02:49:13.326000+00:00",
-          "duration": 31.099,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266661,
-          "timestamp": "2026-07-06T02:49:07.308000+00:00",
-          "duration": 5.015,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266660,
-          "timestamp": "2026-07-06T02:49:02.290000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266659,
-          "timestamp": "2026-07-06T02:48:31.187000+00:00",
-          "duration": 30.1,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266658,
-          "timestamp": "2026-07-06T02:48:06.100000+00:00",
-          "duration": 24.083,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266657,
-          "timestamp": "2026-07-06T02:47:56.067000+00:00",
-          "duration": 9.029,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266656,
-          "timestamp": "2026-07-06T02:47:49.042000+00:00",
-          "duration": 6.02,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266655,
-          "timestamp": "2026-07-06T02:47:30.980000+00:00",
-          "duration": 17.058,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266653,
-          "timestamp": "2026-07-06T02:47:08.890000+00:00",
-          "duration": 21.087,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266650,
-          "timestamp": "2026-07-06T02:43:31.101000+00:00",
-          "duration": 216.786,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266649,
-          "timestamp": "2026-07-06T02:43:26.078000+00:00",
-          "duration": 4.019,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266648,
-          "timestamp": "2026-07-06T02:43:21.049000+00:00",
-          "duration": 4.026,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266647,
-          "timestamp": "2026-07-06T02:43:20.045000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266644,
-          "timestamp": "2026-07-06T02:22:01.975000+00:00",
-          "duration": 1277.066,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266643,
-          "timestamp": "2026-07-06T02:22:00.971000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 266642,
-          "timestamp": "2026-07-06T02:21:58.963000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266641,
-          "timestamp": "2026-07-06T02:19:30.471000+00:00",
-          "duration": 147.489,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266640,
-          "timestamp": "2026-07-06T02:19:22.211000+00:00",
-          "duration": 7.257,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 266639,
-          "timestamp": "2026-07-06T02:19:19.165000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266638,
-          "timestamp": "2026-07-06T02:19:18.161000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 266637,
-          "timestamp": "2026-07-06T02:19:15.110000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-101908-970.png [35/35] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266636,
-          "timestamp": "2026-07-06T02:19:14.106000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266635,
-          "timestamp": "2026-07-06T02:19:13.101000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266634,
-          "timestamp": "2026-07-06T02:19:11.092000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266633,
-          "timestamp": "2026-07-06T02:19:09.082000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266632,
-          "timestamp": "2026-07-06T02:19:07.075000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266631,
-          "timestamp": "2026-07-06T02:19:02.057000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266629,
-          "timestamp": "2026-07-06T02:18:59.048000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266628,
-          "timestamp": "2026-07-06T02:18:57.039000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-100931-475.png [34/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266627,
-          "timestamp": "2026-07-06T02:18:56.035000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266624,
-          "timestamp": "2026-07-06T02:14:04.096000+00:00",
-          "duration": 290.934,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266623,
-          "timestamp": "2026-07-06T02:14:02.088000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266622,
-          "timestamp": "2026-07-06T02:14:01.085000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-092257-255.png [33/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266621,
-          "timestamp": "2026-07-06T02:14:00.079000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266620,
-          "timestamp": "2026-07-06T02:13:45.028000+00:00",
-          "duration": 14.047,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266619,
-          "timestamp": "2026-07-06T02:13:44.023000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 266618,
-          "timestamp": "2026-07-06T02:13:42.979000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu12-20251218-160824.png [2/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266617,
-          "timestamp": "2026-07-06T02:13:41.975000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu12-20251218-160729.png [1/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266616,
-          "timestamp": "2026-07-06T02:13:40.971000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-092257-255.png [33/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266615,
-          "timestamp": "2026-07-06T02:13:39.963000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-090547-989.png [31/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266614,
-          "timestamp": "2026-07-06T02:13:38.959000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266613,
-          "timestamp": "2026-07-06T02:13:37.953000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266612,
-          "timestamp": "2026-07-06T02:13:35.912000+00:00",
-          "duration": 1.039,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 266611,
-          "timestamp": "2026-07-06T02:13:30.857000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266610,
-          "timestamp": "2026-07-06T02:13:28.851000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266609,
-          "timestamp": "2026-07-06T02:13:26.843000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-084141-839.png [29/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266608,
-          "timestamp": "2026-07-06T02:13:25.838000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266607,
-          "timestamp": "2026-07-06T02:13:24.835000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-090537-156.png [30/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266606,
-          "timestamp": "2026-07-06T02:13:23.828000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266605,
-          "timestamp": "2026-07-06T02:13:21.820000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-090547-989.png [31/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266604,
-          "timestamp": "2026-07-06T02:13:20.814000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266603,
-          "timestamp": "2026-07-06T02:13:18.805000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-092250-063.png [32/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266602,
-          "timestamp": "2026-07-06T02:13:17.801000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266601,
-          "timestamp": "2026-07-06T02:13:15.792000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-092257-255.png [33/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266600,
-          "timestamp": "2026-07-06T02:13:14.788000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266599,
-          "timestamp": "2026-07-06T02:13:11.775000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "Honeyview32.exe",
-            "title": "Screenshots  > MuMu-20260706-100931-475.png [34/34] - Honeyview 5.51 (Portable)"
-          }
-        },
-        {
-          "id": 266598,
-          "timestamp": "2026-07-06T02:13:07.761000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "Screenshots"
-          }
-        },
-        {
-          "id": 266597,
-          "timestamp": "2026-07-06T02:13:05.755000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MuMu共享文件夹"
-          }
-        },
-        {
-          "id": 266596,
-          "timestamp": "2026-07-06T02:13:03.744000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266595,
-          "timestamp": "2026-07-06T02:12:55.715000+00:00",
-          "duration": 7.026,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266594,
-          "timestamp": "2026-07-06T02:12:54.710000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266593,
-          "timestamp": "2026-07-06T02:12:53.705000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 266592,
-          "timestamp": "2026-07-06T02:12:52.701000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 266591,
-          "timestamp": "2026-07-06T02:12:51.695000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 266590,
-          "timestamp": "2026-07-06T02:12:46.680000+00:00",
-          "duration": 4.012,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64"
-          }
-        },
-        {
-          "id": 266589,
-          "timestamp": "2026-07-06T02:12:40.661000+00:00",
-          "duration": 5.015,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266588,
-          "timestamp": "2026-07-06T02:12:36.648000+00:00",
-          "duration": 3.009,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266587,
-          "timestamp": "2026-07-06T02:12:24.610000+00:00",
-          "duration": 11.035,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266586,
-          "timestamp": "2026-07-06T02:12:23.606000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266585,
-          "timestamp": "2026-07-06T02:12:22.601000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266584,
-          "timestamp": "2026-07-06T02:12:14.578000+00:00",
-          "duration": 7.02,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266583,
-          "timestamp": "2026-07-06T02:12:11.569000+00:00",
-          "duration": 2.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 266582,
-          "timestamp": "2026-07-06T02:12:07.555000+00:00",
-          "duration": 3.01,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
-          }
-        },
-        {
-          "id": 266581,
-          "timestamp": "2026-07-06T02:11:40.479000+00:00",
-          "duration": 26.074,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MuMu共享文件夹"
-          }
-        },
-        {
-          "id": 266580,
-          "timestamp": "2026-07-06T02:11:39.474000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266579,
-          "timestamp": "2026-07-06T02:11:38.471000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MuMu共享文件夹"
-          }
-        },
-        {
-          "id": 266578,
-          "timestamp": "2026-07-06T02:11:36.461000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266577,
-          "timestamp": "2026-07-06T02:11:18.403000+00:00",
-          "duration": 17.055,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266576,
-          "timestamp": "2026-07-06T02:09:32.073000+00:00",
-          "duration": 105.328,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266575,
-          "timestamp": "2026-07-06T02:09:29.062000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266574,
-          "timestamp": "2026-07-06T02:09:28.059000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266573,
-          "timestamp": "2026-07-06T02:09:25.050000+00:00",
-          "duration": 2.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 266572,
-          "timestamp": "2026-07-06T02:09:24.045000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266571,
-          "timestamp": "2026-07-06T02:09:23.041000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 266568,
-          "timestamp": "2026-07-06T02:02:53.912000+00:00",
-          "duration": 388.126,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266567,
-          "timestamp": "2026-07-06T02:02:51.905000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MAA.exe",
-            "title": "公告"
-          }
-        },
-        {
-          "id": 266566,
-          "timestamp": "2026-07-06T02:02:50.901000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 266565,
-          "timestamp": "2026-07-06T01:22:57.380000+00:00",
-          "duration": 2392.481,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266564,
-          "timestamp": "2026-07-06T01:22:55.372000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266563,
-          "timestamp": "2026-07-06T01:22:50.355000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266562,
-          "timestamp": "2026-07-06T01:22:47.345000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266561,
-          "timestamp": "2026-07-06T01:05:48.213000+00:00",
-          "duration": 1018.129,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266560,
-          "timestamp": "2026-07-06T01:05:44.202000+00:00",
-          "duration": 3.009,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266559,
-          "timestamp": "2026-07-06T01:05:37.180000+00:00",
+          "id": 266836,
+          "timestamp": "2026-07-06T15:59:54.350000+00:00",
           "duration": 6.017,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 266558,
-          "timestamp": "2026-07-06T01:05:35.173000+00:00",
-          "duration": 1.004,
+          "id": 266791,
+          "timestamp": "2026-07-06T14:20:03.400000+00:00",
+          "duration": 5989.947,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
+            "title": "MuMu安卓设备-1-1"
           }
         },
         {
-          "id": 266553,
-          "timestamp": "2026-07-06T00:41:42.666000+00:00",
-          "duration": 1431.502,
+          "id": 266790,
+          "timestamp": "2026-07-06T14:20:00.392000+00:00",
+          "duration": 2.006,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
           }
         },
         {
-          "id": 266552,
-          "timestamp": "2026-07-06T00:41:37.650000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266546,
-          "timestamp": "2026-07-06T00:30:41.754000+00:00",
-          "duration": 654.894,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266545,
-          "timestamp": "2026-07-06T00:30:38.742000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 266544,
-          "timestamp": "2026-07-06T00:30:35.732000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266543,
-          "timestamp": "2026-07-06T00:30:34.729000+00:00",
+          "id": 266789,
+          "timestamp": "2026-07-06T14:19:59.388000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 266542,
-          "timestamp": "2026-07-06T00:30:32.724000+00:00",
+          "id": 266788,
+          "timestamp": "2026-07-06T14:19:42.334000+00:00",
+          "duration": 16.051,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 266786,
+          "timestamp": "2026-07-06T14:19:22.275000+00:00",
+          "duration": 19.057,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266778,
+          "timestamp": "2026-07-06T14:11:10.880000+00:00",
+          "duration": 490.393,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 266775,
+          "timestamp": "2026-07-06T14:11:08.875000+00:00",
           "duration": 1.003,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "title": "MuMu安卓设备-1-1"
           }
         },
         {
-          "id": 266541,
-          "timestamp": "2026-07-06T00:30:26.704000+00:00",
-          "duration": 5.016,
+          "id": 266774,
+          "timestamp": "2026-07-06T14:11:05.863000+00:00",
+          "duration": 2.008,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
           }
         },
         {
-          "id": 266540,
-          "timestamp": "2026-07-06T00:30:24.697000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266539,
-          "timestamp": "2026-07-06T00:30:18.679000+00:00",
-          "duration": 5.015,
+          "id": 266773,
+          "timestamp": "2026-07-06T14:11:02.853000+00:00",
+          "duration": 2.008,
           "data": {
             "app": "MAA.exe",
-            "title": "公告"
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 266538,
-          "timestamp": "2026-07-06T00:29:40.570000+00:00",
-          "duration": 37.107,
+          "id": 266772,
+          "timestamp": "2026-07-06T14:10:56.832000+00:00",
+          "duration": 5.018,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
           }
         },
         {
-          "id": 266537,
-          "timestamp": "2026-07-06T00:29:36.558000+00:00",
-          "duration": 3.009,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266536,
-          "timestamp": "2026-07-06T00:27:15.034000+00:00",
-          "duration": 140.52,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
-          }
-        },
-        {
-          "id": 266534,
-          "timestamp": "2026-07-06T00:26:16.814000+00:00",
-          "duration": 57.217,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 266533,
-          "timestamp": "2026-07-06T00:26:15.810000+00:00",
+          "id": 266771,
+          "timestamp": "2026-07-06T14:10:55.829000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "explorer.exe",
+            "app": "chrome.exe",
+            "title": "已添加书签"
+          }
+        },
+        {
+          "id": 266770,
+          "timestamp": "2026-07-06T14:10:41.787000+00:00",
+          "duration": 13.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 266769,
+          "timestamp": "2026-07-06T14:10:40.783000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266768,
+          "timestamp": "2026-07-06T14:10:38.777000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "自动战斗 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266767,
+          "timestamp": "2026-07-06T14:10:33.761000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "连接设置 | 用户手册 | MAA 文档站 - Cent Browser"
+          }
+        },
+        {
+          "id": 266766,
+          "timestamp": "2026-07-06T14:10:26.742000+00:00",
+          "duration": 6.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "历史记录 - Cent Browser"
+          }
+        },
+        {
+          "id": 266765,
+          "timestamp": "2026-07-06T14:10:25.738000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266764,
+          "timestamp": "2026-07-06T14:10:13.699000+00:00",
+          "duration": 11.034,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 266763,
+          "timestamp": "2026-07-06T14:10:11.694000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 266762,
+          "timestamp": "2026-07-06T14:10:10.689000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
             "title": ""
           }
         },
         {
-          "id": 266532,
-          "timestamp": "2026-07-06T00:26:13.804000+00:00",
-          "duration": 1.004,
+          "id": 266761,
+          "timestamp": "2026-07-06T14:09:32.543000+00:00",
+          "duration": 37.1,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备-1"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 266528,
-          "timestamp": "2026-07-06T00:00:04.326000+00:00",
-          "duration": 1568.475,
+          "id": 266760,
+          "timestamp": "2026-07-06T14:03:25.586000+00:00",
+          "duration": 365.955,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266759,
+          "timestamp": "2026-07-06T14:03:21.574000+00:00",
+          "duration": 3.01,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0626 - MuMu 模拟器 (16416) - 官服"
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266758,
+          "timestamp": "2026-07-06T14:03:20.570000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266757,
+          "timestamp": "2026-07-06T14:03:15.556000+00:00",
+          "duration": 4.012,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266756,
+          "timestamp": "2026-07-06T14:03:14.552000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266751,
+          "timestamp": "2026-07-06T12:58:27.936000+00:00",
+          "duration": 3885.576,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266750,
+          "timestamp": "2026-07-06T12:58:25.925000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266749,
+          "timestamp": "2026-07-06T12:58:23.916000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266748,
+          "timestamp": "2026-07-06T12:58:22.911000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MonsterHunterRise.exe",
+            "title": "Monster Hunter Rise"
+          }
+        },
+        {
+          "id": 266747,
+          "timestamp": "2026-07-06T12:58:08.850000+00:00",
+          "duration": 13.055,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266746,
+          "timestamp": "2026-07-06T12:58:05.839000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "启动中..."
+          }
+        },
+        {
+          "id": 266745,
+          "timestamp": "2026-07-06T12:57:58.808000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 266744,
+          "timestamp": "2026-07-06T12:57:34.721000+00:00",
+          "duration": 23.083,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "登录 Steam"
+          }
+        },
+        {
+          "id": 266743,
+          "timestamp": "2026-07-06T12:57:31.704000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266742,
+          "timestamp": "2026-07-06T12:57:29.690000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 266741,
+          "timestamp": "2026-07-06T12:57:24.674000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266740,
+          "timestamp": "2026-07-06T12:57:23.670000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 266739,
+          "timestamp": "2026-07-06T12:57:22.666000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266738,
+          "timestamp": "2026-07-06T12:57:21.662000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266737,
+          "timestamp": "2026-07-06T12:52:28.510000+00:00",
+          "duration": 292.148,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266736,
+          "timestamp": "2026-07-06T12:52:26.502000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 266735,
+          "timestamp": "2026-07-06T12:52:23.491000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 266734,
+          "timestamp": "2026-07-06T12:52:21.483000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
+          }
+        },
+        {
+          "id": 266732,
+          "timestamp": "2026-07-06T12:52:18.468000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 衛戍協議：盟約#0626 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 266731,
+          "timestamp": "2026-07-06T12:52:17.464000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 266726,
+          "timestamp": "2026-07-06T12:00:04.058000+00:00",
+          "duration": 3132.356,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备-1-1"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-06T12:00:06.414159",
+    "export_time": "2026-07-07T00:00:06.123181",
     "time_range": {
-      "start": "2026-07-06T00:00:04.326885",
-      "end": "2026-07-06T12:00:04.326885"
+      "start": "2026-07-06T12:00:04.058555",
+      "end": "2026-07-07T00:00:04.058555"
     },
-    "total_events": 117
+    "total_events": 48
   }
 }
