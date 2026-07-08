@@ -5,86 +5,32 @@
       "type": "window",
       "events": [
         {
-          "id": 267831,
-          "timestamp": "2026-07-08T04:00:01.132000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 267785,
-          "timestamp": "2026-07-08T02:18:35.552000+00:00",
-          "duration": 6084.573,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 267784,
-          "timestamp": "2026-07-08T02:18:34.547000+00:00",
-          "duration": 0.0,
+          "id": 268058,
+          "timestamp": "2026-07-08T13:13:11.985000+00:00",
+          "duration": 10009.141,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 267783,
-          "timestamp": "2026-07-08T02:18:33.543000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 267782,
-          "timestamp": "2026-07-08T02:18:32.538000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Windows Shell Experience 主机"
-          }
-        },
-        {
-          "id": 267767,
-          "timestamp": "2026-07-08T01:44:13.384000+00:00",
-          "duration": 2058.149,
+          "id": 267963,
+          "timestamp": "2026-07-08T12:00:04.037000+00:00",
+          "duration": 4386.944,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟国服"
-          }
-        },
-        {
-          "id": 267754,
-          "timestamp": "2026-07-08T01:22:40.332000+00:00",
-          "duration": 1288.459,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 267714,
-          "timestamp": "2026-07-08T00:00:04.144000+00:00",
-          "duration": 4955.185,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-08T12:00:06.227785",
+    "export_time": "2026-07-09T00:00:06.107161",
     "time_range": {
-      "start": "2026-07-08T00:00:04.144782",
-      "end": "2026-07-08T12:00:04.144782"
+      "start": "2026-07-08T12:00:04.037055",
+      "end": "2026-07-09T00:00:04.037055"
     },
-    "total_events": 8
+    "total_events": 2
   }
 }
