@@ -5,31 +5,31 @@
       "type": "window",
       "events": [
         {
-          "id": 268712,
-          "timestamp": "2026-07-09T13:13:47.780000+00:00",
-          "duration": 9973.282,
+          "id": 269003,
+          "timestamp": "2026-07-10T04:00:01.150000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
           }
         },
         {
-          "id": 268659,
-          "timestamp": "2026-07-09T12:00:05.357000+00:00",
-          "duration": 4421.419,
+          "id": 268861,
+          "timestamp": "2026-07-10T00:00:04.031000+00:00",
+          "duration": 14396.115,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "explorer.exe",
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-10T00:00:07.426911",
+    "export_time": "2026-07-10T12:00:06.095691",
     "time_range": {
-      "start": "2026-07-09T12:00:05.357607",
-      "end": "2026-07-10T00:00:05.357607"
+      "start": "2026-07-10T00:00:04.031923",
+      "end": "2026-07-10T12:00:04.031923"
     },
     "total_events": 2
   }
