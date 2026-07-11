@@ -5,131 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 269248,
-          "timestamp": "2026-07-10T13:55:34.162000+00:00",
-          "duration": 7466.59,
+          "id": 269431,
+          "timestamp": "2026-07-11T00:00:04.035000+00:00",
+          "duration": 14396.715,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 269247,
-          "timestamp": "2026-07-10T13:55:00.043000+00:00",
-          "duration": 33.116,
-          "data": {
-            "app": "6.9.7.761.tmp",
-            "title": "安装"
-          }
-        },
-        {
-          "id": 269231,
-          "timestamp": "2026-07-10T13:06:19.971000+00:00",
-          "duration": 2919.069,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 269230,
-          "timestamp": "2026-07-10T13:06:17.963000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 269225,
-          "timestamp": "2026-07-10T13:01:33.883000+00:00",
-          "duration": 283.076,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 269224,
-          "timestamp": "2026-07-10T13:01:32.879000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 269219,
-          "timestamp": "2026-07-10T12:56:47.749000+00:00",
-          "duration": 284.045,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 269218,
-          "timestamp": "2026-07-10T12:56:37.712000+00:00",
-          "duration": 9.034,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 269217,
-          "timestamp": "2026-07-10T12:56:29.681000+00:00",
-          "duration": 7.027,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 269216,
-          "timestamp": "2026-07-10T12:56:25.666000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 269214,
-          "timestamp": "2026-07-10T12:56:20.647000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 269213,
-          "timestamp": "2026-07-10T12:56:15.627000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 269147,
-          "timestamp": "2026-07-10T12:00:04.232000+00:00",
-          "duration": 3370.392,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-11T00:00:06.291458",
+    "export_time": "2026-07-11T12:00:06.090699",
     "time_range": {
-      "start": "2026-07-10T12:00:04.232895",
-      "end": "2026-07-11T00:00:04.232895"
+      "start": "2026-07-11T00:00:04.035917",
+      "end": "2026-07-11T12:00:04.035917"
     },
-    "total_events": 13
+    "total_events": 1
   }
 }
