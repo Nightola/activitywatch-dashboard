@@ -5,32 +5,104 @@
       "type": "window",
       "events": [
         {
-          "id": 269963,
-          "timestamp": "2026-07-13T04:00:01.111000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 269958,
-          "timestamp": "2026-07-13T00:00:03.726000+00:00",
-          "duration": 14396.381,
+          "id": 270043,
+          "timestamp": "2026-07-13T14:04:13.341000+00:00",
+          "duration": 6947.772,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270042,
+          "timestamp": "2026-07-13T14:04:12.336000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 270041,
+          "timestamp": "2026-07-13T14:04:10.328000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270040,
+          "timestamp": "2026-07-13T14:04:09.323000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 270039,
+          "timestamp": "2026-07-13T13:54:25.215000+00:00",
+          "duration": 583.105,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 270038,
+          "timestamp": "2026-07-13T13:53:57.104000+00:00",
+          "duration": 27.105,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270037,
+          "timestamp": "2026-07-13T13:51:14.449000+00:00",
+          "duration": 161.651,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 270036,
+          "timestamp": "2026-07-13T13:51:08.427000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270034,
+          "timestamp": "2026-07-13T13:18:50.503000+00:00",
+          "duration": 1936.918,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 270030,
+          "timestamp": "2026-07-13T12:00:04.242000+00:00",
+          "duration": 4725.256,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-13T12:00:05.791578",
+    "export_time": "2026-07-14T00:00:06.317665",
     "time_range": {
-      "start": "2026-07-13T00:00:03.726384",
-      "end": "2026-07-13T12:00:03.726384"
+      "start": "2026-07-13T12:00:04.242864",
+      "end": "2026-07-14T00:00:04.242864"
     },
-    "total_events": 2
+    "total_events": 10
   }
 }
