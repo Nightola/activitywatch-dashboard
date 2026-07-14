@@ -5,50 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 270081,
-          "timestamp": "2026-07-14T01:41:21.586000+00:00",
-          "duration": 8319.012,
+          "id": 270120,
+          "timestamp": "2026-07-14T12:00:03.722000+00:00",
+          "duration": 14397.169,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 270078,
-          "timestamp": "2026-07-14T00:00:35.146000+00:00",
-          "duration": 6041.867,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 270077,
-          "timestamp": "2026-07-14T00:00:33.137000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 270076,
-          "timestamp": "2026-07-14T00:00:03.686000+00:00",
-          "duration": 28.448,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "OneCommander.exe",
+            "title": "LocalSend"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-14T12:00:05.758677",
+    "export_time": "2026-07-15T00:00:05.777332",
     "time_range": {
-      "start": "2026-07-14T00:00:03.686839",
-      "end": "2026-07-14T12:00:03.686839"
+      "start": "2026-07-14T12:00:03.722620",
+      "end": "2026-07-15T00:00:03.722620"
     },
-    "total_events": 4
+    "total_events": 1
   }
 }
