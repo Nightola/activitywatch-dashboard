@@ -5,95 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 270144,
-          "timestamp": "2026-07-15T02:18:34.470000+00:00",
-          "duration": 6085.968,
+          "id": 270195,
+          "timestamp": "2026-07-15T12:00:03.756000+00:00",
+          "duration": 14397.205,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 270143,
-          "timestamp": "2026-07-15T02:18:19.428000+00:00",
-          "duration": 14.04,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 270142,
-          "timestamp": "2026-07-15T02:18:17.422000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 270141,
-          "timestamp": "2026-07-15T02:18:14.413000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 270140,
-          "timestamp": "2026-07-15T02:18:12.407000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 270139,
-          "timestamp": "2026-07-15T02:14:13.756000+00:00",
-          "duration": 237.648,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 270137,
-          "timestamp": "2026-07-15T02:14:03.725000+00:00",
-          "duration": 9.028,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 270136,
-          "timestamp": "2026-07-15T02:14:02.721000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 270132,
-          "timestamp": "2026-07-15T00:00:03.720000+00:00",
-          "duration": 8037.999,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "LocalSend"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-15T12:00:05.783420",
+    "export_time": "2026-07-16T00:00:05.824776",
     "time_range": {
-      "start": "2026-07-15T00:00:03.720419",
-      "end": "2026-07-15T12:00:03.720419"
+      "start": "2026-07-15T12:00:03.756028",
+      "end": "2026-07-16T00:00:03.756028"
     },
-    "total_events": 9
+    "total_events": 1
   }
 }
