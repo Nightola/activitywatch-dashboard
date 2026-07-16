@@ -5,23 +5,1499 @@
       "type": "window",
       "events": [
         {
-          "id": 270218,
-          "timestamp": "2026-07-16T00:00:03.958000+00:00",
-          "duration": 14396.742,
+          "id": 270596,
+          "timestamp": "2026-07-16T14:08:24.428000+00:00",
+          "duration": 6696.491,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 270595,
+          "timestamp": "2026-07-16T14:08:21.418000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "7zg.exe",
+            "title": "100% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270594,
+          "timestamp": "2026-07-16T14:07:53.324000+00:00",
+          "duration": 27.091,
+          "data": {
+            "app": "7zg.exe",
+            "title": "99% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270593,
+          "timestamp": "2026-07-16T14:07:38.273000+00:00",
+          "duration": 14.049,
+          "data": {
+            "app": "7zg.exe",
+            "title": "98% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270592,
+          "timestamp": "2026-07-16T14:07:23.220000+00:00",
+          "duration": 14.05,
+          "data": {
+            "app": "7zg.exe",
+            "title": "97% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270591,
+          "timestamp": "2026-07-16T14:07:07.163000+00:00",
+          "duration": 15.055,
+          "data": {
+            "app": "7zg.exe",
+            "title": "96% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270590,
+          "timestamp": "2026-07-16T14:06:50.104000+00:00",
+          "duration": 16.056,
+          "data": {
+            "app": "7zg.exe",
+            "title": "95% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270588,
+          "timestamp": "2026-07-16T14:06:31.040000+00:00",
+          "duration": 18.061,
+          "data": {
+            "app": "7zg.exe",
+            "title": "94% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270587,
+          "timestamp": "2026-07-16T14:06:13.986000+00:00",
+          "duration": 16.051,
+          "data": {
+            "app": "7zg.exe",
+            "title": "93% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270586,
+          "timestamp": "2026-07-16T14:05:50.909000+00:00",
+          "duration": 22.074,
+          "data": {
+            "app": "7zg.exe",
+            "title": "92% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270585,
+          "timestamp": "2026-07-16T14:05:27.829000+00:00",
+          "duration": 22.076,
+          "data": {
+            "app": "7zg.exe",
+            "title": "91% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270584,
+          "timestamp": "2026-07-16T14:05:11.778000+00:00",
+          "duration": 15.048,
+          "data": {
+            "app": "7zg.exe",
+            "title": "90% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270582,
+          "timestamp": "2026-07-16T14:04:49.703000+00:00",
+          "duration": 21.071,
+          "data": {
+            "app": "7zg.exe",
+            "title": "89% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270581,
+          "timestamp": "2026-07-16T14:04:25.616000+00:00",
+          "duration": 23.085,
+          "data": {
+            "app": "7zg.exe",
+            "title": "88% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270580,
+          "timestamp": "2026-07-16T14:04:07.556000+00:00",
+          "duration": 17.057,
+          "data": {
+            "app": "7zg.exe",
+            "title": "87% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270579,
+          "timestamp": "2026-07-16T14:03:46.483000+00:00",
+          "duration": 20.068,
+          "data": {
+            "app": "7zg.exe",
+            "title": "86% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270578,
+          "timestamp": "2026-07-16T14:03:29.423000+00:00",
+          "duration": 16.056,
+          "data": {
+            "app": "7zg.exe",
+            "title": "85% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270577,
+          "timestamp": "2026-07-16T14:03:07.343000+00:00",
+          "duration": 21.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "84% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270576,
+          "timestamp": "2026-07-16T14:02:43.263000+00:00",
+          "duration": 23.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "83% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270574,
+          "timestamp": "2026-07-16T14:02:23.197000+00:00",
+          "duration": 19.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "82% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270573,
+          "timestamp": "2026-07-16T14:02:05.134000+00:00",
+          "duration": 17.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "81% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270572,
+          "timestamp": "2026-07-16T14:01:44.059000+00:00",
+          "duration": 20.07,
+          "data": {
+            "app": "7zg.exe",
+            "title": "80% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270571,
+          "timestamp": "2026-07-16T14:01:25.999000+00:00",
+          "duration": 17.056,
+          "data": {
+            "app": "7zg.exe",
+            "title": "79% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270570,
+          "timestamp": "2026-07-16T14:01:05.926000+00:00",
+          "duration": 19.069,
+          "data": {
+            "app": "7zg.exe",
+            "title": "78% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270569,
+          "timestamp": "2026-07-16T14:00:45.857000+00:00",
+          "duration": 19.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "77% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270568,
+          "timestamp": "2026-07-16T14:00:22.779000+00:00",
+          "duration": 22.075,
+          "data": {
+            "app": "7zg.exe",
+            "title": "76% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270566,
+          "timestamp": "2026-07-16T14:00:00.701000+00:00",
+          "duration": 21.074,
+          "data": {
+            "app": "7zg.exe",
+            "title": "75% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270565,
+          "timestamp": "2026-07-16T13:59:32.610000+00:00",
+          "duration": 27.087,
+          "data": {
+            "app": "7zg.exe",
+            "title": "74% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270564,
+          "timestamp": "2026-07-16T13:59:10.532000+00:00",
+          "duration": 21.075,
+          "data": {
+            "app": "7zg.exe",
+            "title": "73% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270563,
+          "timestamp": "2026-07-16T13:58:49.459000+00:00",
+          "duration": 20.068,
+          "data": {
+            "app": "7zg.exe",
+            "title": "72% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270562,
+          "timestamp": "2026-07-16T13:58:26.385000+00:00",
+          "duration": 22.07,
+          "data": {
+            "app": "7zg.exe",
+            "title": "71% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270561,
+          "timestamp": "2026-07-16T13:58:08.330000+00:00",
+          "duration": 17.053,
+          "data": {
+            "app": "7zg.exe",
+            "title": "70% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270560,
+          "timestamp": "2026-07-16T13:57:48.266000+00:00",
+          "duration": 19.06,
+          "data": {
+            "app": "7zg.exe",
+            "title": "69% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270559,
+          "timestamp": "2026-07-16T13:57:28.200000+00:00",
+          "duration": 19.064,
+          "data": {
+            "app": "7zg.exe",
+            "title": "68% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270558,
+          "timestamp": "2026-07-16T13:57:06.125000+00:00",
+          "duration": 21.072,
+          "data": {
+            "app": "7zg.exe",
+            "title": "67% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270557,
+          "timestamp": "2026-07-16T13:56:44.056000+00:00",
+          "duration": 21.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "66% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270555,
+          "timestamp": "2026-07-16T13:56:27.002000+00:00",
+          "duration": 16.05,
+          "data": {
+            "app": "7zg.exe",
+            "title": "65% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270554,
+          "timestamp": "2026-07-16T13:56:04.933000+00:00",
+          "duration": 21.067,
+          "data": {
+            "app": "7zg.exe",
+            "title": "64% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270553,
+          "timestamp": "2026-07-16T13:55:45.867000+00:00",
+          "duration": 18.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "63% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270552,
+          "timestamp": "2026-07-16T13:55:21.785000+00:00",
+          "duration": 23.08,
+          "data": {
+            "app": "7zg.exe",
+            "title": "62% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270551,
+          "timestamp": "2026-07-16T13:55:01.718000+00:00",
+          "duration": 19.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "61% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270550,
+          "timestamp": "2026-07-16T13:54:39.649000+00:00",
+          "duration": 21.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "60% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270549,
+          "timestamp": "2026-07-16T13:54:16.574000+00:00",
+          "duration": 22.073,
+          "data": {
+            "app": "7zg.exe",
+            "title": "59% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270547,
+          "timestamp": "2026-07-16T13:53:53.496000+00:00",
+          "duration": 22.074,
+          "data": {
+            "app": "7zg.exe",
+            "title": "58% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270546,
+          "timestamp": "2026-07-16T13:53:29.416000+00:00",
+          "duration": 23.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "57% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270545,
+          "timestamp": "2026-07-16T13:53:07.344000+00:00",
+          "duration": 21.069,
+          "data": {
+            "app": "7zg.exe",
+            "title": "56% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270544,
+          "timestamp": "2026-07-16T13:52:45.273000+00:00",
+          "duration": 21.068,
+          "data": {
+            "app": "7zg.exe",
+            "title": "55% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270543,
+          "timestamp": "2026-07-16T13:52:27.215000+00:00",
+          "duration": 17.054,
+          "data": {
+            "app": "7zg.exe",
+            "title": "54% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270542,
+          "timestamp": "2026-07-16T13:52:09.154000+00:00",
+          "duration": 17.057,
+          "data": {
+            "app": "7zg.exe",
+            "title": "53% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270541,
+          "timestamp": "2026-07-16T13:51:51.097000+00:00",
+          "duration": 17.055,
+          "data": {
+            "app": "7zg.exe",
+            "title": "52% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270540,
+          "timestamp": "2026-07-16T13:51:31.035000+00:00",
+          "duration": 19.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "51% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270539,
+          "timestamp": "2026-07-16T13:51:12.981000+00:00",
+          "duration": 17.052,
+          "data": {
+            "app": "7zg.exe",
+            "title": "50% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270538,
+          "timestamp": "2026-07-16T13:50:55.926000+00:00",
+          "duration": 16.052,
+          "data": {
+            "app": "7zg.exe",
+            "title": "49% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270537,
+          "timestamp": "2026-07-16T13:50:33.855000+00:00",
+          "duration": 21.067,
+          "data": {
+            "app": "7zg.exe",
+            "title": "48% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270536,
+          "timestamp": "2026-07-16T13:50:09.775000+00:00",
+          "duration": 23.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "47% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270535,
+          "timestamp": "2026-07-16T13:49:52.718000+00:00",
+          "duration": 16.054,
+          "data": {
+            "app": "7zg.exe",
+            "title": "46% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270534,
+          "timestamp": "2026-07-16T13:49:30.650000+00:00",
+          "duration": 21.065,
+          "data": {
+            "app": "7zg.exe",
+            "title": "45% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270532,
+          "timestamp": "2026-07-16T13:49:09.576000+00:00",
+          "duration": 20.07,
+          "data": {
+            "app": "7zg.exe",
+            "title": "44% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270531,
+          "timestamp": "2026-07-16T13:48:47.503000+00:00",
+          "duration": 21.07,
+          "data": {
+            "app": "7zg.exe",
+            "title": "43% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270530,
+          "timestamp": "2026-07-16T13:48:27.438000+00:00",
+          "duration": 19.061,
+          "data": {
+            "app": "7zg.exe",
+            "title": "42% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270529,
+          "timestamp": "2026-07-16T13:48:04.366000+00:00",
+          "duration": 22.068,
+          "data": {
+            "app": "7zg.exe",
+            "title": "41% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270528,
+          "timestamp": "2026-07-16T13:47:50.321000+00:00",
+          "duration": 13.043,
+          "data": {
+            "app": "7zg.exe",
+            "title": "40% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270527,
+          "timestamp": "2026-07-16T13:47:29.250000+00:00",
+          "duration": 20.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "39% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270526,
+          "timestamp": "2026-07-16T13:47:11.188000+00:00",
+          "duration": 17.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "38% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270525,
+          "timestamp": "2026-07-16T13:46:55.132000+00:00",
+          "duration": 15.052,
+          "data": {
+            "app": "7zg.exe",
+            "title": "37% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270524,
+          "timestamp": "2026-07-16T13:46:32.056000+00:00",
+          "duration": 22.073,
+          "data": {
+            "app": "7zg.exe",
+            "title": "36% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270523,
+          "timestamp": "2026-07-16T13:46:13.998000+00:00",
+          "duration": 17.055,
+          "data": {
+            "app": "7zg.exe",
+            "title": "35% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270522,
+          "timestamp": "2026-07-16T13:45:54.935000+00:00",
+          "duration": 18.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "34% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270521,
+          "timestamp": "2026-07-16T13:45:39.883000+00:00",
+          "duration": 14.047,
+          "data": {
+            "app": "7zg.exe",
+            "title": "33% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270519,
+          "timestamp": "2026-07-16T13:45:16.802000+00:00",
+          "duration": 22.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "32% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270518,
+          "timestamp": "2026-07-16T13:45:02.757000+00:00",
+          "duration": 13.042,
+          "data": {
+            "app": "7zg.exe",
+            "title": "31% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270517,
+          "timestamp": "2026-07-16T13:44:42.690000+00:00",
+          "duration": 19.064,
+          "data": {
+            "app": "7zg.exe",
+            "title": "30% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270516,
+          "timestamp": "2026-07-16T13:44:24.634000+00:00",
+          "duration": 17.053,
+          "data": {
+            "app": "7zg.exe",
+            "title": "29% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270515,
+          "timestamp": "2026-07-16T13:44:06.576000+00:00",
+          "duration": 17.055,
+          "data": {
+            "app": "7zg.exe",
+            "title": "28% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270514,
+          "timestamp": "2026-07-16T13:43:49.518000+00:00",
+          "duration": 16.055,
+          "data": {
+            "app": "7zg.exe",
+            "title": "27% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270513,
+          "timestamp": "2026-07-16T13:43:29.456000+00:00",
+          "duration": 19.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "26% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270511,
+          "timestamp": "2026-07-16T13:43:13.401000+00:00",
+          "duration": 15.052,
+          "data": {
+            "app": "7zg.exe",
+            "title": "25% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270510,
+          "timestamp": "2026-07-16T13:42:51.331000+00:00",
+          "duration": 21.068,
+          "data": {
+            "app": "7zg.exe",
+            "title": "24% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270509,
+          "timestamp": "2026-07-16T13:42:33.266000+00:00",
+          "duration": 17.061,
+          "data": {
+            "app": "7zg.exe",
+            "title": "23% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270508,
+          "timestamp": "2026-07-16T13:42:12.197000+00:00",
+          "duration": 20.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "22% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270507,
+          "timestamp": "2026-07-16T13:41:52.135000+00:00",
+          "duration": 19.059,
+          "data": {
+            "app": "7zg.exe",
+            "title": "21% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270506,
+          "timestamp": "2026-07-16T13:41:33.074000+00:00",
+          "duration": 18.058,
+          "data": {
+            "app": "7zg.exe",
+            "title": "20% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270505,
+          "timestamp": "2026-07-16T13:41:09.995000+00:00",
+          "duration": 22.077,
+          "data": {
+            "app": "7zg.exe",
+            "title": "19% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270504,
+          "timestamp": "2026-07-16T13:40:46.916000+00:00",
+          "duration": 22.076,
+          "data": {
+            "app": "7zg.exe",
+            "title": "18% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270503,
+          "timestamp": "2026-07-16T13:40:24.846000+00:00",
+          "duration": 21.067,
+          "data": {
+            "app": "7zg.exe",
+            "title": "17% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270502,
+          "timestamp": "2026-07-16T13:40:02.767000+00:00",
+          "duration": 21.075,
+          "data": {
+            "app": "7zg.exe",
+            "title": "16% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270501,
+          "timestamp": "2026-07-16T13:39:39.691000+00:00",
+          "duration": 22.074,
+          "data": {
+            "app": "7zg.exe",
+            "title": "15% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270499,
+          "timestamp": "2026-07-16T13:39:17.608000+00:00",
+          "duration": 21.081,
+          "data": {
+            "app": "7zg.exe",
+            "title": "14% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270498,
+          "timestamp": "2026-07-16T13:38:54.533000+00:00",
+          "duration": 22.073,
+          "data": {
+            "app": "7zg.exe",
+            "title": "13% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270497,
+          "timestamp": "2026-07-16T13:38:37.481000+00:00",
+          "duration": 16.05,
+          "data": {
+            "app": "7zg.exe",
+            "title": "12% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270496,
+          "timestamp": "2026-07-16T13:38:15.411000+00:00",
+          "duration": 21.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "11% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270495,
+          "timestamp": "2026-07-16T13:37:54.342000+00:00",
+          "duration": 20.065,
+          "data": {
+            "app": "7zg.exe",
+            "title": "10% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270494,
+          "timestamp": "2026-07-16T13:37:34.277000+00:00",
+          "duration": 19.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "9% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270493,
+          "timestamp": "2026-07-16T13:37:15.216000+00:00",
+          "duration": 18.058,
+          "data": {
+            "app": "7zg.exe",
+            "title": "8% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270491,
+          "timestamp": "2026-07-16T13:36:53.147000+00:00",
+          "duration": 21.066,
+          "data": {
+            "app": "7zg.exe",
+            "title": "7% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270490,
+          "timestamp": "2026-07-16T13:36:33.083000+00:00",
+          "duration": 19.06,
+          "data": {
+            "app": "7zg.exe",
+            "title": "6% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270489,
+          "timestamp": "2026-07-16T13:36:14.022000+00:00",
+          "duration": 18.058,
+          "data": {
+            "app": "7zg.exe",
+            "title": "5% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270488,
+          "timestamp": "2026-07-16T13:35:58.974000+00:00",
+          "duration": 14.044,
+          "data": {
+            "app": "7zg.exe",
+            "title": "4% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270487,
+          "timestamp": "2026-07-16T13:35:38.908000+00:00",
+          "duration": 19.063,
+          "data": {
+            "app": "7zg.exe",
+            "title": "3% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270486,
+          "timestamp": "2026-07-16T13:35:19.840000+00:00",
+          "duration": 18.064,
+          "data": {
+            "app": "7zg.exe",
+            "title": "2% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270485,
+          "timestamp": "2026-07-16T13:34:54.759000+00:00",
+          "duration": 24.079,
+          "data": {
+            "app": "7zg.exe",
+            "title": "1% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270484,
+          "timestamp": "2026-07-16T13:34:50.745000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "7zg.exe",
+            "title": "0% Extracting F:\\Hypergryph Laun ... 2a14-40-HG.zip.001"
+          }
+        },
+        {
+          "id": 270463,
+          "timestamp": "2026-07-16T12:34:41.454000+00:00",
+          "duration": 3608.286,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 270462,
+          "timestamp": "2026-07-16T12:34:39.446000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 270461,
+          "timestamp": "2026-07-16T12:34:36.434000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 270459,
+          "timestamp": "2026-07-16T12:33:59.304000+00:00",
+          "duration": 36.124,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧《元祖！BanG Dream Chan》第01集在线观看-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270458,
+          "timestamp": "2026-07-16T12:33:57.296000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧在线,CliCli-呲哩呲哩番剧在线官网，番剧在线导航为您提供服务，精心挑选，安全无毒，找番剧在线网址就来CliCli-呲哩呲哩，这里收集全网最全的网站资源。,呲哩呲哩CliCli-收录了数千二次元优质站点，包含免费看番，二次元社区，二次元小说，二次元游戏，手办周边，二次元直播等，并且只收录长期运营且稳定安全的网站，尽情的畅游二次元世界吧！ | CliCli-呲哩呲哩 - Cent Browser"
+          }
+        },
+        {
+          "id": 270456,
+          "timestamp": "2026-07-16T12:33:47.264000+00:00",
+          "duration": 9.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧《元祖！BanG Dream Chan》第01集在线观看-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270454,
+          "timestamp": "2026-07-16T12:33:40.238000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 270451,
+          "timestamp": "2026-07-16T12:32:30.994000+00:00",
+          "duration": 68.24,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧《元祖！BanG Dream Chan》第01集在线观看-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270450,
+          "timestamp": "2026-07-16T12:32:25.975000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 270449,
+          "timestamp": "2026-07-16T12:32:21.960000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧《元祖！BanG Dream Chan》第01集在线观看-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270448,
+          "timestamp": "2026-07-16T12:32:20.954000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "gugu3.com/index.php/vod/play/id/4762/sid/1/nid/1.html - Cent Browser"
+          }
+        },
+        {
+          "id": 270447,
+          "timestamp": "2026-07-16T12:32:18.945000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《元祖！BanG Dream Chan》番剧高清完整版在线观看_元祖！BanG Dream Chan高清完整版下载-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270446,
+          "timestamp": "2026-07-16T12:32:13.926000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "搜索bang-咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270444,
+          "timestamp": "2026-07-16T12:31:26.764000+00:00",
+          "duration": 46.16,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270443,
+          "timestamp": "2026-07-16T12:31:06.696000+00:00",
+          "duration": 19.064,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270442,
+          "timestamp": "2026-07-16T12:31:04.688000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧在线,CliCli-呲哩呲哩番剧在线官网，番剧在线导航为您提供服务，精心挑选，安全无毒，找番剧在线网址就来CliCli-呲哩呲哩，这里收集全网最全的网站资源。,呲哩呲哩CliCli-收录了数千二次元优质站点，包含免费看番，二次元社区，二次元小说，二次元游戏，手办周边，二次元直播等，并且只收录长期运营且稳定安全的网站，尽情的畅游二次元世界吧！ | CliCli-呲哩呲哩 - Cent Browser"
+          }
+        },
+        {
+          "id": 270440,
+          "timestamp": "2026-07-16T12:31:00.673000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 270439,
+          "timestamp": "2026-07-16T12:30:58.667000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 270438,
+          "timestamp": "2026-07-16T12:30:57.659000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧在线,CliCli-呲哩呲哩番剧在线官网，番剧在线导航为您提供服务，精心挑选，安全无毒，找番剧在线网址就来CliCli-呲哩呲哩，这里收集全网最全的网站资源。,呲哩呲哩CliCli-收录了数千二次元优质站点，包含免费看番，二次元社区，二次元小说，二次元游戏，手办周边，二次元直播等，并且只收录长期运营且稳定安全的网站，尽情的畅游二次元世界吧！ | CliCli-呲哩呲哩 - Cent Browser"
+          }
+        },
+        {
+          "id": 270437,
+          "timestamp": "2026-07-16T12:30:56.654000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.13.0#0628 - 砺火成锋#0706 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 270436,
+          "timestamp": "2026-07-16T12:30:51.636000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "番剧在线,CliCli-呲哩呲哩番剧在线官网，番剧在线导航为您提供服务，精心挑选，安全无毒，找番剧在线网址就来CliCli-呲哩呲哩，这里收集全网最全的网站资源。,呲哩呲哩CliCli-收录了数千二次元优质站点，包含免费看番，二次元社区，二次元小说，二次元游戏，手办周边，二次元直播等，并且只收录长期运营且稳定安全的网站，尽情的畅游二次元世界吧！ | CliCli-呲哩呲哩 - Cent Browser"
+          }
+        },
+        {
+          "id": 270434,
+          "timestamp": "2026-07-16T12:30:49.625000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 270433,
+          "timestamp": "2026-07-16T12:30:42.599000+00:00",
+          "duration": 6.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270432,
+          "timestamp": "2026-07-16T12:30:41.595000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第01集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270430,
+          "timestamp": "2026-07-16T12:30:34.566000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "免费番剧网站 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 270428,
+          "timestamp": "2026-07-16T12:30:33.559000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270427,
+          "timestamp": "2026-07-16T12:30:30.544000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270423,
+          "timestamp": "2026-07-16T12:30:28.536000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第01集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270420,
+          "timestamp": "2026-07-16T12:30:11.478000+00:00",
+          "duration": 16.055,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270419,
+          "timestamp": "2026-07-16T12:30:09.469000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第01集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270416,
+          "timestamp": "2026-07-16T12:29:58.426000+00:00",
+          "duration": 10.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270415,
+          "timestamp": "2026-07-16T12:29:52.400000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第01集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270413,
+          "timestamp": "2026-07-16T12:29:38.346000+00:00",
+          "duration": 13.05,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270412,
+          "timestamp": "2026-07-16T12:29:24.291000+00:00",
+          "duration": 13.051,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第01集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270411,
+          "timestamp": "2026-07-16T12:29:23.287000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "yinhuadm.cc/p/27247-2-1.html - Cent Browser"
+          }
+        },
+        {
+          "id": 270410,
+          "timestamp": "2026-07-16T12:29:19.271000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第1集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270409,
+          "timestamp": "2026-07-16T12:28:48.149000+00:00",
+          "duration": 30.116,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 270408,
+          "timestamp": "2026-07-16T12:28:44.136000+00:00",
+          "duration": 3.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "元祖！BanGDream酱 第1集在线播放 - 高清资源 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270407,
+          "timestamp": "2026-07-16T12:28:41.124000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270405,
+          "timestamp": "2026-07-16T12:28:36.105000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "yinhuadm.cc/p/27247-1-1.html - Cent Browser"
+          }
+        },
+        {
+          "id": 270403,
+          "timestamp": "2026-07-16T12:28:27.073000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bang搜索结果 - 樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270402,
+          "timestamp": "2026-07-16T12:28:05.999000+00:00",
+          "duration": 20.071,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫-专注动漫的门户官方网站 - Cent Browser"
+          }
+        },
+        {
+          "id": 270401,
+          "timestamp": "2026-07-16T12:28:02.980000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270399,
+          "timestamp": "2026-07-16T12:27:59.969000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "yinhuadm.cc - Cent Browser"
+          }
+        },
+        {
+          "id": 270397,
+          "timestamp": "2026-07-16T12:27:52.943000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270395,
+          "timestamp": "2026-07-16T12:27:50.935000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "yinhuadm.cc - Cent Browser"
+          }
+        },
+        {
+          "id": 270394,
+          "timestamp": "2026-07-16T12:27:45.916000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 270393,
+          "timestamp": "2026-07-16T12:27:44.910000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270392,
+          "timestamp": "2026-07-16T12:27:43.905000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 270390,
+          "timestamp": "2026-07-16T12:27:39.891000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270389,
+          "timestamp": "2026-07-16T12:27:38.886000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 270387,
+          "timestamp": "2026-07-16T12:27:27.844000+00:00",
+          "duration": 10.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270386,
+          "timestamp": "2026-07-16T12:27:25.837000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "咕咕番 - 在线日漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270382,
+          "timestamp": "2026-07-16T12:27:19.814000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270379,
+          "timestamp": "2026-07-16T12:27:18.810000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "gugu3.com - Cent Browser"
+          }
+        },
+        {
+          "id": 270377,
+          "timestamp": "2026-07-16T12:27:17.806000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270376,
+          "timestamp": "2026-07-16T12:27:16.800000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 270374,
+          "timestamp": "2026-07-16T12:27:10.779000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "樱花动漫 - Cent Browser"
+          }
+        },
+        {
+          "id": 270373,
+          "timestamp": "2026-07-16T12:26:40.671000+00:00",
+          "duration": 29.105,
+          "data": {
+            "app": "chrome.exe",
+            "title": "免费番剧网站 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 270371,
+          "timestamp": "2026-07-16T12:26:35.652000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 270370,
+          "timestamp": "2026-07-16T12:26:29.630000+00:00",
+          "duration": 5.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 270367,
+          "timestamp": "2026-07-16T12:26:28.622000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "《明日方舟》PC下载安装指引 - 明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 270350,
+          "timestamp": "2026-07-16T12:00:04.990000+00:00",
+          "duration": 1582.629,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-16T12:00:06.013649",
+    "export_time": "2026-07-17T00:00:07.073046",
     "time_range": {
-      "start": "2026-07-16T00:00:03.958304",
-      "end": "2026-07-16T12:00:03.958304"
+      "start": "2026-07-16T12:00:04.990281",
+      "end": "2026-07-17T00:00:04.990281"
     },
-    "total_events": 1
+    "total_events": 165
   }
 }
