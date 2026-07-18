@@ -5,144 +5,90 @@
       "type": "window",
       "events": [
         {
-          "id": 271161,
-          "timestamp": "2026-07-17T16:00:01.241000+00:00",
+          "id": 271343,
+          "timestamp": "2026-07-18T01:01:35.721000+00:00",
+          "duration": 10704.877,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 271342,
+          "timestamp": "2026-07-18T01:01:34.717000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 271097,
-          "timestamp": "2026-07-17T13:02:26.076000+00:00",
-          "duration": 10654.16,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 271094,
-          "timestamp": "2026-07-17T13:01:38.914000+00:00",
-          "duration": 46.159,
+          "id": 271341,
+          "timestamp": "2026-07-18T01:01:33.712000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "Games.exe",
             "title": "鹰角启动器"
           }
         },
         {
-          "id": 271093,
-          "timestamp": "2026-07-17T13:01:33.895000+00:00",
-          "duration": 4.016,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 271092,
-          "timestamp": "2026-07-17T13:01:32.891000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "PlatformProcess.exe",
-            "title": "Form"
-          }
-        },
-        {
-          "id": 271091,
-          "timestamp": "2026-07-17T13:01:28.875000+00:00",
+          "id": 271340,
+          "timestamp": "2026-07-18T01:01:29.699000+00:00",
           "duration": 3.011,
           "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 271084,
-          "timestamp": "2026-07-17T12:52:51.755000+00:00",
-          "duration": 516.115,
+          "id": 271339,
+          "timestamp": "2026-07-18T01:01:00.591000+00:00",
+          "duration": 28.105,
           "data": {
-            "app": "chrome.exe",
-            "title": "肉鸽游戏与分心听歌看番 - Google Gemini - Cent Browser"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 271080,
-          "timestamp": "2026-07-17T12:51:41.467000+00:00",
-          "duration": 69.283,
+          "id": 271337,
+          "timestamp": "2026-07-18T00:58:10.002000+00:00",
+          "duration": 169.587,
           "data": {
-            "app": "chrome.exe",
-            "title": "Google Gemini - Cent Browser"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 271079,
-          "timestamp": "2026-07-17T12:51:33.436000+00:00",
-          "duration": 7.027,
+          "id": 271336,
+          "timestamp": "2026-07-18T00:58:06.990000+00:00",
+          "duration": 2.01,
           "data": {
-            "app": "chrome.exe",
-            "title": "‎Google Gemini - Cent Browser"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 271078,
-          "timestamp": "2026-07-17T12:51:32.431000+00:00",
-          "duration": 0.0,
+          "id": 271333,
+          "timestamp": "2026-07-18T00:55:50.465000+00:00",
+          "duration": 135.521,
           "data": {
-            "app": "chrome.exe",
-            "title": "gemini.google.com - Cent Browser"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 271077,
-          "timestamp": "2026-07-17T12:51:22.393000+00:00",
-          "duration": 9.034,
+          "id": 271332,
+          "timestamp": "2026-07-18T00:55:48.457000+00:00",
+          "duration": 1.004,
           "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 271076,
-          "timestamp": "2026-07-17T12:51:20.385000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 271069,
-          "timestamp": "2026-07-17T12:43:47.519000+00:00",
-          "duration": 451.861,
-          "data": {
-            "app": "chrome.exe",
-            "title": "樱之空动漫・skr.cc❀樱花之空中舞一夜−官方动漫在线播放网站 - Cent Browser"
-          }
-        },
-        {
-          "id": 271068,
-          "timestamp": "2026-07-17T12:43:41.495000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "chrome.exe",
-            "title": "人机验证 - Cent Browser"
-          }
-        },
-        {
-          "id": 271065,
-          "timestamp": "2026-07-17T12:42:09.151000+00:00",
-          "duration": 91.34,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 271034,
-          "timestamp": "2026-07-17T12:00:04.122000+00:00",
-          "duration": 2524.025,
+          "id": 271235,
+          "timestamp": "2026-07-18T00:00:04.132000+00:00",
+          "duration": 3343.32,
           "data": {
             "app": "explorer.exe",
             "title": ""
@@ -152,11 +98,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-07-18T00:00:06.185874",
+    "export_time": "2026-07-18T12:00:06.191586",
     "time_range": {
-      "start": "2026-07-17T12:00:04.122668",
-      "end": "2026-07-18T00:00:04.122668"
+      "start": "2026-07-18T00:00:04.132555",
+      "end": "2026-07-18T12:00:04.132555"
     },
-    "total_events": 16
+    "total_events": 10
   }
 }
