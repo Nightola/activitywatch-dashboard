@@ -5,104 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 271343,
-          "timestamp": "2026-07-18T01:01:35.721000+00:00",
-          "duration": 10704.877,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 271342,
-          "timestamp": "2026-07-18T01:01:34.717000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 271341,
-          "timestamp": "2026-07-18T01:01:33.712000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 271340,
-          "timestamp": "2026-07-18T01:01:29.699000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 271339,
-          "timestamp": "2026-07-18T01:01:00.591000+00:00",
-          "duration": 28.105,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 271337,
-          "timestamp": "2026-07-18T00:58:10.002000+00:00",
-          "duration": 169.587,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 271336,
-          "timestamp": "2026-07-18T00:58:06.990000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 271333,
-          "timestamp": "2026-07-18T00:55:50.465000+00:00",
-          "duration": 135.521,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 271332,
-          "timestamp": "2026-07-18T00:55:48.457000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 271235,
-          "timestamp": "2026-07-18T00:00:04.132000+00:00",
-          "duration": 3343.32,
+          "id": 271570,
+          "timestamp": "2026-07-18T12:00:04.088000+00:00",
+          "duration": 14396.225,
           "data": {
             "app": "explorer.exe",
-            "title": ""
+            "title": "Program Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-18T12:00:06.191586",
+    "export_time": "2026-07-19T00:00:06.150130",
     "time_range": {
-      "start": "2026-07-18T00:00:04.132555",
-      "end": "2026-07-18T12:00:04.132555"
+      "start": "2026-07-18T12:00:04.088236",
+      "end": "2026-07-19T00:00:04.088236"
     },
-    "total_events": 10
+    "total_events": 1
   }
 }
