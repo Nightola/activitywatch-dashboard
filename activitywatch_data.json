@@ -5,27 +5,9 @@
       "type": "window",
       "events": [
         {
-          "id": 271901,
-          "timestamp": "2026-07-19T04:00:01.146000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 271850,
-          "timestamp": "2026-07-19T01:41:37.980000+00:00",
-          "duration": 8302.163,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 271663,
-          "timestamp": "2026-07-19T00:00:04.002000+00:00",
-          "duration": 6089.742,
+          "id": 271964,
+          "timestamp": "2026-07-19T12:00:03.730000+00:00",
+          "duration": 14397.329,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
@@ -35,11 +17,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-07-19T12:00:06.075380",
+    "export_time": "2026-07-20T00:00:05.816597",
     "time_range": {
-      "start": "2026-07-19T00:00:04.002468",
-      "end": "2026-07-19T12:00:04.002468"
+      "start": "2026-07-19T12:00:03.730679",
+      "end": "2026-07-20T00:00:03.730679"
     },
-    "total_events": 3
+    "total_events": 1
   }
 }
