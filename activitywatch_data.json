@@ -5,23 +5,680 @@
       "type": "window",
       "events": [
         {
-          "id": 272330,
-          "timestamp": "2026-07-20T00:00:03.945000+00:00",
-          "duration": 14396.972,
+          "id": 272727,
+          "timestamp": "2026-07-20T14:10:53+00:00",
+          "duration": 6547.464,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 272722,
+          "timestamp": "2026-07-20T12:45:06.773000+00:00",
+          "duration": 5141.259,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 272718,
+          "timestamp": "2026-07-20T12:34:28.912000+00:00",
+          "duration": 636.859,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272717,
+          "timestamp": "2026-07-20T12:34:25.898000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272713,
+          "timestamp": "2026-07-20T12:30:17.741000+00:00",
+          "duration": 247.154,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272712,
+          "timestamp": "2026-07-20T12:30:14.727000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 272710,
+          "timestamp": "2026-07-20T12:28:37.247000+00:00",
+          "duration": 96.475,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272709,
+          "timestamp": "2026-07-20T12:28:36.243000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 272704,
+          "timestamp": "2026-07-20T12:19:51.848000+00:00",
+          "duration": 523.391,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272703,
+          "timestamp": "2026-07-20T12:19:46.825000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272702,
+          "timestamp": "2026-07-20T12:19:25.735000+00:00",
+          "duration": 20.084,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272701,
+          "timestamp": "2026-07-20T12:19:16.693000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272698,
+          "timestamp": "2026-07-20T12:17:52.205000+00:00",
+          "duration": 83.482,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272697,
+          "timestamp": "2026-07-20T12:17:50.193000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272696,
+          "timestamp": "2026-07-20T12:17:47.175000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "噩耗！七仙女全女咖啡倒闭！投资70万打脸网友失败！【神奇组织15】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272692,
+          "timestamp": "2026-07-20T12:15:41.462000+00:00",
+          "duration": 124.707,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272691,
+          "timestamp": "2026-07-20T12:15:33.405000+00:00",
+          "duration": 7.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "噩耗！七仙女全女咖啡倒闭！投资70万打脸网友失败！【神奇组织15】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272688,
+          "timestamp": "2026-07-20T12:12:20.306000+00:00",
+          "duration": 192.096,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272687,
+          "timestamp": "2026-07-20T12:12:12.258000+00:00",
+          "duration": 7.041,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272686,
+          "timestamp": "2026-07-20T12:11:55.162000+00:00",
+          "duration": 16.09,
+          "data": {
+            "app": "chrome.exe",
+            "title": "噩耗！七仙女全女咖啡倒闭！投资70万打脸网友失败！【神奇组织15】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272683,
+          "timestamp": "2026-07-20T12:11:54.155000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV1C9Kn6EE9u/?spm_id_from=333.1007.tianma.2-2-5.click - Cent Browser"
+          }
+        },
+        {
+          "id": 272682,
+          "timestamp": "2026-07-20T12:11:53.152000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 272679,
+          "timestamp": "2026-07-20T12:11:26.015000+00:00",
+          "duration": 26.13,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272678,
+          "timestamp": "2026-07-20T12:11:16.963000+00:00",
+          "duration": 8.046,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272677,
+          "timestamp": "2026-07-20T12:10:49.837000+00:00",
+          "duration": 26.121,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272676,
+          "timestamp": "2026-07-20T12:10:48.833000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272675,
+          "timestamp": "2026-07-20T12:10:19.706000+00:00",
+          "duration": 28.123,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272674,
+          "timestamp": "2026-07-20T12:10:13.683000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272673,
+          "timestamp": "2026-07-20T12:09:24.475000+00:00",
+          "duration": 48.205,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272672,
+          "timestamp": "2026-07-20T12:09:23.471000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272671,
+          "timestamp": "2026-07-20T12:09:12.420000+00:00",
+          "duration": 10.044,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272669,
+          "timestamp": "2026-07-20T12:09:10.412000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272668,
+          "timestamp": "2026-07-20T12:08:37.260000+00:00",
+          "duration": 32.147,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272667,
+          "timestamp": "2026-07-20T12:08:35.251000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272666,
+          "timestamp": "2026-07-20T12:08:25.204000+00:00",
+          "duration": 9.042,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272665,
+          "timestamp": "2026-07-20T12:08:24.200000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272664,
+          "timestamp": "2026-07-20T12:07:06.847000+00:00",
+          "duration": 76.348,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272663,
+          "timestamp": "2026-07-20T12:07:05.841000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272662,
+          "timestamp": "2026-07-20T12:07:01.819000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272661,
+          "timestamp": "2026-07-20T12:06:54.784000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272660,
+          "timestamp": "2026-07-20T12:06:36.707000+00:00",
+          "duration": 17.071,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272658,
+          "timestamp": "2026-07-20T12:06:24.653000+00:00",
+          "duration": 11.05,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272657,
+          "timestamp": "2026-07-20T12:06:13.602000+00:00",
+          "duration": 10.044,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272656,
+          "timestamp": "2026-07-20T12:05:38.438000+00:00",
+          "duration": 34.161,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272655,
+          "timestamp": "2026-07-20T12:05:36.428000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272654,
+          "timestamp": "2026-07-20T12:05:31.404000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272653,
+          "timestamp": "2026-07-20T12:05:22.362000+00:00",
+          "duration": 8.037,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272652,
+          "timestamp": "2026-07-20T12:05:19.348000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272651,
+          "timestamp": "2026-07-20T12:04:17.078000+00:00",
+          "duration": 61.267,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272650,
+          "timestamp": "2026-07-20T12:04:16.073000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272647,
+          "timestamp": "2026-07-20T12:03:43.915000+00:00",
+          "duration": 31.15,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 272646,
+          "timestamp": "2026-07-20T12:03:42.909000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272645,
+          "timestamp": "2026-07-20T12:03:41.904000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 272644,
+          "timestamp": "2026-07-20T12:03:37.887000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 272643,
+          "timestamp": "2026-07-20T12:03:33.869000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272642,
+          "timestamp": "2026-07-20T12:03:32.864000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 272641,
+          "timestamp": "2026-07-20T12:03:19.808000+00:00",
+          "duration": 12.051,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272640,
+          "timestamp": "2026-07-20T12:03:09.764000+00:00",
+          "duration": 9.041,
+          "data": {
+            "app": "chrome.exe",
+            "title": "电脑浏览器小窗看视频 - Google Gemini - Cent Browser"
+          }
+        },
+        {
+          "id": 272639,
+          "timestamp": "2026-07-20T12:03:04.742000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "画中画"
+          }
+        },
+        {
+          "id": 272638,
+          "timestamp": "2026-07-20T12:02:59.719000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272637,
+          "timestamp": "2026-07-20T12:02:57.710000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "电脑浏览器小窗看视频 - Google Gemini - Cent Browser"
+          }
+        },
+        {
+          "id": 272636,
+          "timestamp": "2026-07-20T12:02:51.682000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272635,
+          "timestamp": "2026-07-20T12:02:50.678000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommanderConnector.exe",
+            "title": "OneCommander Connector"
+          }
+        },
+        {
+          "id": 272634,
+          "timestamp": "2026-07-20T12:02:49.671000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 272632,
+          "timestamp": "2026-07-20T12:02:32.597000+00:00",
+          "duration": 16.069,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272631,
+          "timestamp": "2026-07-20T12:02:13.519000+00:00",
+          "duration": 18.074,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Google Gemini - Cent Browser"
+          }
+        },
+        {
+          "id": 272630,
+          "timestamp": "2026-07-20T12:02:12.515000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272629,
+          "timestamp": "2026-07-20T12:02:11.510000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Google Gemini - Cent Browser"
+          }
+        },
+        {
+          "id": 272628,
+          "timestamp": "2026-07-20T12:02:06.489000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272627,
+          "timestamp": "2026-07-20T12:02:05.484000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "gemini.google.com - Cent Browser"
+          }
+        },
+        {
+          "id": 272626,
+          "timestamp": "2026-07-20T12:01:52.435000+00:00",
+          "duration": 12.045,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272625,
+          "timestamp": "2026-07-20T12:01:46.404000+00:00",
+          "duration": 5.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272624,
+          "timestamp": "2026-07-20T12:01:43.390000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 272621,
+          "timestamp": "2026-07-20T12:00:04.310000+00:00",
+          "duration": 98.076,
+          "data": {
+            "app": "chrome.exe",
+            "title": "笑不活了！二年级精致小学生高考英语满分？精神小妹洗车店提兰博基尼？全是摆拍啦！_哔哩哔哩_bilibili - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-20T12:00:06.005545",
+    "export_time": "2026-07-21T00:00:06.388760",
     "time_range": {
-      "start": "2026-07-20T00:00:03.945260",
-      "end": "2026-07-20T12:00:03.945260"
+      "start": "2026-07-20T12:00:04.310535",
+      "end": "2026-07-21T00:00:04.310535"
     },
-    "total_events": 1
+    "total_events": 74
   }
 }
