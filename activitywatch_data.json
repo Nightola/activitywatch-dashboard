@@ -5,22 +5,22 @@
       "type": "window",
       "events": [
         {
-          "id": 271964,
-          "timestamp": "2026-07-19T12:00:03.730000+00:00",
-          "duration": 14397.329,
+          "id": 272330,
+          "timestamp": "2026-07-20T00:00:03.945000+00:00",
+          "duration": 14396.972,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-20T00:00:05.816597",
+    "export_time": "2026-07-20T12:00:06.005545",
     "time_range": {
-      "start": "2026-07-19T12:00:03.730679",
-      "end": "2026-07-20T00:00:03.730679"
+      "start": "2026-07-20T00:00:03.945260",
+      "end": "2026-07-20T12:00:03.945260"
     },
     "total_events": 1
   }
