@@ -5,68 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 272805,
-          "timestamp": "2026-07-22T03:07:38.760000+00:00",
-          "duration": 3141.852,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 272804,
-          "timestamp": "2026-07-22T03:07:37.757000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 272799,
-          "timestamp": "2026-07-22T02:23:15.523000+00:00",
-          "duration": 2661.194,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 272797,
-          "timestamp": "2026-07-22T02:23:10.506000+00:00",
-          "duration": 4.012,
+          "id": 272832,
+          "timestamp": "2026-07-22T12:00:03.938000+00:00",
+          "duration": 14396.715,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
-          }
-        },
-        {
-          "id": 272796,
-          "timestamp": "2026-07-22T02:23:09.501000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 272791,
-          "timestamp": "2026-07-22T00:00:03.924000+00:00",
-          "duration": 8584.499,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-22T12:00:06.009471",
+    "export_time": "2026-07-23T00:00:05.999453",
     "time_range": {
-      "start": "2026-07-22T00:00:03.924288",
-      "end": "2026-07-22T12:00:03.924288"
+      "start": "2026-07-22T12:00:03.938477",
+      "end": "2026-07-23T00:00:03.938477"
     },
-    "total_events": 6
+    "total_events": 1
   }
 }
