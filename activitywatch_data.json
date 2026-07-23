@@ -5,23 +5,32 @@
       "type": "window",
       "events": [
         {
-          "id": 272863,
-          "timestamp": "2026-07-23T00:00:03.897000+00:00",
-          "duration": 14396.525,
+          "id": 272934,
+          "timestamp": "2026-07-23T13:09:00.961000+00:00",
+          "duration": 10259.456,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
+          }
+        },
+        {
+          "id": 272914,
+          "timestamp": "2026-07-23T12:00:03.925000+00:00",
+          "duration": 4136.032,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-23T12:00:05.951504",
+    "export_time": "2026-07-24T00:00:05.980450",
     "time_range": {
-      "start": "2026-07-23T00:00:03.897684",
-      "end": "2026-07-23T12:00:03.897684"
+      "start": "2026-07-23T12:00:03.925234",
+      "end": "2026-07-24T00:00:03.925234"
     },
-    "total_events": 1
+    "total_events": 2
   }
 }
