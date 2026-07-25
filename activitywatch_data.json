@@ -5,18 +5,9 @@
       "type": "window",
       "events": [
         {
-          "id": 273391,
-          "timestamp": "2026-07-25T04:00:01.151000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 273385,
-          "timestamp": "2026-07-25T00:00:03.935000+00:00",
-          "duration": 14396.213,
+          "id": 273393,
+          "timestamp": "2026-07-25T12:00:03.725000+00:00",
+          "duration": 14396.737,
           "data": {
             "app": "Games.exe",
             "title": "鹰角启动器"
@@ -26,11 +17,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-07-25T12:00:05.997881",
+    "export_time": "2026-07-26T00:00:05.783239",
     "time_range": {
-      "start": "2026-07-25T00:00:03.935248",
-      "end": "2026-07-25T12:00:03.935248"
+      "start": "2026-07-25T12:00:03.725352",
+      "end": "2026-07-26T00:00:03.725352"
     },
-    "total_events": 2
+    "total_events": 1
   }
 }
