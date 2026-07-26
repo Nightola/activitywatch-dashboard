@@ -5,167 +5,32 @@
       "type": "window",
       "events": [
         {
-          "id": 273418,
-          "timestamp": "2026-07-26T02:56:18.261000+00:00",
-          "duration": 3822.739,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 273417,
-          "timestamp": "2026-07-26T02:56:16.254000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "聖心少女 - 明石缪"
-          }
-        },
-        {
-          "id": 273416,
-          "timestamp": "2026-07-26T02:56:11.239000+00:00",
-          "duration": 4.012,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 273415,
-          "timestamp": "2026-07-26T02:51:40.386000+00:00",
-          "duration": 269.849,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 273414,
-          "timestamp": "2026-07-26T02:51:37.378000+00:00",
-          "duration": 2.005,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 273413,
-          "timestamp": "2026-07-26T02:51:36.374000+00:00",
+          "id": 273873,
+          "timestamp": "2026-07-26T16:00:01.158000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "Arknights.exe 的跳转列表"
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
           }
         },
         {
-          "id": 273412,
-          "timestamp": "2026-07-26T02:51:32.360000+00:00",
-          "duration": 3.01,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 273411,
-          "timestamp": "2026-07-26T02:51:30.353000+00:00",
-          "duration": 1.004,
+          "id": 273693,
+          "timestamp": "2026-07-26T12:00:04.031000+00:00",
+          "duration": 14396.124,
           "data": {
             "app": "explorer.exe",
             "title": ""
-          }
-        },
-        {
-          "id": 273410,
-          "timestamp": "2026-07-26T02:51:19.313000+00:00",
-          "duration": 10.036,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 273409,
-          "timestamp": "2026-07-26T02:51:07.275000+00:00",
-          "duration": 11.035,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 273408,
-          "timestamp": "2026-07-26T02:51:06.270000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 273407,
-          "timestamp": "2026-07-26T02:51:02.255000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 273406,
-          "timestamp": "2026-07-26T02:50:59.243000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 273405,
-          "timestamp": "2026-07-26T02:50:48.200000+00:00",
-          "duration": 10.035,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 273404,
-          "timestamp": "2026-07-26T02:50:43.077000+00:00",
-          "duration": 4.12,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "聖心少女 - 明石缪"
-          }
-        },
-        {
-          "id": 273403,
-          "timestamp": "2026-07-26T02:50:37.058000+00:00",
-          "duration": 5.015,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 273397,
-          "timestamp": "2026-07-26T00:00:04.047000+00:00",
-          "duration": 10232.008,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "聖心少女 - 明石缪"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-26T12:00:06.104300",
+    "export_time": "2026-07-27T00:00:06.095222",
     "time_range": {
-      "start": "2026-07-26T00:00:04.047530",
-      "end": "2026-07-26T12:00:04.047530"
+      "start": "2026-07-26T12:00:04.031786",
+      "end": "2026-07-27T00:00:04.031786"
     },
-    "total_events": 17
+    "total_events": 2
   }
 }
