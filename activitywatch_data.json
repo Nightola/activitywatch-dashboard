@@ -5,3434 +5,392 @@
       "type": "window",
       "events": [
         {
-          "id": 274551,
-          "timestamp": "2026-07-27T03:37:23.512000+00:00",
-          "duration": 1356.954,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274550,
-          "timestamp": "2026-07-27T03:37:22.503000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274549,
-          "timestamp": "2026-07-27T03:37:18.457000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274548,
-          "timestamp": "2026-07-27T03:37:17.448000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274547,
-          "timestamp": "2026-07-27T03:37:12.406000+00:00",
-          "duration": 4.033,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274546,
-          "timestamp": "2026-07-27T03:37:11.397000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274545,
-          "timestamp": "2026-07-27T03:37:06.331000+00:00",
-          "duration": 4.056,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274543,
-          "timestamp": "2026-07-27T03:37:02.288000+00:00",
-          "duration": 3.029,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274542,
-          "timestamp": "2026-07-27T03:36:58.250000+00:00",
-          "duration": 3.031,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274541,
-          "timestamp": "2026-07-27T03:36:56.224000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274540,
-          "timestamp": "2026-07-27T03:36:49.157000+00:00",
-          "duration": 6.049,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274539,
-          "timestamp": "2026-07-27T03:36:44.124000+00:00",
-          "duration": 4.03,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274538,
-          "timestamp": "2026-07-27T03:36:21.908000+00:00",
-          "duration": 21.206,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274537,
-          "timestamp": "2026-07-27T03:36:19.890000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274536,
-          "timestamp": "2026-07-27T03:36:16.867000+00:00",
-          "duration": 2.019,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274535,
-          "timestamp": "2026-07-27T03:36:15.859000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274534,
-          "timestamp": "2026-07-27T03:36:04.732000+00:00",
-          "duration": 10.121,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274533,
-          "timestamp": "2026-07-27T03:36:03.719000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274532,
-          "timestamp": "2026-07-27T03:36:00.653000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 274531,
-          "timestamp": "2026-07-27T03:35:58.636000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274530,
-          "timestamp": "2026-07-27T03:35:57.631000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)"
-          }
-        },
-        {
-          "id": 274529,
-          "timestamp": "2026-07-27T03:35:54.593000+00:00",
-          "duration": 2.025,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274528,
-          "timestamp": "2026-07-27T03:35:53.586000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274527,
-          "timestamp": "2026-07-27T03:35:51.568000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274526,
-          "timestamp": "2026-07-27T03:35:47.531000+00:00",
-          "duration": 3.027,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 274525,
-          "timestamp": "2026-07-27T03:34:52.960000+00:00",
-          "duration": 53.562,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274524,
-          "timestamp": "2026-07-27T03:34:51.949000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲中间有变速如何扒谱呢，用什么工具比较好 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274523,
-          "timestamp": "2026-07-27T03:34:43.870000+00:00",
-          "duration": 7.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "[实用音乐软件]音乐人值得拥有的扒谱小助手\"Audio Jam\"功能简介,专治扒谱过程中的各种疑难杂症!_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274521,
-          "timestamp": "2026-07-27T03:34:42.865000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bilibili.com/video/BV1k84y1h7Sd/ - Cent Browser"
-          }
-        },
-        {
-          "id": 274520,
-          "timestamp": "2026-07-27T03:34:41.857000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274519,
-          "timestamp": "2026-07-27T03:34:24.704000+00:00",
-          "duration": 16.147,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲中间有变速如何扒谱呢，用什么工具比较好 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274518,
-          "timestamp": "2026-07-27T03:34:10.568000+00:00",
-          "duration": 13.123,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲中间有变速如何扒谱 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274517,
-          "timestamp": "2026-07-27T03:34:04.302000+00:00",
-          "duration": 5.253,
-          "data": {
-            "app": "dwm.exe",
-            "title": "歌曲中间有变速如何扒谱 - Google 搜索 - Cent Browser (未响应)"
-          }
-        },
-        {
-          "id": 274515,
-          "timestamp": "2026-07-27T03:33:15.764000+00:00",
-          "duration": 47.475,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲中间有变速如何扒谱 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274514,
-          "timestamp": "2026-07-27T03:32:59.625000+00:00",
-          "duration": 15.135,
-          "data": {
-            "app": "chrome.exe",
-            "title": "studio one如何操作拖动轨道不自动对齐 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274511,
-          "timestamp": "2026-07-27T03:30:52.429000+00:00",
-          "duration": 126.192,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274510,
-          "timestamp": "2026-07-27T03:30:44.352000+00:00",
-          "duration": 7.069,
-          "data": {
-            "app": "chrome.exe",
-            "title": "studio one如何操作拖动轨道不自动对齐 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274509,
-          "timestamp": "2026-07-27T03:30:40.314000+00:00",
-          "duration": 3.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "b站视频下载 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274508,
-          "timestamp": "2026-07-27T03:30:38.297000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274506,
-          "timestamp": "2026-07-27T03:30:37.288000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274505,
-          "timestamp": "2026-07-27T03:30:35.271000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274503,
-          "timestamp": "2026-07-27T03:30:23.139000+00:00",
-          "duration": 11.129,
-          "data": {
-            "app": "chrome.exe",
-            "title": "b站视频下载 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274502,
-          "timestamp": "2026-07-27T03:30:22.121000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274500,
-          "timestamp": "2026-07-27T03:30:12.007000+00:00",
-          "duration": 9.106,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274499,
-          "timestamp": "2026-07-27T03:30:03.926000+00:00",
-          "duration": 7.075,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274498,
-          "timestamp": "2026-07-27T03:29:21.565000+00:00",
-          "duration": 41.347,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274497,
-          "timestamp": "2026-07-27T03:29:16.513000+00:00",
-          "duration": 4.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274496,
-          "timestamp": "2026-07-27T03:29:10.441000+00:00",
-          "duration": 5.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "打开"
-          }
-        },
-        {
-          "id": 274495,
-          "timestamp": "2026-07-27T03:29:07.420000+00:00",
-          "duration": 2.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274494,
-          "timestamp": "2026-07-27T03:29:02.375000+00:00",
-          "duration": 4.034,
-          "data": {
-            "app": "chrome.exe",
-            "title": "オンガク「DYNA MIND inst」 - Cent Browser"
-          }
-        },
-        {
-          "id": 274492,
-          "timestamp": "2026-07-27T03:28:39.135000+00:00",
-          "duration": 22.235,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274491,
-          "timestamp": "2026-07-27T03:28:33.078000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274490,
-          "timestamp": "2026-07-27T03:28:30.063000+00:00",
-          "duration": 2.012,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274489,
-          "timestamp": "2026-07-27T03:28:26.026000+00:00",
-          "duration": 3.028,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274488,
-          "timestamp": "2026-07-27T03:28:25.014000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274487,
-          "timestamp": "2026-07-27T03:28:21.975000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274486,
-          "timestamp": "2026-07-27T03:28:20.962000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274485,
-          "timestamp": "2026-07-27T03:28:13.903000+00:00",
-          "duration": 6.048,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274484,
-          "timestamp": "2026-07-27T03:28:12.885000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274483,
-          "timestamp": "2026-07-27T03:28:07.844000+00:00",
-          "duration": 4.032,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274482,
-          "timestamp": "2026-07-27T03:28:03.807000+00:00",
-          "duration": 3.029,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274481,
-          "timestamp": "2026-07-27T03:28:02.798000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274480,
-          "timestamp": "2026-07-27T03:28:01.789000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274479,
-          "timestamp": "2026-07-27T03:28:00.781000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274478,
-          "timestamp": "2026-07-27T03:27:58.750000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274477,
-          "timestamp": "2026-07-27T03:27:57.744000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274476,
-          "timestamp": "2026-07-27T03:27:50.667000+00:00",
-          "duration": 6.07,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274475,
-          "timestamp": "2026-07-27T03:27:48.643000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274474,
-          "timestamp": "2026-07-27T03:27:42.582000+00:00",
-          "duration": 5.049,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274473,
-          "timestamp": "2026-07-27T03:27:41.573000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274472,
-          "timestamp": "2026-07-27T03:27:38.553000+00:00",
-          "duration": 2.015,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274471,
-          "timestamp": "2026-07-27T03:27:36.542000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274470,
-          "timestamp": "2026-07-27T03:27:35.532000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274469,
-          "timestamp": "2026-07-27T03:27:34.520000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274468,
-          "timestamp": "2026-07-27T03:27:30.475000+00:00",
-          "duration": 3.032,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "设置节拍器"
-          }
-        },
-        {
-          "id": 274466,
-          "timestamp": "2026-07-27T03:26:32.903000+00:00",
-          "duration": 56.556,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚*"
-          }
-        },
-        {
-          "id": 274465,
-          "timestamp": "2026-07-27T03:26:28.866000+00:00",
-          "duration": 3.028,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274464,
-          "timestamp": "2026-07-27T03:26:26.847000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-07-27 调音小刚"
-          }
-        },
-        {
-          "id": 274463,
-          "timestamp": "2026-07-27T03:26:25.829000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)"
-          }
-        },
-        {
-          "id": 274462,
-          "timestamp": "2026-07-27T03:26:17.710000+00:00",
-          "duration": 7.106,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "新建"
-          }
-        },
-        {
-          "id": 274461,
-          "timestamp": "2026-07-27T03:26:15.686000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)"
-          }
-        },
-        {
-          "id": 274460,
-          "timestamp": "2026-07-27T03:26:14.674000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "正在保存2026-04-15 调音小刚(2)..."
-          }
-        },
-        {
-          "id": 274459,
-          "timestamp": "2026-07-27T03:25:12.100000+00:00",
-          "duration": 61.557,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)*"
-          }
-        },
-        {
-          "id": 274458,
-          "timestamp": "2026-07-27T03:24:46.887000+00:00",
-          "duration": 24.209,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)"
-          }
-        },
-        {
-          "id": 274457,
-          "timestamp": "2026-07-27T03:24:44.850000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 274456,
-          "timestamp": "2026-07-27T03:24:43.842000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274455,
-          "timestamp": "2026-07-27T03:24:37.788000+00:00",
-          "duration": 5.043,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 274454,
-          "timestamp": "2026-07-27T03:24:34.747000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274453,
-          "timestamp": "2026-07-27T03:24:30.696000+00:00",
-          "duration": 3.034,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "正在加载2026-04-15 调音小刚(2)..."
-          }
-        },
-        {
-          "id": 274452,
-          "timestamp": "2026-07-27T03:24:26.635000+00:00",
-          "duration": 3.044,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "自动恢复"
-          }
-        },
-        {
-          "id": 274450,
-          "timestamp": "2026-07-27T03:24:11.480000+00:00",
-          "duration": 14.146,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "正在加载2026-04-15 调音小刚(2)..."
-          }
-        },
-        {
-          "id": 274449,
-          "timestamp": "2026-07-27T03:23:59.334000+00:00",
-          "duration": 11.134,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274448,
-          "timestamp": "2026-07-27T03:23:58.328000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "插件扫描仪"
-          }
-        },
-        {
-          "id": 274447,
-          "timestamp": "2026-07-27T03:23:56.310000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One 安全"
-          }
-        },
-        {
-          "id": 274446,
-          "timestamp": "2026-07-27T03:23:55.303000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "UVR.exe 的跳转列表"
-          }
-        },
-        {
-          "id": 274445,
-          "timestamp": "2026-07-27T03:23:48.241000+00:00",
-          "duration": 6.052,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 274444,
-          "timestamp": "2026-07-27T03:23:47.194000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274443,
-          "timestamp": "2026-07-27T03:23:45.855000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One - 2026-04-15 调音小刚(2)"
-          }
-        },
-        {
-          "id": 274442,
-          "timestamp": "2026-07-27T03:23:44.837000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274441,
-          "timestamp": "2026-07-27T03:23:32.694000+00:00",
-          "duration": 11.137,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 274440,
-          "timestamp": "2026-07-27T03:23:27.614000+00:00",
-          "duration": 4.076,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274439,
-          "timestamp": "2026-07-27T03:23:00.294000+00:00",
-          "duration": 26.313,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "正在加载2026-04-15 调音小刚(2)..."
-          }
-        },
-        {
-          "id": 274438,
-          "timestamp": "2026-07-27T03:22:46.156000+00:00",
-          "duration": 13.12,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274437,
-          "timestamp": "2026-07-27T03:22:37.058000+00:00",
-          "duration": 8.092,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "插件扫描仪"
-          }
-        },
-        {
-          "id": 274436,
-          "timestamp": "2026-07-27T03:22:32.996000+00:00",
-          "duration": 3.052,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One 安全"
-          }
-        },
-        {
-          "id": 274435,
-          "timestamp": "2026-07-27T03:22:31.984000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Studio One.exe",
-            "title": "Studio One"
-          }
-        },
-        {
-          "id": 274434,
-          "timestamp": "2026-07-27T03:22:28.957000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 274433,
-          "timestamp": "2026-07-27T03:22:25.936000+00:00",
-          "duration": 2.016,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274432,
-          "timestamp": "2026-07-27T03:22:23.904000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274431,
-          "timestamp": "2026-07-27T03:22:14.779000+00:00",
-          "duration": 8.111,
-          "data": {
-            "app": "chrome.exe",
-            "title": "オンガク「DYNA MIND inst」 - Cent Browser"
-          }
-        },
-        {
-          "id": 274430,
-          "timestamp": "2026-07-27T03:22:05.687000+00:00",
-          "duration": 8.088,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【MV】DYNA MIND / 9Lana - YouTube - Cent Browser"
-          }
-        },
-        {
-          "id": 274428,
-          "timestamp": "2026-07-27T03:21:59.621000+00:00",
-          "duration": 5.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "オンガク「DYNA MIND inst」 - Cent Browser"
-          }
-        },
-        {
-          "id": 274426,
-          "timestamp": "2026-07-27T03:21:57.609000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274423,
-          "timestamp": "2026-07-27T03:20:37.684000+00:00",
-          "duration": 78.911,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274422,
-          "timestamp": "2026-07-27T03:20:35.647000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274421,
-          "timestamp": "2026-07-27T03:20:27.564000+00:00",
-          "duration": 7.079,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274420,
-          "timestamp": "2026-07-27T03:20:18.464000+00:00",
-          "duration": 8.082,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "编辑曲速标记"
-          }
-        },
-        {
-          "id": 274419,
-          "timestamp": "2026-07-27T03:20:09.358000+00:00",
-          "duration": 8.092,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274418,
-          "timestamp": "2026-07-27T03:20:02.264000+00:00",
-          "duration": 6.077,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274417,
-          "timestamp": "2026-07-27T03:19:59.211000+00:00",
-          "duration": 2.036,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274416,
-          "timestamp": "2026-07-27T03:19:58.200000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274415,
-          "timestamp": "2026-07-27T03:19:47.063000+00:00",
-          "duration": 10.12,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274414,
-          "timestamp": "2026-07-27T03:19:29.855000+00:00",
-          "duration": 16.19,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274412,
-          "timestamp": "2026-07-27T03:19:28.844000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 274411,
-          "timestamp": "2026-07-27T03:19:27.834000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274410,
-          "timestamp": "2026-07-27T03:19:07.563000+00:00",
-          "duration": 19.219,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274409,
-          "timestamp": "2026-07-27T03:19:04.535000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "编辑曲速标记"
-          }
-        },
-        {
-          "id": 274408,
-          "timestamp": "2026-07-27T03:19:01.510000+00:00",
-          "duration": 2.013,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274407,
-          "timestamp": "2026-07-27T03:18:53.406000+00:00",
-          "duration": 7.094,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274406,
-          "timestamp": "2026-07-27T03:18:46.326000+00:00",
-          "duration": 6.072,
-          "data": {
-            "app": "chrome.exe",
-            "title": "打开"
-          }
-        },
-        {
-          "id": 274405,
-          "timestamp": "2026-07-27T03:18:45.312000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274404,
-          "timestamp": "2026-07-27T03:18:44.294000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "vocalremover.org/zh/key-bpm-finder - Cent Browser"
-          }
-        },
-        {
-          "id": 274403,
-          "timestamp": "2026-07-27T03:18:43.282000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
-          }
-        },
-        {
-          "id": 274402,
-          "timestamp": "2026-07-27T03:18:42.273000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274401,
-          "timestamp": "2026-07-27T03:18:41.263000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "bpm检测 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274400,
-          "timestamp": "2026-07-27T03:18:39.235000+00:00",
-          "duration": 1.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274399,
-          "timestamp": "2026-07-27T03:18:34.188000+00:00",
-          "duration": 4.043,
-          "data": {
-            "app": "chrome.exe",
-            "title": "dyna mind-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274398,
-          "timestamp": "2026-07-27T03:18:31.154000+00:00",
-          "duration": 2.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "オンガク「DYNA MIND inst」 - Cent Browser"
-          }
-        },
-        {
-          "id": 274395,
-          "timestamp": "2026-07-27T03:17:33.517000+00:00",
-          "duration": 56.622,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "音频分析"
-          }
-        },
-        {
-          "id": 274394,
-          "timestamp": "2026-07-27T03:17:28.456000+00:00",
-          "duration": 4.057,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "歌声转 MIDI"
-          }
-        },
-        {
-          "id": 274393,
-          "timestamp": "2026-07-27T03:17:19.358000+00:00",
-          "duration": 8.093,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名*"
-          }
-        },
-        {
-          "id": 274392,
-          "timestamp": "2026-07-27T03:17:15.304000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274391,
-          "timestamp": "2026-07-27T03:17:11.260000+00:00",
-          "duration": 3.04,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274390,
-          "timestamp": "2026-07-27T03:17:10.247000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274389,
-          "timestamp": "2026-07-27T03:17:09.232000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274388,
-          "timestamp": "2026-07-27T03:17:05.183000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274387,
-          "timestamp": "2026-07-27T03:17:04.169000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274386,
-          "timestamp": "2026-07-27T03:17:03.154000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "menu"
-          }
-        },
-        {
-          "id": 274385,
-          "timestamp": "2026-07-27T03:16:59.110000+00:00",
-          "duration": 3.037,
-          "data": {
-            "app": "synthv-studio.exe",
-            "title": "Synthesizer V Studio Pro - 未命名"
-          }
-        },
-        {
-          "id": 274384,
-          "timestamp": "2026-07-27T03:16:51.026000+00:00",
-          "duration": 7.067,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274383,
-          "timestamp": "2026-07-27T03:16:44.953000+00:00",
-          "duration": 5.062,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274382,
-          "timestamp": "2026-07-27T03:16:43.949000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 274381,
-          "timestamp": "2026-07-27T03:16:40.912000+00:00",
-          "duration": 2.03,
-          "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
-          }
-        },
-        {
-          "id": 274380,
-          "timestamp": "2026-07-27T03:16:39.901000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 274379,
-          "timestamp": "2026-07-27T03:16:36.865000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274378,
-          "timestamp": "2026-07-27T03:16:35.851000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274377,
-          "timestamp": "2026-07-27T03:15:16.931000+00:00",
-          "duration": 77.905,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274375,
-          "timestamp": "2026-07-27T03:15:15.915000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274374,
-          "timestamp": "2026-07-27T03:15:14.901000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274373,
-          "timestamp": "2026-07-27T03:15:13.864000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274372,
-          "timestamp": "2026-07-27T03:15:11.835000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274371,
-          "timestamp": "2026-07-27T03:13:55.915000+00:00",
-          "duration": 74.907,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274370,
-          "timestamp": "2026-07-27T03:13:51.860000+00:00",
-          "duration": 3.04,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274369,
-          "timestamp": "2026-07-27T03:13:29.625000+00:00",
-          "duration": 21.229,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274368,
-          "timestamp": "2026-07-27T03:13:28.619000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274367,
-          "timestamp": "2026-07-27T03:13:19.510000+00:00",
-          "duration": 8.097,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274366,
-          "timestamp": "2026-07-27T03:13:18.494000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274365,
-          "timestamp": "2026-07-27T03:13:14.450000+00:00",
-          "duration": 3.026,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274364,
-          "timestamp": "2026-07-27T03:13:12.428000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274363,
-          "timestamp": "2026-07-27T03:13:10.413000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274362,
-          "timestamp": "2026-07-27T03:13:08.383000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274361,
-          "timestamp": "2026-07-27T03:13:06.354000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274360,
-          "timestamp": "2026-07-27T03:13:04.335000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274359,
-          "timestamp": "2026-07-27T03:12:52.187000+00:00",
-          "duration": 11.141,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274358,
-          "timestamp": "2026-07-27T03:12:44.095000+00:00",
-          "duration": 7.078,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274357,
-          "timestamp": "2026-07-27T03:12:08.696000+00:00",
-          "duration": 34.394,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274356,
-          "timestamp": "2026-07-27T03:12:07.693000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274355,
-          "timestamp": "2026-07-27T03:12:06.681000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274354,
-          "timestamp": "2026-07-27T03:11:48.434000+00:00",
-          "duration": 17.231,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274352,
-          "timestamp": "2026-07-27T03:11:47.419000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274351,
-          "timestamp": "2026-07-27T03:11:37.320000+00:00",
-          "duration": 9.084,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274350,
-          "timestamp": "2026-07-27T03:10:14.213000+00:00",
-          "duration": 82.093,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274349,
-          "timestamp": "2026-07-27T03:08:46.136000+00:00",
-          "duration": 87.061,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274348,
-          "timestamp": "2026-07-27T03:08:44.116000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274347,
-          "timestamp": "2026-07-27T03:08:38.057000+00:00",
-          "duration": 5.051,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274346,
-          "timestamp": "2026-07-27T03:08:36.029000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274345,
-          "timestamp": "2026-07-27T03:08:29.959000+00:00",
-          "duration": 5.054,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274344,
-          "timestamp": "2026-07-27T03:08:28.947000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274343,
-          "timestamp": "2026-07-27T03:08:27.931000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "Adobe Audition"
-          }
-        },
-        {
-          "id": 274342,
-          "timestamp": "2026-07-27T03:08:05.686000+00:00",
-          "duration": 21.233,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274341,
-          "timestamp": "2026-07-27T03:08:04.668000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274340,
-          "timestamp": "2026-07-27T03:07:52.494000+00:00",
-          "duration": 11.162,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274339,
-          "timestamp": "2026-07-27T03:07:51.476000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274338,
-          "timestamp": "2026-07-27T03:07:49.449000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274337,
-          "timestamp": "2026-07-27T03:07:48.434000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274336,
-          "timestamp": "2026-07-27T03:07:44.383000+00:00",
-          "duration": 3.034,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274335,
-          "timestamp": "2026-07-27T03:07:43.372000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274334,
-          "timestamp": "2026-07-27T03:07:42.354000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274332,
-          "timestamp": "2026-07-27T03:07:12.018000+00:00",
-          "duration": 29.291,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274331,
-          "timestamp": "2026-07-27T03:07:11.013000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 274330,
-          "timestamp": "2026-07-27T03:07:10.009000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274329,
-          "timestamp": "2026-07-27T03:07:07.993000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 274328,
-          "timestamp": "2026-07-27T03:07:05.985000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274327,
-          "timestamp": "2026-07-27T03:07:04.981000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274326,
-          "timestamp": "2026-07-27T03:07:02.939000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274325,
-          "timestamp": "2026-07-27T03:06:59.927000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 274324,
-          "timestamp": "2026-07-27T03:06:58.922000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 274323,
-          "timestamp": "2026-07-27T03:06:55.860000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 274322,
-          "timestamp": "2026-07-27T03:06:47.831000+00:00",
-          "duration": 7.025,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274321,
-          "timestamp": "2026-07-27T03:06:46.826000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274320,
-          "timestamp": "2026-07-27T03:06:43.815000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274319,
-          "timestamp": "2026-07-27T03:06:42.808000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274318,
-          "timestamp": "2026-07-27T03:06:40.799000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274317,
-          "timestamp": "2026-07-27T03:06:37.790000+00:00",
-          "duration": 2.006,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274316,
-          "timestamp": "2026-07-27T03:06:35.782000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274315,
-          "timestamp": "2026-07-27T03:06:34.776000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 274314,
-          "timestamp": "2026-07-27T03:05:04.455000+00:00",
-          "duration": 89.318,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274313,
-          "timestamp": "2026-07-27T03:05:03.450000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274312,
-          "timestamp": "2026-07-27T03:05:00.439000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 274311,
-          "timestamp": "2026-07-27T03:04:56.424000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "dyna mind 翻调"
-          }
-        },
-        {
-          "id": 274309,
-          "timestamp": "2026-07-27T03:04:18.286000+00:00",
-          "duration": 37.135,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274308,
-          "timestamp": "2026-07-27T03:04:17.282000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274307,
-          "timestamp": "2026-07-27T03:04:16.278000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274306,
-          "timestamp": "2026-07-27T03:04:13.265000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274305,
-          "timestamp": "2026-07-27T03:04:11.256000+00:00",
-          "duration": 1.004,
+          "id": 275150,
+          "timestamp": "2026-07-27T14:37:38.231000+00:00",
+          "duration": 4942.69,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 未許之地#0716 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 274304,
-          "timestamp": "2026-07-27T03:03:23.072000+00:00",
-          "duration": 47.18,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274303,
-          "timestamp": "2026-07-27T03:03:20.060000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Folder"
-          }
-        },
-        {
-          "id": 274302,
-          "timestamp": "2026-07-27T03:03:14.039000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274301,
-          "timestamp": "2026-07-27T03:03:05.003000+00:00",
-          "duration": 8.03,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274300,
-          "timestamp": "2026-07-27T03:03:03.998000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274299,
-          "timestamp": "2026-07-27T03:03:02.993000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274298,
-          "timestamp": "2026-07-27T03:02:57.976000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "Adobe Audition"
-          }
-        },
-        {
-          "id": 274297,
-          "timestamp": "2026-07-27T03:02:23.846000+00:00",
-          "duration": 33.127,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 274295,
-          "timestamp": "2026-07-27T03:02:10.797000+00:00",
-          "duration": 12.044,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "Adobe Audition"
-          }
-        },
-        {
-          "id": 274294,
-          "timestamp": "2026-07-27T03:02:09.793000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274293,
-          "timestamp": "2026-07-27T03:02:08.789000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Select Music Files"
-          }
-        },
-        {
-          "id": 274292,
-          "timestamp": "2026-07-27T03:01:59.753000+00:00",
-          "duration": 8.033,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274291,
-          "timestamp": "2026-07-27T03:00:01.262000+00:00",
-          "duration": 117.487,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "Adobe Audition"
-          }
-        },
-        {
-          "id": 274289,
-          "timestamp": "2026-07-27T02:59:33.150000+00:00",
-          "duration": 27.108,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "打开文件"
-          }
-        },
-        {
-          "id": 274288,
-          "timestamp": "2026-07-27T02:59:31.140000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "Adobe Audition.exe",
-            "title": "Adobe Audition"
-          }
-        },
-        {
-          "id": 274287,
-          "timestamp": "2026-07-27T02:59:28.126000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Ultimate Vocal Remover"
-          }
-        },
-        {
-          "id": 274286,
-          "timestamp": "2026-07-27T02:59:25.111000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 274285,
-          "timestamp": "2026-07-27T02:59:23.103000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 274284,
-          "timestamp": "2026-07-27T02:59:22.099000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 274283,
-          "timestamp": "2026-07-27T02:59:19.087000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274282,
-          "timestamp": "2026-07-27T02:59:16.071000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 274281,
-          "timestamp": "2026-07-27T02:59:13.059000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "UVR_Launcher.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274280,
-          "timestamp": "2026-07-27T02:59:11.051000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "StartMenuExperienceHost.exe",
-            "title": "启动"
-          }
-        },
-        {
-          "id": 274279,
-          "timestamp": "2026-07-27T02:59:09.042000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 274278,
-          "timestamp": "2026-07-27T02:59:06.028000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274277,
-          "timestamp": "2026-07-27T02:59:02.012000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 未許之地#0716 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 274275,
-          "timestamp": "2026-07-27T02:56:18.390000+00:00",
-          "duration": 162.618,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274273,
-          "timestamp": "2026-07-27T02:55:25.193000+00:00",
-          "duration": 52.192,
-          "data": {
-            "app": "chrome.exe",
-            "title": "オンガク「DYNA MIND inst」 - Cent Browser"
-          }
-        },
-        {
-          "id": 274272,
-          "timestamp": "2026-07-27T02:55:23.183000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274271,
-          "timestamp": "2026-07-27T02:55:15.150000+00:00",
-          "duration": 7.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【MV】DYNA MIND / 9Lana - YouTube - Cent Browser"
-          }
-        },
-        {
-          "id": 274270,
-          "timestamp": "2026-07-27T02:55:04.104000+00:00",
-          "duration": 10.036,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DYNA MIND - YouTube - Cent Browser"
-          }
-        },
-        {
-          "id": 274269,
-          "timestamp": "2026-07-27T02:54:56.073000+00:00",
-          "duration": 7.028,
-          "data": {
-            "app": "chrome.exe",
-            "title": "youtube.com/watch?v=hVau44tbU7E - Cent Browser"
-          }
-        },
-        {
-          "id": 274268,
-          "timestamp": "2026-07-27T02:54:53.060000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DYNA MIND ／ 9Lana - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274266,
-          "timestamp": "2026-07-27T02:54:52.056000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274264,
-          "timestamp": "2026-07-27T02:54:48.042000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "DYNA MIND ／ 9Lana - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274263,
-          "timestamp": "2026-07-27T02:54:47.036000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "google.com.hk/search?q=DYNA+MIND+／+9Lana&oq=DYNA+MIND+／+9Lana&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBBzkyOGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8 - Cent Browser"
-          }
-        },
-        {
-          "id": 274262,
-          "timestamp": "2026-07-27T02:54:44.022000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274261,
-          "timestamp": "2026-07-27T02:54:41.008000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "dyna mind-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274260,
-          "timestamp": "2026-07-27T02:54:35.990000+00:00",
-          "duration": 4.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana off vocal 修正_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274257,
-          "timestamp": "2026-07-27T02:54:14.907000+00:00",
-          "duration": 20.078,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-estgcos.bilivideo.com/upgcxcode/42/67/40294746742/40294746742-1-192.mp4?e=ig8euxZM2rNcNbRjhwdVhwdlhWTVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&trid=9239af568f06493f85d74d5c6986b38h&mid=0&deadline=1785128041&oi=1782024106&gen=playurlv3&og=cos&nbs=1&uipk=5&platform=html5&os=estgcos&upsig=da87868b385df20b7b945d4b4ead5932&uparams=e,trid,mid,deadline,oi,gen,og,nbs,uipk,platform,os&bvc=vod&nettype=0&bw=1285777&lrs=0&build=0&dl=0&f=h_0_0&agrr=0&buvid=&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274256,
-          "timestamp": "2026-07-27T02:54:06.864000+00:00",
-          "duration": 7.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274254,
-          "timestamp": "2026-07-27T02:54:04.855000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-estgcos.bilivideo.com/upgcxcode/42/67/40294746742/40294746742-1-192.mp4?e=ig8euxZM2rNcNbRjhwdVhwdlhWTVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&trid=9239af568f06493f85d74d5c6986b38h&mid=0&deadline=1785128041&oi=1782024106&gen=playurlv3&og=cos&nbs=1&uipk=5&platform=html5&os=estgcos&upsig=da87868b385df20b7b945d4b4ead5932&uparams=e,trid,mid,deadline,oi,gen,og,nbs,uipk,platform,os&bvc=vod&nettype=0&bw=1285777&lrs=0&build=0&dl=0&f=h_0_0&agrr=0&buvid=&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274252,
-          "timestamp": "2026-07-27T02:54:02.847000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274251,
-          "timestamp": "2026-07-27T02:53:56.822000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274250,
-          "timestamp": "2026-07-27T02:53:54.812000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274247,
-          "timestamp": "2026-07-27T02:53:42.766000+00:00",
-          "duration": 11.043,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana off vocal 修正_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274246,
-          "timestamp": "2026-07-27T02:53:38.752000+00:00",
+          "id": 275149,
+          "timestamp": "2026-07-27T14:37:34.218000+00:00",
           "duration": 3.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274244,
-          "timestamp": "2026-07-27T02:53:31.723000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana off vocal 修正_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274241,
-          "timestamp": "2026-07-27T02:53:30.716000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274240,
-          "timestamp": "2026-07-27T02:53:27.700000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274236,
-          "timestamp": "2026-07-27T02:53:26.693000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274234,
-          "timestamp": "2026-07-27T02:53:24.686000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274233,
-          "timestamp": "2026-07-27T02:53:20.670000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274231,
-          "timestamp": "2026-07-27T02:53:19.664000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 未許之地#0716 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 274230,
-          "timestamp": "2026-07-27T02:53:17.655000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274229,
-          "timestamp": "2026-07-27T02:53:09.625000+00:00",
-          "duration": 7.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274227,
-          "timestamp": "2026-07-27T02:52:58.581000+00:00",
-          "duration": 10.04,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274226,
-          "timestamp": "2026-07-27T02:52:56.571000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274223,
-          "timestamp": "2026-07-27T02:52:22.443000+00:00",
-          "duration": 33.124,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana off vocal 修正_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274222,
-          "timestamp": "2026-07-27T02:52:09.392000+00:00",
-          "duration": 12.048,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana on/off vocal_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274220,
-          "timestamp": "2026-07-27T02:52:02.364000+00:00",
-          "duration": 6.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274219,
-          "timestamp": "2026-07-27T02:51:57.342000+00:00",
-          "duration": 4.017,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274218,
-          "timestamp": "2026-07-27T02:51:30.242000+00:00",
-          "duration": 26.096,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274216,
-          "timestamp": "2026-07-27T02:51:29.237000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274215,
-          "timestamp": "2026-07-27T02:51:22.203000+00:00",
-          "duration": 6.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "upos-sz-mirror08c.bilivideo.com/upgcxcode/61/13/40294811361/40294811361-1-192.mp4?e=ig8euxZM2rNcNbRBnwdVhwdlhWU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1785127878&uipk=5&og=hw&platform=html5&trid=5b85513477fd44918587b483aaa148ch&nbs=1&gen=playurlv3&os=08cbv&oi=1782024106&upsig=228eb58939143bba45a06e738c4596eb&uparams=e,mid,deadline,uipk,og,platform,trid,nbs,gen,os,oi&bvc=vod&nettype=0&bw=1270292&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
-          }
-        },
-        {
-          "id": 274214,
-          "timestamp": "2026-07-27T02:51:20.189000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274213,
-          "timestamp": "2026-07-27T02:51:14.165000+00:00",
-          "duration": 5.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274212,
-          "timestamp": "2026-07-27T02:51:11.151000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana on/off vocal_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274210,
-          "timestamp": "2026-07-27T02:51:03.110000+00:00",
-          "duration": 7.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "dyna mind-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274208,
-          "timestamp": "2026-07-27T02:51:00.090000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274206,
-          "timestamp": "2026-07-27T02:50:55.067000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana on/off vocal_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274205,
-          "timestamp": "2026-07-27T02:50:48.030000+00:00",
-          "duration": 6.027,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
-          }
-        },
-        {
-          "id": 274203,
-          "timestamp": "2026-07-27T02:50:46.022000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274202,
-          "timestamp": "2026-07-27T02:50:45.013000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "b站视频下载 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274201,
-          "timestamp": "2026-07-27T02:50:41.999000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274200,
-          "timestamp": "2026-07-27T02:50:36.977000+00:00",
-          "duration": 4.018,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274199,
-          "timestamp": "2026-07-27T02:50:30.953000+00:00",
-          "duration": 5.019,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 274197,
-          "timestamp": "2026-07-27T02:50:27.938000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274196,
-          "timestamp": "2026-07-27T02:50:17.889000+00:00",
-          "duration": 9.042,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 274195,
-          "timestamp": "2026-07-27T02:50:08.849000+00:00",
-          "duration": 8.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana on/off vocal_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274193,
-          "timestamp": "2026-07-27T02:50:01.811000+00:00",
-          "duration": 6.032,
-          "data": {
-            "app": "chrome.exe",
-            "title": "dyna mind-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274191,
-          "timestamp": "2026-07-27T02:49:59.802000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【ニコカラ】DYNA MIND ／ 9Lana on/off vocal_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274189,
-          "timestamp": "2026-07-27T02:49:58.797000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274188,
-          "timestamp": "2026-07-27T02:49:55.778000+00:00",
-          "duration": 2.014,
-          "data": {
-            "app": "chrome.exe",
-            "title": "dyna mind-哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274187,
-          "timestamp": "2026-07-27T02:49:53.765000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 274186,
-          "timestamp": "2026-07-27T02:49:42.706000+00:00",
-          "duration": 10.054,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 274185,
-          "timestamp": "2026-07-27T02:49:34.670000+00:00",
-          "duration": 7.033,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ak.gryphline - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 274184,
-          "timestamp": "2026-07-27T02:49:32.657000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gryphline User Center - Cent Browser"
-          }
-        },
-        {
-          "id": 274181,
-          "timestamp": "2026-07-27T02:48:15.330000+00:00",
-          "duration": 76.324,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274180,
-          "timestamp": "2026-07-27T02:48:14.326000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274179,
-          "timestamp": "2026-07-27T02:48:12.320000+00:00",
-          "duration": 1.002,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274178,
-          "timestamp": "2026-07-27T02:48:05.294000+00:00",
-          "duration": 6.022,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274177,
-          "timestamp": "2026-07-27T02:48:04.288000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "PlatformProcess.exe",
-            "title": "Form"
-          }
-        },
-        {
-          "id": 274176,
-          "timestamp": "2026-07-27T02:47:58.266000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274174,
-          "timestamp": "2026-07-27T02:47:57.261000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "PlatformProcess.exe",
-            "title": "Form"
-          }
-        },
-        {
-          "id": 274173,
-          "timestamp": "2026-07-27T02:47:46.221000+00:00",
-          "duration": 10.035,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274167,
-          "timestamp": "2026-07-27T02:42:29.030000+00:00",
-          "duration": 316.186,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274166,
-          "timestamp": "2026-07-27T02:41:57.896000+00:00",
-          "duration": 30.129,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "La.La.Bye - 中森明菜"
-          }
-        },
-        {
-          "id": 274165,
-          "timestamp": "2026-07-27T02:39:46.304000+00:00",
-          "duration": 130.586,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274164,
-          "timestamp": "2026-07-27T02:39:29.196000+00:00",
-          "duration": 16.096,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274163,
-          "timestamp": "2026-07-27T02:39:26.178000+00:00",
-          "duration": 2.013,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DYNA MIND - 9Lana"
-          }
-        },
-        {
-          "id": 274161,
-          "timestamp": "2026-07-27T02:35:47.831000+00:00",
-          "duration": 217.343,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274160,
-          "timestamp": "2026-07-27T02:35:29.723000+00:00",
-          "duration": 17.102,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "シアンブルー (feat. 初音ミク) - ポリスピカデリー/初音ミク"
-          }
-        },
-        {
-          "id": 274159,
-          "timestamp": "2026-07-27T02:35:24.697000+00:00",
-          "duration": 4.022,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "衛星 - 柿崎ユウタ"
-          }
-        },
-        {
-          "id": 274158,
-          "timestamp": "2026-07-27T02:35:22.680000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "絵本と電車のロンドテーマ願い - ぽんず"
-          }
-        },
-        {
-          "id": 274156,
-          "timestamp": "2026-07-27T02:32:27.663000+00:00",
-          "duration": 174.004,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274155,
-          "timestamp": "2026-07-27T02:32:20.625000+00:00",
-          "duration": 6.036,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Brella - 無力P"
-          }
-        },
-        {
-          "id": 274154,
-          "timestamp": "2026-07-27T02:31:37.459000+00:00",
-          "duration": 42.162,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274153,
-          "timestamp": "2026-07-27T02:31:29.421000+00:00",
-          "duration": 7.032,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Brella - 無力P"
-          }
-        },
-        {
-          "id": 274152,
-          "timestamp": "2026-07-27T02:31:15.363000+00:00",
-          "duration": 13.05,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274151,
-          "timestamp": "2026-07-27T02:31:11.348000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Brella - 無力P"
-          }
-        },
-        {
-          "id": 274148,
-          "timestamp": "2026-07-27T02:24:52.059000+00:00",
-          "duration": 378.282,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274147,
-          "timestamp": "2026-07-27T02:24:50.047000+00:00",
-          "duration": 1.008,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Last Mermaid - nero"
-          }
-        },
-        {
-          "id": 274144,
-          "timestamp": "2026-07-27T02:19:50.144000+00:00",
-          "duration": 298.897,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274143,
-          "timestamp": "2026-07-27T02:19:48.129000+00:00",
-          "duration": 1.01,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "たぶん、夢 (feat. 歌愛ユキ) - 佐藤乃子/歌愛ユキ"
-          }
-        },
-        {
-          "id": 274141,
-          "timestamp": "2026-07-27T02:15:37.699000+00:00",
-          "duration": 249.424,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274140,
-          "timestamp": "2026-07-27T02:15:36.694000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "赤道を越えたら - 椎名林檎"
-          }
-        },
-        {
-          "id": 274137,
-          "timestamp": "2026-07-27T02:11:57.451000+00:00",
-          "duration": 218.235,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274136,
-          "timestamp": "2026-07-27T02:11:54.435000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "意識 (戦後最大級ノ暴風雨圏内歌唱) - 椎名林檎"
-          }
-        },
-        {
-          "id": 274135,
-          "timestamp": "2026-07-27T02:09:44.698000+00:00",
-          "duration": 128.734,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274134,
-          "timestamp": "2026-07-27T02:09:41.677000+00:00",
-          "duration": 2.016,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Saloon - R Sound Design/羽累"
-          }
-        },
-        {
-          "id": 274133,
-          "timestamp": "2026-07-27T02:08:58.512000+00:00",
-          "duration": 42.158,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274132,
-          "timestamp": "2026-07-27T02:08:53.486000+00:00",
-          "duration": 4.02,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Saloon - R Sound Design/羽累"
-          }
-        },
-        {
-          "id": 274131,
-          "timestamp": "2026-07-27T02:08:50.470000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "聖心少女 - 明石缪"
-          }
-        },
-        {
-          "id": 274130,
-          "timestamp": "2026-07-27T02:08:48.458000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274129,
-          "timestamp": "2026-07-27T02:08:45.446000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274128,
-          "timestamp": "2026-07-27T02:08:38.420000+00:00",
-          "duration": 6.023,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274127,
-          "timestamp": "2026-07-27T02:08:35.409000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "PlatformProcess.exe",
-            "title": "Form"
-          }
-        },
-        {
-          "id": 274126,
-          "timestamp": "2026-07-27T02:08:34.405000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Gryphline User Center - Cent Browser"
-          }
-        },
-        {
-          "id": 274125,
-          "timestamp": "2026-07-27T02:08:33.401000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "明日方舟 - Arknights - Cent Browser"
-          }
-        },
-        {
-          "id": 274123,
-          "timestamp": "2026-07-27T02:08:31.392000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "chrome.exe",
-            "title": "PRTS Plus - Cent Browser"
-          }
-        },
-        {
-          "id": 274121,
-          "timestamp": "2026-07-27T02:08:27.377000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274120,
-          "timestamp": "2026-07-27T02:08:26.372000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274119,
-          "timestamp": "2026-07-27T02:08:25.368000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "鹰角启动器 的跳转列表"
-          }
-        },
-        {
-          "id": 274118,
-          "timestamp": "2026-07-27T02:08:23.361000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274117,
-          "timestamp": "2026-07-27T02:08:14.327000+00:00",
-          "duration": 8.03,
-          "data": {
-            "app": "Arknights.exe",
-            "title": "明日方舟"
-          }
-        },
-        {
-          "id": 274116,
-          "timestamp": "2026-07-27T02:07:55.246000+00:00",
-          "duration": 18.077,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "聖心少女 - 明石缪"
-          }
-        },
-        {
-          "id": 274115,
-          "timestamp": "2026-07-27T02:07:53.238000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274114,
-          "timestamp": "2026-07-27T02:07:50.226000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 274113,
-          "timestamp": "2026-07-27T02:07:48.217000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274112,
-          "timestamp": "2026-07-27T02:07:45.204000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 274111,
-          "timestamp": "2026-07-27T02:07:36.168000+00:00",
-          "duration": 8.028,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274110,
-          "timestamp": "2026-07-27T02:07:34.161000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 274109,
-          "timestamp": "2026-07-27T02:07:32.153000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274108,
-          "timestamp": "2026-07-27T02:07:29.139000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 274107,
-          "timestamp": "2026-07-27T02:05:55.811000+00:00",
-          "duration": 92.324,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274106,
-          "timestamp": "2026-07-27T02:05:54.804000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 274105,
-          "timestamp": "2026-07-27T02:05:53.800000+00:00",
-          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 274104,
-          "timestamp": "2026-07-27T02:05:49.781000+00:00",
-          "duration": 3.015,
+          "id": 275148,
+          "timestamp": "2026-07-27T14:37:26.192000+00:00",
+          "duration": 7.023,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275147,
+          "timestamp": "2026-07-27T14:37:10.134000+00:00",
+          "duration": 15.055,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275146,
+          "timestamp": "2026-07-27T14:37:07.124000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275145,
+          "timestamp": "2026-07-27T14:34:51.680000+00:00",
+          "duration": 134.441,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275144,
+          "timestamp": "2026-07-27T14:34:50.676000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275143,
+          "timestamp": "2026-07-27T14:34:49.671000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 274103,
-          "timestamp": "2026-07-27T02:05:46.768000+00:00",
-          "duration": 2.009,
+          "id": 275142,
+          "timestamp": "2026-07-27T14:34:47.662000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 274102,
-          "timestamp": "2026-07-27T02:03:50.359000+00:00",
-          "duration": 115.405,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 274101,
-          "timestamp": "2026-07-27T02:03:47.347000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 274100,
-          "timestamp": "2026-07-27T02:03:24.257000+00:00",
-          "duration": 22.087,
+          "id": 275138,
+          "timestamp": "2026-07-27T13:02:09.321000+00:00",
+          "duration": 5557.339,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 274093,
-          "timestamp": "2026-07-27T01:16:29.203000+00:00",
-          "duration": 2814.049,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 273972,
-          "timestamp": "2026-07-27T00:00:04.144000+00:00",
-          "duration": 4584.056,
+          "id": 275137,
+          "timestamp": "2026-07-27T13:02:08.315000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": ""
+          }
+        },
+        {
+          "id": 275136,
+          "timestamp": "2026-07-27T12:59:27.750000+00:00",
+          "duration": 159.563,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275135,
+          "timestamp": "2026-07-27T12:59:26.746000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 275134,
+          "timestamp": "2026-07-27T12:59:25.741000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275133,
+          "timestamp": "2026-07-27T12:59:21.726000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 275132,
+          "timestamp": "2026-07-27T12:59:03.662000+00:00",
+          "duration": 17.06,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275131,
+          "timestamp": "2026-07-27T12:59:00.651000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275130,
+          "timestamp": "2026-07-27T12:56:43.200000+00:00",
+          "duration": 136.448,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275129,
+          "timestamp": "2026-07-27T12:56:11.098000+00:00",
+          "duration": 31.099,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275123,
+          "timestamp": "2026-07-27T12:43:08.539000+00:00",
+          "duration": 781.556,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275122,
+          "timestamp": "2026-07-27T12:43:06.530000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 275121,
+          "timestamp": "2026-07-27T12:43:03.519000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275120,
+          "timestamp": "2026-07-27T12:43:01.498000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 275119,
+          "timestamp": "2026-07-27T12:43:00.494000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 275118,
+          "timestamp": "2026-07-27T12:42:28.377000+00:00",
+          "duration": 31.113,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275117,
+          "timestamp": "2026-07-27T12:42:03.284000+00:00",
+          "duration": 24.088,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "AzurLaneAutoScript"
+          }
+        },
+        {
+          "id": 275116,
+          "timestamp": "2026-07-27T12:42:01.277000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "ALAS"
+          }
+        },
+        {
+          "id": 275115,
+          "timestamp": "2026-07-27T12:42:00.272000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 275114,
+          "timestamp": "2026-07-27T12:41:56.257000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64 - 副本"
+          }
+        },
+        {
+          "id": 275113,
+          "timestamp": "2026-07-27T12:41:42.209000+00:00",
+          "duration": 13.045,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275112,
+          "timestamp": "2026-07-27T12:41:38.192000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275110,
+          "timestamp": "2026-07-27T12:41:18.115000+00:00",
+          "duration": 19.074,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275109,
+          "timestamp": "2026-07-27T12:41:13.098000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 275108,
+          "timestamp": "2026-07-27T12:41:11.092000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275107,
+          "timestamp": "2026-07-27T12:41:10.087000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 275103,
+          "timestamp": "2026-07-27T12:27:13.654000+00:00",
+          "duration": 835.402,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275102,
+          "timestamp": "2026-07-27T12:25:08.285000+00:00",
+          "duration": 124.365,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275101,
+          "timestamp": "2026-07-27T12:25:07.281000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275100,
+          "timestamp": "2026-07-27T12:25:02.265000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275095,
+          "timestamp": "2026-07-27T12:12:42.051000+00:00",
+          "duration": 739.212,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275094,
+          "timestamp": "2026-07-27T12:10:38.693000+00:00",
+          "duration": 122.357,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275087,
+          "timestamp": "2026-07-27T12:00:05.528000+00:00",
+          "duration": 632.164,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-27T12:00:06.250701",
+    "export_time": "2026-07-28T00:00:07.592436",
     "time_range": {
-      "start": "2026-07-27T00:00:04.144522",
-      "end": "2026-07-27T12:00:04.144522"
+      "start": "2026-07-27T12:00:05.528114",
+      "end": "2026-07-28T00:00:05.528114"
     },
-    "total_events": 380
+    "total_events": 42
   }
 }
