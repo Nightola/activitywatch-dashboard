@@ -5,215 +5,71 @@
       "type": "window",
       "events": [
         {
-          "id": 275150,
-          "timestamp": "2026-07-27T14:37:38.231000+00:00",
-          "duration": 4942.69,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275149,
-          "timestamp": "2026-07-27T14:37:34.218000+00:00",
-          "duration": 3.01,
+          "id": 275416,
+          "timestamp": "2026-07-28T02:22:07.609000+00:00",
+          "duration": 5873.435,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275148,
-          "timestamp": "2026-07-27T14:37:26.192000+00:00",
-          "duration": 7.023,
+          "id": 275415,
+          "timestamp": "2026-07-28T02:21:51.552000+00:00",
+          "duration": 15.053,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 275147,
-          "timestamp": "2026-07-27T14:37:10.134000+00:00",
-          "duration": 15.055,
+          "id": 275414,
+          "timestamp": "2026-07-28T02:21:36.497000+00:00",
+          "duration": 14.051,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275146,
-          "timestamp": "2026-07-27T14:37:07.124000+00:00",
-          "duration": 2.006,
+          "id": 275413,
+          "timestamp": "2026-07-28T02:21:13.412000+00:00",
+          "duration": 22.081,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 275145,
-          "timestamp": "2026-07-27T14:34:51.680000+00:00",
-          "duration": 134.441,
+          "id": 275411,
+          "timestamp": "2026-07-28T02:19:27.988000+00:00",
+          "duration": 104.421,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275144,
-          "timestamp": "2026-07-27T14:34:50.676000+00:00",
-          "duration": 0.0,
+          "id": 275410,
+          "timestamp": "2026-07-28T02:19:21.961000+00:00",
+          "duration": 5.023,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
           }
         },
         {
-          "id": 275143,
-          "timestamp": "2026-07-27T14:34:49.671000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275142,
-          "timestamp": "2026-07-27T14:34:47.662000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 275138,
-          "timestamp": "2026-07-27T13:02:09.321000+00:00",
-          "duration": 5557.339,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275137,
-          "timestamp": "2026-07-27T13:02:08.315000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 275136,
-          "timestamp": "2026-07-27T12:59:27.750000+00:00",
-          "duration": 159.563,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275135,
-          "timestamp": "2026-07-27T12:59:26.746000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 275134,
-          "timestamp": "2026-07-27T12:59:25.741000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275133,
-          "timestamp": "2026-07-27T12:59:21.726000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "MAA.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 275132,
-          "timestamp": "2026-07-27T12:59:03.662000+00:00",
-          "duration": 17.06,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275131,
-          "timestamp": "2026-07-27T12:59:00.651000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
-          }
-        },
-        {
-          "id": 275130,
-          "timestamp": "2026-07-27T12:56:43.200000+00:00",
-          "duration": 136.448,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275129,
-          "timestamp": "2026-07-27T12:56:11.098000+00:00",
-          "duration": 31.099,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
-          }
-        },
-        {
-          "id": 275123,
-          "timestamp": "2026-07-27T12:43:08.539000+00:00",
-          "duration": 781.556,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275122,
-          "timestamp": "2026-07-27T12:43:06.530000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 275121,
-          "timestamp": "2026-07-27T12:43:03.519000+00:00",
-          "duration": 2.007,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275120,
-          "timestamp": "2026-07-27T12:43:01.498000+00:00",
+          "id": 275409,
+          "timestamp": "2026-07-28T02:19:19.953000+00:00",
           "duration": 1.005,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
           }
         },
         {
-          "id": 275119,
-          "timestamp": "2026-07-27T12:43:00.494000+00:00",
+          "id": 275408,
+          "timestamp": "2026-07-28T02:19:18.947000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -221,62 +77,278 @@
           }
         },
         {
-          "id": 275118,
-          "timestamp": "2026-07-27T12:42:28.377000+00:00",
-          "duration": 31.113,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275117,
-          "timestamp": "2026-07-27T12:42:03.284000+00:00",
-          "duration": 24.088,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "AzurLaneAutoScript"
-          }
-        },
-        {
-          "id": 275116,
-          "timestamp": "2026-07-27T12:42:01.277000+00:00",
+          "id": 275407,
+          "timestamp": "2026-07-28T02:19:16.940000+00:00",
           "duration": 1.004,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "ALAS"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 275115,
-          "timestamp": "2026-07-27T12:42:00.272000+00:00",
+          "id": 275405,
+          "timestamp": "2026-07-28T02:18:08.675000+00:00",
+          "duration": 67.261,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【明日方舟】1分钟学会：用电脑同时玩不同服的账号_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275404,
+          "timestamp": "2026-07-28T02:18:07.670000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 275114,
-          "timestamp": "2026-07-27T12:41:56.257000+00:00",
-          "duration": 3.013,
+          "id": 275403,
+          "timestamp": "2026-07-28T02:18:04.658000+00:00",
+          "duration": 2.008,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64 - 副本"
+            "app": "chrome.exe",
+            "title": "明日方舟PC端能登录B服吗-哔哩哔哩_bilibili - Cent Browser"
           }
         },
         {
-          "id": 275113,
-          "timestamp": "2026-07-27T12:41:42.209000+00:00",
-          "duration": 13.045,
+          "id": 275400,
+          "timestamp": "2026-07-28T02:16:38.305000+00:00",
+          "duration": 85.349,
+          "data": {
+            "app": "chrome.exe",
+            "title": "2分钟教会你明日方舟PC端官服-B服互转！【明日方舟PC端】_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 275399,
+          "timestamp": "2026-07-28T02:16:37.301000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 275398,
+          "timestamp": "2026-07-28T02:16:27.259000+00:00",
+          "duration": 9.037,
+          "data": {
+            "app": "chrome.exe",
+            "title": "明日方舟PC端能登录B服吗-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275397,
+          "timestamp": "2026-07-28T02:16:25.251000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 275396,
+          "timestamp": "2026-07-28T02:16:12.200000+00:00",
+          "duration": 12.045,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275395,
+          "timestamp": "2026-07-28T02:16:10.193000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 275393,
+          "timestamp": "2026-07-28T02:16:09.189000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 275112,
-          "timestamp": "2026-07-27T12:41:38.192000+00:00",
+          "id": 275392,
+          "timestamp": "2026-07-28T02:15:38.072000+00:00",
+          "duration": 30.111,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275354,
+          "timestamp": "2026-07-28T01:03:36.477000+00:00",
+          "duration": 4320.59,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275353,
+          "timestamp": "2026-07-28T01:03:33.464000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275351,
+          "timestamp": "2026-07-28T01:00:54.866000+00:00",
+          "duration": 157.595,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275347,
+          "timestamp": "2026-07-28T00:58:26.305000+00:00",
+          "duration": 147.557,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275341,
+          "timestamp": "2026-07-28T00:52:58.043000+00:00",
+          "duration": 327.258,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275339,
+          "timestamp": "2026-07-28T00:52:49.009000+00:00",
+          "duration": 8.03,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275337,
+          "timestamp": "2026-07-28T00:52:47+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275336,
+          "timestamp": "2026-07-28T00:52:45.996000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275331,
+          "timestamp": "2026-07-28T00:47:28.722000+00:00",
+          "duration": 316.27,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275330,
+          "timestamp": "2026-07-28T00:47:26.714000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275329,
+          "timestamp": "2026-07-28T00:47:22.700000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 275328,
+          "timestamp": "2026-07-28T00:46:30.499000+00:00",
+          "duration": 51.198,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275327,
+          "timestamp": "2026-07-28T00:46:25.481000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
+          }
+        },
+        {
+          "id": 275326,
+          "timestamp": "2026-07-28T00:45:41.325000+00:00",
+          "duration": 43.153,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275325,
+          "timestamp": "2026-07-28T00:45:36.308000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275324,
+          "timestamp": "2026-07-28T00:45:25.266000+00:00",
+          "duration": 10.037,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275322,
+          "timestamp": "2026-07-28T00:44:19.019000+00:00",
+          "duration": 65.244,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275321,
+          "timestamp": "2026-07-28T00:44:15.003000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275320,
+          "timestamp": "2026-07-28T00:44:10.988000+00:00",
           "duration": 3.012,
           "data": {
             "app": "MuMuNxDevice.exe",
@@ -284,35 +356,71 @@
           }
         },
         {
-          "id": 275110,
-          "timestamp": "2026-07-27T12:41:18.115000+00:00",
-          "duration": 19.074,
+          "id": 275319,
+          "timestamp": "2026-07-28T00:44:02.955000+00:00",
+          "duration": 7.03,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         },
         {
-          "id": 275109,
-          "timestamp": "2026-07-27T12:41:13.098000+00:00",
-          "duration": 4.013,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 275108,
-          "timestamp": "2026-07-27T12:41:11.092000+00:00",
-          "duration": 1.004,
+          "id": 275318,
+          "timestamp": "2026-07-28T00:43:34.855000+00:00",
+          "duration": 27.097,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275107,
-          "timestamp": "2026-07-27T12:41:10.087000+00:00",
+          "id": 275317,
+          "timestamp": "2026-07-28T00:43:28.830000+00:00",
+          "duration": 5.021,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275316,
+          "timestamp": "2026-07-28T00:43:23.810000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275315,
+          "timestamp": "2026-07-28T00:43:08.750000+00:00",
+          "duration": 14.056,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275314,
+          "timestamp": "2026-07-28T00:43:01.724000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275311,
+          "timestamp": "2026-07-28T00:42:39.640000+00:00",
+          "duration": 21.081,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275310,
+          "timestamp": "2026-07-28T00:42:38.634000+00:00",
           "duration": 0.0,
           "data": {
             "app": "unknown",
@@ -320,26 +428,296 @@
           }
         },
         {
-          "id": 275103,
-          "timestamp": "2026-07-27T12:27:13.654000+00:00",
-          "duration": 835.402,
+          "id": 275309,
+          "timestamp": "2026-07-28T00:41:34.346000+00:00",
+          "duration": 63.241,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "app": "chrome.exe",
+            "title": "PRTS Plus - Cent Browser"
           }
         },
         {
-          "id": 275102,
-          "timestamp": "2026-07-27T12:25:08.285000+00:00",
-          "duration": 124.365,
+          "id": 275308,
+          "timestamp": "2026-07-28T00:41:31.328000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275306,
+          "timestamp": "2026-07-28T00:41:28.316000+00:00",
+          "duration": 2.009,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275101,
-          "timestamp": "2026-07-27T12:25:07.281000+00:00",
+          "id": 275305,
+          "timestamp": "2026-07-28T00:41:26.307000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275302,
+          "timestamp": "2026-07-28T00:39:41.888000+00:00",
+          "duration": 103.414,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275296,
+          "timestamp": "2026-07-28T00:31:32.791000+00:00",
+          "duration": 488.09,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+          }
+        },
+        {
+          "id": 275295,
+          "timestamp": "2026-07-28T00:31:16.718000+00:00",
+          "duration": 15.066,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275291,
+          "timestamp": "2026-07-28T00:25:04.175000+00:00",
+          "duration": 371.534,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275290,
+          "timestamp": "2026-07-28T00:25:01.161000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "网络连接"
+          }
+        },
+        {
+          "id": 275289,
+          "timestamp": "2026-07-28T00:25:00.156000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 275288,
+          "timestamp": "2026-07-28T00:24:47.050000+00:00",
+          "duration": 12.05,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275273,
+          "timestamp": "2026-07-28T00:08:48.992000+00:00",
+          "duration": 957.054,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275272,
+          "timestamp": "2026-07-28T00:08:41.947000+00:00",
+          "duration": 6.041,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275269,
+          "timestamp": "2026-07-28T00:05:43.164000+00:00",
+          "duration": 177.78,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275268,
+          "timestamp": "2026-07-28T00:05:23.072000+00:00",
+          "duration": 19.088,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275266,
+          "timestamp": "2026-07-28T00:04:25.817000+00:00",
+          "duration": 56.245,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275265,
+          "timestamp": "2026-07-28T00:04:23.806000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275264,
+          "timestamp": "2026-07-28T00:04:08.740000+00:00",
+          "duration": 14.06,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275263,
+          "timestamp": "2026-07-28T00:04:00.708000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275261,
+          "timestamp": "2026-07-28T00:03:49.659000+00:00",
+          "duration": 10.042,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275260,
+          "timestamp": "2026-07-28T00:03:47.647000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275259,
+          "timestamp": "2026-07-28T00:03:20.514000+00:00",
+          "duration": 26.129,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275258,
+          "timestamp": "2026-07-28T00:03:17.503000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275256,
+          "timestamp": "2026-07-28T00:02:25.276000+00:00",
+          "duration": 51.223,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275255,
+          "timestamp": "2026-07-28T00:02:23.264000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275254,
+          "timestamp": "2026-07-28T00:02:15.231000+00:00",
+          "duration": 7.029,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275253,
+          "timestamp": "2026-07-28T00:02:11.215000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275252,
+          "timestamp": "2026-07-28T00:01:36.032000+00:00",
+          "duration": 34.178,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275251,
+          "timestamp": "2026-07-28T00:01:32.017000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275250,
+          "timestamp": "2026-07-28T00:01:28.979000+00:00",
+          "duration": 2.035,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 275248,
+          "timestamp": "2026-07-28T00:01:17.929000+00:00",
+          "duration": 10.038,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 275247,
+          "timestamp": "2026-07-28T00:01:13.887000+00:00",
+          "duration": 3.039,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275246,
+          "timestamp": "2026-07-28T00:01:12.883000+00:00",
           "duration": 0.0,
           "data": {
             "app": "MAA.exe",
@@ -347,50 +725,104 @@
           }
         },
         {
-          "id": 275100,
-          "timestamp": "2026-07-27T12:25:02.265000+00:00",
-          "duration": 4.013,
+          "id": 275245,
+          "timestamp": "2026-07-28T00:00:59.831000+00:00",
+          "duration": 12.049,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9突袭 娜仁图亚单挂_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275244,
+          "timestamp": "2026-07-28T00:00:55.814000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【明日方舟】2026神级主线攻略 单核轻松！ 摆完挂机！ 入坑必看！！ 0-8章_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 275243,
+          "timestamp": "2026-07-28T00:00:54.810000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275095,
-          "timestamp": "2026-07-27T12:12:42.051000+00:00",
-          "duration": 739.212,
+          "id": 275242,
+          "timestamp": "2026-07-28T00:00:39.724000+00:00",
+          "duration": 14.082,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "app": "chrome.exe",
+            "title": "【明日方舟】2026神级主线攻略 单核轻松！ 摆完挂机！ 入坑必看！！ 0-8章_明日方舟 - Cent Browser"
           }
         },
         {
-          "id": 275094,
-          "timestamp": "2026-07-27T12:10:38.693000+00:00",
-          "duration": 122.357,
+          "id": 275241,
+          "timestamp": "2026-07-28T00:00:38.717000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV1a7V5z5Eci/?spm_id_from=333.337.search-card.all.click - Cent Browser"
+          }
+        },
+        {
+          "id": 275240,
+          "timestamp": "2026-07-28T00:00:37.711000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 275239,
+          "timestamp": "2026-07-28T00:00:30.680000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "初雪主线挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275237,
+          "timestamp": "2026-07-28T00:00:07.585000+00:00",
+          "duration": 22.091,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-9 挂机偏单核_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275236,
+          "timestamp": "2026-07-28T00:00:05.575000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "5-8_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 275235,
+          "timestamp": "2026-07-28T00:00:04.293000+00:00",
+          "duration": 0.278,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
-          }
-        },
-        {
-          "id": 275087,
-          "timestamp": "2026-07-27T12:00:05.528000+00:00",
-          "duration": 632.164,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-28T00:00:07.592436",
+    "export_time": "2026-07-28T12:00:06.377002",
     "time_range": {
-      "start": "2026-07-27T12:00:05.528114",
-      "end": "2026-07-28T00:00:05.528114"
+      "start": "2026-07-28T00:00:04.293108",
+      "end": "2026-07-28T12:00:04.293108"
     },
-    "total_events": 42
+    "total_events": 90
   }
 }
