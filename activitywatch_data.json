@@ -5,167 +5,95 @@
       "type": "window",
       "events": [
         {
-          "id": 275749,
-          "timestamp": "2026-07-29T03:14:15.721000+00:00",
-          "duration": 2745.054,
+          "id": 276071,
+          "timestamp": "2026-07-29T15:38:03.659000+00:00",
+          "duration": 1317.293,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 276067,
+          "timestamp": "2026-07-29T15:32:05.285000+00:00",
+          "duration": 357.37,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275748,
-          "timestamp": "2026-07-29T03:14:11.706000+00:00",
-          "duration": 3.012,
+          "id": 276066,
+          "timestamp": "2026-07-29T15:32:03.277000+00:00",
+          "duration": 1.005,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 275747,
-          "timestamp": "2026-07-29T03:13:44.604000+00:00",
-          "duration": 26.099,
+          "id": 276065,
+          "timestamp": "2026-07-29T15:31:23.120000+00:00",
+          "duration": 39.153,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275746,
-          "timestamp": "2026-07-29T03:11:58.186000+00:00",
-          "duration": 105.415,
+          "id": 276044,
+          "timestamp": "2026-07-29T12:56:57.479000+00:00",
+          "duration": 9264.637,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 275745,
-          "timestamp": "2026-07-29T03:11:49.147000+00:00",
-          "duration": 8.036,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 275744,
-          "timestamp": "2026-07-29T03:11:44.127000+00:00",
-          "duration": 4.014,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275743,
-          "timestamp": "2026-07-29T03:09:24.624000+00:00",
-          "duration": 138.5,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275741,
-          "timestamp": "2026-07-29T03:09:23.621000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 275740,
-          "timestamp": "2026-07-29T03:09:22.616000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275739,
-          "timestamp": "2026-07-29T03:09:20.609000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 275733,
-          "timestamp": "2026-07-29T02:16:36.327000+00:00",
-          "duration": 3163.278,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
-          }
-        },
-        {
-          "id": 275718,
-          "timestamp": "2026-07-29T00:13:31.735000+00:00",
-          "duration": 7383.588,
+          "id": 276029,
+          "timestamp": "2026-07-29T12:21:01.242000+00:00",
+          "duration": 2155.234,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275717,
-          "timestamp": "2026-07-29T00:10:03.961000+00:00",
-          "duration": 206.768,
+          "id": 276023,
+          "timestamp": "2026-07-29T12:15:56.006000+00:00",
+          "duration": 304.23,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 雅賽努斯復仇記#0727 - MuMu 模拟器 (16448) - 繁中服 (txwy)"
+            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 275716,
-          "timestamp": "2026-07-29T00:04:35.786000+00:00",
-          "duration": 327.172,
+          "id": 276018,
+          "timestamp": "2026-07-29T12:05:57.669000+00:00",
+          "duration": 597.332,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 275715,
-          "timestamp": "2026-07-29T00:04:07.689000+00:00",
-          "duration": 27.094,
+          "id": 275985,
+          "timestamp": "2026-07-29T12:00:04.381000+00:00",
+          "duration": 352.283,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 275713,
-          "timestamp": "2026-07-29T00:02:04.253000+00:00",
-          "duration": 122.434,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
-          }
-        },
-        {
-          "id": 275712,
-          "timestamp": "2026-07-29T00:00:04.192000+00:00",
-          "duration": 119.058,
-          "data": {
-            "app": "MuMuNxService.exe",
-            "title": "MuMuNxService"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-07-29T12:00:06.249229",
+    "export_time": "2026-07-30T00:00:06.464935",
     "time_range": {
-      "start": "2026-07-29T00:00:04.192861",
-      "end": "2026-07-29T12:00:04.192861"
+      "start": "2026-07-29T12:00:04.381636",
+      "end": "2026-07-30T00:00:04.381636"
     },
-    "total_events": 17
+    "total_events": 9
   }
 }
