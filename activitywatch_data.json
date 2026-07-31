@@ -5,180 +5,351 @@
       "type": "window",
       "events": [
         {
-          "id": 276659,
-          "timestamp": "2026-07-30T15:22:29.915000+00:00",
-          "duration": 2250.38,
+          "id": 276769,
+          "timestamp": "2026-07-31T03:48:06.168000+00:00",
+          "duration": 714.762,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 276658,
-          "timestamp": "2026-07-30T15:19:55.342000+00:00",
-          "duration": 153.569,
+          "id": 276768,
+          "timestamp": "2026-07-31T03:47:42.068000+00:00",
+          "duration": 23.096,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟台服"
           }
         },
         {
-          "id": 276657,
-          "timestamp": "2026-07-30T15:19:54.338000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 276656,
-          "timestamp": "2026-07-30T15:19:52.329000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 276655,
-          "timestamp": "2026-07-30T15:19:50.320000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 276654,
-          "timestamp": "2026-07-30T15:19:49.316000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 276653,
-          "timestamp": "2026-07-30T15:19:47.309000+00:00",
-          "duration": 1.004,
+          "id": 276763,
+          "timestamp": "2026-07-31T03:15:29.549000+00:00",
+          "duration": 1931.515,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 276652,
-          "timestamp": "2026-07-30T15:19:46.304000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 276651,
-          "timestamp": "2026-07-30T15:19:40.283000+00:00",
-          "duration": 5.018,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 276650,
-          "timestamp": "2026-07-30T15:19:39.277000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 276649,
-          "timestamp": "2026-07-30T15:19:28.234000+00:00",
-          "duration": 10.039,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 276643,
-          "timestamp": "2026-07-30T14:54:51.626000+00:00",
-          "duration": 1475.604,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 276639,
-          "timestamp": "2026-07-30T13:10:21.519000+00:00",
-          "duration": 6269.104,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 276634,
-          "timestamp": "2026-07-30T12:47:18.593000+00:00",
-          "duration": 1381.922,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
-          }
-        },
-        {
-          "id": 276633,
-          "timestamp": "2026-07-30T12:47:15.582000+00:00",
+          "id": 276762,
+          "timestamp": "2026-07-31T03:15:26.538000+00:00",
           "duration": 2.007,
           "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276761,
+          "timestamp": "2026-07-31T03:12:56.978000+00:00",
+          "duration": 148.555,
+          "data": {
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 276760,
+          "timestamp": "2026-07-31T03:12:50.949000+00:00",
+          "duration": 5.026,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 276759,
+          "timestamp": "2026-07-31T03:12:46.933000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 276758,
+          "timestamp": "2026-07-31T03:12:33.869000+00:00",
+          "duration": 12.06,
+          "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 276632,
-          "timestamp": "2026-07-30T12:47:14.578000+00:00",
+          "id": 276757,
+          "timestamp": "2026-07-31T03:12:30.858000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276756,
+          "timestamp": "2026-07-31T03:12:29.852000+00:00",
           "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 276755,
+          "timestamp": "2026-07-31T03:12:27.842000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 276754,
+          "timestamp": "2026-07-31T03:12:26.838000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 276753,
+          "timestamp": "2026-07-31T03:12:25.834000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 276752,
+          "timestamp": "2026-07-31T03:12:17.807000+00:00",
+          "duration": 7.024,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 276751,
+          "timestamp": "2026-07-31T03:12:14.795000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "Honeyview32.exe",
+            "title": "Screenshots  > MuMu-20260731-111019-483.png [44/45] - Honeyview 5.51 (Portable)"
+          }
+        },
+        {
+          "id": 276750,
+          "timestamp": "2026-07-31T03:12:13.789000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 276749,
+          "timestamp": "2026-07-31T03:12:11.780000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Honeyview32.exe",
+            "title": "Screenshots  > MuMu-20260731-111136-962.png [45/45] - Honeyview 5.51 (Portable)"
+          }
+        },
+        {
+          "id": 276748,
+          "timestamp": "2026-07-31T03:12:10.776000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 276747,
+          "timestamp": "2026-07-31T03:12:08.767000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MuMu共享文件夹"
+          }
+        },
+        {
+          "id": 276746,
+          "timestamp": "2026-07-31T03:12:07.762000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander"
+          }
+        },
+        {
+          "id": 276745,
+          "timestamp": "2026-07-31T03:12:04.746000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276744,
+          "timestamp": "2026-07-31T03:12:01.736000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 276743,
+          "timestamp": "2026-07-31T03:11:54.707000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 276742,
+          "timestamp": "2026-07-31T03:11:53.701000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 276741,
+          "timestamp": "2026-07-31T03:11:52.697000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 276740,
+          "timestamp": "2026-07-31T03:11:37.640000+00:00",
+          "duration": 14.054,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276739,
+          "timestamp": "2026-07-31T03:11:35.630000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 276738,
+          "timestamp": "2026-07-31T03:10:20.324000+00:00",
+          "duration": 74.302,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276737,
+          "timestamp": "2026-07-31T03:10:15.302000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 276735,
+          "timestamp": "2026-07-31T03:09:48.200000+00:00",
+          "duration": 26.099,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276731,
+          "timestamp": "2026-07-31T02:38:38.108000+00:00",
+          "duration": 1869.087,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 276631,
-          "timestamp": "2026-07-30T12:47:11.565000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 276630,
-          "timestamp": "2026-07-30T12:47:10.561000+00:00",
+          "id": 276730,
+          "timestamp": "2026-07-31T02:38:37.103000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "OF-2 维什戴尔单人_哔哩哔哩_bilibili - Cent Browser"
+            "app": "unknown",
+            "title": ""
           }
         },
         {
-          "id": 276629,
-          "timestamp": "2026-07-30T12:47:07.547000+00:00",
-          "duration": 2.009,
+          "id": 276729,
+          "timestamp": "2026-07-31T02:37:30.786000+00:00",
+          "duration": 65.243,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276728,
+          "timestamp": "2026-07-31T02:37:19.736000+00:00",
+          "duration": 10.045,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 276722,
+          "timestamp": "2026-07-31T02:03:48.238000+00:00",
+          "duration": 2010.494,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276721,
+          "timestamp": "2026-07-31T02:03:45.226000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 276720,
+          "timestamp": "2026-07-31T02:03:40.205000+00:00",
+          "duration": 4.018,
           "data": {
             "app": "memreduct.exe",
             "title": "Mem Reduct"
           }
         },
         {
-          "id": 276605,
-          "timestamp": "2026-07-30T12:00:04.087000+00:00",
-          "duration": 2822.457,
+          "id": 276718,
+          "timestamp": "2026-07-31T02:03:31.172000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 276715,
+          "timestamp": "2026-07-31T00:00:04.271000+00:00",
+          "duration": 7405.897,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.14.2#0717 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
@@ -188,11 +359,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-07-31T00:00:06.145247",
+    "export_time": "2026-07-31T12:00:06.339597",
     "time_range": {
-      "start": "2026-07-30T12:00:04.087819",
-      "end": "2026-07-31T00:00:04.087819"
+      "start": "2026-07-31T00:00:04.271159",
+      "end": "2026-07-31T12:00:04.271159"
     },
-    "total_events": 20
+    "total_events": 39
   }
 }
