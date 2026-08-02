@@ -5,59 +5,266 @@
       "type": "window",
       "events": [
         {
-          "id": 277167,
-          "timestamp": "2026-08-01T14:39:19.800000+00:00",
-          "duration": 4841.296,
+          "id": 277233,
+          "timestamp": "2026-08-02T03:14:41.831000+00:00",
+          "duration": 2718.494,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.1#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 277166,
-          "timestamp": "2026-08-01T14:39:17.793000+00:00",
-          "duration": 1.004,
+          "id": 277229,
+          "timestamp": "2026-08-02T02:28:55.310000+00:00",
+          "duration": 2745.518,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277228,
+          "timestamp": "2026-08-02T02:28:51.296000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.1#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 277227,
+          "timestamp": "2026-08-02T02:25:21.514000+00:00",
+          "duration": 208.779,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277225,
+          "timestamp": "2026-08-02T02:25:20.509000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 277165,
-          "timestamp": "2026-08-01T14:33:01.358000+00:00",
-          "duration": 375.431,
+          "id": 277221,
+          "timestamp": "2026-08-02T02:11:15.265000+00:00",
+          "duration": 844.24,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.1#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 277164,
-          "timestamp": "2026-08-01T14:32:53.327000+00:00",
-          "duration": 7.027,
+          "id": 277220,
+          "timestamp": "2026-08-02T02:11:14.259000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277219,
+          "timestamp": "2026-08-02T02:11:11.248000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "MAA.exe",
+            "title": "版本信息"
+          }
+        },
+        {
+          "id": 277218,
+          "timestamp": "2026-08-02T02:01:48.175000+00:00",
+          "duration": 562.067,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277217,
+          "timestamp": "2026-08-02T02:01:41.150000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "MAA.exe",
+            "title": "版本信息"
+          }
+        },
+        {
+          "id": 277216,
+          "timestamp": "2026-08-02T02:01:12.047000+00:00",
+          "duration": 28.1,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277215,
+          "timestamp": "2026-08-02T02:01:07.027000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277214,
+          "timestamp": "2026-08-02T01:59:23.650000+00:00",
+          "duration": 102.374,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277213,
+          "timestamp": "2026-08-02T01:59:22.644000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.Updater.exe",
+            "title": "MAA 正在更新 | MAA Updating"
+          }
+        },
+        {
+          "id": 277212,
+          "timestamp": "2026-08-02T01:59:18.619000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277211,
+          "timestamp": "2026-08-02T01:59:16.611000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": "新版本下载完成"
+          }
+        },
+        {
+          "id": 277210,
+          "timestamp": "2026-08-02T01:58:11.376000+00:00",
+          "duration": 64.232,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277209,
+          "timestamp": "2026-08-02T01:58:10.372000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 277158,
-          "timestamp": "2026-08-01T12:00:04.344000+00:00",
-          "duration": 9167.98,
+          "id": 277208,
+          "timestamp": "2026-08-02T01:58:05.354000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64"
+          }
+        },
+        {
+          "id": 277207,
+          "timestamp": "2026-08-02T01:58:02.343000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64 - 副本"
+          }
+        },
+        {
+          "id": 277206,
+          "timestamp": "2026-08-02T01:58:01.339000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277205,
+          "timestamp": "2026-08-02T01:57:57.324000+00:00",
+          "duration": 3.012,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.15.1#0730 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277204,
+          "timestamp": "2026-08-02T01:57:56.318000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277203,
+          "timestamp": "2026-08-02T01:57:55.315000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 277202,
+          "timestamp": "2026-08-02T01:57:52.261000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.15.1#0730 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277201,
+          "timestamp": "2026-08-02T01:55:57.854000+00:00",
+          "duration": 113.402,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 277200,
+          "timestamp": "2026-08-02T01:55:55.845000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277188,
+          "timestamp": "2026-08-02T00:00:04.305000+00:00",
+          "duration": 6950.537,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-02T00:00:06.405791",
+    "export_time": "2026-08-02T12:00:06.370699",
     "time_range": {
-      "start": "2026-08-01T12:00:04.344191",
-      "end": "2026-08-02T00:00:04.344191"
+      "start": "2026-08-02T00:00:04.305161",
+      "end": "2026-08-02T12:00:04.305161"
     },
-    "total_events": 5
+    "total_events": 28
   }
 }
