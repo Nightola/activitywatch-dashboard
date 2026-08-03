@@ -5,95 +5,788 @@
       "type": "window",
       "events": [
         {
-          "id": 277316,
-          "timestamp": "2026-08-02T12:53:28.373000+00:00",
-          "duration": 11192.374,
+          "id": 277437,
+          "timestamp": "2026-08-03T01:45:13.552000+00:00",
+          "duration": 8086.87,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 277315,
-          "timestamp": "2026-08-02T12:53:26.367000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 277314,
-          "timestamp": "2026-08-02T12:48:03.291000+00:00",
-          "duration": 322.072,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 277313,
-          "timestamp": "2026-08-02T12:47:57.271000+00:00",
-          "duration": 5.017,
-          "data": {
-            "app": "UVR.exe",
-            "title": "Unhandled exception in script"
-          }
-        },
-        {
-          "id": 277312,
-          "timestamp": "2026-08-02T12:47:55.264000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 277308,
-          "timestamp": "2026-08-02T12:41:41.078000+00:00",
-          "duration": 373.183,
+          "id": 277436,
+          "timestamp": "2026-08-03T01:45:11.534000+00:00",
+          "duration": 1.01,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 277304,
-          "timestamp": "2026-08-02T12:16:04.149000+00:00",
-          "duration": 1535.927,
+          "id": 277435,
+          "timestamp": "2026-08-03T01:44:58.416000+00:00",
+          "duration": 12.107,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
           }
         },
         {
-          "id": 277303,
-          "timestamp": "2026-08-02T12:16:03.143000+00:00",
+          "id": 277434,
+          "timestamp": "2026-08-03T01:44:57.405000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 277298,
-          "timestamp": "2026-08-02T12:00:04.240000+00:00",
-          "duration": 957.9,
+          "id": 277433,
+          "timestamp": "2026-08-03T01:33:56.708000+00:00",
+          "duration": 659.688,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277432,
+          "timestamp": "2026-08-03T01:33:55.694000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277431,
+          "timestamp": "2026-08-03T01:32:58.087000+00:00",
+          "duration": 56.597,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277430,
+          "timestamp": "2026-08-03T01:32:57.079000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277429,
+          "timestamp": "2026-08-03T01:27:21.627000+00:00",
+          "duration": 334.443,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277428,
+          "timestamp": "2026-08-03T01:27:20.618000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277425,
+          "timestamp": "2026-08-03T01:00:25.739000+00:00",
+          "duration": 1613.872,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277424,
+          "timestamp": "2026-08-03T01:00:23.720000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 277423,
+          "timestamp": "2026-08-03T01:00:21.706000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277422,
+          "timestamp": "2026-08-03T00:53:12.770000+00:00",
+          "duration": 427.929,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277421,
+          "timestamp": "2026-08-03T00:53:10.750000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 277420,
+          "timestamp": "2026-08-03T00:53:09.740000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277419,
+          "timestamp": "2026-08-03T00:52:25.339000+00:00",
+          "duration": 43.391,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277418,
+          "timestamp": "2026-08-03T00:52:24.327000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277417,
+          "timestamp": "2026-08-03T00:51:50+00:00",
+          "duration": 33.318,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277416,
+          "timestamp": "2026-08-03T00:51:48.992000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277415,
+          "timestamp": "2026-08-03T00:50:57.566000+00:00",
+          "duration": 50.415,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277414,
+          "timestamp": "2026-08-03T00:50:56.559000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 277413,
+          "timestamp": "2026-08-03T00:50:54.503000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277412,
+          "timestamp": "2026-08-03T00:50:36.340000+00:00",
+          "duration": 17.154,
+          "data": {
+            "app": "SenrenBanka.exe",
+            "title": "千恋＊万花"
+          }
+        },
+        {
+          "id": 277411,
+          "timestamp": "2026-08-03T00:50:34.318000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277410,
+          "timestamp": "2026-08-03T00:50:32.293000+00:00",
+          "duration": 1.016,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "启动中..."
+          }
+        },
+        {
+          "id": 277409,
+          "timestamp": "2026-08-03T00:50:31.282000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277408,
+          "timestamp": "2026-08-03T00:50:30.274000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277407,
+          "timestamp": "2026-08-03T00:50:28.254000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 277406,
+          "timestamp": "2026-08-03T00:50:27.246000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277405,
+          "timestamp": "2026-08-03T00:50:10.086000+00:00",
+          "duration": 16.156,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277404,
+          "timestamp": "2026-08-03T00:49:59.990000+00:00",
+          "duration": 9.088,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277403,
+          "timestamp": "2026-08-03T00:49:56.963000+00:00",
+          "duration": 2.022,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277402,
+          "timestamp": "2026-08-03T00:49:32.760000+00:00",
+          "duration": 23.198,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "特惠"
+          }
+        },
+        {
+          "id": 277401,
+          "timestamp": "2026-08-03T00:49:31.749000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277400,
+          "timestamp": "2026-08-03T00:49:02.449000+00:00",
+          "duration": 28.295,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "登录 Steam"
+          }
+        },
+        {
+          "id": 277399,
+          "timestamp": "2026-08-03T00:48:55.372000+00:00",
+          "duration": 6.073,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277398,
+          "timestamp": "2026-08-03T00:48:54.362000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277397,
+          "timestamp": "2026-08-03T00:48:52.340000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 277396,
+          "timestamp": "2026-08-03T00:48:51.328000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277395,
+          "timestamp": "2026-08-03T00:48:49.313000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "steam.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 277394,
+          "timestamp": "2026-08-03T00:48:47.296000+00:00",
+          "duration": 1.012,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277393,
+          "timestamp": "2026-08-03T00:48:45.273000+00:00",
+          "duration": 1.019,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 277392,
+          "timestamp": "2026-08-03T00:48:44.255000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277391,
+          "timestamp": "2026-08-03T00:48:41.212000+00:00",
+          "duration": 2.028,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 277390,
+          "timestamp": "2026-08-03T00:48:40.201000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 277389,
+          "timestamp": "2026-08-03T00:48:36.149000+00:00",
+          "duration": 3.043,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277388,
+          "timestamp": "2026-08-03T00:48:35.135000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 277387,
+          "timestamp": "2026-08-03T00:48:32.108000+00:00",
+          "duration": 2.023,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 277386,
+          "timestamp": "2026-08-03T00:48:31.093000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 277385,
+          "timestamp": "2026-08-03T00:48:27.063000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 277384,
+          "timestamp": "2026-08-03T00:48:26.059000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277383,
+          "timestamp": "2026-08-03T00:46:25.668000+00:00",
+          "duration": 119.388,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 277382,
+          "timestamp": "2026-08-03T00:46:24.664000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277381,
+          "timestamp": "2026-08-03T00:46:23.658000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277380,
+          "timestamp": "2026-08-03T00:46:16.625000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 277379,
+          "timestamp": "2026-08-03T00:46:13.613000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "网络连接"
+          }
+        },
+        {
+          "id": 277378,
+          "timestamp": "2026-08-03T00:43:39.973000+00:00",
+          "duration": 152.635,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 277377,
+          "timestamp": "2026-08-03T00:42:46.754000+00:00",
+          "duration": 52.216,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277376,
+          "timestamp": "2026-08-03T00:42:23.659000+00:00",
+          "duration": 22.09,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 277375,
+          "timestamp": "2026-08-03T00:42:22.652000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277374,
+          "timestamp": "2026-08-03T00:42:20.643000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 277373,
+          "timestamp": "2026-08-03T00:42:19.640000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277372,
+          "timestamp": "2026-08-03T00:42:15.625000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277371,
+          "timestamp": "2026-08-03T00:41:31.434000+00:00",
+          "duration": 43.188,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 277370,
+          "timestamp": "2026-08-03T00:41:30.429000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 277369,
+          "timestamp": "2026-08-03T00:41:24.400000+00:00",
+          "duration": 5.026,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277368,
+          "timestamp": "2026-08-03T00:41:19.381000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277367,
+          "timestamp": "2026-08-03T00:40:57.298000+00:00",
+          "duration": 21.079,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277366,
+          "timestamp": "2026-08-03T00:40:55.290000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277365,
+          "timestamp": "2026-08-03T00:40:38.229000+00:00",
+          "duration": 16.058,
+          "data": {
+            "app": "Taskmgr.exe",
+            "title": "任务管理器"
+          }
+        },
+        {
+          "id": 277364,
+          "timestamp": "2026-08-03T00:40:34.213000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277363,
+          "timestamp": "2026-08-03T00:40:25.179000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277362,
+          "timestamp": "2026-08-03T00:37:17.480000+00:00",
+          "duration": 186.696,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277361,
+          "timestamp": "2026-08-03T00:36:47.371000+00:00",
+          "duration": 29.106,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277360,
+          "timestamp": "2026-08-03T00:36:45.363000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277359,
+          "timestamp": "2026-08-03T00:36:44.357000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277358,
+          "timestamp": "2026-08-03T00:36:40.341000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "MAA.exe",
+            "title": "公告"
+          }
+        },
+        {
+          "id": 277357,
+          "timestamp": "2026-08-03T00:36:15.248000+00:00",
+          "duration": 24.086,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277355,
+          "timestamp": "2026-08-03T00:36:06.214000+00:00",
+          "duration": 8.029,
+          "data": {
+            "app": "MAA.Updater.exe",
+            "title": "MAA 正在更新 | MAA Updating"
+          }
+        },
+        {
+          "id": 277354,
+          "timestamp": "2026-08-03T00:36:00.192000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277353,
+          "timestamp": "2026-08-03T00:35:58.184000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.15.1#0730 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277352,
+          "timestamp": "2026-08-03T00:35:55.171000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 277345,
+          "timestamp": "2026-08-03T00:03:15.322000+00:00",
+          "duration": 1958.841,
+          "data": {
+            "app": "MAA.exe",
+            "title": "新版本下载完成"
+          }
+        },
+        {
+          "id": 277344,
+          "timestamp": "2026-08-03T00:00:06.511000+00:00",
+          "duration": 187.807,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.15.1#0730 - 永不落幕#0727 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277343,
+          "timestamp": "2026-08-03T00:00:04.242000+00:00",
+          "duration": 1.264,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-03T00:00:06.302505",
+    "export_time": "2026-08-03T12:00:06.344811",
     "time_range": {
-      "start": "2026-08-02T12:00:04.240432",
-      "end": "2026-08-03T00:00:04.240432"
+      "start": "2026-08-03T00:00:04.242776",
+      "end": "2026-08-03T12:00:04.242776"
     },
-    "total_events": 9
+    "total_events": 86
   }
 }
