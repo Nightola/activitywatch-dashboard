@@ -5,113 +5,95 @@
       "type": "window",
       "events": [
         {
-          "id": 277621,
-          "timestamp": "2026-08-04T04:00:01.676000+00:00",
-          "duration": 0.0,
+          "id": 277653,
+          "timestamp": "2026-08-04T12:19:20.244000+00:00",
+          "duration": 13241.313,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "explorer.exe",
+            "title": "Program Manager"
           }
         },
         {
-          "id": 277612,
-          "timestamp": "2026-08-04T00:04:52.011000+00:00",
-          "duration": 14108.663,
+          "id": 277652,
+          "timestamp": "2026-08-04T12:19:18.238000+00:00",
+          "duration": 1.004,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
           }
         },
         {
-          "id": 277611,
-          "timestamp": "2026-08-04T00:04:42.989000+00:00",
-          "duration": 8.019,
+          "id": 277651,
+          "timestamp": "2026-08-04T12:19:11.221000+00:00",
+          "duration": 6.014,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "AzurLaneAutoScript"
+            "app": "explorer.exe",
+            "title": "Program Manager"
           }
         },
         {
-          "id": 277610,
-          "timestamp": "2026-08-04T00:04:38.978000+00:00",
-          "duration": 3.008,
+          "id": 277649,
+          "timestamp": "2026-08-04T12:19:06.207000+00:00",
+          "duration": 4.011,
           "data": {
-            "app": "Alas.exe",
-            "title": "管理员:  Alas Updater"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 277609,
-          "timestamp": "2026-08-04T00:04:36.973000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "AzurLaneAutoScript"
-          }
-        },
-        {
-          "id": 277608,
-          "timestamp": "2026-08-04T00:04:35.968000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "AlasApp_0.4.9_fullcn"
-          }
-        },
-        {
-          "id": 277607,
-          "timestamp": "2026-08-04T00:04:34.963000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "ALAS"
-          }
-        },
-        {
-          "id": 277606,
-          "timestamp": "2026-08-04T00:04:33.959000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "D:\\"
-          }
-        },
-        {
-          "id": 277605,
-          "timestamp": "2026-08-04T00:04:32.956000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "E:\\"
-          }
-        },
-        {
-          "id": 277604,
-          "timestamp": "2026-08-04T00:04:28.946000+00:00",
-          "duration": 3.007,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64 - 副本"
-          }
-        },
-        {
-          "id": 277597,
-          "timestamp": "2026-08-04T00:00:04.521000+00:00",
-          "duration": 263.423,
+          "id": 277645,
+          "timestamp": "2026-08-04T12:11:24.870000+00:00",
+          "duration": 460.335,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 277644,
+          "timestamp": "2026-08-04T12:11:22.864000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277643,
+          "timestamp": "2026-08-04T12:11:21.861000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 277642,
+          "timestamp": "2026-08-04T12:11:20.857000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 277637,
+          "timestamp": "2026-08-04T12:00:04.411000+00:00",
+          "duration": 675.443,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-04T12:00:06.573480",
+    "export_time": "2026-08-05T00:00:06.466359",
     "time_range": {
-      "start": "2026-08-04T00:00:04.521489",
-      "end": "2026-08-04T12:00:04.521489"
+      "start": "2026-08-04T12:00:04.411550",
+      "end": "2026-08-05T00:00:04.411550"
     },
-    "total_events": 11
+    "total_events": 9
   }
 }
