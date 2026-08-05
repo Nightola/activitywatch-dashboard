@@ -5,8 +5,8 @@
       "type": "window",
       "events": [
         {
-          "id": 277764,
-          "timestamp": "2026-08-05T04:00:01.794000+00:00",
+          "id": 278320,
+          "timestamp": "2026-08-05T16:00:01.936000+00:00",
           "duration": 0.0,
           "data": {
             "app": "cmd.exe",
@@ -14,230 +14,23 @@
           }
         },
         {
-          "id": 277763,
-          "timestamp": "2026-08-05T03:59:56.771000+00:00",
-          "duration": 4.017,
+          "id": 278235,
+          "timestamp": "2026-08-05T12:00:04.846000+00:00",
+          "duration": 14396.085,
           "data": {
-            "app": "cloudmusic.exe",
-            "title": "夜明けを乞う。 (feat. むト) - 酔シグレ/むﾄ"
-          }
-        },
-        {
-          "id": 277762,
-          "timestamp": "2026-08-05T03:59:53.754000+00:00",
-          "duration": 2.014,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "私はピアノ - 高田みづえ"
-          }
-        },
-        {
-          "id": 277746,
-          "timestamp": "2026-08-05T00:59:36.322000+00:00",
-          "duration": 10816.426,
-          "data": {
-            "app": "Games.exe",
-            "title": "鹰角启动器"
-          }
-        },
-        {
-          "id": 277745,
-          "timestamp": "2026-08-05T00:59:13.256000+00:00",
-          "duration": 22.064,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 277744,
-          "timestamp": "2026-08-05T00:59:12.252000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 277743,
-          "timestamp": "2026-08-05T00:59:09.198000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "私はピアノ - 高田みづえ"
-          }
-        },
-        {
-          "id": 277742,
-          "timestamp": "2026-08-05T00:59:06.189000+00:00",
-          "duration": 2.006,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 277738,
-          "timestamp": "2026-08-05T00:12:11.874000+00:00",
-          "duration": 2813.312,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 277737,
-          "timestamp": "2026-08-05T00:10:27.545000+00:00",
-          "duration": 103.327,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 277736,
-          "timestamp": "2026-08-05T00:10:10.487000+00:00",
-          "duration": 16.055,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "私はピアノ - 高田みづえ"
-          }
-        },
-        {
-          "id": 277735,
-          "timestamp": "2026-08-05T00:10:02.441000+00:00",
-          "duration": 7.043,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "エソラコト (feat. そらこ) - そらこ"
-          }
-        },
-        {
-          "id": 277734,
-          "timestamp": "2026-08-05T00:09:54.395000+00:00",
-          "duration": 7.042,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "johari - Nornis"
-          }
-        },
-        {
-          "id": 277733,
-          "timestamp": "2026-08-05T00:09:41.319000+00:00",
-          "duration": 12.073,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "レイヴン・フリージア - 幸祜"
-          }
-        },
-        {
-          "id": 277732,
-          "timestamp": "2026-08-05T00:09:37.302000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "熱帯魚 - 岩崎宏美"
-          }
-        },
-        {
-          "id": 277731,
-          "timestamp": "2026-08-05T00:09:27.245000+00:00",
-          "duration": 9.051,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "みィつけた! - 夏山よつぎ"
-          }
-        },
-        {
-          "id": 277730,
-          "timestamp": "2026-08-05T00:09:05.143000+00:00",
-          "duration": 21.099,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "DISCOTHEQUE - 水樹奈々"
-          }
-        },
-        {
-          "id": 277729,
-          "timestamp": "2026-08-05T00:08:54.083000+00:00",
-          "duration": 10.054,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "シュガープリンセス/Sugar Princess - 楓"
-          }
-        },
-        {
-          "id": 277728,
-          "timestamp": "2026-08-05T00:08:26.959000+00:00",
-          "duration": 26.121,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "夏待 - Himawari/Aosaki"
-          }
-        },
-        {
-          "id": 277727,
-          "timestamp": "2026-08-05T00:07:56.865000+00:00",
-          "duration": 29.089,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "ヨロヨロ - はしメロ/7co"
-          }
-        },
-        {
-          "id": 277726,
-          "timestamp": "2026-08-05T00:05:31.435000+00:00",
-          "duration": 144.426,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Death Designer - Empty old City"
-          }
-        },
-        {
-          "id": 277725,
-          "timestamp": "2026-08-05T00:01:51.323000+00:00",
-          "duration": 219.105,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 277724,
-          "timestamp": "2026-08-05T00:01:09.103000+00:00",
-          "duration": 41.214,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "BALALAIKA Acoustic Ver. - 9Lana"
-          }
-        },
-        {
-          "id": 277723,
-          "timestamp": "2026-08-05T00:00:25.878000+00:00",
-          "duration": 42.223,
-          "data": {
-            "app": "cloudmusic.exe",
-            "title": "Chocolat de Meluet - airy bird"
-          }
-        },
-        {
-          "id": 277722,
-          "timestamp": "2026-08-05T00:00:04.808000+00:00",
-          "duration": 20.066,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-05T12:00:06.894332",
+    "export_time": "2026-08-06T00:00:06.917130",
     "time_range": {
-      "start": "2026-08-05T00:00:04.808727",
-      "end": "2026-08-05T12:00:04.808727"
+      "start": "2026-08-05T12:00:04.846405",
+      "end": "2026-08-06T00:00:04.846405"
     },
-    "total_events": 25
+    "total_events": 2
   }
 }
