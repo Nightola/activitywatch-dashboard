@@ -5,23 +5,239 @@
       "type": "window",
       "events": [
         {
-          "id": 278546,
-          "timestamp": "2026-08-07T00:00:04.824000+00:00",
-          "duration": 14396.112,
+          "id": 278634,
+          "timestamp": "2026-08-07T16:00:01.905000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+          }
+        },
+        {
+          "id": 278630,
+          "timestamp": "2026-08-07T15:06:29.055000+00:00",
+          "duration": 3211.846,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 278629,
+          "timestamp": "2026-08-07T15:06:28.050000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278628,
+          "timestamp": "2026-08-07T15:06:26.042000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 278627,
+          "timestamp": "2026-08-07T15:06:24.034000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278625,
+          "timestamp": "2026-08-07T15:06:12.991000+00:00",
+          "duration": 10.038,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 278624,
+          "timestamp": "2026-08-07T15:06:11.985000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
-            "title": "Program Manager"
+            "title": ""
+          }
+        },
+        {
+          "id": 278623,
+          "timestamp": "2026-08-07T15:06:10.968000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 278620,
+          "timestamp": "2026-08-07T14:38:15.791000+00:00",
+          "duration": 1674.103,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 278619,
+          "timestamp": "2026-08-07T14:38:13.784000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278618,
+          "timestamp": "2026-08-07T14:35:38.238000+00:00",
+          "duration": 154.543,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 278616,
+          "timestamp": "2026-08-07T14:35:37.234000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 278615,
+          "timestamp": "2026-08-07T14:35:33.218000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278612,
+          "timestamp": "2026-08-07T14:13:48.326000+00:00",
+          "duration": 1303.887,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 278611,
+          "timestamp": "2026-08-07T14:13:45.313000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278604,
+          "timestamp": "2026-08-07T13:14:19.882000+00:00",
+          "duration": 3564.427,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 278603,
+          "timestamp": "2026-08-07T13:14:17.876000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 278602,
+          "timestamp": "2026-08-07T13:14:16.872000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278601,
+          "timestamp": "2026-08-07T13:14:13.861000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 278600,
+          "timestamp": "2026-08-07T13:14:10.850000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 278599,
+          "timestamp": "2026-08-07T13:13:46.780000+00:00",
+          "duration": 23.068,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 278598,
+          "timestamp": "2026-08-07T13:13:43.774000+00:00",
+          "duration": 2.004,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 278597,
+          "timestamp": "2026-08-07T13:11:13.279000+00:00",
+          "duration": 149.491,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟台服"
+          }
+        },
+        {
+          "id": 278595,
+          "timestamp": "2026-08-07T13:11:09.265000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
+          }
+        },
+        {
+          "id": 278584,
+          "timestamp": "2026-08-07T12:00:04.923000+00:00",
+          "duration": 4263.338,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-07T12:00:06.885186",
+    "export_time": "2026-08-08T00:00:06.989248",
     "time_range": {
-      "start": "2026-08-07T00:00:04.824992",
-      "end": "2026-08-07T12:00:04.824992"
+      "start": "2026-08-07T12:00:04.923371",
+      "end": "2026-08-08T00:00:04.923371"
     },
-    "total_events": 1
+    "total_events": 25
   }
 }
