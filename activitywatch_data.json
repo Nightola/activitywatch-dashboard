@@ -5,32 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 278511,
-          "timestamp": "2026-08-06T12:46:32.902000+00:00",
-          "duration": 11604.03,
+          "id": 278546,
+          "timestamp": "2026-08-07T00:00:04.824000+00:00",
+          "duration": 14396.112,
           "data": {
-            "app": "SearchApp.exe",
-            "title": "搜索"
-          }
-        },
-        {
-          "id": 278506,
-          "timestamp": "2026-08-06T12:00:04.793000+00:00",
-          "duration": 2787.105,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟台服"
+            "app": "explorer.exe",
+            "title": "Program Manager"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-07T00:00:06.856168",
+    "export_time": "2026-08-07T12:00:06.885186",
     "time_range": {
-      "start": "2026-08-06T12:00:04.793495",
-      "end": "2026-08-07T00:00:04.793495"
+      "start": "2026-08-07T00:00:04.824992",
+      "end": "2026-08-07T12:00:04.824992"
     },
-    "total_events": 2
+    "total_events": 1
   }
 }
