@@ -5,257 +5,176 @@
       "type": "window",
       "events": [
         {
-          "id": 279036,
-          "timestamp": "2026-08-08T16:00:01.915000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 278975,
-          "timestamp": "2026-08-08T13:40:10.460000+00:00",
-          "duration": 8390.451,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 278974,
-          "timestamp": "2026-08-08T13:40:09.456000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "提示"
-          }
-        },
-        {
-          "id": 278973,
-          "timestamp": "2026-08-08T13:39:29.255000+00:00",
-          "duration": 39.197,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 278972,
-          "timestamp": "2026-08-08T13:39:17.194000+00:00",
-          "duration": 11.058,
-          "data": {
-            "app": "MAA.exe",
-            "title": "公告"
-          }
-        },
-        {
-          "id": 278971,
-          "timestamp": "2026-08-08T13:39:15.184000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 278970,
-          "timestamp": "2026-08-08T13:39:10.153000+00:00",
-          "duration": 4.026,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64"
-          }
-        },
-        {
-          "id": 278969,
-          "timestamp": "2026-08-08T13:39:09.148000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.Updater.exe",
-            "title": "MAA 正在更新 | MAA Updating"
-          }
-        },
-        {
-          "id": 278968,
-          "timestamp": "2026-08-08T13:39:06.130000+00:00",
-          "duration": 2.013,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64"
-          }
-        },
-        {
-          "id": 278967,
-          "timestamp": "2026-08-08T13:38:55.081000+00:00",
-          "duration": 10.041,
-          "data": {
-            "app": "MAA.exe",
-            "title": "新版本下载完成"
-          }
-        },
-        {
-          "id": 278966,
-          "timestamp": "2026-08-08T13:38:15.925000+00:00",
-          "duration": 38.153,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.1#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 278964,
-          "timestamp": "2026-08-08T13:37:33.739000+00:00",
-          "duration": 41.182,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64"
-          }
-        },
-        {
-          "id": 278963,
-          "timestamp": "2026-08-08T13:37:32.735000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "DriverStoreExplorer-v1.0.26"
-          }
-        },
-        {
-          "id": 278962,
-          "timestamp": "2026-08-08T13:37:29.724000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "MAA-v6.2.3-win-x64 - 副本"
-          }
-        },
-        {
-          "id": 278961,
-          "timestamp": "2026-08-08T13:35:31.155000+00:00",
-          "duration": 117.565,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 278959,
-          "timestamp": "2026-08-08T13:34:08.768000+00:00",
-          "duration": 81.375,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 278958,
-          "timestamp": "2026-08-08T13:34:05.754000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 278957,
-          "timestamp": "2026-08-08T13:32:57.422000+00:00",
-          "duration": 67.328,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 278955,
-          "timestamp": "2026-08-08T13:32:53.396000+00:00",
-          "duration": 3.018,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 278954,
-          "timestamp": "2026-08-08T13:32:52.391000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 278953,
-          "timestamp": "2026-08-08T13:32:48.376000+00:00",
-          "duration": 3.012,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.2#0802 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 278952,
-          "timestamp": "2026-08-08T13:32:47.372000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 278951,
-          "timestamp": "2026-08-08T13:32:46.367000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "我们从网上买来了一些泡面尝了尝…_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 278950,
-          "timestamp": "2026-08-08T13:32:44.356000+00:00",
-          "duration": 1.005,
+          "id": 279337,
+          "timestamp": "2026-08-09T03:03:54.729000+00:00",
+          "duration": 3366.563,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 278949,
-          "timestamp": "2026-08-08T13:32:43.351000+00:00",
-          "duration": 0.0,
+          "id": 279293,
+          "timestamp": "2026-08-09T01:40:53.185000+00:00",
+          "duration": 4980.538,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 278948,
-          "timestamp": "2026-08-08T13:32:38.335000+00:00",
-          "duration": 4.013,
+          "id": 279292,
+          "timestamp": "2026-08-09T01:40:41.135000+00:00",
+          "duration": 11.045,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 279290,
+          "timestamp": "2026-08-09T01:40:14.014000+00:00",
+          "duration": 26.114,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 279289,
+          "timestamp": "2026-08-09T01:40:13.010000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 279288,
+          "timestamp": "2026-08-09T01:40:12.005000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 279287,
+          "timestamp": "2026-08-09T01:39:43.880000+00:00",
+          "duration": 27.119,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 279282,
+          "timestamp": "2026-08-09T01:33:17.140000+00:00",
+          "duration": 385.736,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 279281,
+          "timestamp": "2026-08-09T01:33:16.135000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 279280,
+          "timestamp": "2026-08-09T01:31:03.455000+00:00",
+          "duration": 131.594,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 279279,
+          "timestamp": "2026-08-09T01:30:57.431000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 279277,
+          "timestamp": "2026-08-09T01:30:55.424000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 279276,
+          "timestamp": "2026-08-09T01:30:50.405000+00:00",
+          "duration": 4.016,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMu安卓设备"
           }
         },
         {
-          "id": 278790,
-          "timestamp": "2026-08-08T12:00:04.917000+00:00",
-          "duration": 5552.414,
+          "id": 279260,
+          "timestamp": "2026-08-09T00:37:47.378000+00:00",
+          "duration": 3182.024,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 279259,
+          "timestamp": "2026-08-09T00:37:45.369000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "chrome.exe",
-            "title": "我们从网上买来了一些泡面尝了尝…_哔哩哔哩_bilibili - Cent Browser"
+            "title": "旅行「像」框 | 24×24 像素画编辑器 - Cent Browser"
+          }
+        },
+        {
+          "id": 279258,
+          "timestamp": "2026-08-09T00:35:48.944000+00:00",
+          "duration": 115.422,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 279257,
+          "timestamp": "2026-08-09T00:35:45.930000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 279129,
+          "timestamp": "2026-08-09T00:00:04.938000+00:00",
+          "duration": 2139.988,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-09T00:00:06.989239",
+    "export_time": "2026-08-09T12:00:07.029074",
     "time_range": {
-      "start": "2026-08-08T12:00:04.917716",
-      "end": "2026-08-09T00:00:04.917716"
+      "start": "2026-08-09T00:00:04.938725",
+      "end": "2026-08-09T12:00:04.938725"
     },
-    "total_events": 27
+    "total_events": 18
   }
 }
