@@ -5,441 +5,63 @@
       "type": "window",
       "events": [
         {
-          "id": 280802,
-          "timestamp": "2026-08-11T04:00:01.930000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 280785,
-          "timestamp": "2026-08-11T03:34:12.150000+00:00",
-          "duration": 1548.775,
-          "data": {
-            "app": "chrome.exe",
-            "title": "热搜上令人窒息的“堕落的早餐”事件：伪人父母，养出精神病小孩_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280784,
-          "timestamp": "2026-08-11T03:34:09.137000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "MAA.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 280783,
-          "timestamp": "2026-08-11T03:34:06.122000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 280782,
-          "timestamp": "2026-08-11T03:34:05.116000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 280781,
-          "timestamp": "2026-08-11T03:33:57.077000+00:00",
-          "duration": 7.034,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 280780,
-          "timestamp": "2026-08-11T03:33:55.067000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280774,
-          "timestamp": "2026-08-11T03:27:27.232000+00:00",
-          "duration": 386.832,
-          "data": {
-            "app": "chrome.exe",
-            "title": "热搜上令人窒息的“堕落的早餐”事件：伪人父母，养出精神病小孩_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280773,
-          "timestamp": "2026-08-11T03:27:17.183000+00:00",
-          "duration": 9.044,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280770,
-          "timestamp": "2026-08-11T03:27:14.165000+00:00",
-          "duration": 2.011,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 280769,
-          "timestamp": "2026-08-11T03:26:26.921000+00:00",
-          "duration": 46.237,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280768,
-          "timestamp": "2026-08-11T03:26:25.915000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 280767,
-          "timestamp": "2026-08-11T03:26:05.808000+00:00",
-          "duration": 19.1,
-          "data": {
-            "app": "chrome.exe",
-            "title": "热搜上令人窒息的“堕落的早餐”事件：伪人父母，养出精神病小孩_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280766,
-          "timestamp": "2026-08-11T03:25:48.726000+00:00",
-          "duration": 16.076,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280764,
-          "timestamp": "2026-08-11T03:25:36.663000+00:00",
-          "duration": 11.057,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 280763,
-          "timestamp": "2026-08-11T03:25:27.617000+00:00",
-          "duration": 8.04,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280762,
-          "timestamp": "2026-08-11T03:25:26.610000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 280761,
-          "timestamp": "2026-08-11T03:25:07.509000+00:00",
-          "duration": 18.095,
-          "data": {
-            "app": "chrome.exe",
-            "title": "热搜上令人窒息的“堕落的早餐”事件：伪人父母，养出精神病小孩_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280760,
-          "timestamp": "2026-08-11T03:25:00.463000+00:00",
-          "duration": 6.033,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280759,
-          "timestamp": "2026-08-11T03:24:56.442000+00:00",
-          "duration": 3.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 280758,
-          "timestamp": "2026-08-11T03:24:48.401000+00:00",
-          "duration": 7.037,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280756,
-          "timestamp": "2026-08-11T03:24:09.204000+00:00",
-          "duration": 38.191,
-          "data": {
-            "app": "chrome.exe",
-            "title": "这个家不能离开妈妈！考古当年爸哪跟风之作《爸爸回来了》，明星老爸带娃太难了~~_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280754,
-          "timestamp": "2026-08-11T03:23:47.081000+00:00",
-          "duration": 21.116,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280753,
-          "timestamp": "2026-08-11T03:23:44.068000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 280752,
-          "timestamp": "2026-08-11T03:23:43.063000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 280751,
-          "timestamp": "2026-08-11T03:23:42.007000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 280729,
-          "timestamp": "2026-08-11T02:53:17.837000+00:00",
-          "duration": 1823.165,
-          "data": {
-            "app": "chrome.exe",
-            "title": "这个家不能离开妈妈！考古当年爸哪跟风之作《爸爸回来了》，明星老爸带娃太难了~~_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280728,
-          "timestamp": "2026-08-11T02:53:15.829000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 280727,
-          "timestamp": "2026-08-11T02:53:12.816000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280721,
-          "timestamp": "2026-08-11T02:47:57.570000+00:00",
-          "duration": 314.236,
-          "data": {
-            "app": "chrome.exe",
-            "title": "《术士干员百科01》曾经的世一术，现在全面的多面手。逻各斯养成建议+干员综合评价。_哔哩哔哩bilibili_明日方舟 - Cent Browser"
-          }
-        },
-        {
-          "id": 280720,
-          "timestamp": "2026-08-11T02:47:51.541000+00:00",
-          "duration": 5.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280718,
-          "timestamp": "2026-08-11T02:47:50.536000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 280716,
-          "timestamp": "2026-08-11T02:47:17.407000+00:00",
-          "duration": 32.126,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280714,
-          "timestamp": "2026-08-11T02:47:07.363000+00:00",
-          "duration": 9.041,
-          "data": {
-            "app": "chrome.exe",
-            "title": "男版田小草别有一番炸裂！苦情神剧《二叔》当年给幼的我狠狠的暴击~_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 280713,
-          "timestamp": "2026-08-11T02:47:04.349000+00:00",
-          "duration": 2.008,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 280712,
-          "timestamp": "2026-08-11T02:47:03.345000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 280711,
-          "timestamp": "2026-08-11T02:47:01.336000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 280693,
-          "timestamp": "2026-08-11T01:47:23.993000+00:00",
-          "duration": 3576.339,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 280692,
-          "timestamp": "2026-08-11T01:47:19.976000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "alas.exe",
-            "title": "Alas"
-          }
-        },
-        {
-          "id": 280691,
-          "timestamp": "2026-08-11T01:47:18.971000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 280690,
-          "timestamp": "2026-08-11T01:47:17.908000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 280689,
-          "timestamp": "2026-08-11T01:44:21.263000+00:00",
-          "duration": 175.642,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 280688,
-          "timestamp": "2026-08-11T01:44:14.238000+00:00",
-          "duration": 6.022,
+          "id": 281063,
+          "timestamp": "2026-08-11T14:04:32.956000+00:00",
+          "duration": 6928.698,
           "data": {
             "app": "explorer.exe",
             "title": "Program Manager"
           }
         },
         {
-          "id": 280687,
-          "timestamp": "2026-08-11T01:44:13.232000+00:00",
-          "duration": 0.0,
+          "id": 281062,
+          "timestamp": "2026-08-11T14:04:29.944000+00:00",
+          "duration": 2.008,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 280684,
-          "timestamp": "2026-08-11T01:42:56.912000+00:00",
-          "duration": 75.315,
+          "id": 281051,
+          "timestamp": "2026-08-11T13:38:34.076000+00:00",
+          "duration": 1554.864,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟国服"
           }
         },
         {
-          "id": 280683,
-          "timestamp": "2026-08-11T01:42:55.907000+00:00",
-          "duration": 0.0,
+          "id": 281049,
+          "timestamp": "2026-08-11T13:38:32.068000+00:00",
+          "duration": 1.004,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 280682,
-          "timestamp": "2026-08-11T01:42:53.899000+00:00",
-          "duration": 1.005,
+          "id": 281048,
+          "timestamp": "2026-08-11T13:38:28.051000+00:00",
+          "duration": 3.013,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 280681,
-          "timestamp": "2026-08-11T01:42:49.880000+00:00",
-          "duration": 3.014,
+          "id": 281047,
+          "timestamp": "2026-08-11T13:36:31.557000+00:00",
+          "duration": 115.491,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟国服"
           }
         },
         {
-          "id": 280627,
-          "timestamp": "2026-08-11T00:00:04.949000+00:00",
-          "duration": 6163.928,
+          "id": 280997,
+          "timestamp": "2026-08-11T12:00:04.691000+00:00",
+          "duration": 5785.863,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
@@ -449,11 +71,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-08-11T12:00:07.035917",
+    "export_time": "2026-08-12T00:00:06.788946",
     "time_range": {
-      "start": "2026-08-11T00:00:04.949682",
-      "end": "2026-08-11T12:00:04.949682"
+      "start": "2026-08-11T12:00:04.691935",
+      "end": "2026-08-12T00:00:04.691935"
     },
-    "total_events": 49
+    "total_events": 7
   }
 }
