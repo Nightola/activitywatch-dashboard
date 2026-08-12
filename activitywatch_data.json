@@ -5,104 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 281333,
-          "timestamp": "2026-08-12T09:30:52.804000+00:00",
-          "duration": 115.346,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 281332,
-          "timestamp": "2026-08-12T09:30:25.722000+00:00",
-          "duration": 26.08,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "网络连接"
-          }
-        },
-        {
-          "id": 281331,
-          "timestamp": "2026-08-12T09:30:24.719000+00:00",
-          "duration": 0.0,
+          "id": 281352,
+          "timestamp": "2026-08-12T12:00:04.375000+00:00",
+          "duration": 14397.239,
           "data": {
             "app": "explorer.exe",
             "title": ""
-          }
-        },
-        {
-          "id": 281330,
-          "timestamp": "2026-08-12T09:30:20.702000+00:00",
-          "duration": 3.011,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 281329,
-          "timestamp": "2026-08-12T09:30:04.652000+00:00",
-          "duration": 15.047,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "网络连接"
-          }
-        },
-        {
-          "id": 281328,
-          "timestamp": "2026-08-12T09:30:03.648000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 281327,
-          "timestamp": "2026-08-12T09:25:55.930000+00:00",
-          "duration": 246.716,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMu安卓设备"
-          }
-        },
-        {
-          "id": 281325,
-          "timestamp": "2026-08-12T09:25:08.249000+00:00",
-          "duration": 46.676,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 281324,
-          "timestamp": "2026-08-12T09:25:06.219000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 281323,
-          "timestamp": "2026-08-12T09:25:04.209000+00:00",
-          "duration": 1.003,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-12T17:32:53.928052",
+    "export_time": "2026-08-13T00:00:06.471305",
     "time_range": {
-      "start": "2026-08-12T05:32:51.864456",
-      "end": "2026-08-12T17:32:51.864456"
+      "start": "2026-08-12T12:00:04.375966",
+      "end": "2026-08-13T00:00:04.375966"
     },
-    "total_events": 10
+    "total_events": 1
   }
 }
