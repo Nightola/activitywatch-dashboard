@@ -5,77 +5,104 @@
       "type": "window",
       "events": [
         {
-          "id": 281063,
-          "timestamp": "2026-08-11T14:04:32.956000+00:00",
-          "duration": 6928.698,
+          "id": 281333,
+          "timestamp": "2026-08-12T09:30:52.804000+00:00",
+          "duration": 115.346,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 281332,
+          "timestamp": "2026-08-12T09:30:25.722000+00:00",
+          "duration": 26.08,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "网络连接"
+          }
+        },
+        {
+          "id": 281331,
+          "timestamp": "2026-08-12T09:30:24.719000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 281330,
+          "timestamp": "2026-08-12T09:30:20.702000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 281329,
+          "timestamp": "2026-08-12T09:30:04.652000+00:00",
+          "duration": 15.047,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "网络连接"
+          }
+        },
+        {
+          "id": 281328,
+          "timestamp": "2026-08-12T09:30:03.648000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 281327,
+          "timestamp": "2026-08-12T09:25:55.930000+00:00",
+          "duration": 246.716,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMu安卓设备"
+          }
+        },
+        {
+          "id": 281325,
+          "timestamp": "2026-08-12T09:25:08.249000+00:00",
+          "duration": 46.676,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 281324,
+          "timestamp": "2026-08-12T09:25:06.219000+00:00",
+          "duration": 1.016,
           "data": {
             "app": "explorer.exe",
             "title": "Program Manager"
           }
         },
         {
-          "id": 281062,
-          "timestamp": "2026-08-11T14:04:29.944000+00:00",
-          "duration": 2.008,
+          "id": 281323,
+          "timestamp": "2026-08-12T09:25:04.209000+00:00",
+          "duration": 1.003,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 281051,
-          "timestamp": "2026-08-11T13:38:34.076000+00:00",
-          "duration": 1554.864,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 281049,
-          "timestamp": "2026-08-11T13:38:32.068000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
-          }
-        },
-        {
-          "id": 281048,
-          "timestamp": "2026-08-11T13:38:28.051000+00:00",
-          "duration": 3.013,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
-          }
-        },
-        {
-          "id": 281047,
-          "timestamp": "2026-08-11T13:36:31.557000+00:00",
-          "duration": 115.491,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 280997,
-          "timestamp": "2026-08-11T12:00:04.691000+00:00",
-          "duration": 5785.863,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.5#0806 - 直到大地变成一颗酸橙#0802 - MuMu 模拟器 (16416) - 官服"
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-12T00:00:06.788946",
+    "export_time": "2026-08-12T17:32:53.928052",
     "time_range": {
-      "start": "2026-08-11T12:00:04.691935",
-      "end": "2026-08-12T00:00:04.691935"
+      "start": "2026-08-12T05:32:51.864456",
+      "end": "2026-08-12T17:32:51.864456"
     },
-    "total_events": 7
+    "total_events": 10
   }
 }
