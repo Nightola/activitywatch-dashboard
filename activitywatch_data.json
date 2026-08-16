@@ -5,252 +5,54 @@
       "type": "window",
       "events": [
         {
-          "id": 283287,
-          "timestamp": "2026-08-16T02:34:05.004000+00:00",
-          "duration": 5156.041,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283286,
-          "timestamp": "2026-08-16T02:33:59.977000+00:00",
-          "duration": 4.022,
-          "data": {
-            "app": "chrome.exe",
-            "title": "GD音乐台 - GD Studio's Online Music Platform - Cent Browser"
-          }
-        },
-        {
-          "id": 283285,
-          "timestamp": "2026-08-16T02:33:58.969000+00:00",
+          "id": 283556,
+          "timestamp": "2026-08-16T16:00:01.786000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
-            "title": "music.gdstudio.xyz - Cent Browser"
+            "app": "cmd.exe",
+            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
           }
         },
         {
-          "id": 283284,
-          "timestamp": "2026-08-16T02:33:57.964000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 283283,
-          "timestamp": "2026-08-16T02:33:06.701000+00:00",
-          "duration": 50.257,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Release v0.0.3 · lisadnsess/MALostWord · GitHub - Cent Browser"
-          }
-        },
-        {
-          "id": 283270,
-          "timestamp": "2026-08-16T01:58:24.547000+00:00",
-          "duration": 2081.149,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 283268,
-          "timestamp": "2026-08-16T01:55:48.802000+00:00",
-          "duration": 154.741,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283267,
-          "timestamp": "2026-08-16T01:55:20.678000+00:00",
-          "duration": 27.12,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 283266,
-          "timestamp": "2026-08-16T01:54:00.329000+00:00",
-          "duration": 79.344,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283265,
-          "timestamp": "2026-08-16T01:53:55.309000+00:00",
-          "duration": 4.016,
+          "id": 283518,
+          "timestamp": "2026-08-16T14:11:03.444000+00:00",
+          "duration": 6537.336,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 283263,
-          "timestamp": "2026-08-16T01:51:48.772000+00:00",
-          "duration": 125.533,
+          "id": 283517,
+          "timestamp": "2026-08-16T14:11:02.440000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "explorer.exe",
             "title": "此电脑"
           }
         },
         {
-          "id": 283262,
-          "timestamp": "2026-08-16T01:51:46.764000+00:00",
-          "duration": 1.005,
+          "id": 283516,
+          "timestamp": "2026-08-16T14:10:49.375000+00:00",
+          "duration": 12.061,
           "data": {
-            "app": "explorer.exe",
-            "title": "电池指示器"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
           }
         },
         {
-          "id": 283261,
-          "timestamp": "2026-08-16T01:51:44.754000+00:00",
+          "id": 283515,
+          "timestamp": "2026-08-16T14:10:47.364000+00:00",
           "duration": 1.006,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 283259,
-          "timestamp": "2026-08-16T01:51:28.686000+00:00",
-          "duration": 15.064,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 283255,
-          "timestamp": "2026-08-16T01:45:15.032000+00:00",
-          "duration": 372.65,
-          "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
+            "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 283254,
-          "timestamp": "2026-08-16T01:43:14.487000+00:00",
-          "duration": 119.54,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283252,
-          "timestamp": "2026-08-16T01:42:31.285000+00:00",
-          "duration": 42.198,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 283251,
-          "timestamp": "2026-08-16T01:42:29.276000+00:00",
-          "duration": 1.004,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283250,
-          "timestamp": "2026-08-16T01:41:38.029000+00:00",
-          "duration": 50.24,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 283249,
-          "timestamp": "2026-08-16T01:41:36.017000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283248,
-          "timestamp": "2026-08-16T01:41:12.905000+00:00",
-          "duration": 22.108,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 283247,
-          "timestamp": "2026-08-16T01:40:41.708000+00:00",
-          "duration": 30.156,
-          "data": {
-            "app": "localsend_app.exe",
-            "title": "LocalSend"
-          }
-        },
-        {
-          "id": 283246,
-          "timestamp": "2026-08-16T01:40:38.083000+00:00",
-          "duration": 1.005,
-          "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
-          }
-        },
-        {
-          "id": 283244,
-          "timestamp": "2026-08-16T01:39:38.778000+00:00",
-          "duration": 58.3,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "网络连接"
-          }
-        },
-        {
-          "id": 283243,
-          "timestamp": "2026-08-16T01:39:36.768000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 283242,
-          "timestamp": "2026-08-16T01:39:32.748000+00:00",
-          "duration": 3.016,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 283241,
-          "timestamp": "2026-08-16T01:39:29.732000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 283125,
-          "timestamp": "2026-08-16T00:00:04.742000+00:00",
-          "duration": 5963.986,
+          "id": 283457,
+          "timestamp": "2026-08-16T12:00:04.898000+00:00",
+          "duration": 7841.462,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
@@ -260,11 +62,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-08-16T12:00:06.842069",
+    "export_time": "2026-08-17T00:00:06.968768",
     "time_range": {
-      "start": "2026-08-16T00:00:04.742768",
-      "end": "2026-08-16T12:00:04.742768"
+      "start": "2026-08-16T12:00:04.898378",
+      "end": "2026-08-17T00:00:04.898378"
     },
-    "total_events": 28
+    "total_events": 6
   }
 }
