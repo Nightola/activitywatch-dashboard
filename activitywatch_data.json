@@ -5,26 +5,719 @@
       "type": "window",
       "events": [
         {
-          "id": 283556,
-          "timestamp": "2026-08-16T16:00:01.786000+00:00",
-          "duration": 0.0,
+          "id": 284084,
+          "timestamp": "2026-08-17T05:26:28.559000+00:00",
+          "duration": 1.003,
           "data": {
             "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "title": "Administrator:  GitHub Auto Update"
           }
         },
         {
-          "id": 283518,
-          "timestamp": "2026-08-16T14:11:03.444000+00:00",
-          "duration": 6537.336,
+          "id": 284082,
+          "timestamp": "2026-08-17T05:23:59.041000+00:00",
+          "duration": 148.514,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 284081,
+          "timestamp": "2026-08-17T05:23:57.034000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 284080,
+          "timestamp": "2026-08-17T05:23:55.025000+00:00",
+          "duration": 1.004,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 283517,
-          "timestamp": "2026-08-16T14:11:02.440000+00:00",
+          "id": 284079,
+          "timestamp": "2026-08-17T05:23:47.952000+00:00",
+          "duration": 6.07,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284077,
+          "timestamp": "2026-08-17T05:23:28.163000+00:00",
+          "duration": 17.868,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 284075,
+          "timestamp": "2026-08-17T02:31:55.415000+00:00",
+          "duration": 2.102,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 284064,
+          "timestamp": "2026-08-17T02:18:58.816000+00:00",
+          "duration": 775.525,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284063,
+          "timestamp": "2026-08-17T02:18:57.811000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "未发现残留痕迹。"
+          }
+        },
+        {
+          "id": 284062,
+          "timestamp": "2026-08-17T02:18:54.801000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284061,
+          "timestamp": "2026-08-17T02:18:53.797000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284060,
+          "timestamp": "2026-08-17T02:18:50.787000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284059,
+          "timestamp": "2026-08-17T02:18:49.783000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "未发现残留痕迹。"
+          }
+        },
+        {
+          "id": 284058,
+          "timestamp": "2026-08-17T02:18:47.775000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284057,
+          "timestamp": "2026-08-17T02:18:46.769000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284056,
+          "timestamp": "2026-08-17T02:18:43.759000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284055,
+          "timestamp": "2026-08-17T02:18:42.753000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284054,
+          "timestamp": "2026-08-17T02:18:41.750000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 284053,
+          "timestamp": "2026-08-17T02:18:40.746000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284052,
+          "timestamp": "2026-08-17T02:18:38.738000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284051,
+          "timestamp": "2026-08-17T02:18:37.734000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284050,
+          "timestamp": "2026-08-17T02:18:34.723000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284049,
+          "timestamp": "2026-08-17T02:18:33.717000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284048,
+          "timestamp": "2026-08-17T02:17:53.586000+00:00",
+          "duration": 39.128,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284047,
+          "timestamp": "2026-08-17T02:17:50.576000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284046,
+          "timestamp": "2026-08-17T02:17:49.571000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284045,
+          "timestamp": "2026-08-17T02:17:47.564000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284044,
+          "timestamp": "2026-08-17T02:17:46.558000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "未发现残留痕迹。"
+          }
+        },
+        {
+          "id": 284043,
+          "timestamp": "2026-08-17T02:17:44.550000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284042,
+          "timestamp": "2026-08-17T02:17:43.546000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Steinberg HALion Sonic 7"
+          }
+        },
+        {
+          "id": 284041,
+          "timestamp": "2026-08-17T02:17:40.533000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284040,
+          "timestamp": "2026-08-17T02:17:39.530000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284039,
+          "timestamp": "2026-08-17T02:17:38.525000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284038,
+          "timestamp": "2026-08-17T02:17:35.513000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284037,
+          "timestamp": "2026-08-17T02:17:34.509000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Steinberg Activation Manager"
+          }
+        },
+        {
+          "id": 284036,
+          "timestamp": "2026-08-17T02:17:33.504000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284035,
+          "timestamp": "2026-08-17T02:17:31.497000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284034,
+          "timestamp": "2026-08-17T02:17:30.491000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284033,
+          "timestamp": "2026-08-17T02:17:28.483000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 284032,
+          "timestamp": "2026-08-17T02:17:27.480000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284031,
+          "timestamp": "2026-08-17T02:17:25.472000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284030,
+          "timestamp": "2026-08-17T02:17:24.467000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 284029,
+          "timestamp": "2026-08-17T02:17:21.455000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284028,
+          "timestamp": "2026-08-17T02:17:11.423000+00:00",
+          "duration": 9.029,
+          "data": {
+            "app": "geek64.exe",
+            "title": "未发现残留痕迹。"
+          }
+        },
+        {
+          "id": 284027,
+          "timestamp": "2026-08-17T02:17:08.412000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284026,
+          "timestamp": "2026-08-17T02:17:07.407000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284025,
+          "timestamp": "2026-08-17T02:17:05.401000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284024,
+          "timestamp": "2026-08-17T02:17:03.393000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284023,
+          "timestamp": "2026-08-17T02:17:02.388000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 284022,
+          "timestamp": "2026-08-17T02:17:01.383000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284021,
+          "timestamp": "2026-08-17T02:17:00.378000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284020,
+          "timestamp": "2026-08-17T02:16:59.373000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 284018,
+          "timestamp": "2026-08-17T02:16:07.201000+00:00",
+          "duration": 51.169,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284017,
+          "timestamp": "2026-08-17T02:16:06.195000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284016,
+          "timestamp": "2026-08-17T02:16:05.191000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 284015,
+          "timestamp": "2026-08-17T02:16:03.183000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284014,
+          "timestamp": "2026-08-17T02:16:00.171000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284013,
+          "timestamp": "2026-08-17T02:15:59.168000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 284012,
+          "timestamp": "2026-08-17T02:15:58.162000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284011,
+          "timestamp": "2026-08-17T02:15:57.157000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "msiexec.exe",
+            "title": "Windows Installer"
+          }
+        },
+        {
+          "id": 284010,
+          "timestamp": "2026-08-17T02:15:55.151000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284009,
+          "timestamp": "2026-08-17T02:15:52.139000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 284008,
+          "timestamp": "2026-08-17T02:15:50.131000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 284007,
+          "timestamp": "2026-08-17T02:15:46.118000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 284005,
+          "timestamp": "2026-08-17T02:15:42.103000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 284004,
+          "timestamp": "2026-08-17T02:15:41.097000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 284003,
+          "timestamp": "2026-08-17T02:15:35.077000+00:00",
+          "duration": 5.017,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 284002,
+          "timestamp": "2026-08-17T02:15:33.069000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283996,
+          "timestamp": "2026-08-17T02:07:39.538000+00:00",
+          "duration": 472.528,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【平民低配】龙门市区 圣聆初雪单核 摆完挂机（重置版）_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 283992,
+          "timestamp": "2026-08-17T02:04:51.948000+00:00",
+          "duration": 166.587,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【龙门市区】圣聆初雪单核摆完挂机 简单好抄 不用凹_哔哩哔哩bilibili_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 283991,
+          "timestamp": "2026-08-17T02:04:48.935000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283990,
+          "timestamp": "2026-08-17T02:04:46.926000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "龙门市区挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283987,
+          "timestamp": "2026-08-17T02:04:18.796000+00:00",
+          "duration": 27.122,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【龙门市区】酒神单核 简单好抄 不用凹_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 283986,
+          "timestamp": "2026-08-17T02:04:17.790000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283985,
+          "timestamp": "2026-08-17T02:02:56.531000+00:00",
+          "duration": 80.255,
+          "data": {
+            "app": "chrome.exe",
+            "title": "龙门市区挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283984,
+          "timestamp": "2026-08-17T02:02:54.522000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283983,
+          "timestamp": "2026-08-17T02:02:45.491000+00:00",
+          "duration": 8.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283981,
+          "timestamp": "2026-08-17T02:02:28.427000+00:00",
+          "duration": 16.061,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 283980,
+          "timestamp": "2026-08-17T02:02:19.394000+00:00",
+          "duration": 8.028,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283979,
+          "timestamp": "2026-08-17T02:02:18.390000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -32,27 +725,1242 @@
           }
         },
         {
-          "id": 283516,
-          "timestamp": "2026-08-16T14:10:49.375000+00:00",
-          "duration": 12.061,
+          "id": 283978,
+          "timestamp": "2026-08-17T02:02:17.385000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283977,
+          "timestamp": "2026-08-17T02:02:15.377000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283976,
+          "timestamp": "2026-08-17T02:02:14.373000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 283975,
+          "timestamp": "2026-08-17T02:02:11.363000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Lucy快速启动-更新记录&下载地址 - Cent Browser"
+          }
+        },
+        {
+          "id": 283973,
+          "timestamp": "2026-08-17T02:01:44.274000+00:00",
+          "duration": 26.084,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在删除程序痕迹..."
+          }
+        },
+        {
+          "id": 283971,
+          "timestamp": "2026-08-17T02:01:43.268000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 283970,
+          "timestamp": "2026-08-17T02:01:35.238000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283969,
+          "timestamp": "2026-08-17T02:01:33.230000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283968,
+          "timestamp": "2026-08-17T02:01:32.226000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 283967,
+          "timestamp": "2026-08-17T02:01:30.220000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 283966,
+          "timestamp": "2026-08-17T02:01:29.215000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 283965,
+          "timestamp": "2026-08-17T02:01:24.197000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 283964,
+          "timestamp": "2026-08-17T02:01:22.191000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283963,
+          "timestamp": "2026-08-17T02:01:21.186000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283962,
+          "timestamp": "2026-08-17T02:01:19.179000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283961,
+          "timestamp": "2026-08-17T02:01:17.170000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Everything.exe",
+            "title": "geek - Everything"
+          }
+        },
+        {
+          "id": 283960,
+          "timestamp": "2026-08-17T02:00:29.016000+00:00",
+          "duration": 47.151,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 283959,
+          "timestamp": "2026-08-17T02:00:27.010000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "所有痕迹均已删除"
+          }
+        },
+        {
+          "id": 283958,
+          "timestamp": "2026-08-17T02:00:25.004000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "geek64.exe",
+            "title": "发现残留痕迹!"
+          }
+        },
+        {
+          "id": 283957,
+          "timestamp": "2026-08-17T02:00:22.996000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "geek64.exe",
+            "title": "正在扫描残留的文件、文件夹和注册表项目..."
+          }
+        },
+        {
+          "id": 283956,
+          "timestamp": "2026-08-17T02:00:21.990000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller"
+          }
+        },
+        {
+          "id": 283955,
+          "timestamp": "2026-08-17T02:00:11.961000+00:00",
+          "duration": 9.025,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 283954,
+          "timestamp": "2026-08-17T02:00:09.955000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283953,
+          "timestamp": "2026-08-17T02:00:01.932000+00:00",
+          "duration": 7.02,
+          "data": {
+            "app": "geek64.exe",
+            "title": "Geek Uninstaller 1.5.3.170"
+          }
+        },
+        {
+          "id": 283952,
+          "timestamp": "2026-08-17T01:59:59.925000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283951,
+          "timestamp": "2026-08-17T01:59:56.915000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 283950,
+          "timestamp": "2026-08-17T01:59:55.911000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283949,
+          "timestamp": "2026-08-17T01:59:54.905000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "geek - Everything"
+          }
+        },
+        {
+          "id": 283948,
+          "timestamp": "2026-08-17T01:59:52.899000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "geek.exe 属性"
+          }
+        },
+        {
+          "id": 283947,
+          "timestamp": "2026-08-17T01:59:49.887000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283946,
+          "timestamp": "2026-08-17T01:59:44.874000+00:00",
+          "duration": 4.011,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 283945,
+          "timestamp": "2026-08-17T01:59:42.865000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283944,
+          "timestamp": "2026-08-17T01:59:37.850000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 283943,
+          "timestamp": "2026-08-17T01:59:36.844000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283942,
+          "timestamp": "2026-08-17T01:59:33.834000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283941,
+          "timestamp": "2026-08-17T01:59:29.820000+00:00",
+          "duration": 3.01,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283940,
+          "timestamp": "2026-08-17T01:59:28.817000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "geek - Everything"
+          }
+        },
+        {
+          "id": 283939,
+          "timestamp": "2026-08-17T01:59:27.812000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "geek"
+          }
+        },
+        {
+          "id": 283938,
+          "timestamp": "2026-08-17T01:59:25.803000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283937,
+          "timestamp": "2026-08-17T01:59:20.787000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "geek"
+          }
+        },
+        {
+          "id": 283936,
+          "timestamp": "2026-08-17T01:59:19.784000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander"
+          }
+        },
+        {
+          "id": 283935,
+          "timestamp": "2026-08-17T01:58:57.672000+00:00",
+          "duration": 21.109,
+          "data": {
+            "app": "Everything.exe",
+            "title": "geek - Everything"
+          }
+        },
+        {
+          "id": 283934,
+          "timestamp": "2026-08-17T01:58:55.665000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 283933,
+          "timestamp": "2026-08-17T01:58:54.661000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283932,
+          "timestamp": "2026-08-17T01:58:52.652000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 283931,
+          "timestamp": "2026-08-17T01:58:51.647000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283930,
+          "timestamp": "2026-08-17T01:58:48.639000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283929,
+          "timestamp": "2026-08-17T01:58:45.629000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283928,
+          "timestamp": "2026-08-17T01:58:42.617000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "工具"
+          }
+        },
+        {
+          "id": 283927,
+          "timestamp": "2026-08-17T01:58:41.613000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283926,
+          "timestamp": "2026-08-17T01:58:37.594000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283925,
+          "timestamp": "2026-08-17T01:58:32.577000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 283924,
+          "timestamp": "2026-08-17T01:58:24.556000+00:00",
+          "duration": 7.018,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283923,
+          "timestamp": "2026-08-17T01:58:21.548000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 283922,
+          "timestamp": "2026-08-17T01:58:14.526000+00:00",
+          "duration": 6.018,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283920,
+          "timestamp": "2026-08-17T01:58:13.521000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283919,
+          "timestamp": "2026-08-17T01:58:12.517000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 283918,
+          "timestamp": "2026-08-17T01:57:40.376000+00:00",
+          "duration": 31.091,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283917,
+          "timestamp": "2026-08-17T01:57:37.366000+00:00",
+          "duration": 2.006,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "NameWnd"
+          }
+        },
+        {
+          "id": 283916,
+          "timestamp": "2026-08-17T01:57:28.341000+00:00",
+          "duration": 8.022,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283915,
+          "timestamp": "2026-08-17T01:57:27.336000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283914,
+          "timestamp": "2026-08-17T01:57:26.333000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 283913,
+          "timestamp": "2026-08-17T01:57:25.328000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283912,
+          "timestamp": "2026-08-17T01:57:18.307000+00:00",
+          "duration": 6.017,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283911,
+          "timestamp": "2026-08-17T01:57:15.298000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Lucy快速启动-更新记录&下载地址 - Cent Browser"
+          }
+        },
+        {
+          "id": 283910,
+          "timestamp": "2026-08-17T01:57:01.255000+00:00",
+          "duration": 13.039,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283909,
+          "timestamp": "2026-08-17T01:57:00.250000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283908,
+          "timestamp": "2026-08-17T01:56:59.247000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283905,
+          "timestamp": "2026-08-17T01:55:52.031000+00:00",
+          "duration": 66.213,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283904,
+          "timestamp": "2026-08-17T01:55:47.015000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Lucy快速启动-更新记录&下载地址 · 语雀 - Cent Browser"
+          }
+        },
+        {
+          "id": 283903,
+          "timestamp": "2026-08-17T01:55:45.007000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283902,
+          "timestamp": "2026-08-17T01:55:38.988000+00:00",
+          "duration": 5.016,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283901,
+          "timestamp": "2026-08-17T01:55:33.973000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 283900,
+          "timestamp": "2026-08-17T01:55:31.966000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283899,
+          "timestamp": "2026-08-17T01:55:13.910000+00:00",
+          "duration": 17.054,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "SettingWnd"
+          }
+        },
+        {
+          "id": 283898,
+          "timestamp": "2026-08-17T01:54:59.869000+00:00",
+          "duration": 13.038,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283897,
+          "timestamp": "2026-08-17T01:54:58.865000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "提示"
+          }
+        },
+        {
+          "id": 283896,
+          "timestamp": "2026-08-17T01:54:51.841000+00:00",
+          "duration": 6.021,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283895,
+          "timestamp": "2026-08-17T01:54:45.821000+00:00",
+          "duration": 5.018,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "浏览文件夹"
+          }
+        },
+        {
+          "id": 283894,
+          "timestamp": "2026-08-17T01:54:37.797000+00:00",
+          "duration": 7.021,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283893,
+          "timestamp": "2026-08-17T01:54:30.775000+00:00",
+          "duration": 6.02,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "EditWnd"
+          }
+        },
+        {
+          "id": 283892,
+          "timestamp": "2026-08-17T01:54:29.770000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283891,
+          "timestamp": "2026-08-17T01:54:25.756000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283890,
+          "timestamp": "2026-08-17T01:54:24.753000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 283889,
+          "timestamp": "2026-08-17T01:54:22.746000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283888,
+          "timestamp": "2026-08-17T01:54:17.729000+00:00",
+          "duration": 4.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 283887,
+          "timestamp": "2026-08-17T01:54:16.724000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 283886,
+          "timestamp": "2026-08-17T01:54:14.674000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283885,
+          "timestamp": "2026-08-17T01:54:10.658000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "D:\\"
+          }
+        },
+        {
+          "id": 283884,
+          "timestamp": "2026-08-17T01:54:03.639000+00:00",
+          "duration": 6.017,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 283883,
+          "timestamp": "2026-08-17T01:53:59.627000+00:00",
+          "duration": 3.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283882,
+          "timestamp": "2026-08-17T01:53:58.621000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 283881,
+          "timestamp": "2026-08-17T01:53:56.614000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283880,
+          "timestamp": "2026-08-17T01:53:54.607000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283879,
+          "timestamp": "2026-08-17T01:53:52.600000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283878,
+          "timestamp": "2026-08-17T01:53:51.597000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "ApplicationFrameHost.exe",
+            "title": "设置"
+          }
+        },
+        {
+          "id": 283877,
+          "timestamp": "2026-08-17T01:53:50.592000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 283876,
+          "timestamp": "2026-08-17T01:53:48.585000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283875,
+          "timestamp": "2026-08-17T01:53:45.573000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 283874,
+          "timestamp": "2026-08-17T01:53:30.532000+00:00",
+          "duration": 14.038,
+          "data": {
+            "app": "Games.exe",
+            "title": "Dialog - 鹰角启动器"
+          }
+        },
+        {
+          "id": 283873,
+          "timestamp": "2026-08-17T01:53:23.513000+00:00",
+          "duration": 6.016,
+          "data": {
+            "app": "Games.exe",
+            "title": "Form - 鹰角启动器"
+          }
+        },
+        {
+          "id": 283872,
+          "timestamp": "2026-08-17T01:53:21.506000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "Games.exe",
+            "title": "Dialog - 鹰角启动器"
+          }
+        },
+        {
+          "id": 283871,
+          "timestamp": "2026-08-17T01:53:19.499000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Games.exe",
+            "title": "Form - 鹰角启动器"
+          }
+        },
+        {
+          "id": 283870,
+          "timestamp": "2026-08-17T01:53:16.487000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Games.exe",
+            "title": "鹰角启动器"
+          }
+        },
+        {
+          "id": 283869,
+          "timestamp": "2026-08-17T01:53:06.457000+00:00",
+          "duration": 9.027,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283868,
+          "timestamp": "2026-08-17T01:52:54.421000+00:00",
+          "duration": 11.034,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283867,
+          "timestamp": "2026-08-17T01:52:53.416000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283866,
+          "timestamp": "2026-08-17T01:52:52.413000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "进度"
+          }
+        },
+        {
+          "id": 283864,
+          "timestamp": "2026-08-17T01:52:19.312000+00:00",
+          "duration": 32.097,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283863,
+          "timestamp": "2026-08-17T01:52:12.293000+00:00",
+          "duration": 6.017,
+          "data": {
+            "app": "OpenWith.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283862,
+          "timestamp": "2026-08-17T01:52:11.287000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283861,
+          "timestamp": "2026-08-17T01:51:57.248000+00:00",
+          "duration": 13.037,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 283860,
+          "timestamp": "2026-08-17T01:50:10.960000+00:00",
+          "duration": 105.284,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283858,
+          "timestamp": "2026-08-17T01:50:05.945000+00:00",
+          "duration": 4.013,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
           }
         },
         {
-          "id": 283515,
-          "timestamp": "2026-08-16T14:10:47.364000+00:00",
-          "duration": 1.006,
+          "id": 283856,
+          "timestamp": "2026-08-17T01:50:00.930000+00:00",
+          "duration": 4.014,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "MuMuNxDevice"
+            "app": "explorer.exe",
+            "title": ""
           }
         },
         {
-          "id": 283457,
-          "timestamp": "2026-08-16T12:00:04.898000+00:00",
-          "duration": 7841.462,
+          "id": 283855,
+          "timestamp": "2026-08-17T01:49:59.927000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 283854,
+          "timestamp": "2026-08-17T01:49:58.882000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 283853,
+          "timestamp": "2026-08-17T01:49:57.878000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 283852,
+          "timestamp": "2026-08-17T01:49:56.874000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 283851,
+          "timestamp": "2026-08-17T01:49:55.871000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 283850,
+          "timestamp": "2026-08-17T01:49:53.865000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "AzurLaneAutoScript"
+          }
+        },
+        {
+          "id": 283849,
+          "timestamp": "2026-08-17T01:49:51.857000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 283840,
+          "timestamp": "2026-08-17T01:35:37.388000+00:00",
+          "duration": 853.467,
+          "data": {
+            "app": "chrome.exe",
+            "title": "知乎 - 有问题，就会有答案 - Cent Browser"
+          }
+        },
+        {
+          "id": 283839,
+          "timestamp": "2026-08-17T01:35:34.377000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "知乎网页版 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 283838,
+          "timestamp": "2026-08-17T01:35:23.343000+00:00",
+          "duration": 10.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 283836,
+          "timestamp": "2026-08-17T01:35:22.339000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "您正在查看一个本地文件或共享文件"
+          }
+        },
+        {
+          "id": 283835,
+          "timestamp": "2026-08-17T01:35:13.304000+00:00",
+          "duration": 8.031,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 283834,
+          "timestamp": "2026-08-17T01:35:12.298000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 283832,
+          "timestamp": "2026-08-17T01:35:11.262000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 283825,
+          "timestamp": "2026-08-17T01:28:02.811000+00:00",
+          "duration": 427.448,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【南方监狱400杀】雪遥双核 摆完挂机_哔哩哔哩bilibili_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 283823,
+          "timestamp": "2026-08-17T01:27:33.720000+00:00",
+          "duration": 28.087,
+          "data": {
+            "app": "chrome.exe",
+            "title": "南方监狱摆完挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283820,
+          "timestamp": "2026-08-17T01:27:00.572000+00:00",
+          "duration": 32.144,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【南方监狱400杀】雪遥双核 摆完挂机_哔哩哔哩bilibili_明日方舟 - Cent Browser"
+          }
+        },
+        {
+          "id": 283818,
+          "timestamp": "2026-08-17T01:26:55.555000+00:00",
+          "duration": 4.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "南方监狱摆完挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283817,
+          "timestamp": "2026-08-17T01:26:53.547000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 283815,
+          "timestamp": "2026-08-17T01:26:40.501000+00:00",
+          "duration": 12.041,
+          "data": {
+            "app": "chrome.exe",
+            "title": "南方监狱摆完挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283814,
+          "timestamp": "2026-08-17T01:26:34.478000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "鳞骸盐漠摆完挂机-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 283813,
+          "timestamp": "2026-08-17T01:26:32.472000+00:00",
+          "duration": 1.003,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【鳞骸盐漠】圣聆初雪单核摆完挂机 简单好抄 不用凹_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 283810,
+          "timestamp": "2026-08-17T01:26:30.945000+00:00",
+          "duration": 0.523,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
@@ -62,11 +1970,11 @@
     }
   },
   "export_info": {
-    "export_time": "2026-08-17T00:00:06.968768",
+    "export_time": "2026-08-17T13:26:33.054861",
     "time_range": {
-      "start": "2026-08-16T12:00:04.898378",
-      "end": "2026-08-17T00:00:04.898378"
+      "start": "2026-08-17T01:26:30.945129",
+      "end": "2026-08-17T13:26:30.945129"
     },
-    "total_events": 6
+    "total_events": 218
   }
 }
