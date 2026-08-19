@@ -5,68 +5,374 @@
       "type": "window",
       "events": [
         {
-          "id": 286107,
-          "timestamp": "2026-08-18T16:00:01.239000+00:00",
-          "duration": 0.0,
+          "id": 286439,
+          "timestamp": "2026-08-19T03:20:59.033000+00:00",
+          "duration": 2342.265,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
           }
         },
         {
-          "id": 286099,
-          "timestamp": "2026-08-18T15:30:03.707000+00:00",
-          "duration": 1796.526,
+          "id": 286438,
+          "timestamp": "2026-08-19T03:20:46.981000+00:00",
+          "duration": 11.049,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 286430,
+          "timestamp": "2026-08-19T03:10:45.452000+00:00",
+          "duration": 600.525,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 286429,
+          "timestamp": "2026-08-19T03:10:44.447000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "版本信息"
+          }
+        },
+        {
+          "id": 286428,
+          "timestamp": "2026-08-19T03:10:39.422000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 286427,
+          "timestamp": "2026-08-19T03:10:26.362000+00:00",
+          "duration": 12.056,
+          "data": {
+            "app": "MAA.exe",
+            "title": "公告"
+          }
+        },
+        {
+          "id": 286426,
+          "timestamp": "2026-08-19T03:10:25.356000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 286425,
+          "timestamp": "2026-08-19T03:10:15.308000+00:00",
+          "duration": 9.043,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 286423,
+          "timestamp": "2026-08-19T03:10:14.302000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 286422,
+          "timestamp": "2026-08-19T03:10:03.260000+00:00",
+          "duration": 10.036,
+          "data": {
+            "app": "MAA.exe",
+            "title": "新版本下载完成"
+          }
+        },
+        {
+          "id": 286421,
+          "timestamp": "2026-08-19T03:08:57.970000+00:00",
+          "duration": 64.286,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 286420,
+          "timestamp": "2026-08-19T03:08:53.949000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64"
+          }
+        },
+        {
+          "id": 286419,
+          "timestamp": "2026-08-19T03:08:51.936000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 286418,
+          "timestamp": "2026-08-19T03:08:24.820000+00:00",
+          "duration": 26.112,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "E:\\"
+          }
+        },
+        {
+          "id": 286417,
+          "timestamp": "2026-08-19T03:08:20.799000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 286416,
+          "timestamp": "2026-08-19T03:08:17.784000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": "下载"
+          }
+        },
+        {
+          "id": 286415,
+          "timestamp": "2026-08-19T03:08:13.765000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 286413,
+          "timestamp": "2026-08-19T03:07:30.589000+00:00",
+          "duration": 42.173,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 286412,
+          "timestamp": "2026-08-19T03:07:27.573000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 286411,
+          "timestamp": "2026-08-19T03:06:39.401000+00:00",
+          "duration": 47.168,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
           }
         },
         {
-          "id": 286097,
-          "timestamp": "2026-08-18T15:30:01.698000+00:00",
-          "duration": 1.004,
+          "id": 286410,
+          "timestamp": "2026-08-19T03:06:36.386000+00:00",
+          "duration": 2.012,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 286096,
-          "timestamp": "2026-08-18T15:30:00.690000+00:00",
+          "id": 286409,
+          "timestamp": "2026-08-19T03:06:34.370000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286408,
+          "timestamp": "2026-08-19T03:06:33.366000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "MusicBee.exe",
-            "title": "河图 - 春日迟 - MusicBee"
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
           }
         },
         {
-          "id": 286032,
-          "timestamp": "2026-08-18T13:28:34.428000+00:00",
-          "duration": 7285.258,
+          "id": 286404,
+          "timestamp": "2026-08-19T02:55:48.579000+00:00",
+          "duration": 643.783,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286401,
+          "timestamp": "2026-08-19T02:51:46.517000+00:00",
+          "duration": 241.057,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286400,
+          "timestamp": "2026-08-19T02:51:45.511000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "QQ.exe",
             "title": "QQ"
           }
         },
         {
-          "id": 285986,
-          "timestamp": "2026-08-18T12:00:04.347000+00:00",
-          "duration": 5309.077,
+          "id": 286396,
+          "timestamp": "2026-08-19T02:44:26.588000+00:00",
+          "duration": 437.92,
           "data": {
-            "app": "Lucy_x64.exe",
-            "title": "Lucy快速启动"
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286392,
+          "timestamp": "2026-08-19T02:36:10.421000+00:00",
+          "duration": 495.163,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286391,
+          "timestamp": "2026-08-19T02:36:03.394000+00:00",
+          "duration": 6.023,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286388,
+          "timestamp": "2026-08-19T02:28:04.276000+00:00",
+          "duration": 478.113,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286387,
+          "timestamp": "2026-08-19T02:27:49.210000+00:00",
+          "duration": 14.062,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286385,
+          "timestamp": "2026-08-19T02:27:30.127000+00:00",
+          "duration": 18.078,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286348,
+          "timestamp": "2026-08-19T00:46:48.143000+00:00",
+          "duration": 6040.98,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 286345,
+          "timestamp": "2026-08-19T00:39:53.151000+00:00",
+          "duration": 413.987,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286344,
+          "timestamp": "2026-08-19T00:39:47.119000+00:00",
+          "duration": 5.027,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286340,
+          "timestamp": "2026-08-19T00:33:45.393000+00:00",
+          "duration": 360.721,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 286338,
+          "timestamp": "2026-08-19T00:33:44.384000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 286337,
+          "timestamp": "2026-08-19T00:33:43.378000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 286336,
+          "timestamp": "2026-08-19T00:33:42.372000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 286252,
+          "timestamp": "2026-08-19T00:00:04.996000+00:00",
+          "duration": 2016.372,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-19T00:00:06.421471",
+    "export_time": "2026-08-19T12:00:07.081490",
     "time_range": {
-      "start": "2026-08-18T12:00:04.347071",
-      "end": "2026-08-19T00:00:04.347071"
+      "start": "2026-08-19T00:00:04.996030",
+      "end": "2026-08-19T12:00:04.996030"
     },
-    "total_events": 6
+    "total_events": 40
   }
 }
