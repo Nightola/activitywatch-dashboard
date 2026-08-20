@@ -5,95 +5,23 @@
       "type": "window",
       "events": [
         {
-          "id": 287898,
-          "timestamp": "2026-08-20T04:00:02.042000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
-          }
-        },
-        {
-          "id": 287888,
-          "timestamp": "2026-08-20T03:46:11.925000+00:00",
-          "duration": 829.113,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "碧蓝"
-          }
-        },
-        {
-          "id": 287861,
-          "timestamp": "2026-08-20T02:37:53.549000+00:00",
-          "duration": 4097.373,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 287832,
-          "timestamp": "2026-08-20T01:27:01.826000+00:00",
-          "duration": 4250.718,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 287806,
-          "timestamp": "2026-08-20T00:03:25.822000+00:00",
-          "duration": 5012.688,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 287805,
-          "timestamp": "2026-08-20T00:03:16.781000+00:00",
-          "duration": 8.037,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 287804,
-          "timestamp": "2026-08-20T00:03:15.776000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "碧蓝"
-          }
-        },
-        {
-          "id": 287803,
-          "timestamp": "2026-08-20T00:03:13.767000+00:00",
-          "duration": 1.005,
+          "id": 288079,
+          "timestamp": "2026-08-20T12:00:04.253000+00:00",
+          "duration": 14396.829,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
-          }
-        },
-        {
-          "id": 287801,
-          "timestamp": "2026-08-20T00:00:04.973000+00:00",
-          "duration": 187.789,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "碧蓝"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-20T12:00:07.035485",
+    "export_time": "2026-08-21T00:00:06.331147",
     "time_range": {
-      "start": "2026-08-20T00:00:04.973635",
-      "end": "2026-08-20T12:00:04.973635"
+      "start": "2026-08-20T12:00:04.253784",
+      "end": "2026-08-21T00:00:04.253784"
     },
-    "total_events": 9
+    "total_events": 1
   }
 }
