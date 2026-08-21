@@ -5,23 +5,2174 @@
       "type": "window",
       "events": [
         {
-          "id": 288079,
-          "timestamp": "2026-08-20T12:00:04.253000+00:00",
-          "duration": 14396.829,
+          "id": 288649,
+          "timestamp": "2026-08-21T03:37:34.790000+00:00",
+          "duration": 1347.162,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "一夜千夜cover"
+          }
+        },
+        {
+          "id": 288646,
+          "timestamp": "2026-08-21T03:28:23.255000+00:00",
+          "duration": 550.531,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288645,
+          "timestamp": "2026-08-21T03:28:21.247000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288643,
+          "timestamp": "2026-08-21T03:27:00.865000+00:00",
+          "duration": 79.378,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288642,
+          "timestamp": "2026-08-21T03:26:57.852000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288641,
+          "timestamp": "2026-08-21T03:26:36.760000+00:00",
+          "duration": 20.088,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288640,
+          "timestamp": "2026-08-21T03:26:35.754000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288639,
+          "timestamp": "2026-08-21T03:26:25.707000+00:00",
+          "duration": 9.041,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288638,
+          "timestamp": "2026-08-21T03:26:24.701000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288637,
+          "timestamp": "2026-08-21T03:26:16.665000+00:00",
+          "duration": 7.031,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288636,
+          "timestamp": "2026-08-21T03:26:10.641000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288635,
+          "timestamp": "2026-08-21T03:25:43.522000+00:00",
+          "duration": 26.111,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288634,
+          "timestamp": "2026-08-21T03:25:42.517000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288632,
+          "timestamp": "2026-08-21T03:24:42.256000+00:00",
+          "duration": 59.257,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288631,
+          "timestamp": "2026-08-21T03:24:40.243000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288630,
+          "timestamp": "2026-08-21T03:23:22.871000+00:00",
+          "duration": 76.364,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288629,
+          "timestamp": "2026-08-21T03:23:20.862000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288628,
+          "timestamp": "2026-08-21T03:23:06.799000+00:00",
+          "duration": 13.06,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288627,
+          "timestamp": "2026-08-21T03:23:04.790000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288625,
+          "timestamp": "2026-08-21T03:22:21.587000+00:00",
+          "duration": 42.199,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288624,
+          "timestamp": "2026-08-21T03:22:20.581000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288623,
+          "timestamp": "2026-08-21T03:21:13.277000+00:00",
+          "duration": 66.3,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288622,
+          "timestamp": "2026-08-21T03:21:12.273000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288621,
+          "timestamp": "2026-08-21T03:21:08.182000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288620,
+          "timestamp": "2026-08-21T03:20:41.058000+00:00",
+          "duration": 26.121,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288619,
+          "timestamp": "2026-08-21T03:20:40.053000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288617,
+          "timestamp": "2026-08-21T03:18:37.326000+00:00",
+          "duration": 121.724,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288616,
+          "timestamp": "2026-08-21T03:18:36.320000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288615,
+          "timestamp": "2026-08-21T03:18:35.258000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288614,
+          "timestamp": "2026-08-21T03:18:08.118000+00:00",
+          "duration": 26.137,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288613,
+          "timestamp": "2026-08-21T03:18:05.106000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288612,
+          "timestamp": "2026-08-21T03:18:04.101000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288611,
+          "timestamp": "2026-08-21T03:18:03.010000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "alas.exe",
             "title": "Alas"
+          }
+        },
+        {
+          "id": 288609,
+          "timestamp": "2026-08-21T03:17:18.801000+00:00",
+          "duration": 43.206,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288608,
+          "timestamp": "2026-08-21T03:17:16.792000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288606,
+          "timestamp": "2026-08-21T03:14:07.923000+00:00",
+          "duration": 187.862,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288605,
+          "timestamp": "2026-08-21T03:14:01.897000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288604,
+          "timestamp": "2026-08-21T03:13:53.863000+00:00",
+          "duration": 7.03,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288603,
+          "timestamp": "2026-08-21T03:13:52.856000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288602,
+          "timestamp": "2026-08-21T03:13:06.651000+00:00",
+          "duration": 45.201,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288601,
+          "timestamp": "2026-08-21T03:13:01.631000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288598,
+          "timestamp": "2026-08-21T03:07:27.079000+00:00",
+          "duration": 333.547,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288597,
+          "timestamp": "2026-08-21T03:07:24.067000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288596,
+          "timestamp": "2026-08-21T03:07:09.002000+00:00",
+          "duration": 14.061,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288595,
+          "timestamp": "2026-08-21T03:07:03.979000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288592,
+          "timestamp": "2026-08-21T03:03:36.036000+00:00",
+          "duration": 206.939,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288591,
+          "timestamp": "2026-08-21T03:03:30.012000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288588,
+          "timestamp": "2026-08-21T02:57:40.551000+00:00",
+          "duration": 348.457,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288587,
+          "timestamp": "2026-08-21T02:57:35.530000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288586,
+          "timestamp": "2026-08-21T02:55:03.820000+00:00",
+          "duration": 150.704,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288585,
+          "timestamp": "2026-08-21T02:54:52.773000+00:00",
+          "duration": 10.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288584,
+          "timestamp": "2026-08-21T02:54:50.763000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288581,
+          "timestamp": "2026-08-21T02:54:40.715000+00:00",
+          "duration": 9.04,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288580,
+          "timestamp": "2026-08-21T02:54:39.711000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288579,
+          "timestamp": "2026-08-21T02:54:21.556000+00:00",
+          "duration": 17.08,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288578,
+          "timestamp": "2026-08-21T02:54:16.535000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288576,
+          "timestamp": "2026-08-21T02:53:31.324000+00:00",
+          "duration": 44.207,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288575,
+          "timestamp": "2026-08-21T02:53:29.313000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288574,
+          "timestamp": "2026-08-21T02:51:43.831000+00:00",
+          "duration": 104.479,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288572,
+          "timestamp": "2026-08-21T02:51:40.819000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288571,
+          "timestamp": "2026-08-21T02:51:34.788000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288570,
+          "timestamp": "2026-08-21T02:51:33.784000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288569,
+          "timestamp": "2026-08-21T02:51:30.695000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288568,
+          "timestamp": "2026-08-21T02:51:13.621000+00:00",
+          "duration": 16.069,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288567,
+          "timestamp": "2026-08-21T02:51:10.608000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288565,
+          "timestamp": "2026-08-21T02:48:24.860000+00:00",
+          "duration": 164.744,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288564,
+          "timestamp": "2026-08-21T02:48:17.831000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 288563,
+          "timestamp": "2026-08-21T02:48:15.823000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "一夜千夜cover"
+          }
+        },
+        {
+          "id": 288562,
+          "timestamp": "2026-08-21T02:48:13.813000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommanderConnector.exe",
+            "title": "Close and don't show until restart?"
+          }
+        },
+        {
+          "id": 288561,
+          "timestamp": "2026-08-21T02:48:12.809000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommanderConnector.exe",
+            "title": "OneCommander Connector"
+          }
+        },
+        {
+          "id": 288560,
+          "timestamp": "2026-08-21T02:47:35.662000+00:00",
+          "duration": 36.144,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 288557,
+          "timestamp": "2026-08-21T02:46:08.249000+00:00",
+          "duration": 86.409,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288556,
+          "timestamp": "2026-08-21T02:46:07.245000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288555,
+          "timestamp": "2026-08-21T02:46:06.240000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288554,
+          "timestamp": "2026-08-21T02:46:00.148000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288553,
+          "timestamp": "2026-08-21T02:45:58.138000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288552,
+          "timestamp": "2026-08-21T02:45:55.125000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288551,
+          "timestamp": "2026-08-21T02:45:53.109000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288550,
+          "timestamp": "2026-08-21T02:45:51.101000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288549,
+          "timestamp": "2026-08-21T02:45:50.085000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288548,
+          "timestamp": "2026-08-21T02:45:43.053000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288547,
+          "timestamp": "2026-08-21T02:45:24.973000+00:00",
+          "duration": 17.074,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288546,
+          "timestamp": "2026-08-21T02:45:22.959000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【鏡音レン】いなくなった【lulu/スノーノイズＰ】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288545,
+          "timestamp": "2026-08-21T02:45:21.953000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
+          }
+        },
+        {
+          "id": 288543,
+          "timestamp": "2026-08-21T02:45:20.947000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288541,
+          "timestamp": "2026-08-21T02:41:22.835000+00:00",
+          "duration": 237.038,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288540,
+          "timestamp": "2026-08-21T02:41:20.827000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 288538,
+          "timestamp": "2026-08-21T02:37:27.770000+00:00",
+          "duration": 232.055,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288537,
+          "timestamp": "2026-08-21T02:37:24.755000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "一夜千夜cover"
+          }
+        },
+        {
+          "id": 288536,
+          "timestamp": "2026-08-21T02:37:23.748000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288535,
+          "timestamp": "2026-08-21T02:37:21.740000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "notepad.exe",
+            "title": "代码备份.txt - 记事本"
+          }
+        },
+        {
+          "id": 288534,
+          "timestamp": "2026-08-21T02:37:12.705000+00:00",
+          "duration": 8.031,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288533,
+          "timestamp": "2026-08-21T02:37:10.695000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "一夜千夜cover"
+          }
+        },
+        {
+          "id": 288532,
+          "timestamp": "2026-08-21T02:37:08.686000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288531,
+          "timestamp": "2026-08-21T02:37:04.667000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Add Track"
+          }
+        },
+        {
+          "id": 288530,
+          "timestamp": "2026-08-21T02:37:02.658000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MonsterHunterRise"
+          }
+        },
+        {
+          "id": 288529,
+          "timestamp": "2026-08-21T02:36:59.638000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288526,
+          "timestamp": "2026-08-21T02:36:57.571000+00:00",
+          "duration": 1.064,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288525,
+          "timestamp": "2026-08-21T02:36:56.511000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
+          }
+        },
+        {
+          "id": 288524,
+          "timestamp": "2026-08-21T02:36:53.498000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MonsterHunterRise"
+          }
+        },
+        {
+          "id": 288523,
+          "timestamp": "2026-08-21T02:36:50.485000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "文档"
+          }
+        },
+        {
+          "id": 288522,
+          "timestamp": "2026-08-21T02:36:46.470000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "一夜千夜cover"
+          }
+        },
+        {
+          "id": 288521,
+          "timestamp": "2026-08-21T02:36:43.455000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288520,
+          "timestamp": "2026-08-21T02:36:41.444000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288519,
+          "timestamp": "2026-08-21T02:36:39.432000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288518,
+          "timestamp": "2026-08-21T02:36:37.424000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288517,
+          "timestamp": "2026-08-21T02:36:31.397000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
+          }
+        },
+        {
+          "id": 288516,
+          "timestamp": "2026-08-21T02:36:08.291000+00:00",
+          "duration": 22.101,
+          "data": {
+            "app": "chrome.exe",
+            "title": "打开"
+          }
+        },
+        {
+          "id": 288515,
+          "timestamp": "2026-08-21T02:36:05.273000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "歌曲调性和BPM查找器 - 多功能音乐分析器 - Cent Browser"
+          }
+        },
+        {
+          "id": 288514,
+          "timestamp": "2026-08-21T02:36:00.242000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "曲速测试 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288513,
+          "timestamp": "2026-08-21T02:35:59.234000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288512,
+          "timestamp": "2026-08-21T02:35:55.214000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【鏡音レン】いなくなった【lulu/スノーノイズＰ】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288511,
+          "timestamp": "2026-08-21T02:35:54.209000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288510,
+          "timestamp": "2026-08-21T02:35:51.143000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288509,
+          "timestamp": "2026-08-21T02:35:44.113000+00:00",
+          "duration": 6.024,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288508,
+          "timestamp": "2026-08-21T02:35:21.017000+00:00",
+          "duration": 22.091,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 288507,
+          "timestamp": "2026-08-21T02:35:09.970000+00:00",
+          "duration": 10.041,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288506,
+          "timestamp": "2026-08-21T02:35:08.965000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288505,
+          "timestamp": "2026-08-21T02:35:06.956000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【鏡音レン】いなくなった【lulu/スノーノイズＰ】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288504,
+          "timestamp": "2026-08-21T02:35:04.946000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288502,
+          "timestamp": "2026-08-21T02:33:39.575000+00:00",
+          "duration": 84.366,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288501,
+          "timestamp": "2026-08-21T02:33:29.532000+00:00",
+          "duration": 9.039,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "效果 - 伸缩与变调"
+          }
+        },
+        {
+          "id": 288500,
+          "timestamp": "2026-08-21T02:33:08.440000+00:00",
+          "duration": 20.086,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288499,
+          "timestamp": "2026-08-21T02:33:03.417000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "效果 - 伸缩与变调"
+          }
+        },
+        {
+          "id": 288498,
+          "timestamp": "2026-08-21T02:31:51.123000+00:00",
+          "duration": 71.289,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288496,
+          "timestamp": "2026-08-21T02:30:56.878000+00:00",
+          "duration": 53.239,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "效果 - 伸缩与变调"
+          }
+        },
+        {
+          "id": 288495,
+          "timestamp": "2026-08-21T02:30:48.844000+00:00",
+          "duration": 7.031,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288494,
+          "timestamp": "2026-08-21T02:30:31.762000+00:00",
+          "duration": 16.077,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "效果 - 伸缩与变调"
+          }
+        },
+        {
+          "id": 288493,
+          "timestamp": "2026-08-21T02:30:26.737000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288492,
+          "timestamp": "2026-08-21T02:30:24.728000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "效果 - 变调器"
+          }
+        },
+        {
+          "id": 288491,
+          "timestamp": "2026-08-21T02:30:11.667000+00:00",
+          "duration": 12.058,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288490,
+          "timestamp": "2026-08-21T02:30:07.482000+00:00",
+          "duration": 3.182,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288489,
+          "timestamp": "2026-08-21T02:30:03.409000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288488,
+          "timestamp": "2026-08-21T02:30:02.401000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288486,
+          "timestamp": "2026-08-21T02:29:55.305000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288485,
+          "timestamp": "2026-08-21T02:29:54.302000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288484,
+          "timestamp": "2026-08-21T02:29:51.289000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288483,
+          "timestamp": "2026-08-21T02:29:49.280000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288482,
+          "timestamp": "2026-08-21T02:29:44.260000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288481,
+          "timestamp": "2026-08-21T02:29:33.208000+00:00",
+          "duration": 10.045,
+          "data": {
+            "app": "wmplayer.exe",
+            "title": "Windows Media Player"
+          }
+        },
+        {
+          "id": 288480,
+          "timestamp": "2026-08-21T02:29:25.163000+00:00",
+          "duration": 7.039,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288479,
+          "timestamp": "2026-08-21T02:29:15.119000+00:00",
+          "duration": 9.039,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288478,
+          "timestamp": "2026-08-21T02:29:11.096000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 288477,
+          "timestamp": "2026-08-21T02:29:07.079000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288476,
+          "timestamp": "2026-08-21T02:29:03.053000+00:00",
+          "duration": 3.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【鏡音レン】いなくなった【lulu/スノーノイズＰ】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288472,
+          "timestamp": "2026-08-21T02:27:05.580000+00:00",
+          "duration": 116.466,
+          "data": {
+            "app": "chrome.exe",
+            "title": "upos-sz-mirrorcos.bilivideo.com/upgcxcode/71/26/23022671/23022671-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1787286421&platform=html5&oi=1782024106&gen=playurlv3&os=cosbv&uipk=5&nbs=1&trid=694d1efd61884afe80fefcd88c3069bh&og=cos&upsig=32992a6161ae8b22d515db5481548ab0&uparams=e,mid,deadline,platform,oi,gen,os,uipk,nbs,trid,og&bvc=vod&nettype=0&bw=424132&lrs=0&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1 - Cent Browser"
+          }
+        },
+        {
+          "id": 288471,
+          "timestamp": "2026-08-21T02:27:02.567000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288470,
+          "timestamp": "2026-08-21T02:26:52.518000+00:00",
+          "duration": 9.043,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 - Cent Browser"
+          }
+        },
+        {
+          "id": 288469,
+          "timestamp": "2026-08-21T02:26:44.476000+00:00",
+          "duration": 7.038,
+          "data": {
+            "app": "chrome.exe",
+            "title": "b站视频下次 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288468,
+          "timestamp": "2026-08-21T02:26:33.420000+00:00",
+          "duration": 10.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Extension Updated - Cent Browser"
+          }
+        },
+        {
+          "id": 288464,
+          "timestamp": "2026-08-21T02:24:38.916000+00:00",
+          "duration": 113.493,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【lulu/スノーノイズＰ】一夜千夜【鏡音レン】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288463,
+          "timestamp": "2026-08-21T02:24:26.859000+00:00",
+          "duration": 11.052,
+          "data": {
+            "app": "chrome.exe",
+            "title": "bilibili.com/video/BV1Fx411b7EN/ - Cent Browser"
+          }
+        },
+        {
+          "id": 288462,
+          "timestamp": "2026-08-21T02:24:22.838000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288461,
+          "timestamp": "2026-08-21T02:24:17.812000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "一夜千夜-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288460,
+          "timestamp": "2026-08-21T02:24:16.807000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288458,
+          "timestamp": "2026-08-21T02:24:15.798000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "一夜千夜 镜音_百度搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288456,
+          "timestamp": "2026-08-21T02:24:12.785000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288454,
+          "timestamp": "2026-08-21T02:24:01.734000+00:00",
+          "duration": 10.044,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 288452,
+          "timestamp": "2026-08-21T02:23:58.720000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288451,
+          "timestamp": "2026-08-21T02:23:56.710000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 288450,
+          "timestamp": "2026-08-21T02:23:55.702000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "草稿 | ･✦ Nightola-227 FM ✦･ - Cent Browser"
+          }
+        },
+        {
+          "id": 288449,
+          "timestamp": "2026-08-21T02:23:48.671000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "一夜千夜 镜音_百度搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288447,
+          "timestamp": "2026-08-21T02:23:46.661000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288446,
+          "timestamp": "2026-08-21T02:23:29.587000+00:00",
+          "duration": 16.071,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 288445,
+          "timestamp": "2026-08-21T02:23:28.582000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288444,
+          "timestamp": "2026-08-21T02:23:27.576000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Extension Updated - Cent Browser"
+          }
+        },
+        {
+          "id": 288442,
+          "timestamp": "2026-08-21T02:23:15.518000+00:00",
+          "duration": 11.054,
+          "data": {
+            "app": "chrome.exe",
+            "title": "miku v4x英文声库安装 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288441,
+          "timestamp": "2026-08-21T02:23:14.511000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "･✦ Nightola-227 FM ✦･ - Cent Browser"
+          }
+        },
+        {
+          "id": 288435,
+          "timestamp": "2026-08-21T02:20:47.908000+00:00",
+          "duration": 145.599,
+          "data": {
+            "app": "chrome.exe",
+            "title": "HATSUNE MIKU V4X (incl. ENGLISH) - Cent Browser"
+          }
+        },
+        {
+          "id": 288434,
+          "timestamp": "2026-08-21T02:20:45.899000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288433,
+          "timestamp": "2026-08-21T02:20:40.874000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "miku v4x英文声库安装 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 288432,
+          "timestamp": "2026-08-21T02:20:39.869000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 288431,
+          "timestamp": "2026-08-21T02:20:28.815000+00:00",
+          "duration": 10.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Extension Updated - Cent Browser"
+          }
+        },
+        {
+          "id": 288430,
+          "timestamp": "2026-08-21T02:20:26.807000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288429,
+          "timestamp": "2026-08-21T02:20:25.802000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "Screenshots"
+          }
+        },
+        {
+          "id": 288428,
+          "timestamp": "2026-08-21T02:20:24.797000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288427,
+          "timestamp": "2026-08-21T02:20:22.788000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288426,
+          "timestamp": "2026-08-21T02:20:16.762000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Add Track"
+          }
+        },
+        {
+          "id": 288425,
+          "timestamp": "2026-08-21T02:20:15.756000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288424,
+          "timestamp": "2026-08-21T02:20:14.752000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288423,
+          "timestamp": "2026-08-21T02:20:05.714000+00:00",
+          "duration": 8.032,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288422,
+          "timestamp": "2026-08-21T02:20:03.707000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288421,
+          "timestamp": "2026-08-21T02:20:02.703000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288419,
+          "timestamp": "2026-08-21T02:20:01.699000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288418,
+          "timestamp": "2026-08-21T02:19:59.690000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288417,
+          "timestamp": "2026-08-21T02:19:57.680000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 288416,
+          "timestamp": "2026-08-21T02:19:54.668000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 288415,
+          "timestamp": "2026-08-21T02:19:53.663000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 288414,
+          "timestamp": "2026-08-21T02:19:49.646000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288413,
+          "timestamp": "2026-08-21T02:19:48.642000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Audition"
+          }
+        },
+        {
+          "id": 288412,
+          "timestamp": "2026-08-21T02:17:27.085000+00:00",
+          "duration": 140.552,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288411,
+          "timestamp": "2026-08-21T02:17:25.076000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 288408,
+          "timestamp": "2026-08-21T02:12:50.932000+00:00",
+          "duration": 273.14,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288407,
+          "timestamp": "2026-08-21T02:12:48.922000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "正在打开文件"
+          }
+        },
+        {
+          "id": 288406,
+          "timestamp": "2026-08-21T02:12:47.915000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288405,
+          "timestamp": "2026-08-21T02:12:43.898000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 288404,
+          "timestamp": "2026-08-21T02:12:29.835000+00:00",
+          "duration": 13.058,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288403,
+          "timestamp": "2026-08-21T02:11:29.600000+00:00",
+          "duration": 59.231,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 288402,
+          "timestamp": "2026-08-21T02:11:26.588000+00:00",
+          "duration": 2.007,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288401,
+          "timestamp": "2026-08-21T02:11:22.571000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "正在打开文件"
+          }
+        },
+        {
+          "id": 288400,
+          "timestamp": "2026-08-21T02:11:21.564000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288399,
+          "timestamp": "2026-08-21T02:10:26.347000+00:00",
+          "duration": 54.214,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 288397,
+          "timestamp": "2026-08-21T02:10:21.327000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288396,
+          "timestamp": "2026-08-21T02:09:45.191000+00:00",
+          "duration": 35.132,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 288395,
+          "timestamp": "2026-08-21T02:09:29.130000+00:00",
+          "duration": 15.058,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 288394,
+          "timestamp": "2026-08-21T02:09:23.106000+00:00",
+          "duration": 5.02,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288393,
+          "timestamp": "2026-08-21T02:09:22.100000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288392,
+          "timestamp": "2026-08-21T02:09:20.091000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288391,
+          "timestamp": "2026-08-21T02:08:11.803000+00:00",
+          "duration": 67.283,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288390,
+          "timestamp": "2026-08-21T02:08:08.789000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 288389,
+          "timestamp": "2026-08-21T02:08:01.759000+00:00",
+          "duration": 6.026,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288388,
+          "timestamp": "2026-08-21T02:07:59.694000+00:00",
+          "duration": 1.061,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 288387,
+          "timestamp": "2026-08-21T02:07:58.628000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288386,
+          "timestamp": "2026-08-21T02:07:56.619000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Everything.exe",
+            "title": "vpr - Everything"
+          }
+        },
+        {
+          "id": 288385,
+          "timestamp": "2026-08-21T02:07:55.614000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288384,
+          "timestamp": "2026-08-21T02:07:53.605000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Everything.exe",
+            "title": "vpr - Everything"
+          }
+        },
+        {
+          "id": 288383,
+          "timestamp": "2026-08-21T02:07:45.573000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 288382,
+          "timestamp": "2026-08-21T02:07:18.463000+00:00",
+          "duration": 26.106,
+          "data": {
+            "app": "Everything.exe",
+            "title": "vpr - Everything"
+          }
+        },
+        {
+          "id": 288381,
+          "timestamp": "2026-08-21T02:07:17.458000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "vp - Everything"
+          }
+        },
+        {
+          "id": 288380,
+          "timestamp": "2026-08-21T02:07:14.445000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 288379,
+          "timestamp": "2026-08-21T02:07:10.430000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "Everything.exe",
+            "title": "sv - Everything"
+          }
+        },
+        {
+          "id": 288378,
+          "timestamp": "2026-08-21T02:06:59.386000+00:00",
+          "duration": 10.038,
+          "data": {
+            "app": "Everything.exe",
+            "title": "alone - Everything"
+          }
+        },
+        {
+          "id": 288376,
+          "timestamp": "2026-08-21T02:06:57.376000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 288375,
+          "timestamp": "2026-08-21T02:06:56.370000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone  - Everything"
+          }
+        },
+        {
+          "id": 288374,
+          "timestamp": "2026-08-21T02:06:53.357000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone is alone - Everything"
+          }
+        },
+        {
+          "id": 288373,
+          "timestamp": "2026-08-21T02:06:50.343000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Everything.exe",
+            "title": "every - Everything"
+          }
+        },
+        {
+          "id": 288372,
+          "timestamp": "2026-08-21T02:06:38.296000+00:00",
+          "duration": 11.042,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone is alone - Everything"
+          }
+        },
+        {
+          "id": 288371,
+          "timestamp": "2026-08-21T02:06:37.291000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone is  - Everything"
+          }
+        },
+        {
+          "id": 288370,
+          "timestamp": "2026-08-21T02:06:36.286000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone is - Everything"
+          }
+        },
+        {
+          "id": 288369,
+          "timestamp": "2026-08-21T02:06:34.277000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone  - Everything"
+          }
+        },
+        {
+          "id": 288368,
+          "timestamp": "2026-08-21T02:06:30.260000+00:00",
+          "duration": 3.011,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyone - Everything"
+          }
+        },
+        {
+          "id": 288367,
+          "timestamp": "2026-08-21T02:06:29.254000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyo - Everything"
+          }
+        },
+        {
+          "id": 288366,
+          "timestamp": "2026-08-21T02:06:28.243000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "every - Everything"
+          }
+        },
+        {
+          "id": 288365,
+          "timestamp": "2026-08-21T02:06:27.238000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Everything.exe",
+            "title": "everyonr  - Everything"
+          }
+        },
+        {
+          "id": 288364,
+          "timestamp": "2026-08-21T02:06:08.150000+00:00",
+          "duration": 18.083,
+          "data": {
+            "app": "Everything.exe",
+            "title": "Everything"
+          }
+        },
+        {
+          "id": 288363,
+          "timestamp": "2026-08-21T02:06:06.141000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 288362,
+          "timestamp": "2026-08-21T02:06:03.128000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 288361,
+          "timestamp": "2026-08-21T02:06:01.119000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 288359,
+          "timestamp": "2026-08-21T02:05:11.928000+00:00",
+          "duration": 48.187,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 288177,
+          "timestamp": "2026-08-21T00:00:04.955000+00:00",
+          "duration": 7505.97,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-21T00:00:06.331147",
+    "export_time": "2026-08-21T12:00:07.055293",
     "time_range": {
-      "start": "2026-08-20T12:00:04.253784",
-      "end": "2026-08-21T00:00:04.253784"
+      "start": "2026-08-21T00:00:04.955770",
+      "end": "2026-08-21T12:00:04.955770"
     },
-    "total_events": 1
+    "total_events": 240
   }
 }
