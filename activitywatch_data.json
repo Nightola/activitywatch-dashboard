@@ -5,2390 +5,554 @@
       "type": "window",
       "events": [
         {
-          "id": 290164,
-          "timestamp": "2026-08-22T03:23:17.328000+00:00",
-          "duration": 2204.3,
+          "id": 290568,
+          "timestamp": "2026-08-22T15:12:20.304000+00:00",
+          "duration": 2860.799,
           "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
           }
         },
         {
-          "id": 290163,
-          "timestamp": "2026-08-22T03:23:03.143000+00:00",
-          "duration": 13.17,
+          "id": 290565,
+          "timestamp": "2026-08-22T15:12:17.293000+00:00",
+          "duration": 2.008,
           "data": {
-            "app": "notepad.exe",
-            "title": "ハイパーセンス-ForDEG_Lyrics.txt - 记事本"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
           }
         },
         {
-          "id": 290162,
-          "timestamp": "2026-08-22T03:23:00.108000+00:00",
-          "duration": 2.029,
+          "id": 290564,
+          "timestamp": "2026-08-22T15:12:16.286000+00:00",
+          "duration": 0.0,
           "data": {
-            "app": "chrome.exe",
+            "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 290161,
-          "timestamp": "2026-08-22T03:22:47.976000+00:00",
-          "duration": 11.125,
+          "id": 290557,
+          "timestamp": "2026-08-22T15:04:30.403000+00:00",
+          "duration": 464.879,
           "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
           }
         },
         {
-          "id": 290160,
-          "timestamp": "2026-08-22T03:22:46.954000+00:00",
+          "id": 290552,
+          "timestamp": "2026-08-22T14:59:24.169000+00:00",
+          "duration": 305.231,
+          "data": {
+            "app": "MAA.exe",
+            "title": "成就列表"
+          }
+        },
+        {
+          "id": 290551,
+          "timestamp": "2026-08-22T14:59:17.140000+00:00",
+          "duration": 6.025,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290550,
+          "timestamp": "2026-08-22T14:59:15.133000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 290549,
+          "timestamp": "2026-08-22T14:59:02.078000+00:00",
+          "duration": 12.051,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290548,
+          "timestamp": "2026-08-22T14:59:01.073000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MAA.exe",
+            "title": "成就列表"
+          }
+        },
+        {
+          "id": 290547,
+          "timestamp": "2026-08-22T14:58:59.065000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290546,
+          "timestamp": "2026-08-22T14:58:57.057000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MAA.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 290545,
+          "timestamp": "2026-08-22T14:58:41.994000+00:00",
+          "duration": 14.059,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290544,
+          "timestamp": "2026-08-22T14:58:36.973000+00:00",
+          "duration": 4.017,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 290543,
+          "timestamp": "2026-08-22T14:58:28.941000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290542,
+          "timestamp": "2026-08-22T14:58:20.911000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 290541,
+          "timestamp": "2026-08-22T14:58:12.880000+00:00",
+          "duration": 7.027,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290539,
+          "timestamp": "2026-08-22T14:58:11.874000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "dwm.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服 (未响应)"
+          }
+        },
+        {
+          "id": 290538,
+          "timestamp": "2026-08-22T14:58:03.786000+00:00",
+          "duration": 7.028,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 290504,
+          "timestamp": "2026-08-22T13:40:01.584000+00:00",
+          "duration": 4681.197,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
+          }
+        },
+        {
+          "id": 290503,
+          "timestamp": "2026-08-22T13:40:00.578000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 290500,
+          "timestamp": "2026-08-22T13:39:38.450000+00:00",
+          "duration": 21.084,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【墟 全关卡复刻丨已完结】六人一摆到底 摆完挂机 简单好抄丨AT-1~8/AT-EX-1~8/AT-S-1~4 - Cent Browser"
+          }
+        },
+        {
+          "id": 290492,
+          "timestamp": "2026-08-22T13:27:01.689000+00:00",
+          "duration": 755.757,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【墟 全关卡】全程只需两个六星 挂机/半挂机 少核/低配 简单好抄丨AT-1~8 AT-EX-1~8 AT-S-1~4_游戏热门视频 - Cent Browser"
+          }
+        },
+        {
+          "id": 290491,
+          "timestamp": "2026-08-22T13:26:55.666000+00:00",
+          "duration": 5.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【墟 全关卡复刻丨已完结】六人一摆到底 摆完挂机 简单好抄丨AT-1~8/AT-EX-1~8/AT-S-1~4 - Cent Browser"
+          }
+        },
+        {
+          "id": 290490,
+          "timestamp": "2026-08-22T13:26:46.626000+00:00",
+          "duration": 8.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "AT-1_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290489,
+          "timestamp": "2026-08-22T13:26:39.595000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "chrome.exe",
+            "title": "AT-S-3_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290488,
+          "timestamp": "2026-08-22T13:26:38.589000+00:00",
           "duration": 0.0,
           "data": {
             "app": "chrome.exe",
-            "title": ""
+            "title": "bilibili.com/video/BV1MX8z6KEpK/?p=19&spm_id_from=333.1007.top_right_bar_window_history.content.click - Cent Browser"
           }
         },
         {
-          "id": 290159,
-          "timestamp": "2026-08-22T03:22:43.922000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
-          }
-        },
-        {
-          "id": 290158,
-          "timestamp": "2026-08-22T03:22:42.902000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 290157,
-          "timestamp": "2026-08-22T03:22:30.774000+00:00",
-          "duration": 11.118,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
-          }
-        },
-        {
-          "id": 290156,
-          "timestamp": "2026-08-22T03:22:28.749000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 290154,
-          "timestamp": "2026-08-22T03:22:26.723000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
-          }
-        },
-        {
-          "id": 290153,
-          "timestamp": "2026-08-22T03:22:23.682000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "文件夹 - Google 云端硬盘 - Cent Browser"
-          }
-        },
-        {
-          "id": 290152,
-          "timestamp": "2026-08-22T03:22:10.544000+00:00",
-          "duration": 12.129,
-          "data": {
-            "app": "chrome.exe",
-            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
-          }
-        },
-        {
-          "id": 290151,
-          "timestamp": "2026-08-22T03:22:08.519000+00:00",
-          "duration": 1.015,
+          "id": 290487,
+          "timestamp": "2026-08-22T13:26:36.581000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "chrome.exe",
             "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 290150,
-          "timestamp": "2026-08-22T03:21:45.283000+00:00",
-          "duration": 22.227,
-          "data": {
-            "app": "chrome.exe",
-            "title": "【重音テト】超感【ForDEG】_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 290149,
-          "timestamp": "2026-08-22T03:21:44.272000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 290148,
-          "timestamp": "2026-08-22T03:21:36.174000+00:00",
-          "duration": 7.093,
+          "id": 290485,
+          "timestamp": "2026-08-22T13:26:21.521000+00:00",
+          "duration": 14.057,
           "data": {
             "app": "chrome.exe",
             "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
           }
         },
         {
-          "id": 290146,
-          "timestamp": "2026-08-22T03:21:30.101000+00:00",
-          "duration": 5.054,
+          "id": 290484,
+          "timestamp": "2026-08-22T13:26:18.508000+00:00",
+          "duration": 2.008,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 290454,
+          "timestamp": "2026-08-22T12:27:35.901000+00:00",
+          "duration": 3521.604,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【emogaze】一一得二。feat.GUMI【非对称集2026夏】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290444,
+          "timestamp": "2026-08-22T12:18:41.977000+00:00",
+          "duration": 532.92,
+          "data": {
+            "app": "chrome.exe",
+            "title": "摇月 / feat. 花隈千冬【非对称集2026夏】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290443,
+          "timestamp": "2026-08-22T12:18:33.950000+00:00",
+          "duration": 7.024,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 290442,
+          "timestamp": "2026-08-22T12:18:28.932000+00:00",
+          "duration": 4.015,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 290441,
+          "timestamp": "2026-08-22T12:18:27.927000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "删除多个项目"
+          }
+        },
+        {
+          "id": 290440,
+          "timestamp": "2026-08-22T12:18:25.917000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 290439,
+          "timestamp": "2026-08-22T12:18:24.913000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 290438,
+          "timestamp": "2026-08-22T12:18:22.905000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 290437,
+          "timestamp": "2026-08-22T12:18:21.900000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 290436,
+          "timestamp": "2026-08-22T12:18:16.877000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 290435,
+          "timestamp": "2026-08-22T12:18:15.871000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "下载"
+          }
+        },
+        {
+          "id": 290431,
+          "timestamp": "2026-08-22T12:14:43.889000+00:00",
+          "duration": 210.977,
+          "data": {
+            "app": "chrome.exe",
+            "title": "摇月 / feat. 花隈千冬【非对称集2026夏】_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290430,
+          "timestamp": "2026-08-22T12:14:41.877000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 290429,
+          "timestamp": "2026-08-22T12:14:29.830000+00:00",
+          "duration": 11.044,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 290426,
+          "timestamp": "2026-08-22T12:14:18.763000+00:00",
+          "duration": 10.048,
           "data": {
             "app": "chrome.exe",
             "title": "消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili - Cent Browser"
           }
         },
         {
-          "id": 290145,
-          "timestamp": "2026-08-22T03:21:29.088000+00:00",
-          "duration": 0.0,
+          "id": 290425,
+          "timestamp": "2026-08-22T12:14:16.752000+00:00",
+          "duration": 1.005,
           "data": {
             "app": "chrome.exe",
             "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 290144,
-          "timestamp": "2026-08-22T03:21:20.994000+00:00",
-          "duration": 7.085,
+          "id": 290424,
+          "timestamp": "2026-08-22T12:14:14.743000+00:00",
+          "duration": 1.004,
           "data": {
             "app": "chrome.exe",
             "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
           }
         },
         {
-          "id": 290142,
-          "timestamp": "2026-08-22T03:21:18.967000+00:00",
-          "duration": 1.016,
+          "id": 290423,
+          "timestamp": "2026-08-22T12:14:13.737000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 290415,
+          "timestamp": "2026-08-22T12:07:50.305000+00:00",
+          "duration": 382.427,
           "data": {
             "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
+            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
           }
         },
         {
-          "id": 290141,
-          "timestamp": "2026-08-22T03:21:16.942000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 290140,
-          "timestamp": "2026-08-22T03:21:14.907000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "chrome.exe",
-            "title": "主页 | ･✦ Nightola-227 FM ✦･ - Cent Browser"
-          }
-        },
-        {
-          "id": 290119,
-          "timestamp": "2026-08-22T02:23:41.758000+00:00",
-          "duration": 3452.133,
-          "data": {
-            "app": "explorer.exe",
-            "title": "下载"
-          }
-        },
-        {
-          "id": 290118,
-          "timestamp": "2026-08-22T02:23:40.745000+00:00",
+          "id": 290414,
+          "timestamp": "2026-08-22T12:07:49.299000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 290117,
-          "timestamp": "2026-08-22T02:23:36.700000+00:00",
-          "duration": 3.03,
+          "id": 290412,
+          "timestamp": "2026-08-22T12:05:38.687000+00:00",
+          "duration": 129.608,
           "data": {
-            "app": "QQ.exe",
-            "title": "设置"
+            "app": "MuMuNxDevice.exe",
+            "title": "舟国服"
           }
         },
         {
-          "id": 290116,
-          "timestamp": "2026-08-22T02:23:34.672000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 290109,
-          "timestamp": "2026-08-22T02:13:21.977000+00:00",
-          "duration": 611.682,
-          "data": {
-            "app": "chrome.exe",
-            "title": "主页 | ･✦ Nightola-227 FM ✦･ - Cent Browser"
-          }
-        },
-        {
-          "id": 290108,
-          "timestamp": "2026-08-22T02:13:19.951000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 290107,
-          "timestamp": "2026-08-22T02:13:16.904000+00:00",
-          "duration": 2.03,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 290106,
-          "timestamp": "2026-08-22T02:13:15.886000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 290103,
-          "timestamp": "2026-08-22T02:13:14.859000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "50233 (1000×1262) - Cent Browser"
-          }
-        },
-        {
-          "id": 290088,
-          "timestamp": "2026-08-22T01:46:09.392000+00:00",
-          "duration": 1624.454,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 290087,
-          "timestamp": "2026-08-22T01:46:05.341000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ闪传悬浮窗"
-          }
-        },
-        {
-          "id": 290086,
-          "timestamp": "2026-08-22T01:46:00.290000+00:00",
-          "duration": 4.036,
-          "data": {
-            "app": "QQ.exe",
-            "title": "好友选择"
-          }
-        },
-        {
-          "id": 290085,
-          "timestamp": "2026-08-22T01:45:56.242000+00:00",
-          "duration": 3.039,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ闪传悬浮窗"
-          }
-        },
-        {
-          "id": 290084,
-          "timestamp": "2026-08-22T01:45:47.149000+00:00",
-          "duration": 8.086,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ闪传"
-          }
-        },
-        {
-          "id": 290083,
-          "timestamp": "2026-08-22T01:45:41.083000+00:00",
-          "duration": 5.055,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ闪传悬浮窗"
-          }
-        },
-        {
-          "id": 290082,
-          "timestamp": "2026-08-22T01:45:37.045000+00:00",
-          "duration": 3.032,
-          "data": {
-            "app": "QQ.exe",
-            "title": "好友选择"
-          }
-        },
-        {
-          "id": 290081,
-          "timestamp": "2026-08-22T01:45:28.940000+00:00",
-          "duration": 7.086,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ闪传悬浮窗"
-          }
-        },
-        {
-          "id": 290080,
-          "timestamp": "2026-08-22T01:45:25.892000+00:00",
-          "duration": 2.033,
-          "data": {
-            "app": "explorer.exe",
-            "title": "下载"
-          }
-        },
-        {
-          "id": 290079,
-          "timestamp": "2026-08-22T01:45:24.875000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 290078,
-          "timestamp": "2026-08-22T01:45:23.860000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "文件正在使用"
-          }
-        },
-        {
-          "id": 290077,
-          "timestamp": "2026-08-22T01:45:22.846000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 290076,
-          "timestamp": "2026-08-22T01:45:18.792000+00:00",
-          "duration": 3.05,
-          "data": {
-            "app": "explorer.exe",
-            "title": "文件正在使用"
-          }
-        },
-        {
-          "id": 290075,
-          "timestamp": "2026-08-22T01:45:16.769000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 290074,
-          "timestamp": "2026-08-22T01:45:14.739000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "explorer.exe",
-            "title": "文件正在使用"
-          }
-        },
-        {
-          "id": 290073,
-          "timestamp": "2026-08-22T01:45:10.674000+00:00",
-          "duration": 3.045,
-          "data": {
-            "app": "explorer.exe",
-            "title": "下载"
-          }
-        },
-        {
-          "id": 290072,
-          "timestamp": "2026-08-22T01:44:58.503000+00:00",
-          "duration": 11.153,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290070,
-          "timestamp": "2026-08-22T01:44:57.493000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290069,
-          "timestamp": "2026-08-22T01:44:15.879000+00:00",
-          "duration": 40.602,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290068,
-          "timestamp": "2026-08-22T01:44:14.863000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290067,
-          "timestamp": "2026-08-22T01:44:05.721000+00:00",
-          "duration": 8.125,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290066,
-          "timestamp": "2026-08-22T01:44:03.691000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290065,
-          "timestamp": "2026-08-22T01:43:53.557000+00:00",
-          "duration": 9.114,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290064,
-          "timestamp": "2026-08-22T01:43:52.543000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290063,
-          "timestamp": "2026-08-22T01:43:48.499000+00:00",
-          "duration": 3.033,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290062,
-          "timestamp": "2026-08-22T01:43:38.346000+00:00",
-          "duration": 9.139,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290061,
-          "timestamp": "2026-08-22T01:43:37.328000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290060,
-          "timestamp": "2026-08-22T01:43:33.268000+00:00",
-          "duration": 3.044,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290059,
-          "timestamp": "2026-08-22T01:43:24.142000+00:00",
-          "duration": 8.11,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290058,
-          "timestamp": "2026-08-22T01:43:23.127000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290057,
-          "timestamp": "2026-08-22T01:43:11.983000+00:00",
-          "duration": 10.128,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290056,
-          "timestamp": "2026-08-22T01:43:10.977000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290055,
-          "timestamp": "2026-08-22T01:42:54.767000+00:00",
-          "duration": 15.203,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290054,
-          "timestamp": "2026-08-22T01:42:53.753000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290053,
-          "timestamp": "2026-08-22T01:42:50.703000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290052,
-          "timestamp": "2026-08-22T01:42:44.627000+00:00",
-          "duration": 5.064,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290051,
-          "timestamp": "2026-08-22T01:42:41.596000+00:00",
-          "duration": 2.027,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290050,
-          "timestamp": "2026-08-22T01:42:37.543000+00:00",
-          "duration": 3.037,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290049,
-          "timestamp": "2026-08-22T01:42:30.449000+00:00",
-          "duration": 6.084,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290048,
-          "timestamp": "2026-08-22T01:42:27.410000+00:00",
-          "duration": 2.028,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290046,
-          "timestamp": "2026-08-22T01:42:23.361000+00:00",
-          "duration": 3.043,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290045,
-          "timestamp": "2026-08-22T01:42:16.282000+00:00",
-          "duration": 6.073,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290044,
-          "timestamp": "2026-08-22T01:42:15.268000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290043,
-          "timestamp": "2026-08-22T01:42:06.158000+00:00",
-          "duration": 8.094,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290042,
-          "timestamp": "2026-08-22T01:42:05.141000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290041,
-          "timestamp": "2026-08-22T01:42:00.061000+00:00",
-          "duration": 4.065,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290040,
-          "timestamp": "2026-08-22T01:41:51.939000+00:00",
-          "duration": 7.108,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290039,
-          "timestamp": "2026-08-22T01:41:50.933000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290038,
-          "timestamp": "2026-08-22T01:41:49.924000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290037,
-          "timestamp": "2026-08-22T01:41:48.909000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290036,
-          "timestamp": "2026-08-22T01:41:42.830000+00:00",
-          "duration": 5.062,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290035,
-          "timestamp": "2026-08-22T01:41:41.825000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290034,
-          "timestamp": "2026-08-22T01:41:38.778000+00:00",
-          "duration": 2.037,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290033,
-          "timestamp": "2026-08-22T01:41:12.405000+00:00",
-          "duration": 25.347,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290032,
-          "timestamp": "2026-08-22T01:41:11.388000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290031,
-          "timestamp": "2026-08-22T01:41:07.347000+00:00",
-          "duration": 3.029,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290030,
-          "timestamp": "2026-08-22T01:41:05.313000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290029,
-          "timestamp": "2026-08-22T01:41:01.252000+00:00",
-          "duration": 3.046,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290028,
-          "timestamp": "2026-08-22T01:40:56.190000+00:00",
-          "duration": 4.057,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290027,
-          "timestamp": "2026-08-22T01:40:55.169000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290026,
-          "timestamp": "2026-08-22T01:40:51.112000+00:00",
-          "duration": 3.047,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290025,
-          "timestamp": "2026-08-22T01:40:42+00:00",
-          "duration": 8.096,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290024,
-          "timestamp": "2026-08-22T01:40:40.987000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290023,
-          "timestamp": "2026-08-22T01:40:36.924000+00:00",
-          "duration": 3.045,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290022,
-          "timestamp": "2026-08-22T01:40:35.905000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290021,
-          "timestamp": "2026-08-22T01:40:26.766000+00:00",
-          "duration": 8.122,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290020,
-          "timestamp": "2026-08-22T01:40:25.753000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290019,
-          "timestamp": "2026-08-22T01:40:20.689000+00:00",
-          "duration": 4.048,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290018,
-          "timestamp": "2026-08-22T01:40:12.581000+00:00",
-          "duration": 7.093,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290017,
-          "timestamp": "2026-08-22T01:40:11.566000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290016,
-          "timestamp": "2026-08-22T01:40:03.440000+00:00",
-          "duration": 7.111,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290015,
-          "timestamp": "2026-08-22T01:40:02.423000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290014,
-          "timestamp": "2026-08-22T01:39:52.292000+00:00",
-          "duration": 9.117,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290012,
-          "timestamp": "2026-08-22T01:39:50.268000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290011,
-          "timestamp": "2026-08-22T01:39:44.174000+00:00",
-          "duration": 5.077,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 290010,
-          "timestamp": "2026-08-22T01:39:26.924000+00:00",
-          "duration": 16.235,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290009,
-          "timestamp": "2026-08-22T01:39:24.902000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290008,
-          "timestamp": "2026-08-22T01:39:17.801000+00:00",
-          "duration": 6.082,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290007,
-          "timestamp": "2026-08-22T01:39:14.749000+00:00",
-          "duration": 2.034,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290006,
-          "timestamp": "2026-08-22T01:39:13.735000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290005,
-          "timestamp": "2026-08-22T01:39:12.720000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290004,
-          "timestamp": "2026-08-22T01:39:07.657000+00:00",
-          "duration": 4.046,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290003,
-          "timestamp": "2026-08-22T01:39:03.595000+00:00",
-          "duration": 3.049,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290002,
-          "timestamp": "2026-08-22T01:38:59.533000+00:00",
-          "duration": 3.047,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 290001,
-          "timestamp": "2026-08-22T01:38:50.408000+00:00",
-          "duration": 8.121,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 290000,
-          "timestamp": "2026-08-22T01:38:47.357000+00:00",
-          "duration": 2.033,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289999,
-          "timestamp": "2026-08-22T01:38:38.236000+00:00",
-          "duration": 8.109,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289998,
-          "timestamp": "2026-08-22T01:38:15.925000+00:00",
-          "duration": 21.296,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289997,
-          "timestamp": "2026-08-22T01:38:13.894000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289996,
-          "timestamp": "2026-08-22T01:37:59.672000+00:00",
-          "duration": 13.205,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289995,
-          "timestamp": "2026-08-22T01:37:56.627000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289994,
-          "timestamp": "2026-08-22T01:37:54.594000+00:00",
-          "duration": 1.02,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289993,
-          "timestamp": "2026-08-22T01:37:38.390000+00:00",
-          "duration": 15.187,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289992,
-          "timestamp": "2026-08-22T01:37:35.344000+00:00",
-          "duration": 2.033,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289991,
-          "timestamp": "2026-08-22T01:37:34.330000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289990,
-          "timestamp": "2026-08-22T01:37:33.314000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289989,
-          "timestamp": "2026-08-22T01:37:31.282000+00:00",
-          "duration": 1.018,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289987,
-          "timestamp": "2026-08-22T01:37:25.192000+00:00",
-          "duration": 5.075,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289986,
-          "timestamp": "2026-08-22T01:37:24.186000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289985,
-          "timestamp": "2026-08-22T01:37:22.159000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "一夜千夜cover"
-          }
-        },
-        {
-          "id": 289984,
-          "timestamp": "2026-08-22T01:37:21.147000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 289983,
-          "timestamp": "2026-08-22T01:37:16.015000+00:00",
-          "duration": 4.063,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289982,
-          "timestamp": "2026-08-22T01:37:13.985000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289981,
-          "timestamp": "2026-08-22T01:36:22.300000+00:00",
-          "duration": 50.67,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289980,
-          "timestamp": "2026-08-22T01:36:20.274000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289979,
-          "timestamp": "2026-08-22T01:36:04.048000+00:00",
-          "duration": 15.212,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289977,
-          "timestamp": "2026-08-22T01:33:17.746000+00:00",
-          "duration": 165.287,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289975,
-          "timestamp": "2026-08-22T01:31:18.019000+00:00",
-          "duration": 118.718,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289974,
-          "timestamp": "2026-08-22T01:31:17.002000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289973,
-          "timestamp": "2026-08-22T01:31:12.949000+00:00",
-          "duration": 3.034,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289972,
-          "timestamp": "2026-08-22T01:31:05.862000+00:00",
-          "duration": 6.072,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289971,
-          "timestamp": "2026-08-22T01:31:04.847000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289970,
-          "timestamp": "2026-08-22T01:30:31.379000+00:00",
-          "duration": 32.449,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289969,
-          "timestamp": "2026-08-22T01:30:30.361000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289968,
-          "timestamp": "2026-08-22T01:30:26.300000+00:00",
-          "duration": 3.046,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289967,
-          "timestamp": "2026-08-22T01:30:25.292000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 289966,
-          "timestamp": "2026-08-22T01:30:20.189000+00:00",
-          "duration": 4.03,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289965,
-          "timestamp": "2026-08-22T01:30:18.162000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289964,
-          "timestamp": "2026-08-22T01:30:17.144000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289963,
-          "timestamp": "2026-08-22T01:30:12.065000+00:00",
-          "duration": 4.061,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289962,
-          "timestamp": "2026-08-22T01:29:48.733000+00:00",
-          "duration": 22.317,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289961,
-          "timestamp": "2026-08-22T01:29:47.718000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289960,
-          "timestamp": "2026-08-22T01:29:43.656000+00:00",
-          "duration": 3.049,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289959,
-          "timestamp": "2026-08-22T01:29:40.618000+00:00",
-          "duration": 2.035,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289958,
-          "timestamp": "2026-08-22T01:29:39.598000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289957,
-          "timestamp": "2026-08-22T01:29:13.207000+00:00",
-          "duration": 25.374,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289956,
-          "timestamp": "2026-08-22T01:29:12.201000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289955,
-          "timestamp": "2026-08-22T01:29:07.127000+00:00",
-          "duration": 4.062,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289954,
-          "timestamp": "2026-08-22T01:29:04.082000+00:00",
-          "duration": 2.029,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289953,
-          "timestamp": "2026-08-22T01:29:03.064000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289952,
-          "timestamp": "2026-08-22T01:28:34.674000+00:00",
-          "duration": 27.375,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289951,
-          "timestamp": "2026-08-22T01:28:33.660000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289950,
-          "timestamp": "2026-08-22T01:28:28.581000+00:00",
-          "duration": 4.063,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289949,
-          "timestamp": "2026-08-22T01:28:21.466000+00:00",
-          "duration": 6.097,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289948,
-          "timestamp": "2026-08-22T01:28:20.452000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289947,
-          "timestamp": "2026-08-22T01:28:03.206000+00:00",
-          "duration": 16.233,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289946,
-          "timestamp": "2026-08-22T01:28:02.188000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289945,
-          "timestamp": "2026-08-22T01:27:58.125000+00:00",
-          "duration": 3.049,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289944,
-          "timestamp": "2026-08-22T01:27:47.972000+00:00",
-          "duration": 9.139,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289943,
-          "timestamp": "2026-08-22T01:27:45.942000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289942,
-          "timestamp": "2026-08-22T01:27:12.434000+00:00",
-          "duration": 32.488,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289941,
-          "timestamp": "2026-08-22T01:27:08.373000+00:00",
-          "duration": 3.051,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289940,
-          "timestamp": "2026-08-22T01:27:02.280000+00:00",
-          "duration": 5.08,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289939,
-          "timestamp": "2026-08-22T01:26:56.189000+00:00",
-          "duration": 5.077,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289938,
-          "timestamp": "2026-08-22T01:26:46.033000+00:00",
-          "duration": 9.141,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289937,
-          "timestamp": "2026-08-22T01:26:45.017000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289936,
-          "timestamp": "2026-08-22T01:26:41.971000+00:00",
+          "id": 290411,
+          "timestamp": "2026-08-22T12:05:35.645000+00:00",
           "duration": 2.031,
           "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 289935,
-          "timestamp": "2026-08-22T01:26:35.891000+00:00",
-          "duration": 5.063,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289934,
-          "timestamp": "2026-08-22T01:26:33.863000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289933,
-          "timestamp": "2026-08-22T01:25:57.345000+00:00",
-          "duration": 35.501,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289932,
-          "timestamp": "2026-08-22T01:25:54.296000+00:00",
-          "duration": 2.035,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289931,
-          "timestamp": "2026-08-22T01:25:51.252000+00:00",
-          "duration": 2.033,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289930,
-          "timestamp": "2026-08-22T01:25:38.104000+00:00",
-          "duration": 12.133,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289929,
-          "timestamp": "2026-08-22T01:25:25.984000+00:00",
-          "duration": 11.115,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289928,
-          "timestamp": "2026-08-22T01:25:18.877000+00:00",
-          "duration": 6.093,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289927,
-          "timestamp": "2026-08-22T01:24:51.533000+00:00",
-          "duration": 26.328,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289926,
-          "timestamp": "2026-08-22T01:23:58.795000+00:00",
-          "duration": 51.725,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289925,
-          "timestamp": "2026-08-22T01:23:47.657000+00:00",
-          "duration": 10.12,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289924,
-          "timestamp": "2026-08-22T01:23:46.645000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289923,
-          "timestamp": "2026-08-22T01:22:42.866000+00:00",
-          "duration": 62.759,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289920,
-          "timestamp": "2026-08-22T01:22:24.629000+00:00",
-          "duration": 17.218,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289919,
-          "timestamp": "2026-08-22T01:22:15.509000+00:00",
-          "duration": 8.104,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289918,
-          "timestamp": "2026-08-22T01:22:13.486000+00:00",
-          "duration": 1.012,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "导入素材"
-          }
-        },
-        {
-          "id": 289917,
-          "timestamp": "2026-08-22T01:22:10.447000+00:00",
-          "duration": 2.024,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289916,
-          "timestamp": "2026-08-22T01:22:09.438000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 289915,
-          "timestamp": "2026-08-22T01:22:02.327000+00:00",
-          "duration": 6.098,
-          "data": {
-            "app": "chrome.exe",
-            "title": "50233 (1000×1262) - Cent Browser"
-          }
-        },
-        {
-          "id": 289914,
-          "timestamp": "2026-08-22T01:21:56.246000+00:00",
-          "duration": 5.068,
-          "data": {
-            "app": "chrome.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 289913,
-          "timestamp": "2026-08-22T01:21:53.207000+00:00",
-          "duration": 2.023,
-          "data": {
-            "app": "chrome.exe",
-            "title": "50233 (1000×1262) - Cent Browser"
-          }
-        },
-        {
-          "id": 289912,
-          "timestamp": "2026-08-22T01:21:52.187000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "vocadb.net/Artist/Picture/50233?v=10 - Cent Browser"
-          }
-        },
-        {
-          "id": 289911,
-          "timestamp": "2026-08-22T01:21:32.947000+00:00",
-          "duration": 18.221,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音ミク V4X (Dark) - Vocaloid Database - Cent Browser"
-          }
-        },
-        {
-          "id": 289910,
-          "timestamp": "2026-08-22T01:21:30.924000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 289909,
-          "timestamp": "2026-08-22T01:21:25.866000+00:00",
-          "duration": 4.042,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V4X dark立绘 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 289908,
-          "timestamp": "2026-08-22T01:21:19.805000+00:00",
-          "duration": 5.053,
-          "data": {
-            "app": "VOCALOID6.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 289907,
-          "timestamp": "2026-08-22T01:21:18.790000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V4X dark立绘 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 289906,
-          "timestamp": "2026-08-22T01:20:54.515000+00:00",
-          "duration": 23.266,
-          "data": {
-            "app": "chrome.exe",
-            "title": "初音未来V4X立绘 - Google 搜索 - Cent Browser"
-          }
-        },
-        {
-          "id": 289905,
-          "timestamp": "2026-08-22T01:20:41.344000+00:00",
-          "duration": 12.155,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 289904,
-          "timestamp": "2026-08-22T01:20:39.308000+00:00",
-          "duration": 1.017,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289903,
-          "timestamp": "2026-08-22T01:20:37.283000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289902,
-          "timestamp": "2026-08-22T01:20:33.246000+00:00",
-          "duration": 3.023,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289901,
-          "timestamp": "2026-08-22T01:19:50.762000+00:00",
-          "duration": 41.478,
-          "data": {
-            "app": "QQ.exe",
-            "title": "视频播放器"
-          }
-        },
-        {
-          "id": 289900,
-          "timestamp": "2026-08-22T01:19:47.735000+00:00",
-          "duration": 2.021,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289899,
-          "timestamp": "2026-08-22T01:19:46.722000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 289898,
-          "timestamp": "2026-08-22T01:19:45.657000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289897,
-          "timestamp": "2026-08-22T01:19:43.628000+00:00",
-          "duration": 1.018,
+          "id": 290410,
+          "timestamp": "2026-08-22T12:05:33.617000+00:00",
+          "duration": 1.009,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 289896,
-          "timestamp": "2026-08-22T01:19:38.561000+00:00",
-          "duration": 4.055,
-          "data": {
-            "app": "explorer.exe",
-            "title": "下载"
-          }
-        },
-        {
-          "id": 289894,
-          "timestamp": "2026-08-22T01:18:19.519000+00:00",
-          "duration": 78.026,
-          "data": {
-            "app": "wmplayer.exe",
-            "title": "Windows Media Player"
-          }
-        },
-        {
-          "id": 289893,
-          "timestamp": "2026-08-22T01:18:14.449000+00:00",
-          "duration": 4.056,
-          "data": {
-            "app": "explorer.exe",
-            "title": "下载"
-          }
-        },
-        {
-          "id": 289892,
-          "timestamp": "2026-08-22T01:18:04.334000+00:00",
-          "duration": 9.105,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289891,
-          "timestamp": "2026-08-22T01:17:57.247000+00:00",
-          "duration": 6.067,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289890,
-          "timestamp": "2026-08-22T01:17:40.030000+00:00",
-          "duration": 16.203,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289889,
-          "timestamp": "2026-08-22T01:17:38.004000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289888,
-          "timestamp": "2026-08-22T01:17:28.879000+00:00",
-          "duration": 8.108,
-          "data": {
-            "app": "notepad.exe",
-            "title": "歌词.txt - 记事本"
-          }
-        },
-        {
-          "id": 289885,
-          "timestamp": "2026-08-22T01:11:44.570000+00:00",
-          "duration": 343.291,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289884,
-          "timestamp": "2026-08-22T01:11:04.031000+00:00",
-          "duration": 39.531,
-          "data": {
-            "app": "chrome.exe",
-            "title": "Startpage - Cent Browser"
-          }
-        },
-        {
-          "id": 289883,
-          "timestamp": "2026-08-22T01:10:53.925000+00:00",
-          "duration": 9.101,
-          "data": {
-            "app": "chrome.exe",
-            "title": "消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 289881,
-          "timestamp": "2026-08-22T01:10:52.907000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 289880,
-          "timestamp": "2026-08-22T01:10:50.878000+00:00",
-          "duration": 1.013,
-          "data": {
-            "app": "chrome.exe",
-            "title": "快速提取人声和声_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 289879,
-          "timestamp": "2026-08-22T01:10:49.860000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "chrome.exe",
-            "title": "无标题 - Cent Browser"
-          }
-        },
-        {
-          "id": 289877,
-          "timestamp": "2026-08-22T01:10:47.829000+00:00",
+          "id": 290409,
+          "timestamp": "2026-08-22T12:05:31.595000+00:00",
           "duration": 1.016,
-          "data": {
-            "app": "chrome.exe",
-            "title": "快速提取人声和声_哔哩哔哩_bilibili - Cent Browser"
-          }
-        },
-        {
-          "id": 289875,
-          "timestamp": "2026-08-22T01:10:35.674000+00:00",
-          "duration": 11.14,
-          "data": {
-            "app": "chrome.exe",
-            "title": "127.0.0.1:60084/callback?code=93638d8ab348e47667bb78b72130ce81 - Cent Browser"
-          }
-        },
-        {
-          "id": 289873,
-          "timestamp": "2026-08-22T01:08:13.961000+00:00",
-          "duration": 140.701,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289872,
-          "timestamp": "2026-08-22T01:08:07.889000+00:00",
-          "duration": 5.061,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "BCUT"
-          }
-        },
-        {
-          "id": 289870,
-          "timestamp": "2026-08-22T01:06:50.861000+00:00",
-          "duration": 76.017,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289869,
-          "timestamp": "2026-08-22T01:06:47.820000+00:00",
-          "duration": 2.028,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "一夜千夜cover"
-          }
-        },
-        {
-          "id": 289868,
-          "timestamp": "2026-08-22T01:06:42.767000+00:00",
-          "duration": 4.044,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289867,
-          "timestamp": "2026-08-22T01:06:38.704000+00:00",
-          "duration": 3.048,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "导入素材"
-          }
-        },
-        {
-          "id": 289866,
-          "timestamp": "2026-08-22T01:06:35.656000+00:00",
-          "duration": 2.032,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289865,
-          "timestamp": "2026-08-22T01:06:32.613000+00:00",
-          "duration": 2.034,
           "data": {
             "app": "synthv-studio.exe",
             "title": "Synthesizer V Studio Pro - SV音高参考.svp"
           }
         },
         {
-          "id": 289864,
-          "timestamp": "2026-08-22T01:06:30.581000+00:00",
-          "duration": 1.016,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289863,
-          "timestamp": "2026-08-22T01:06:29.573000+00:00",
+          "id": 290408,
+          "timestamp": "2026-08-22T12:05:30.577000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "视频播放器"
+            "app": "chrome.exe",
+            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
           }
         },
         {
-          "id": 289862,
-          "timestamp": "2026-08-22T01:06:27.538000+00:00",
-          "duration": 1.021,
-          "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
-          }
-        },
-        {
-          "id": 289861,
-          "timestamp": "2026-08-22T01:05:11.626000+00:00",
-          "duration": 74.898,
-          "data": {
-            "app": "QQ.exe",
-            "title": "视频播放器"
-          }
-        },
-        {
-          "id": 289860,
-          "timestamp": "2026-08-22T01:05:10.615000+00:00",
+          "id": 290406,
+          "timestamp": "2026-08-22T12:05:29.560000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
           }
         },
         {
-          "id": 289859,
-          "timestamp": "2026-08-22T01:04:54.420000+00:00",
-          "duration": 15.183,
+          "id": 290405,
+          "timestamp": "2026-08-22T12:05:24.479000+00:00",
+          "duration": 4.062,
           "data": {
-            "app": "QQ.exe",
-            "title": "视频播放器"
+            "app": "Adobe Audition.exe",
+            "title": "Audition"
           }
         },
         {
-          "id": 289857,
-          "timestamp": "2026-08-22T01:04:48.339000+00:00",
-          "duration": 5.066,
+          "id": 290404,
+          "timestamp": "2026-08-22T12:05:21.438000+00:00",
+          "duration": 2.025,
           "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
           }
         },
         {
-          "id": 289856,
-          "timestamp": "2026-08-22T01:04:46.302000+00:00",
-          "duration": 1.019,
-          "data": {
-            "app": "QQ.exe",
-            "title": "制作MP4"
-          }
-        },
-        {
-          "id": 289855,
-          "timestamp": "2026-08-22T01:04:45.288000+00:00",
+          "id": 290403,
+          "timestamp": "2026-08-22T12:05:20.424000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "另存为"
+            "app": "chrome.exe",
+            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
           }
         },
         {
-          "id": 289854,
-          "timestamp": "2026-08-22T01:04:31.125000+00:00",
-          "duration": 13.146,
-          "data": {
-            "app": "QQ.exe",
-            "title": "制作MP4"
-          }
-        },
-        {
-          "id": 289852,
-          "timestamp": "2026-08-22T01:02:11.081000+00:00",
-          "duration": 139.037,
+          "id": 290402,
+          "timestamp": "2026-08-22T12:05:15.345000+00:00",
+          "duration": 4.066,
           "data": {
             "app": "VOCALOID6.exe",
             "title": "VOCALOID6 Editor"
           }
         },
         {
-          "id": 289851,
-          "timestamp": "2026-08-22T01:02:03.984000+00:00",
-          "duration": 6.082,
+          "id": 290194,
+          "timestamp": "2026-08-22T12:00:04.069000+00:00",
+          "duration": 310.262,
           "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 289850,
-          "timestamp": "2026-08-22T01:02:00.947000+00:00",
-          "duration": 2.026,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289849,
-          "timestamp": "2026-08-22T01:01:59.935000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 289848,
-          "timestamp": "2026-08-22T01:01:57.913000+00:00",
-          "duration": 1.015,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289847,
-          "timestamp": "2026-08-22T01:01:56.897000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "VOCALOID6.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 289846,
-          "timestamp": "2026-08-22T01:01:54.866000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
-          }
-        },
-        {
-          "id": 289845,
-          "timestamp": "2026-08-22T01:01:27.536000+00:00",
-          "duration": 26.324,
-          "data": {
-            "app": "VOCALOID6.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 289844,
-          "timestamp": "2026-08-22T01:00:53.070000+00:00",
-          "duration": 33.456,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 289843,
-          "timestamp": "2026-08-22T01:00:50.034000+00:00",
-          "duration": 2.02,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 289842,
-          "timestamp": "2026-08-22T01:00:49.025000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 289835,
-          "timestamp": "2026-08-22T00:47:24.474000+00:00",
-          "duration": 803.544,
-          "data": {
-            "app": "VOCALOID6.exe",
-            "title": "VOCALOID6 Editor"
-          }
-        },
-        {
-          "id": 289833,
-          "timestamp": "2026-08-22T00:47:23.456000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "explorer.exe",
-            "title": "更正2次"
-          }
-        },
-        {
-          "id": 289832,
-          "timestamp": "2026-08-22T00:47:22.445000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "OneCommander.exe",
-            "title": "一夜千夜cover"
-          }
-        },
-        {
-          "id": 289680,
-          "timestamp": "2026-08-22T00:00:04.926000+00:00",
-          "duration": 2836.504,
-          "data": {
-            "app": "BCUT.exe",
-            "title": "必剪"
+            "app": "chrome.exe",
+            "title": "ハイパーセンス / 重音テト - Google 云端硬盘 - Cent Browser"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-22T12:00:07.058771",
+    "export_time": "2026-08-23T00:00:06.138516",
     "time_range": {
-      "start": "2026-08-22T00:00:04.926413",
-      "end": "2026-08-22T12:00:04.926413"
+      "start": "2026-08-22T12:00:04.069106",
+      "end": "2026-08-23T00:00:04.069106"
     },
-    "total_events": 264
+    "total_events": 60
   }
 }
