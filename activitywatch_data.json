@@ -5,116 +5,107 @@
       "type": "window",
       "events": [
         {
-          "id": 291748,
-          "timestamp": "2026-08-25T04:00:02.041000+00:00",
-          "duration": 0.0,
+          "id": 292028,
+          "timestamp": "2026-08-25T14:53:52.363000+00:00",
+          "duration": 3968.754,
           "data": {
-            "app": "cmd.exe",
-            "title": "C:\\Windows\\SYSTEM32\\cmd.exe"
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
           }
         },
         {
-          "id": 291725,
-          "timestamp": "2026-08-25T02:58:37.772000+00:00",
-          "duration": 3683.263,
+          "id": 292027,
+          "timestamp": "2026-08-25T14:53:51.356000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "MuMuNxDevice"
+          }
+        },
+        {
+          "id": 292026,
+          "timestamp": "2026-08-25T14:53:50.347000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 292025,
+          "timestamp": "2026-08-25T14:53:43.305000+00:00",
+          "duration": 6.037,
           "data": {
             "app": "memreduct.exe",
             "title": "Mem Reduct"
           }
         },
         {
-          "id": 291724,
-          "timestamp": "2026-08-25T02:58:36.766000+00:00",
-          "duration": 0.0,
+          "id": 292022,
+          "timestamp": "2026-08-25T14:46:54.170000+00:00",
+          "duration": 408.128,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
+            "title": "舟b服"
           }
         },
         {
-          "id": 291723,
-          "timestamp": "2026-08-25T02:58:34.751000+00:00",
-          "duration": 1.009,
+          "id": 292021,
+          "timestamp": "2026-08-25T14:46:51.154000+00:00",
+          "duration": 2.011,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 291722,
-          "timestamp": "2026-08-25T02:58:33.746000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 291709,
-          "timestamp": "2026-08-25T02:27:37.183000+00:00",
-          "duration": 1855.456,
+          "id": 292007,
+          "timestamp": "2026-08-25T13:47:56.632000+00:00",
+          "duration": 3533.516,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
+            "title": "舟b服"
           }
         },
         {
-          "id": 291708,
-          "timestamp": "2026-08-25T02:27:30.138000+00:00",
-          "duration": 6.04,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 291704,
-          "timestamp": "2026-08-25T02:20:32.735000+00:00",
-          "duration": 416.397,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
-          }
-        },
-        {
-          "id": 291703,
-          "timestamp": "2026-08-25T02:20:31.726000+00:00",
-          "duration": 0.0,
+          "id": 292000,
+          "timestamp": "2026-08-25T13:36:04.335000+00:00",
+          "duration": 711.292,
           "data": {
             "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
           }
         },
         {
-          "id": 291695,
-          "timestamp": "2026-08-25T02:02:29.258000+00:00",
-          "duration": 1081.464,
+          "id": 291999,
+          "timestamp": "2026-08-25T13:36:02.322000+00:00",
+          "duration": 1.007,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "舟国服"
+            "title": "舟b服"
           }
         },
         {
-          "id": 291694,
-          "timestamp": "2026-08-25T02:02:27.243000+00:00",
-          "duration": 1.008,
+          "id": 291998,
+          "timestamp": "2026-08-25T13:36:00.310000+00:00",
+          "duration": 1.005,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MAA.exe",
+            "title": "公告"
           }
         },
         {
-          "id": 291692,
-          "timestamp": "2026-08-25T01:58:16.622000+00:00",
-          "duration": 249.613,
+          "id": 291997,
+          "timestamp": "2026-08-25T13:35:49.251000+00:00",
+          "duration": 10.052,
           "data": {
             "app": "MuMuNxDevice.exe",
-            "title": "碧蓝"
+            "title": "舟b服"
           }
         },
         {
-          "id": 291691,
-          "timestamp": "2026-08-25T01:58:15.615000+00:00",
+          "id": 291995,
+          "timestamp": "2026-08-25T13:35:48.245000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -122,32 +113,122 @@
           }
         },
         {
-          "id": 291679,
-          "timestamp": "2026-08-25T01:32:32.184000+00:00",
-          "duration": 1542.425,
+          "id": 291990,
+          "timestamp": "2026-08-25T13:27:28.621000+00:00",
+          "duration": 498.62,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 291989,
+          "timestamp": "2026-08-25T13:27:23.594000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64 - 副本"
+          }
+        },
+        {
+          "id": 291988,
+          "timestamp": "2026-08-25T13:27:21.581000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
+          }
+        },
+        {
+          "id": 291987,
+          "timestamp": "2026-08-25T13:27:18.562000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "MAA-v6.2.3-win-x64 - 副本"
+          }
+        },
+        {
+          "id": 291986,
+          "timestamp": "2026-08-25T13:27:16.549000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
+          }
+        },
+        {
+          "id": 291985,
+          "timestamp": "2026-08-25T13:27:14.538000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "E:\\"
+          }
+        },
+        {
+          "id": 291984,
+          "timestamp": "2026-08-25T13:27:11.519000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "AzurLaneAutoScript"
+          }
+        },
+        {
+          "id": 291983,
+          "timestamp": "2026-08-25T13:26:53.401000+00:00",
+          "duration": 17.113,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 291982,
+          "timestamp": "2026-08-25T13:26:46.368000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 291981,
+          "timestamp": "2026-08-25T13:26:45.363000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 291979,
+          "timestamp": "2026-08-25T13:25:38.916000+00:00",
+          "duration": 65.365,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟国服"
           }
         },
         {
-          "id": 291650,
-          "timestamp": "2026-08-25T00:00:05.395000+00:00",
-          "duration": 5545.781,
+          "id": 291953,
+          "timestamp": "2026-08-25T12:00:04.433000+00:00",
+          "duration": 5133.478,
           "data": {
-            "app": "alas.exe",
-            "title": "Alas"
+            "app": "MAA.exe",
+            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16416) - 官服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-25T12:00:07.497223",
+    "export_time": "2026-08-26T00:00:06.515113",
     "time_range": {
-      "start": "2026-08-25T00:00:05.395029",
-      "end": "2026-08-25T12:00:05.395029"
+      "start": "2026-08-25T12:00:04.433396",
+      "end": "2026-08-26T00:00:04.433396"
     },
-    "total_events": 15
+    "total_events": 24
   }
 }
