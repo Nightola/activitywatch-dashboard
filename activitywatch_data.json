@@ -5,356 +5,320 @@
       "type": "window",
       "events": [
         {
-          "id": 292141,
-          "timestamp": "2026-08-26T04:00:02.785000+00:00",
-          "duration": 1.007,
+          "id": 292349,
+          "timestamp": "2026-08-26T15:57:17.967000+00:00",
+          "duration": 162.751,
           "data": {
-            "app": "cmd.exe",
-            "title": "Administrator:  GitHub Auto Update"
+            "app": "chrome.exe",
+            "title": "您已收到一份礼物！ - Cent Browser"
           }
         },
         {
-          "id": 292140,
-          "timestamp": "2026-08-26T04:00:01.777000+00:00",
-          "duration": 0.0,
+          "id": 292338,
+          "timestamp": "2026-08-26T15:45:01.509000+00:00",
+          "duration": 735.452,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 292139,
-          "timestamp": "2026-08-26T03:59:54.727000+00:00",
-          "duration": 6.046,
+          "id": 292336,
+          "timestamp": "2026-08-26T15:44:49.447000+00:00",
+          "duration": 11.058,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "chrome.exe",
+            "title": "您已收到一份礼物！ - Cent Browser"
           }
         },
         {
-          "id": 292137,
-          "timestamp": "2026-08-26T03:59:26.541000+00:00",
-          "duration": 27.18,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292136,
-          "timestamp": "2026-08-26T03:59:17.486000+00:00",
-          "duration": 8.05,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292127,
-          "timestamp": "2026-08-26T03:40:04.234000+00:00",
-          "duration": 1152.245,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292126,
-          "timestamp": "2026-08-26T03:39:50.154000+00:00",
-          "duration": 13.072,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292125,
-          "timestamp": "2026-08-26T03:37:47.448000+00:00",
-          "duration": 121.701,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292124,
-          "timestamp": "2026-08-26T03:37:45.433000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292122,
-          "timestamp": "2026-08-26T03:35:54.743000+00:00",
-          "duration": 109.683,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292107,
-          "timestamp": "2026-08-26T01:04:50.025000+00:00",
-          "duration": 9063.71,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292106,
-          "timestamp": "2026-08-26T01:04:41.976000+00:00",
-          "duration": 7.045,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292105,
-          "timestamp": "2026-08-26T01:04:39.964000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292103,
-          "timestamp": "2026-08-26T01:04:29.893000+00:00",
-          "duration": 9.067,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292099,
-          "timestamp": "2026-08-26T00:34:02.806000+00:00",
-          "duration": 1826.08,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292098,
-          "timestamp": "2026-08-26T00:34:01.799000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 292097,
-          "timestamp": "2026-08-26T00:33:44.613000+00:00",
-          "duration": 16.092,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292096,
-          "timestamp": "2026-08-26T00:33:24.495000+00:00",
-          "duration": 19.113,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292095,
-          "timestamp": "2026-08-26T00:33:21.471000+00:00",
+          "id": 292335,
+          "timestamp": "2026-08-26T15:44:46.417000+00:00",
           "duration": 2.017,
           "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 292094,
-          "timestamp": "2026-08-26T00:31:05.631000+00:00",
-          "duration": 134.833,
+          "id": 292334,
+          "timestamp": "2026-08-26T15:44:43.400000+00:00",
+          "duration": 2.012,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
           }
         },
         {
-          "id": 292093,
-          "timestamp": "2026-08-26T00:31:02.611000+00:00",
-          "duration": 2.016,
+          "id": 292319,
+          "timestamp": "2026-08-26T15:19:35.735000+00:00",
+          "duration": 1506.659,
           "data": {
-            "app": "MAA.exe",
-            "title": ""
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
           }
         },
         {
-          "id": 292092,
-          "timestamp": "2026-08-26T00:30:53.558000+00:00",
-          "duration": 8.049,
+          "id": 292318,
+          "timestamp": "2026-08-26T15:19:18.647000+00:00",
+          "duration": 16.082,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
+            "app": "chrome.exe",
+            "title": "您已收到一份礼物！ - Cent Browser"
           }
         },
         {
-          "id": 292091,
-          "timestamp": "2026-08-26T00:30:51.468000+00:00",
-          "duration": 1.083,
+          "id": 292315,
+          "timestamp": "2026-08-26T15:19:10.596000+00:00",
+          "duration": 7.046,
           "data": {
-            "app": "dwm.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服 (未响应)"
+            "app": "steamwebhelper.exe",
+            "title": "待收取的礼物"
           }
         },
         {
-          "id": 292090,
-          "timestamp": "2026-08-26T00:28:30.593000+00:00",
-          "duration": 139.774,
+          "id": 292314,
+          "timestamp": "2026-08-26T15:18:45.468000+00:00",
+          "duration": 24.123,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
+            "app": "chrome.exe",
+            "title": "登录 - Cent Browser"
           }
         },
         {
-          "id": 292089,
-          "timestamp": "2026-08-26T00:25:25.545000+00:00",
-          "duration": 184.043,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292088,
-          "timestamp": "2026-08-26T00:25:14.484000+00:00",
-          "duration": 10.055,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292087,
-          "timestamp": "2026-08-26T00:13:51.566000+00:00",
-          "duration": 681.913,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292086,
-          "timestamp": "2026-08-26T00:13:50.557000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "ShellExperienceHost.exe",
-            "title": "音量控制"
-          }
-        },
-        {
-          "id": 292085,
-          "timestamp": "2026-08-26T00:13:49.551000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 292084,
-          "timestamp": "2026-08-26T00:13:35.372000+00:00",
-          "duration": 13.071,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292083,
-          "timestamp": "2026-08-26T00:13:27.326000+00:00",
-          "duration": 7.039,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292082,
-          "timestamp": "2026-08-26T00:13:18.273000+00:00",
-          "duration": 8.048,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292081,
-          "timestamp": "2026-08-26T00:13:02.181000+00:00",
-          "duration": 15.085,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292079,
-          "timestamp": "2026-08-26T00:10:34.281000+00:00",
-          "duration": 146.894,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292078,
-          "timestamp": "2026-08-26T00:10:32.267000+00:00",
-          "duration": 1.007,
-          "data": {
-            "app": "MuMuNxMain.exe",
-            "title": "MuMu模拟器"
-          }
-        },
-        {
-          "id": 292077,
-          "timestamp": "2026-08-26T00:10:26.242000+00:00",
-          "duration": 5.021,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292072,
-          "timestamp": "2026-08-26T00:04:04.703000+00:00",
-          "duration": 380.535,
+          "id": 292313,
+          "timestamp": "2026-08-26T15:18:41.446000+00:00",
+          "duration": 3.016,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 292041,
-          "timestamp": "2026-08-26T00:00:05.278000+00:00",
-          "duration": 238.421,
+          "id": 292312,
+          "timestamp": "2026-08-26T15:18:15.302000+00:00",
+          "duration": 25.139,
+          "data": {
+            "app": "chrome.exe",
+            "title": "登录 - Cent Browser"
+          }
+        },
+        {
+          "id": 292311,
+          "timestamp": "2026-08-26T15:18:09.272000+00:00",
+          "duration": 5.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 292310,
+          "timestamp": "2026-08-26T15:17:55.196000+00:00",
+          "duration": 13.07,
+          "data": {
+            "app": "localsend_app.exe",
+            "title": "LocalSend"
+          }
+        },
+        {
+          "id": 292309,
+          "timestamp": "2026-08-26T15:17:52.180000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 292308,
+          "timestamp": "2026-08-26T15:16:44.817000+00:00",
+          "duration": 66.358,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292307,
+          "timestamp": "2026-08-26T15:16:42.806000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 292306,
+          "timestamp": "2026-08-26T15:16:37.777000+00:00",
+          "duration": 4.024,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292305,
+          "timestamp": "2026-08-26T15:16:36.771000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 292304,
+          "timestamp": "2026-08-26T15:16:30.740000+00:00",
+          "duration": 5.027,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292303,
+          "timestamp": "2026-08-26T15:16:22.697000+00:00",
+          "duration": 7.038,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 292302,
+          "timestamp": "2026-08-26T15:16:06.614000+00:00",
+          "duration": 15.08,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292301,
+          "timestamp": "2026-08-26T15:16:04.602000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 292300,
+          "timestamp": "2026-08-26T15:14:43.164000+00:00",
+          "duration": 80.432,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292299,
+          "timestamp": "2026-08-26T15:14:26.076000+00:00",
+          "duration": 16.083,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "特惠"
+          }
+        },
+        {
+          "id": 292298,
+          "timestamp": "2026-08-26T15:14:23.060000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292297,
+          "timestamp": "2026-08-26T15:13:42.868000+00:00",
+          "duration": 39.187,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "登录 Steam"
+          }
+        },
+        {
+          "id": 292296,
+          "timestamp": "2026-08-26T15:13:34.829000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 292295,
+          "timestamp": "2026-08-26T15:13:27.792000+00:00",
+          "duration": 6.033,
+          "data": {
+            "app": "steam.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292294,
+          "timestamp": "2026-08-26T15:13:24.777000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 292292,
+          "timestamp": "2026-08-26T15:13:22.767000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "StartMenuExperienceHost.exe",
+            "title": "启动"
+          }
+        },
+        {
+          "id": 292291,
+          "timestamp": "2026-08-26T15:13:20.757000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "SearchApp.exe",
+            "title": "搜索"
+          }
+        },
+        {
+          "id": 292290,
+          "timestamp": "2026-08-26T15:13:19.751000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 292289,
+          "timestamp": "2026-08-26T15:13:18.745000+00:00",
+          "duration": 0.0,
           "data": {
             "app": "MuMuNxMain.exe",
             "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 292236,
+          "timestamp": "2026-08-26T12:00:05.415000+00:00",
+          "duration": 11592.325,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-26T12:00:07.370917",
+    "export_time": "2026-08-27T00:00:07.495330",
     "time_range": {
-      "start": "2026-08-26T00:00:05.278860",
-      "end": "2026-08-26T12:00:05.278860"
+      "start": "2026-08-26T12:00:05.415319",
+      "end": "2026-08-27T00:00:05.415319"
     },
-    "total_events": 38
+    "total_events": 34
   }
 }
