@@ -5,35 +5,161 @@
       "type": "window",
       "events": [
         {
-          "id": 292957,
-          "timestamp": "2026-08-28T14:59:09.404000+00:00",
-          "duration": 3651.301,
+          "id": 293005,
+          "timestamp": "2026-08-29T00:33:45.666000+00:00",
+          "duration": 12375.931,
           "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
           }
         },
         {
-          "id": 292956,
-          "timestamp": "2026-08-28T14:58:37.275000+00:00",
-          "duration": 31.123,
+          "id": 293001,
+          "timestamp": "2026-08-29T00:29:20.962000+00:00",
+          "duration": 260.34,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293000,
+          "timestamp": "2026-08-29T00:29:09.899000+00:00",
+          "duration": 10.056,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 292999,
+          "timestamp": "2026-08-29T00:29:02.866000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 292998,
+          "timestamp": "2026-08-29T00:28:59.851000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 292997,
+          "timestamp": "2026-08-29T00:28:36.744000+00:00",
+          "duration": 22.101,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 292996,
+          "timestamp": "2026-08-29T00:28:20.675000+00:00",
+          "duration": 15.065,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 292995,
+          "timestamp": "2026-08-29T00:28:17.661000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 292994,
+          "timestamp": "2026-08-29T00:25:32.923000+00:00",
+          "duration": 163.734,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 292993,
+          "timestamp": "2026-08-29T00:25:28.902000+00:00",
+          "duration": 3.015,
           "data": {
             "app": "steamwebhelper.exe",
             "title": "Steam"
           }
         },
         {
-          "id": 292955,
-          "timestamp": "2026-08-28T14:58:35.264000+00:00",
-          "duration": 1.006,
+          "id": 292992,
+          "timestamp": "2026-08-29T00:25:25.886000+00:00",
+          "duration": 2.01,
           "data": {
-            "app": "explorer.exe",
+            "app": "steamwebhelper.exe",
+            "title": "Chibi Meiko+"
+          }
+        },
+        {
+          "id": 292991,
+          "timestamp": "2026-08-29T00:25:09.803000+00:00",
+          "duration": 15.08,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292990,
+          "timestamp": "2026-08-29T00:25:08.798000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "steamwebhelper.exe",
             "title": ""
           }
         },
         {
-          "id": 292954,
-          "timestamp": "2026-08-28T14:58:32.252000+00:00",
+          "id": 292989,
+          "timestamp": "2026-08-29T00:25:06.784000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 292988,
+          "timestamp": "2026-08-29T00:24:42.654000+00:00",
+          "duration": 23.122,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 292987,
+          "timestamp": "2026-08-29T00:24:41.649000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 292986,
+          "timestamp": "2026-08-29T00:24:39.640000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "MuMuNxMain.exe",
+            "title": "MuMu模拟器"
+          }
+        },
+        {
+          "id": 292985,
+          "timestamp": "2026-08-29T00:24:36.628000+00:00",
           "duration": 2.008,
           "data": {
             "app": "MuMuNxDevice.exe",
@@ -41,116 +167,53 @@
           }
         },
         {
-          "id": 292953,
-          "timestamp": "2026-08-28T14:58:29.239000+00:00",
-          "duration": 2.009,
+          "id": 292984,
+          "timestamp": "2026-08-29T00:24:22.570000+00:00",
+          "duration": 13.054,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
+            "app": "alas.exe",
+            "title": "Alas"
           }
         },
         {
-          "id": 292952,
-          "timestamp": "2026-08-28T14:58:28.234000+00:00",
+          "id": 292983,
+          "timestamp": "2026-08-29T00:22:50.203000+00:00",
+          "duration": 91.364,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 292982,
+          "timestamp": "2026-08-29T00:22:49.198000+00:00",
           "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 292951,
-          "timestamp": "2026-08-28T14:57:00.824000+00:00",
-          "duration": 86.346,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292950,
-          "timestamp": "2026-08-28T14:56:49.777000+00:00",
-          "duration": 10.042,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 292949,
-          "timestamp": "2026-08-28T12:57:40.744000+00:00",
-          "duration": 7148.029,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292948,
-          "timestamp": "2026-08-28T12:57:37.730000+00:00",
-          "duration": 2.01,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292947,
-          "timestamp": "2026-08-28T12:57:36.723000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "unknown",
-            "title": ""
-          }
-        },
-        {
-          "id": 292946,
-          "timestamp": "2026-08-28T12:57:21.606000+00:00",
-          "duration": 14.064,
-          "data": {
-            "app": "explorer.exe",
-            "title": "贴靠助手"
-          }
-        },
-        {
-          "id": 292945,
-          "timestamp": "2026-08-28T12:57:18.585000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292944,
-          "timestamp": "2026-08-28T12:57:11.556000+00:00",
-          "duration": 6.024,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 292943,
-          "timestamp": "2026-08-28T12:57:09.548000+00:00",
-          "duration": 1.005,
           "data": {
             "app": "explorer.exe",
             "title": ""
           }
         },
         {
-          "id": 292942,
-          "timestamp": "2026-08-28T12:57:01.511000+00:00",
-          "duration": 7.032,
+          "id": 292981,
+          "timestamp": "2026-08-29T00:22:45.182000+00:00",
+          "duration": 3.012,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 292980,
+          "timestamp": "2026-08-29T00:15:11.374000+00:00",
+          "duration": 452.804,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
           }
         },
         {
-          "id": 292941,
-          "timestamp": "2026-08-28T12:56:59.501000+00:00",
+          "id": 292979,
+          "timestamp": "2026-08-29T00:15:09.366000+00:00",
           "duration": 1.005,
           "data": {
             "app": "MAA.exe",
@@ -158,94 +221,31 @@
           }
         },
         {
-          "id": 292940,
-          "timestamp": "2026-08-28T12:33:33.320000+00:00",
-          "duration": 1405.177,
+          "id": 292978,
+          "timestamp": "2026-08-29T00:15:03.340000+00:00",
+          "duration": 5.022,
           "data": {
             "app": "MuMuNxDevice.exe",
             "title": "舟b服"
           }
         },
         {
-          "id": 292939,
-          "timestamp": "2026-08-28T12:33:29.303000+00:00",
-          "duration": 3.011,
+          "id": 292977,
+          "timestamp": "2026-08-29T00:00:05.269000+00:00",
+          "duration": 897.068,
           "data": {
             "app": "MAA.exe",
             "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292938,
-          "timestamp": "2026-08-28T12:33:25.278000+00:00",
-          "duration": 3.019,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 292937,
-          "timestamp": "2026-08-28T12:33:23.268000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292936,
-          "timestamp": "2026-08-28T12:33:10.200000+00:00",
-          "duration": 12.064,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 292935,
-          "timestamp": "2026-08-28T12:33:03.155000+00:00",
-          "duration": 6.04,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 292934,
-          "timestamp": "2026-08-28T12:32:33.993000+00:00",
-          "duration": 28.155,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 292933,
-          "timestamp": "2026-08-28T12:32:31.982000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 奇象巡展#0808 - MuMu 模拟器 (16448) - Bilibili服"
-          }
-        },
-        {
-          "id": 292932,
-          "timestamp": "2026-08-28T12:00:05.117000+00:00",
-          "duration": 1945.859,
-          "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-29T00:00:07.249979",
+    "export_time": "2026-08-29T12:00:07.349084",
     "time_range": {
-      "start": "2026-08-28T12:00:05.117260",
-      "end": "2026-08-29T00:00:05.117260"
+      "start": "2026-08-29T00:00:05.269393",
+      "end": "2026-08-29T12:00:05.269393"
     },
     "total_events": 26
   }
