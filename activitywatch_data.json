@@ -5,23 +5,347 @@
       "type": "window",
       "events": [
         {
-          "id": 293340,
-          "timestamp": "2026-08-30T00:00:05.390000+00:00",
-          "duration": 14396.445,
+          "id": 293501,
+          "timestamp": "2026-08-30T13:27:08.748000+00:00",
+          "duration": 9171.933,
           "data": {
-            "app": "MAA.exe",
-            "title": "MAA (管理员) - v6.16.8#0811 - 墟·复刻#0826 - MuMu 模拟器 (16448) - Bilibili服"
+            "app": "OneCommander.exe",
+            "title": "OneCommander Window Manager"
+          }
+        },
+        {
+          "id": 293500,
+          "timestamp": "2026-08-30T12:45:11.818000+00:00",
+          "duration": 2515.923,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "Hatsune Miku Logic Paint S+"
+          }
+        },
+        {
+          "id": 293499,
+          "timestamp": "2026-08-30T12:45:10.807000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "制作MP4"
+          }
+        },
+        {
+          "id": 293498,
+          "timestamp": "2026-08-30T12:31:58.600000+00:00",
+          "duration": 791.2,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 293497,
+          "timestamp": "2026-08-30T12:31:41.378000+00:00",
+          "duration": 16.202,
+          "data": {
+            "app": "QQ.exe",
+            "title": "制作MP4"
+          }
+        },
+        {
+          "id": 293496,
+          "timestamp": "2026-08-30T12:19:20.889000+00:00",
+          "duration": 739.455,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "Hatsune Miku Logic Paint S+"
+          }
+        },
+        {
+          "id": 293495,
+          "timestamp": "2026-08-30T12:19:13.805000+00:00",
+          "duration": 6.075,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 293494,
+          "timestamp": "2026-08-30T12:19:11.782000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 293493,
+          "timestamp": "2026-08-30T12:19:10.773000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 293492,
+          "timestamp": "2026-08-30T12:19:06.707000+00:00",
+          "duration": 3.053,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 293491,
+          "timestamp": "2026-08-30T12:18:56.586000+00:00",
+          "duration": 9.111,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 293490,
+          "timestamp": "2026-08-30T12:18:54.564000+00:00",
+          "duration": 1.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293489,
+          "timestamp": "2026-08-30T12:18:47.488000+00:00",
+          "duration": 6.068,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293488,
+          "timestamp": "2026-08-30T12:18:44.463000+00:00",
+          "duration": 2.017,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293487,
+          "timestamp": "2026-08-30T12:18:41.440000+00:00",
+          "duration": 2.016,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "Hatsune Miku Logic Paint S+"
+          }
+        },
+        {
+          "id": 293486,
+          "timestamp": "2026-08-30T12:18:06.069000+00:00",
+          "duration": 34.356,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso"
+          }
+        },
+        {
+          "id": 293485,
+          "timestamp": "2026-08-30T12:18:05.058000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 293484,
+          "timestamp": "2026-08-30T12:18:03.015000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293483,
+          "timestamp": "2026-08-30T12:18:00.992000+00:00",
+          "duration": 1.014,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "Hatsune Miku Logic Paint S+"
+          }
+        },
+        {
+          "id": 293482,
+          "timestamp": "2026-08-30T12:17:58.973000+00:00",
+          "duration": 1.011,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 293481,
+          "timestamp": "2026-08-30T12:17:54.923000+00:00",
+          "duration": 3.035,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293480,
+          "timestamp": "2026-08-30T12:01:36.883000+00:00",
+          "duration": 977.032,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "Hatsune Miku Logic Paint S+"
+          }
+        },
+        {
+          "id": 293479,
+          "timestamp": "2026-08-30T12:01:35.748000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "MikuLogiS+.exe",
+            "title": "MikuLogiS+"
+          }
+        },
+        {
+          "id": 293478,
+          "timestamp": "2026-08-30T12:01:31.719000+00:00",
+          "duration": 3.022,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 293477,
+          "timestamp": "2026-08-30T12:01:30.711000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293476,
+          "timestamp": "2026-08-30T12:01:28.701000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 293475,
+          "timestamp": "2026-08-30T12:01:18.613000+00:00",
+          "duration": 9.082,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "Steam"
+          }
+        },
+        {
+          "id": 293474,
+          "timestamp": "2026-08-30T12:01:17.598000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293473,
+          "timestamp": "2026-08-30T12:00:56.459000+00:00",
+          "duration": 20.131,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 293472,
+          "timestamp": "2026-08-30T12:00:54.446000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "steamwebhelper.exe",
+            "title": "启动中..."
+          }
+        },
+        {
+          "id": 293471,
+          "timestamp": "2026-08-30T12:00:53.441000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "Program Manager"
+          }
+        },
+        {
+          "id": 293470,
+          "timestamp": "2026-08-30T12:00:52.431000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293469,
+          "timestamp": "2026-08-30T12:00:44.388000+00:00",
+          "duration": 7.038,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "舟b服"
+          }
+        },
+        {
+          "id": 293467,
+          "timestamp": "2026-08-30T12:00:41.373000+00:00",
+          "duration": 2.009,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293466,
+          "timestamp": "2026-08-30T12:00:40.367000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": "此电脑"
+          }
+        },
+        {
+          "id": 293465,
+          "timestamp": "2026-08-30T12:00:37.351000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "WiFi 传输 - Cent Browser"
+          }
+        },
+        {
+          "id": 293458,
+          "timestamp": "2026-08-30T12:00:06.040000+00:00",
+          "duration": 30.304,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "download"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-30T12:00:07.486367",
+    "export_time": "2026-08-31T00:00:08.137887",
     "time_range": {
-      "start": "2026-08-30T00:00:05.390448",
-      "end": "2026-08-30T12:00:05.390448"
+      "start": "2026-08-30T12:00:06.040264",
+      "end": "2026-08-31T00:00:06.040264"
     },
-    "total_events": 1
+    "total_events": 37
   }
 }
