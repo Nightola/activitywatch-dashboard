@@ -5,251 +5,2015 @@
       "type": "window",
       "events": [
         {
-          "id": 293501,
-          "timestamp": "2026-08-30T13:27:08.748000+00:00",
-          "duration": 9171.933,
+          "id": 294348,
+          "timestamp": "2026-08-31T03:51:38.281000+00:00",
+          "duration": 503.482,
           "data": {
-            "app": "OneCommander.exe",
-            "title": "OneCommander Window Manager"
+            "app": "BCUT.exe",
+            "title": "BCUT"
           }
         },
         {
-          "id": 293500,
-          "timestamp": "2026-08-30T12:45:11.818000+00:00",
-          "duration": 2515.923,
-          "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
-          }
-        },
-        {
-          "id": 293499,
-          "timestamp": "2026-08-30T12:45:10.807000+00:00",
+          "id": 294347,
+          "timestamp": "2026-08-31T03:51:37.276000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "制作MP4"
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
           }
         },
         {
-          "id": 293498,
-          "timestamp": "2026-08-30T12:31:58.600000+00:00",
-          "duration": 791.2,
+          "id": 294346,
+          "timestamp": "2026-08-31T03:51:32.249000+00:00",
+          "duration": 4.022,
           "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
+            "app": "chrome.exe",
+            "title": "通知 / X - Cent Browser"
           }
         },
         {
-          "id": 293497,
-          "timestamp": "2026-08-30T12:31:41.378000+00:00",
-          "duration": 16.202,
+          "id": 294341,
+          "timestamp": "2026-08-31T03:47:19.860000+00:00",
+          "duration": 251.38,
           "data": {
-            "app": "QQ.exe",
-            "title": "制作MP4"
+            "app": "chrome.exe",
+            "title": "主页 / X - Cent Browser"
           }
         },
         {
-          "id": 293496,
-          "timestamp": "2026-08-30T12:19:20.889000+00:00",
-          "duration": 739.455,
+          "id": 294340,
+          "timestamp": "2026-08-31T03:47:15.839000+00:00",
+          "duration": 3.017,
           "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
+            "app": "chrome.exe",
+            "title": "打开"
           }
         },
         {
-          "id": 293495,
-          "timestamp": "2026-08-30T12:19:13.805000+00:00",
-          "duration": 6.075,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 293494,
-          "timestamp": "2026-08-30T12:19:11.782000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 293493,
-          "timestamp": "2026-08-30T12:19:10.773000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 293492,
-          "timestamp": "2026-08-30T12:19:06.707000+00:00",
-          "duration": 3.053,
-          "data": {
-            "app": "QQ.exe",
-            "title": "我的手机"
-          }
-        },
-        {
-          "id": 293491,
-          "timestamp": "2026-08-30T12:18:56.586000+00:00",
-          "duration": 9.111,
-          "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
-          }
-        },
-        {
-          "id": 293490,
-          "timestamp": "2026-08-30T12:18:54.564000+00:00",
-          "duration": 1.01,
+          "id": 294339,
+          "timestamp": "2026-08-31T03:47:13.826000+00:00",
+          "duration": 1.007,
           "data": {
             "app": "explorer.exe",
-            "title": ""
+            "title": "下载"
           }
         },
         {
-          "id": 293489,
-          "timestamp": "2026-08-30T12:18:47.488000+00:00",
-          "duration": 6.068,
+          "id": 294338,
+          "timestamp": "2026-08-31T03:47:07.792000+00:00",
+          "duration": 5.029,
           "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
+            "app": "chrome.exe",
+            "title": "打开"
           }
         },
         {
-          "id": 293488,
-          "timestamp": "2026-08-30T12:18:44.463000+00:00",
-          "duration": 2.017,
+          "id": 294337,
+          "timestamp": "2026-08-31T03:46:43.656000+00:00",
+          "duration": 23.132,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "chrome.exe",
+            "title": "主页 / X - Cent Browser"
           }
         },
         {
-          "id": 293487,
-          "timestamp": "2026-08-30T12:18:41.440000+00:00",
-          "duration": 2.016,
+          "id": 294336,
+          "timestamp": "2026-08-31T03:46:38.626000+00:00",
+          "duration": 4.023,
           "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
+            "app": "chrome.exe",
+            "title": "ミク19周年BadByeカバー推文作成 - Google Gemini - Cent Browser"
           }
         },
         {
-          "id": 293486,
-          "timestamp": "2026-08-30T12:18:06.069000+00:00",
-          "duration": 34.356,
+          "id": 294334,
+          "timestamp": "2026-08-31T03:46:14.471000+00:00",
+          "duration": 23.15,
           "data": {
-            "app": "QQ.exe",
-            "title": "Quaso"
+            "app": "chrome.exe",
+            "title": "Google Gemini - Cent Browser"
           }
         },
         {
-          "id": 293485,
-          "timestamp": "2026-08-30T12:18:05.058000+00:00",
+          "id": 294333,
+          "timestamp": "2026-08-31T03:46:04.417000+00:00",
+          "duration": 9.048,
+          "data": {
+            "app": "chrome.exe",
+            "title": "‎Google Gemini - Cent Browser"
+          }
+        },
+        {
+          "id": 294332,
+          "timestamp": "2026-08-31T03:46:01.401000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "gemini.google.com - Cent Browser"
+          }
+        },
+        {
+          "id": 294331,
+          "timestamp": "2026-08-31T03:46:00.396000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "QQ.exe",
-            "title": "QQ"
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
           }
         },
         {
-          "id": 293484,
-          "timestamp": "2026-08-30T12:18:03.015000+00:00",
+          "id": 294330,
+          "timestamp": "2026-08-31T03:45:56.370000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "chrome.exe",
+            "title": "Startpage - Cent Browser"
+          }
+        },
+        {
+          "id": 294328,
+          "timestamp": "2026-08-31T03:45:53.351000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "主页 / X - Cent Browser"
+          }
+        },
+        {
+          "id": 294327,
+          "timestamp": "2026-08-31T03:45:49.332000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "explorer.exe",
+            "title": "下载"
+          }
+        },
+        {
+          "id": 294324,
+          "timestamp": "2026-08-31T03:43:20.602000+00:00",
+          "duration": 147.725,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294323,
+          "timestamp": "2026-08-31T03:42:58.435000+00:00",
+          "duration": 21.162,
+          "data": {
+            "app": "chrome.exe",
+            "title": "主页 / X - Cent Browser"
+          }
+        },
+        {
+          "id": 294322,
+          "timestamp": "2026-08-31T03:42:56.421000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "X - Cent Browser"
+          }
+        },
+        {
+          "id": 294321,
+          "timestamp": "2026-08-31T03:42:47.365000+00:00",
+          "duration": 8.047,
+          "data": {
+            "app": "chrome.exe",
+            "title": "x.com - Cent Browser"
+          }
+        },
+        {
+          "id": 294320,
+          "timestamp": "2026-08-31T03:42:39.320000+00:00",
+          "duration": 7.039,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294319,
+          "timestamp": "2026-08-31T03:42:38.315000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "badbye歌词翻译 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 294317,
+          "timestamp": "2026-08-31T03:42:35.298000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294315,
+          "timestamp": "2026-08-31T03:42:33.283000+00:00",
           "duration": 1.009,
           "data": {
-            "app": "explorer.exe",
-            "title": ""
+            "app": "QQ.exe",
+            "title": "QQ"
           }
         },
         {
-          "id": 293483,
-          "timestamp": "2026-08-30T12:18:00.992000+00:00",
-          "duration": 1.014,
-          "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
-          }
-        },
-        {
-          "id": 293482,
-          "timestamp": "2026-08-30T12:17:58.973000+00:00",
-          "duration": 1.011,
-          "data": {
-            "app": "explorer.exe",
-            "title": "此电脑"
-          }
-        },
-        {
-          "id": 293481,
-          "timestamp": "2026-08-30T12:17:54.923000+00:00",
-          "duration": 3.035,
-          "data": {
-            "app": "explorer.exe",
-            "title": ""
-          }
-        },
-        {
-          "id": 293480,
-          "timestamp": "2026-08-30T12:01:36.883000+00:00",
-          "duration": 977.032,
-          "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "Hatsune Miku Logic Paint S+"
-          }
-        },
-        {
-          "id": 293479,
-          "timestamp": "2026-08-30T12:01:35.748000+00:00",
+          "id": 294314,
+          "timestamp": "2026-08-31T03:42:32.276000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "MikuLogiS+.exe",
-            "title": "MikuLogiS+"
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
           }
         },
         {
-          "id": 293478,
-          "timestamp": "2026-08-30T12:01:31.719000+00:00",
-          "duration": 3.022,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
-          }
-        },
-        {
-          "id": 293477,
-          "timestamp": "2026-08-30T12:01:30.711000+00:00",
+          "id": 294313,
+          "timestamp": "2026-08-31T03:42:31.270000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "explorer.exe",
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294312,
+          "timestamp": "2026-08-31T03:42:30.264000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294311,
+          "timestamp": "2026-08-31T03:42:05.135000+00:00",
+          "duration": 24.125,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294310,
+          "timestamp": "2026-08-31T03:42:04.129000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
             "title": ""
           }
         },
         {
-          "id": 293476,
-          "timestamp": "2026-08-30T12:01:28.701000+00:00",
+          "id": 294309,
+          "timestamp": "2026-08-31T03:42:03.045000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294308,
+          "timestamp": "2026-08-31T03:42:00.028000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "explorer.exe",
+            "title": "下载"
+          }
+        },
+        {
+          "id": 294307,
+          "timestamp": "2026-08-31T03:41:44.920000+00:00",
+          "duration": 14.101,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294306,
+          "timestamp": "2026-08-31T03:41:43.912000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294305,
+          "timestamp": "2026-08-31T03:40:54.638000+00:00",
+          "duration": 48.266,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294304,
+          "timestamp": "2026-08-31T03:40:52.626000+00:00",
           "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294303,
+          "timestamp": "2026-08-31T03:40:46.588000+00:00",
+          "duration": 5.029,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294302,
+          "timestamp": "2026-08-31T03:40:45.580000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294301,
+          "timestamp": "2026-08-31T03:40:43.569000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294300,
+          "timestamp": "2026-08-31T03:40:41.558000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294299,
+          "timestamp": "2026-08-31T03:40:34.508000+00:00",
+          "duration": 6.045,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294298,
+          "timestamp": "2026-08-31T03:40:33.501000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294297,
+          "timestamp": "2026-08-31T03:40:28.465000+00:00",
+          "duration": 4.027,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294296,
+          "timestamp": "2026-08-31T03:40:26.448000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294295,
+          "timestamp": "2026-08-31T03:40:08.342000+00:00",
+          "duration": 17.097,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294293,
+          "timestamp": "2026-08-31T03:40:06.329000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294292,
+          "timestamp": "2026-08-31T03:40:05.321000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294291,
+          "timestamp": "2026-08-31T03:40:03.310000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294290,
+          "timestamp": "2026-08-31T03:39:49.229000+00:00",
+          "duration": 13.076,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294289,
+          "timestamp": "2026-08-31T03:39:46.208000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294288,
+          "timestamp": "2026-08-31T03:39:43.186000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294287,
+          "timestamp": "2026-08-31T03:39:39.156000+00:00",
+          "duration": 3.023,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294286,
+          "timestamp": "2026-08-31T03:39:36.132000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294285,
+          "timestamp": "2026-08-31T03:39:33.112000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294284,
+          "timestamp": "2026-08-31T03:39:30.093000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294283,
+          "timestamp": "2026-08-31T03:39:27.076000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294282,
+          "timestamp": "2026-08-31T03:39:22.049000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294281,
+          "timestamp": "2026-08-31T03:39:19.031000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294280,
+          "timestamp": "2026-08-31T03:39:16.013000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294279,
+          "timestamp": "2026-08-31T03:39:12.998000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294278,
+          "timestamp": "2026-08-31T03:39:09.979000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294277,
+          "timestamp": "2026-08-31T03:39:06.960000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294276,
+          "timestamp": "2026-08-31T03:39:02.939000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294275,
+          "timestamp": "2026-08-31T03:38:59.919000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294274,
+          "timestamp": "2026-08-31T03:38:47.840000+00:00",
+          "duration": 11.072,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294273,
+          "timestamp": "2026-08-31T03:38:43.817000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294272,
+          "timestamp": "2026-08-31T03:38:39.795000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294271,
+          "timestamp": "2026-08-31T03:38:36.777000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294270,
+          "timestamp": "2026-08-31T03:38:33.760000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294269,
+          "timestamp": "2026-08-31T03:38:28.731000+00:00",
+          "duration": 4.024,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294268,
+          "timestamp": "2026-08-31T03:38:21.693000+00:00",
+          "duration": 6.033,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294267,
+          "timestamp": "2026-08-31T03:38:20.687000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294266,
+          "timestamp": "2026-08-31T03:37:38.441000+00:00",
+          "duration": 41.24,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294264,
+          "timestamp": "2026-08-31T03:37:33.410000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294263,
+          "timestamp": "2026-08-31T03:36:57.218000+00:00",
+          "duration": 35.188,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294262,
+          "timestamp": "2026-08-31T03:36:50.177000+00:00",
+          "duration": 6.034,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294261,
+          "timestamp": "2026-08-31T03:36:28.058000+00:00",
+          "duration": 21.115,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294260,
+          "timestamp": "2026-08-31T03:36:24.034000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294259,
+          "timestamp": "2026-08-31T03:35:59.904000+00:00",
+          "duration": 23.124,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294258,
+          "timestamp": "2026-08-31T03:35:55.880000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294257,
+          "timestamp": "2026-08-31T03:35:15.659000+00:00",
+          "duration": 39.215,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294255,
+          "timestamp": "2026-08-31T03:35:07.608000+00:00",
+          "duration": 7.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294254,
+          "timestamp": "2026-08-31T03:33:26.113000+00:00",
+          "duration": 100.487,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294252,
+          "timestamp": "2026-08-31T03:33:17.065000+00:00",
+          "duration": 8.044,
           "data": {
             "app": "ShellExperienceHost.exe",
             "title": "音量控制"
           }
         },
         {
-          "id": 293475,
-          "timestamp": "2026-08-30T12:01:18.613000+00:00",
-          "duration": 9.082,
+          "id": 294251,
+          "timestamp": "2026-08-31T03:33:15.053000+00:00",
+          "duration": 1.006,
           "data": {
-            "app": "steamwebhelper.exe",
-            "title": "Steam"
+            "app": "BCUT.exe",
+            "title": "必剪"
           }
         },
         {
-          "id": 293474,
-          "timestamp": "2026-08-30T12:01:17.598000+00:00",
+          "id": 294250,
+          "timestamp": "2026-08-31T03:33:13.041000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "ShellExperienceHost.exe",
+            "title": "音量控制"
+          }
+        },
+        {
+          "id": 294245,
+          "timestamp": "2026-08-31T03:28:10.562000+00:00",
+          "duration": 301.474,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294244,
+          "timestamp": "2026-08-31T03:28:08.547000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294242,
+          "timestamp": "2026-08-31T03:27:25.318000+00:00",
+          "duration": 42.224,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294241,
+          "timestamp": "2026-08-31T03:27:23.307000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294240,
+          "timestamp": "2026-08-31T03:27:18.278000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294239,
+          "timestamp": "2026-08-31T03:27:14.245000+00:00",
+          "duration": 3.028,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294238,
+          "timestamp": "2026-08-31T03:26:53.124000+00:00",
+          "duration": 20.116,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294237,
+          "timestamp": "2026-08-31T03:26:49.104000+00:00",
+          "duration": 3.015,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294236,
+          "timestamp": "2026-08-31T03:26:31.003000+00:00",
+          "duration": 17.095,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294235,
+          "timestamp": "2026-08-31T03:26:27.985000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294233,
+          "timestamp": "2026-08-31T03:24:49.456000+00:00",
+          "duration": 97.524,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294232,
+          "timestamp": "2026-08-31T03:24:47.441000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294231,
+          "timestamp": "2026-08-31T03:24:01.187000+00:00",
+          "duration": 45.249,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294230,
+          "timestamp": "2026-08-31T03:23:50.128000+00:00",
+          "duration": 10.052,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294229,
+          "timestamp": "2026-08-31T03:23:29.020000+00:00",
+          "duration": 20.102,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294228,
+          "timestamp": "2026-08-31T03:23:26.004000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294227,
+          "timestamp": "2026-08-31T03:22:58.856000+00:00",
+          "duration": 26.14,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294226,
+          "timestamp": "2026-08-31T03:22:57.847000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294225,
+          "timestamp": "2026-08-31T03:22:56.840000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294224,
+          "timestamp": "2026-08-31T03:22:50.802000+00:00",
+          "duration": 5.032,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294223,
+          "timestamp": "2026-08-31T03:22:49.793000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294222,
+          "timestamp": "2026-08-31T03:22:48.786000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294221,
+          "timestamp": "2026-08-31T03:22:47.779000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294220,
+          "timestamp": "2026-08-31T03:22:41.746000+00:00",
+          "duration": 5.028,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294218,
+          "timestamp": "2026-08-31T03:22:36.720000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294217,
+          "timestamp": "2026-08-31T03:20:53.213000+00:00",
+          "duration": 102.502,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294216,
+          "timestamp": "2026-08-31T03:20:52.208000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294215,
+          "timestamp": "2026-08-31T03:20:48.186000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294214,
+          "timestamp": "2026-08-31T03:20:47.179000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294213,
+          "timestamp": "2026-08-31T03:20:30.096000+00:00",
+          "duration": 16.077,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294212,
+          "timestamp": "2026-08-31T03:20:29.089000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294211,
+          "timestamp": "2026-08-31T03:20:25.071000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294210,
+          "timestamp": "2026-08-31T03:20:24.064000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294209,
+          "timestamp": "2026-08-31T03:20:11.996000+00:00",
+          "duration": 11.064,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294207,
+          "timestamp": "2026-08-31T03:18:50.589000+00:00",
+          "duration": 80.402,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294206,
+          "timestamp": "2026-08-31T03:18:38.527000+00:00",
+          "duration": 11.057,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294205,
+          "timestamp": "2026-08-31T03:18:33.498000+00:00",
+          "duration": 4.025,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294204,
+          "timestamp": "2026-08-31T03:17:47.264000+00:00",
+          "duration": 45.229,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294202,
+          "timestamp": "2026-08-31T03:16:54.996000+00:00",
+          "duration": 51.264,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294201,
+          "timestamp": "2026-08-31T03:16:51.980000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294200,
+          "timestamp": "2026-08-31T03:16:08.749000+00:00",
+          "duration": 42.226,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294199,
+          "timestamp": "2026-08-31T03:16:00.703000+00:00",
+          "duration": 7.041,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294198,
+          "timestamp": "2026-08-31T03:15:51.652000+00:00",
+          "duration": 8.043,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294197,
+          "timestamp": "2026-08-31T03:15:43.610000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294196,
+          "timestamp": "2026-08-31T03:15:35.558000+00:00",
+          "duration": 7.046,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294195,
+          "timestamp": "2026-08-31T03:15:31.533000+00:00",
+          "duration": 3.019,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294194,
+          "timestamp": "2026-08-31T03:15:30.527000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294193,
+          "timestamp": "2026-08-31T03:15:27.510000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294192,
+          "timestamp": "2026-08-31T03:15:11.413000+00:00",
+          "duration": 15.093,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294190,
+          "timestamp": "2026-08-31T03:14:57.332000+00:00",
+          "duration": 13.076,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294189,
+          "timestamp": "2026-08-31T03:14:43.257000+00:00",
+          "duration": 13.07,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294188,
+          "timestamp": "2026-08-31T03:14:41.246000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294187,
+          "timestamp": "2026-08-31T03:13:09.758000+00:00",
+          "duration": 90.481,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294186,
+          "timestamp": "2026-08-31T03:13:07.744000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294185,
+          "timestamp": "2026-08-31T03:13:01.703000+00:00",
+          "duration": 5.037,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294184,
+          "timestamp": "2026-08-31T03:13:00.695000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294183,
+          "timestamp": "2026-08-31T03:12:58.685000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294182,
+          "timestamp": "2026-08-31T03:12:56.673000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294181,
+          "timestamp": "2026-08-31T03:12:51.646000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294180,
+          "timestamp": "2026-08-31T03:12:48.630000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294179,
+          "timestamp": "2026-08-31T03:12:45.607000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294177,
+          "timestamp": "2026-08-31T03:12:42.591000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294176,
+          "timestamp": "2026-08-31T03:12:37.554000+00:00",
+          "duration": 4.033,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294175,
+          "timestamp": "2026-08-31T03:12:34.538000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294174,
+          "timestamp": "2026-08-31T03:09:48.731000+00:00",
+          "duration": 164.803,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294173,
+          "timestamp": "2026-08-31T03:09:45.715000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294172,
+          "timestamp": "2026-08-31T03:09:39.677000+00:00",
+          "duration": 5.031,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294171,
+          "timestamp": "2026-08-31T03:09:36.661000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294170,
+          "timestamp": "2026-08-31T03:09:33.645000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294169,
+          "timestamp": "2026-08-31T03:09:31.636000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294168,
+          "timestamp": "2026-08-31T03:09:25.603000+00:00",
+          "duration": 5.027,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294167,
+          "timestamp": "2026-08-31T03:09:22.586000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294166,
+          "timestamp": "2026-08-31T03:09:19.569000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294165,
+          "timestamp": "2026-08-31T03:09:13.538000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294163,
+          "timestamp": "2026-08-31T03:09:07.506000+00:00",
+          "duration": 5.026,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294162,
+          "timestamp": "2026-08-31T03:09:06.500000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294161,
+          "timestamp": "2026-08-31T03:09:02.472000+00:00",
+          "duration": 3.02,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294160,
+          "timestamp": "2026-08-31T03:08:59.453000+00:00",
+          "duration": 2.014,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294159,
+          "timestamp": "2026-08-31T03:08:54.421000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294158,
+          "timestamp": "2026-08-31T03:08:53.415000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294157,
+          "timestamp": "2026-08-31T03:08:50.386000+00:00",
+          "duration": 2.023,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294156,
+          "timestamp": "2026-08-31T03:08:09.162000+00:00",
+          "duration": 40.214,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294155,
+          "timestamp": "2026-08-31T03:07:07.841000+00:00",
+          "duration": 60.314,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294154,
+          "timestamp": "2026-08-31T03:07:05.828000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294153,
+          "timestamp": "2026-08-31T03:06:52.753000+00:00",
+          "duration": 12.069,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294152,
+          "timestamp": "2026-08-31T03:06:40.675000+00:00",
+          "duration": 11.072,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294150,
+          "timestamp": "2026-08-31T03:06:38.663000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294149,
+          "timestamp": "2026-08-31T03:06:31.628000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294148,
+          "timestamp": "2026-08-31T03:06:03.474000+00:00",
+          "duration": 27.15,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294147,
+          "timestamp": "2026-08-31T03:06:01.461000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294146,
+          "timestamp": "2026-08-31T03:05:57.440000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294145,
+          "timestamp": "2026-08-31T03:05:42.356000+00:00",
+          "duration": 14.079,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294144,
+          "timestamp": "2026-08-31T03:05:41.349000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294143,
+          "timestamp": "2026-08-31T03:05:37.318000+00:00",
+          "duration": 3.026,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294142,
+          "timestamp": "2026-08-31T03:05:14.196000+00:00",
+          "duration": 22.117,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294141,
+          "timestamp": "2026-08-31T03:05:13.191000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294140,
+          "timestamp": "2026-08-31T03:05:10.175000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294139,
+          "timestamp": "2026-08-31T03:05:09.170000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 294138,
+          "timestamp": "2026-08-31T03:04:51+00:00",
+          "duration": 17.09,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294137,
+          "timestamp": "2026-08-31T03:04:47.983000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294136,
+          "timestamp": "2026-08-31T03:04:43.960000+00:00",
+          "duration": 3.018,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294135,
+          "timestamp": "2026-08-31T03:04:22.852000+00:00",
+          "duration": 20.102,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294134,
+          "timestamp": "2026-08-31T03:04:21.845000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294133,
+          "timestamp": "2026-08-31T03:04:16.820000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294131,
+          "timestamp": "2026-08-31T03:03:47.651000+00:00",
+          "duration": 28.163,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294130,
+          "timestamp": "2026-08-31T03:03:46.644000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294129,
+          "timestamp": "2026-08-31T03:03:45.636000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294128,
+          "timestamp": "2026-08-31T03:03:43.622000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294127,
+          "timestamp": "2026-08-31T03:03:38.596000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294126,
+          "timestamp": "2026-08-31T03:03:32.562000+00:00",
+          "duration": 5.029,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294125,
+          "timestamp": "2026-08-31T03:03:30.550000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294124,
+          "timestamp": "2026-08-31T03:03:29.543000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294123,
+          "timestamp": "2026-08-31T03:03:23.513000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294122,
+          "timestamp": "2026-08-31T03:03:22.507000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 294121,
+          "timestamp": "2026-08-31T03:03:15.383000+00:00",
+          "duration": 6.041,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294120,
+          "timestamp": "2026-08-31T03:03:10.354000+00:00",
+          "duration": 4.024,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294119,
+          "timestamp": "2026-08-31T03:03:08.341000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294118,
+          "timestamp": "2026-08-31T03:03:06.327000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294117,
+          "timestamp": "2026-08-31T03:03:02.305000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294116,
+          "timestamp": "2026-08-31T03:02:57.275000+00:00",
+          "duration": 4.025,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294115,
+          "timestamp": "2026-08-31T03:02:52.241000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294114,
+          "timestamp": "2026-08-31T03:02:48.220000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294113,
+          "timestamp": "2026-08-31T03:02:42.187000+00:00",
+          "duration": 5.027,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294111,
+          "timestamp": "2026-08-31T03:02:40.175000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294110,
+          "timestamp": "2026-08-31T03:02:20.065000+00:00",
+          "duration": 19.104,
+          "data": {
+            "app": "chrome.exe",
+            "title": "BadBye - 萌娘百科 万物皆可萌的百科全书 - Cent Browser"
+          }
+        },
+        {
+          "id": 294109,
+          "timestamp": "2026-08-31T03:02:07.997000+00:00",
+          "duration": 11.062,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 294108,
+          "timestamp": "2026-08-31T03:01:56.934000+00:00",
+          "duration": 10.058,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294107,
+          "timestamp": "2026-08-31T03:01:54.922000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "badbye歌词翻译 - Google 搜索 - Cent Browser"
+          }
+        },
+        {
+          "id": 294106,
+          "timestamp": "2026-08-31T03:01:47.882000+00:00",
+          "duration": 6.032,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 294105,
+          "timestamp": "2026-08-31T03:01:43.860000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 294103,
+          "timestamp": "2026-08-31T03:00:47.555000+00:00",
+          "duration": 55.301,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294102,
+          "timestamp": "2026-08-31T03:00:08.344000+00:00",
+          "duration": 38.206,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294101,
+          "timestamp": "2026-08-31T02:57:18.423000+00:00",
+          "duration": 168.916,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294100,
+          "timestamp": "2026-08-31T02:57:15.405000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "BCUT"
+          }
+        },
+        {
+          "id": 294099,
+          "timestamp": "2026-08-31T02:57:09.369000+00:00",
+          "duration": 5.03,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294098,
+          "timestamp": "2026-08-31T02:56:46.247000+00:00",
+          "duration": 22.117,
+          "data": {
+            "app": "QQ.exe",
+            "title": "视频播放器"
+          }
+        },
+        {
+          "id": 294097,
+          "timestamp": "2026-08-31T02:56:41.212000+00:00",
+          "duration": 4.026,
+          "data": {
+            "app": "QQ.exe",
+            "title": "我的手机"
+          }
+        },
+        {
+          "id": 294096,
+          "timestamp": "2026-08-31T02:56:26.123000+00:00",
+          "duration": 14.081,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294095,
+          "timestamp": "2026-08-31T02:56:25.116000+00:00",
           "duration": 0.0,
           "data": {
             "app": "explorer.exe",
@@ -257,95 +2021,2192 @@
           }
         },
         {
-          "id": 293473,
-          "timestamp": "2026-08-30T12:00:56.459000+00:00",
-          "duration": 20.131,
-          "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
-          }
-        },
-        {
-          "id": 293472,
-          "timestamp": "2026-08-30T12:00:54.446000+00:00",
-          "duration": 1.006,
-          "data": {
-            "app": "steamwebhelper.exe",
-            "title": "启动中..."
-          }
-        },
-        {
-          "id": 293471,
-          "timestamp": "2026-08-30T12:00:53.441000+00:00",
+          "id": 294094,
+          "timestamp": "2026-08-31T02:56:24.111000+00:00",
           "duration": 0.0,
           "data": {
-            "app": "explorer.exe",
-            "title": "Program Manager"
+            "app": "SearchApp.exe",
+            "title": "搜索"
           }
         },
         {
-          "id": 293470,
-          "timestamp": "2026-08-30T12:00:52.431000+00:00",
-          "duration": 0.0,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 293469,
-          "timestamp": "2026-08-30T12:00:44.388000+00:00",
-          "duration": 7.038,
-          "data": {
-            "app": "MuMuNxDevice.exe",
-            "title": "舟b服"
-          }
-        },
-        {
-          "id": 293467,
-          "timestamp": "2026-08-30T12:00:41.373000+00:00",
-          "duration": 2.009,
-          "data": {
-            "app": "memreduct.exe",
-            "title": "Mem Reduct"
-          }
-        },
-        {
-          "id": 293466,
-          "timestamp": "2026-08-30T12:00:40.367000+00:00",
-          "duration": 0.0,
+          "id": 294093,
+          "timestamp": "2026-08-31T02:56:19.088000+00:00",
+          "duration": 4.018,
           "data": {
             "app": "explorer.exe",
-            "title": "此电脑"
+            "title": ""
           }
         },
         {
-          "id": 293465,
-          "timestamp": "2026-08-30T12:00:37.351000+00:00",
-          "duration": 2.01,
+          "id": 294092,
+          "timestamp": "2026-08-31T02:56:15.066000+00:00",
+          "duration": 3.018,
           "data": {
-            "app": "chrome.exe",
-            "title": "WiFi 传输 - Cent Browser"
+            "app": "explorer.exe",
+            "title": "badbye"
           }
         },
         {
-          "id": 293458,
-          "timestamp": "2026-08-30T12:00:06.040000+00:00",
-          "duration": 30.304,
+          "id": 294091,
+          "timestamp": "2026-08-31T02:56:12.048000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294090,
+          "timestamp": "2026-08-31T02:56:01.993000+00:00",
+          "duration": 9.05,
           "data": {
             "app": "OneCommander.exe",
-            "title": "download"
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 294089,
+          "timestamp": "2026-08-31T02:55:54.944000+00:00",
+          "duration": 6.04,
+          "data": {
+            "app": "BCUT.exe",
+            "title": "必剪"
+          }
+        },
+        {
+          "id": 294088,
+          "timestamp": "2026-08-31T02:55:50.923000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 294087,
+          "timestamp": "2026-08-31T02:55:46.905000+00:00",
+          "duration": 3.013,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 294086,
+          "timestamp": "2026-08-31T02:55:40.877000+00:00",
+          "duration": 5.023,
+          "data": {
+            "app": "explorer.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 294085,
+          "timestamp": "2026-08-31T02:55:37.861000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294084,
+          "timestamp": "2026-08-31T02:55:36.857000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 294083,
+          "timestamp": "2026-08-31T02:49:39.227000+00:00",
+          "duration": 356.625,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294082,
+          "timestamp": "2026-08-31T02:49:35.189000+00:00",
+          "duration": 3.034,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 294081,
+          "timestamp": "2026-08-31T02:49:34.159000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294080,
+          "timestamp": "2026-08-31T02:49:32.142000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 294079,
+          "timestamp": "2026-08-31T02:46:03.061000+00:00",
+          "duration": 208.077,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294078,
+          "timestamp": "2026-08-31T02:45:40.954000+00:00",
+          "duration": 21.102,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294077,
+          "timestamp": "2026-08-31T02:45:37.938000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 294076,
+          "timestamp": "2026-08-31T02:45:16.837000+00:00",
+          "duration": 20.095,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294075,
+          "timestamp": "2026-08-31T02:45:13.820000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 294074,
+          "timestamp": "2026-08-31T02:43:29.296000+00:00",
+          "duration": 103.518,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294073,
+          "timestamp": "2026-08-31T02:43:21.255000+00:00",
+          "duration": 7.037,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "导出多轨混音"
+          }
+        },
+        {
+          "id": 294072,
+          "timestamp": "2026-08-31T02:43:04.174000+00:00",
+          "duration": 16.077,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294071,
+          "timestamp": "2026-08-31T02:42:59.148000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 294070,
+          "timestamp": "2026-08-31T02:41:44.782000+00:00",
+          "duration": 73.362,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294069,
+          "timestamp": "2026-08-31T02:41:40.761000+00:00",
+          "duration": 3.017,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Green Screamer"
+          }
+        },
+        {
+          "id": 294068,
+          "timestamp": "2026-08-31T02:37:59.691000+00:00",
+          "duration": 220.065,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294067,
+          "timestamp": "2026-08-31T02:37:57.681000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Audition"
+          }
+        },
+        {
+          "id": 294066,
+          "timestamp": "2026-08-31T02:37:22.509000+00:00",
+          "duration": 34.166,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294065,
+          "timestamp": "2026-08-31T02:37:17.482000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294064,
+          "timestamp": "2026-08-31T02:37:08.438000+00:00",
+          "duration": 8.039,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294063,
+          "timestamp": "2026-08-31T02:37:03.412000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-R"
+          }
+        },
+        {
+          "id": 294062,
+          "timestamp": "2026-08-31T02:37:01.403000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294061,
+          "timestamp": "2026-08-31T02:36:53.361000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-R"
+          }
+        },
+        {
+          "id": 294060,
+          "timestamp": "2026-08-31T02:34:57.758000+00:00",
+          "duration": 114.598,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294059,
+          "timestamp": "2026-08-31T02:34:54.744000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294058,
+          "timestamp": "2026-08-31T02:34:53.739000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294057,
+          "timestamp": "2026-08-31T02:34:51.715000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Fresh Air"
+          }
+        },
+        {
+          "id": 294056,
+          "timestamp": "2026-08-31T02:34:17.528000+00:00",
+          "duration": 33.181,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294055,
+          "timestamp": "2026-08-31T02:34:10.492000+00:00",
+          "duration": 6.031,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "保存效果预设"
+          }
+        },
+        {
+          "id": 294054,
+          "timestamp": "2026-08-31T02:33:11.187000+00:00",
+          "duration": 58.3,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294053,
+          "timestamp": "2026-08-31T02:33:09.175000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ闪传悬浮窗"
+          }
+        },
+        {
+          "id": 294052,
+          "timestamp": "2026-08-31T02:33:08.169000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294051,
+          "timestamp": "2026-08-31T02:33:06.150000+00:00",
+          "duration": 1.013,
+          "data": {
+            "app": "explorer.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 294050,
+          "timestamp": "2026-08-31T02:33:05.145000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 294049,
+          "timestamp": "2026-08-31T02:33:02.126000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "explorer.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 294048,
+          "timestamp": "2026-08-31T02:32:57.095000+00:00",
+          "duration": 4.027,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Audio Mixdown"
+          }
+        },
+        {
+          "id": 294047,
+          "timestamp": "2026-08-31T02:32:54.080000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "选择文件夹"
+          }
+        },
+        {
+          "id": 294046,
+          "timestamp": "2026-08-31T02:32:53.075000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Audio Mixdown"
+          }
+        },
+        {
+          "id": 294045,
+          "timestamp": "2026-08-31T02:32:42.020000+00:00",
+          "duration": 10.049,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294044,
+          "timestamp": "2026-08-31T02:32:29.957000+00:00",
+          "duration": 11.058,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "选择文件夹"
+          }
+        },
+        {
+          "id": 294043,
+          "timestamp": "2026-08-31T02:32:28.952000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Audio Mixdown"
+          }
+        },
+        {
+          "id": 294042,
+          "timestamp": "2026-08-31T02:26:51.218000+00:00",
+          "duration": 336.729,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294041,
+          "timestamp": "2026-08-31T02:26:37.145000+00:00",
+          "duration": 13.068,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294040,
+          "timestamp": "2026-08-31T02:21:25.502000+00:00",
+          "duration": 310.637,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294039,
+          "timestamp": "2026-08-31T02:21:19.468000+00:00",
+          "duration": 5.029,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294038,
+          "timestamp": "2026-08-31T02:19:25.867000+00:00",
+          "duration": 112.593,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 294037,
+          "timestamp": "2026-08-31T02:19:12.796000+00:00",
+          "duration": 12.066,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294036,
+          "timestamp": "2026-08-31T02:19:10.785000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso等2个会话"
+          }
+        },
+        {
+          "id": 294035,
+          "timestamp": "2026-08-31T02:17:35.320000+00:00",
+          "duration": 94.461,
+          "data": {
+            "app": "QQ.exe",
+            "title": "视频播放器"
+          }
+        },
+        {
+          "id": 294034,
+          "timestamp": "2026-08-31T02:17:33.308000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso等2个会话"
+          }
+        },
+        {
+          "id": 294033,
+          "timestamp": "2026-08-31T02:15:55.838000+00:00",
+          "duration": 96.466,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294032,
+          "timestamp": "2026-08-31T02:15:23.681000+00:00",
+          "duration": 31.151,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso等2个会话"
+          }
+        },
+        {
+          "id": 294031,
+          "timestamp": "2026-08-31T02:13:19.074000+00:00",
+          "duration": 123.602,
+          "data": {
+            "app": "QQ.exe",
+            "title": "视频播放器"
+          }
+        },
+        {
+          "id": 294030,
+          "timestamp": "2026-08-31T02:12:46.914000+00:00",
+          "duration": 31.154,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso等2个会话"
+          }
+        },
+        {
+          "id": 294029,
+          "timestamp": "2026-08-31T02:12:45.909000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 294028,
+          "timestamp": "2026-08-31T02:12:43.824000+00:00",
+          "duration": 1.008,
+          "data": {
+            "app": "QQ.exe",
+            "title": "制作MP4"
+          }
+        },
+        {
+          "id": 294027,
+          "timestamp": "2026-08-31T02:12:41.813000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 294026,
+          "timestamp": "2026-08-31T02:12:26.736000+00:00",
+          "duration": 14.072,
+          "data": {
+            "app": "QQ.exe",
+            "title": "制作MP4"
+          }
+        },
+        {
+          "id": 294025,
+          "timestamp": "2026-08-31T02:12:08.640000+00:00",
+          "duration": 17.091,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294024,
+          "timestamp": "2026-08-31T02:11:55.573000+00:00",
+          "duration": 12.062,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294023,
+          "timestamp": "2026-08-31T02:11:52.559000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "QQ.exe",
+            "title": "Quaso等2个会话"
+          }
+        },
+        {
+          "id": 294022,
+          "timestamp": "2026-08-31T02:11:50.548000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294021,
+          "timestamp": "2026-08-31T02:09:05.745000+00:00",
+          "duration": 163.798,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294020,
+          "timestamp": "2026-08-31T02:08:51.675000+00:00",
+          "duration": 13.064,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Fresh Air"
+          }
+        },
+        {
+          "id": 294019,
+          "timestamp": "2026-08-31T02:08:48.660000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294018,
+          "timestamp": "2026-08-31T02:08:45.645000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294017,
+          "timestamp": "2026-08-31T02:08:20.521000+00:00",
+          "duration": 24.119,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294016,
+          "timestamp": "2026-08-31T02:07:54.390000+00:00",
+          "duration": 25.126,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294015,
+          "timestamp": "2026-08-31T02:07:53.384000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294014,
+          "timestamp": "2026-08-31T02:07:50.367000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294013,
+          "timestamp": "2026-08-31T02:07:49.361000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294012,
+          "timestamp": "2026-08-31T02:06:55.093000+00:00",
+          "duration": 53.264,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294011,
+          "timestamp": "2026-08-31T02:06:50.068000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294007,
+          "timestamp": "2026-08-31T01:44:57.908000+00:00",
+          "duration": 1311.155,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294006,
+          "timestamp": "2026-08-31T01:44:54.891000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-R"
+          }
+        },
+        {
+          "id": 294005,
+          "timestamp": "2026-08-31T01:44:45.830000+00:00",
+          "duration": 8.056,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294004,
+          "timestamp": "2026-08-31T01:44:41.809000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 294003,
+          "timestamp": "2026-08-31T01:40:40.627000+00:00",
+          "duration": 240.177,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294002,
+          "timestamp": "2026-08-31T01:40:38.617000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 294001,
+          "timestamp": "2026-08-31T01:39:40.323000+00:00",
+          "duration": 57.289,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 294000,
+          "timestamp": "2026-08-31T01:39:31.282000+00:00",
+          "duration": 8.037,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 293999,
+          "timestamp": "2026-08-31T01:39:27.248000+00:00",
+          "duration": 3.028,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293998,
+          "timestamp": "2026-08-31T01:39:23.227000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 293988,
+          "timestamp": "2026-08-31T01:29:52.508000+00:00",
+          "duration": 569.714,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293986,
+          "timestamp": "2026-08-31T01:27:54.937000+00:00",
+          "duration": 116.567,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 293985,
+          "timestamp": "2026-08-31T01:27:35.824000+00:00",
+          "duration": 18.107,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293984,
+          "timestamp": "2026-08-31T01:27:33.814000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293983,
+          "timestamp": "2026-08-31T01:27:01.647000+00:00",
+          "duration": 31.161,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293982,
+          "timestamp": "2026-08-31T01:26:53.608000+00:00",
+          "duration": 7.034,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 强制限幅"
+          }
+        },
+        {
+          "id": 293981,
+          "timestamp": "2026-08-31T01:26:09.388000+00:00",
+          "duration": 43.215,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293980,
+          "timestamp": "2026-08-31T01:26:02.353000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293977,
+          "timestamp": "2026-08-31T01:22:41.388000+00:00",
+          "duration": 199.96,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293976,
+          "timestamp": "2026-08-31T01:22:35.359000+00:00",
+          "duration": 5.022,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 强制限幅"
+          }
+        },
+        {
+          "id": 293975,
+          "timestamp": "2026-08-31T01:22:27.323000+00:00",
+          "duration": 7.032,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293974,
+          "timestamp": "2026-08-31T01:22:24.297000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 强制限幅"
+          }
+        },
+        {
+          "id": 293973,
+          "timestamp": "2026-08-31T01:22:19.274000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293972,
+          "timestamp": "2026-08-31T01:22:14.247000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 强制限幅"
+          }
+        },
+        {
+          "id": 293971,
+          "timestamp": "2026-08-31T01:22:12.238000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293970,
+          "timestamp": "2026-08-31T01:22:10.227000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 强制限幅"
+          }
+        },
+        {
+          "id": 293969,
+          "timestamp": "2026-08-31T01:21:43.088000+00:00",
+          "duration": 26.135,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293968,
+          "timestamp": "2026-08-31T01:21:42.082000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293967,
+          "timestamp": "2026-08-31T01:21:39.992000+00:00",
+          "duration": 1.086,
+          "data": {
+            "app": "dwm.exe",
+            "title": "Mem Reduct (未响应)"
+          }
+        },
+        {
+          "id": 293966,
+          "timestamp": "2026-08-31T01:21:34.869000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "memreduct.exe",
+            "title": "Mem Reduct"
+          }
+        },
+        {
+          "id": 293965,
+          "timestamp": "2026-08-31T01:21:33.862000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293964,
+          "timestamp": "2026-08-31T01:20:59.704000+00:00",
+          "duration": 33.153,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293962,
+          "timestamp": "2026-08-31T01:20:44.629000+00:00",
+          "duration": 14.07,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293961,
+          "timestamp": "2026-08-31T01:20:42.618000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293960,
+          "timestamp": "2026-08-31T01:20:36.588000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293959,
+          "timestamp": "2026-08-31T01:20:35.583000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293958,
+          "timestamp": "2026-08-31T01:20:25.536000+00:00",
+          "duration": 9.043,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293957,
+          "timestamp": "2026-08-31T01:18:41.027000+00:00",
+          "duration": 103.504,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293956,
+          "timestamp": "2026-08-31T01:18:32.989000+00:00",
+          "duration": 7.032,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 293954,
+          "timestamp": "2026-08-31T01:18:24.951000+00:00",
+          "duration": 7.033,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293953,
+          "timestamp": "2026-08-31T01:18:23.942000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 293952,
+          "timestamp": "2026-08-31T01:18:11.883000+00:00",
+          "duration": 11.054,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293951,
+          "timestamp": "2026-08-31T01:17:58.821000+00:00",
+          "duration": 12.057,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Sonic Maximizer"
+          }
+        },
+        {
+          "id": 293950,
+          "timestamp": "2026-08-31T01:17:00.519000+00:00",
+          "duration": 57.297,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293949,
+          "timestamp": "2026-08-31T01:16:47.454000+00:00",
+          "duration": 12.059,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Fresh Air"
+          }
+        },
+        {
+          "id": 293948,
+          "timestamp": "2026-08-31T01:16:45.443000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293947,
+          "timestamp": "2026-08-31T01:16:37.403000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Fresh Air"
+          }
+        },
+        {
+          "id": 293946,
+          "timestamp": "2026-08-31T01:16:32.378000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293945,
+          "timestamp": "2026-08-31T01:16:23.337000+00:00",
+          "duration": 8.036,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Fresh Air"
+          }
+        },
+        {
+          "id": 293944,
+          "timestamp": "2026-08-31T01:16:10.276000+00:00",
+          "duration": 12.055,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293943,
+          "timestamp": "2026-08-31T01:15:54.195000+00:00",
+          "duration": 15.077,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293941,
+          "timestamp": "2026-08-31T01:15:53.189000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293940,
+          "timestamp": "2026-08-31T01:15:39.123000+00:00",
+          "duration": 13.06,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293937,
+          "timestamp": "2026-08-31T01:08:32.028000+00:00",
+          "duration": 426.09,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293935,
+          "timestamp": "2026-08-31T01:08:23.992000+00:00",
+          "duration": 7.032,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293934,
+          "timestamp": "2026-08-31T01:08:20.977000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293933,
+          "timestamp": "2026-08-31T01:08:09.920000+00:00",
+          "duration": 10.05,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293932,
+          "timestamp": "2026-08-31T01:08:03.891000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293931,
+          "timestamp": "2026-08-31T01:07:40.780000+00:00",
+          "duration": 22.106,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 消除齿音"
+          }
+        },
+        {
+          "id": 293930,
+          "timestamp": "2026-08-31T01:07:03.597000+00:00",
+          "duration": 36.179,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293928,
+          "timestamp": "2026-08-31T01:06:49.527000+00:00",
+          "duration": 13.066,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293927,
+          "timestamp": "2026-08-31T01:06:32.434000+00:00",
+          "duration": 16.089,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293926,
+          "timestamp": "2026-08-31T01:06:27.410000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293925,
+          "timestamp": "2026-08-31T01:06:26.403000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 293924,
+          "timestamp": "2026-08-31T01:05:57.252000+00:00",
+          "duration": 28.147,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293921,
+          "timestamp": "2026-08-31T01:05:56.244000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "unknown",
+            "title": ""
+          }
+        },
+        {
+          "id": 293920,
+          "timestamp": "2026-08-31T01:05:49.138000+00:00",
+          "duration": 6.029,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 293919,
+          "timestamp": "2026-08-31T01:05:47.126000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "MuMuNxDevice.exe",
+            "title": "碧蓝"
+          }
+        },
+        {
+          "id": 293918,
+          "timestamp": "2026-08-31T01:05:45.114000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "alas.exe",
+            "title": "Alas"
+          }
+        },
+        {
+          "id": 293917,
+          "timestamp": "2026-08-31T01:05:43.104000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293916,
+          "timestamp": "2026-08-31T01:05:37.070000+00:00",
+          "duration": 5.029,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293915,
+          "timestamp": "2026-08-31T01:05:32.045000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293914,
+          "timestamp": "2026-08-31T01:05:24.005000+00:00",
+          "duration": 7.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293913,
+          "timestamp": "2026-08-31T01:05:17.975000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293912,
+          "timestamp": "2026-08-31T01:05:10.934000+00:00",
+          "duration": 6.036,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293911,
+          "timestamp": "2026-08-31T01:04:33.761000+00:00",
+          "duration": 36.169,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293910,
+          "timestamp": "2026-08-31T01:04:31.749000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293909,
+          "timestamp": "2026-08-31T01:04:23.709000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293908,
+          "timestamp": "2026-08-31T01:04:22.705000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293907,
+          "timestamp": "2026-08-31T01:04:20.692000+00:00",
+          "duration": 1.007,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293906,
+          "timestamp": "2026-08-31T01:03:51.554000+00:00",
+          "duration": 28.134,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293905,
+          "timestamp": "2026-08-31T01:03:46.532000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293904,
+          "timestamp": "2026-08-31T01:03:43.515000+00:00",
+          "duration": 2.012,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293903,
+          "timestamp": "2026-08-31T01:03:37.486000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293902,
+          "timestamp": "2026-08-31T01:03:29.444000+00:00",
+          "duration": 7.035,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293900,
+          "timestamp": "2026-08-31T01:03:21.404000+00:00",
+          "duration": 7.034,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293899,
+          "timestamp": "2026-08-31T01:03:20.398000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293898,
+          "timestamp": "2026-08-31T01:03:02.305000+00:00",
+          "duration": 17.088,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293897,
+          "timestamp": "2026-08-31T01:02:42.200000+00:00",
+          "duration": 19.101,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - Pro-Q 3"
+          }
+        },
+        {
+          "id": 293896,
+          "timestamp": "2026-08-31T01:02:09.027000+00:00",
+          "duration": 32.166,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293893,
+          "timestamp": "2026-08-31T01:00:30.507000+00:00",
+          "duration": 97.516,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【混音技巧】AU侧链EQ 肥波Q3 BGM自动避让人声（二）_哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293892,
+          "timestamp": "2026-08-31T01:00:29.496000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 293891,
+          "timestamp": "2026-08-31T01:00:26.476000+00:00",
+          "duration": 2.013,
+          "data": {
+            "app": "chrome.exe",
+            "title": "人声伴奏侧链-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293889,
+          "timestamp": "2026-08-31T01:00:25.466000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 293888,
+          "timestamp": "2026-08-31T01:00:19.426000+00:00",
+          "duration": 5.035,
+          "data": {
+            "app": "chrome.exe",
+            "title": "人声伴奏侧链-哔哩哔哩_bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293887,
+          "timestamp": "2026-08-31T01:00:17.412000+00:00",
+          "duration": 1.009,
+          "data": {
+            "app": "chrome.exe",
+            "title": "无标题 - Cent Browser"
+          }
+        },
+        {
+          "id": 293886,
+          "timestamp": "2026-08-31T01:00:10.378000+00:00",
+          "duration": 6.03,
+          "data": {
+            "app": "chrome.exe",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Cent Browser"
+          }
+        },
+        {
+          "id": 293885,
+          "timestamp": "2026-08-31T01:00:06.353000+00:00",
+          "duration": 3.021,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293883,
+          "timestamp": "2026-08-31T00:59:39.221000+00:00",
+          "duration": 26.128,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293882,
+          "timestamp": "2026-08-31T00:59:11.088000+00:00",
+          "duration": 27.127,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293881,
+          "timestamp": "2026-08-31T00:58:34.911000+00:00",
+          "duration": 35.172,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293880,
+          "timestamp": "2026-08-31T00:58:26.874000+00:00",
+          "duration": 7.033,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293878,
+          "timestamp": "2026-08-31T00:58:13.811000+00:00",
+          "duration": 12.058,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293877,
+          "timestamp": "2026-08-31T00:58:09.790000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293876,
+          "timestamp": "2026-08-31T00:57:29.613000+00:00",
+          "duration": 39.173,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293875,
+          "timestamp": "2026-08-31T00:57:25.594000+00:00",
+          "duration": 3.014,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293874,
+          "timestamp": "2026-08-31T00:57:17.556000+00:00",
+          "duration": 7.034,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293873,
+          "timestamp": "2026-08-31T00:57:16.550000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 293872,
+          "timestamp": "2026-08-31T00:56:35.357000+00:00",
+          "duration": 40.187,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293871,
+          "timestamp": "2026-08-31T00:56:34.352000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 293869,
+          "timestamp": "2026-08-31T00:55:39.081000+00:00",
+          "duration": 54.265,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293868,
+          "timestamp": "2026-08-31T00:55:37.071000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "打开文件"
+          }
+        },
+        {
+          "id": 293867,
+          "timestamp": "2026-08-31T00:53:47.537000+00:00",
+          "duration": 108.529,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293866,
+          "timestamp": "2026-08-31T00:53:46.533000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293864,
+          "timestamp": "2026-08-31T00:52:55.283000+00:00",
+          "duration": 50.244,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293863,
+          "timestamp": "2026-08-31T00:52:54.278000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "正在打开文件"
+          }
+        },
+        {
+          "id": 293862,
+          "timestamp": "2026-08-31T00:52:47.245000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293861,
+          "timestamp": "2026-08-31T00:52:46.239000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Audition"
+          }
+        },
+        {
+          "id": 293860,
+          "timestamp": "2026-08-31T00:51:59.002000+00:00",
+          "duration": 46.233,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293859,
+          "timestamp": "2026-08-31T00:51:40.911000+00:00",
+          "duration": 17.087,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293858,
+          "timestamp": "2026-08-31T00:51:38.902000+00:00",
+          "duration": 1.005,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293857,
+          "timestamp": "2026-08-31T00:51:14.779000+00:00",
+          "duration": 23.119,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293856,
+          "timestamp": "2026-08-31T00:51:09.757000+00:00",
+          "duration": 4.018,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293855,
+          "timestamp": "2026-08-31T00:51:04.731000+00:00",
+          "duration": 4.021,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "组合效果 - 动态处理"
+          }
+        },
+        {
+          "id": 293853,
+          "timestamp": "2026-08-31T00:49:46.352000+00:00",
+          "duration": 77.374,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293852,
+          "timestamp": "2026-08-31T00:49:40.322000+00:00",
+          "duration": 5.024,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 293851,
+          "timestamp": "2026-08-31T00:49:34.292000+00:00",
+          "duration": 5.025,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293850,
+          "timestamp": "2026-08-31T00:49:32.281000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "新建多轨会话"
+          }
+        },
+        {
+          "id": 293849,
+          "timestamp": "2026-08-31T00:49:25.249000+00:00",
+          "duration": 6.028,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "选择目标文件夹"
+          }
+        },
+        {
+          "id": 293848,
+          "timestamp": "2026-08-31T00:49:24.243000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "新建多轨会话"
+          }
+        },
+        {
+          "id": 293847,
+          "timestamp": "2026-08-31T00:49:21.228000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293846,
+          "timestamp": "2026-08-31T00:49:16.204000+00:00",
+          "duration": 4.019,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 293845,
+          "timestamp": "2026-08-31T00:49:14.193000+00:00",
+          "duration": 1.006,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293844,
+          "timestamp": "2026-08-31T00:49:09.168000+00:00",
+          "duration": 4.02,
+          "data": {
+            "app": "OneCommander.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 293843,
+          "timestamp": "2026-08-31T00:49:06.153000+00:00",
+          "duration": 2.011,
+          "data": {
+            "app": "Adobe Audition.exe",
+            "title": "Adobe Audition"
+          }
+        },
+        {
+          "id": 293842,
+          "timestamp": "2026-08-31T00:49:01.122000+00:00",
+          "duration": 4.025,
+          "data": {
+            "app": "Lucy_x64.exe",
+            "title": "Lucy快速启动"
+          }
+        },
+        {
+          "id": 293841,
+          "timestamp": "2026-08-31T00:48:58.108000+00:00",
+          "duration": 2.01,
+          "data": {
+            "app": "explorer.exe",
+            "title": ""
+          }
+        },
+        {
+          "id": 293840,
+          "timestamp": "2026-08-31T00:48:51.074000+00:00",
+          "duration": 6.029,
+          "data": {
+            "app": "explorer.exe",
+            "title": "badbye"
+          }
+        },
+        {
+          "id": 293839,
+          "timestamp": "2026-08-31T00:48:47.052000+00:00",
+          "duration": 3.016,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Audio Mixdown"
+          }
+        },
+        {
+          "id": 293838,
+          "timestamp": "2026-08-31T00:48:40.021000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "选择文件夹"
+          }
+        },
+        {
+          "id": 293837,
+          "timestamp": "2026-08-31T00:48:34.999000+00:00",
+          "duration": 4.016,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "Audio Mixdown"
+          }
+        },
+        {
+          "id": 293831,
+          "timestamp": "2026-08-31T00:36:00.059000+00:00",
+          "duration": 753.934,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293829,
+          "timestamp": "2026-08-31T00:35:52.997000+00:00",
+          "duration": 6.056,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293828,
+          "timestamp": "2026-08-31T00:34:31.574000+00:00",
+          "duration": 80.416,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293827,
+          "timestamp": "2026-08-31T00:34:24.543000+00:00",
+          "duration": 6.027,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "另存为"
+          }
+        },
+        {
+          "id": 293825,
+          "timestamp": "2026-08-31T00:33:14.191000+00:00",
+          "duration": 69.347,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293824,
+          "timestamp": "2026-08-31T00:33:08.144000+00:00",
+          "duration": 5.042,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293823,
+          "timestamp": "2026-08-31T00:32:54.065000+00:00",
+          "duration": 13.069,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293822,
+          "timestamp": "2026-08-31T00:32:52.055000+00:00",
+          "duration": 1.004,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293817,
+          "timestamp": "2026-08-31T00:21:01.569000+00:00",
+          "duration": 709.48,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293815,
+          "timestamp": "2026-08-31T00:21:00.564000+00:00",
+          "duration": 0.0,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293813,
+          "timestamp": "2026-08-31T00:16:00.013000+00:00",
+          "duration": 299.545,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293811,
+          "timestamp": "2026-08-31T00:15:53.956000+00:00",
+          "duration": 5.05,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293810,
+          "timestamp": "2026-08-31T00:14:20.432000+00:00",
+          "duration": 92.515,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293809,
+          "timestamp": "2026-08-31T00:14:15.404000+00:00",
+          "duration": 4.023,
+          "data": {
+            "app": "QQ.exe",
+            "title": "QQ"
+          }
+        },
+        {
+          "id": 293806,
+          "timestamp": "2026-08-31T00:08:27.601000+00:00",
+          "duration": 346.798,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
+          }
+        },
+        {
+          "id": 293804,
+          "timestamp": "2026-08-31T00:08:20.509000+00:00",
+          "duration": 6.087,
+          "data": {
+            "app": "chrome.exe",
+            "title": "【Karaoke】BadBye【off vocal】 Koman - YouTube - Cent Browser"
+          }
+        },
+        {
+          "id": 293798,
+          "timestamp": "2026-08-31T00:00:05.038000+00:00",
+          "duration": 494.461,
+          "data": {
+            "app": "VOCALOID6.exe",
+            "title": "VOCALOID6 Editor"
           }
         }
       ]
     }
   },
   "export_info": {
-    "export_time": "2026-08-31T00:00:08.137887",
+    "export_time": "2026-08-31T12:00:07.168156",
     "time_range": {
-      "start": "2026-08-30T12:00:06.040264",
-      "end": "2026-08-31T00:00:06.040264"
+      "start": "2026-08-31T00:00:05.038657",
+      "end": "2026-08-31T12:00:05.038657"
     },
-    "total_events": 37
+    "total_events": 466
   }
 }
